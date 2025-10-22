@@ -1,7 +1,7 @@
 import asyncio
 import constants
 
-from typing import List
+from typing import List, Dict
 from pydantic import BaseModel
 from openai import AsyncOpenAI
 from statistics import mean, stdev, variance
@@ -37,9 +37,28 @@ Given a list of features, merge the features that are highly correlated (either 
 You must output the list of deduplicated features. The 10-score should represent the maximum presence of the feature in the conversation, the 0-score should represent the antonym of the feature, and the 5-score should represent the neutrality/absence of the feature.
 """.strip()
 
+
+DEDUPE_AGAINST_BANK_SYSTEM_PROMPT = """
+You are an expert Social Science researcher.
+
+You will be given two lists of features:
+- Bank: features that have already been accepted
+- Candidates: newly proposed features
+
+Task: Return ONLY the subset of Candidate features that are NOT already represented in the Bank. Use semantic equivalence, not exact string match. Consider synonyms, near-synonyms, inversions along the same axis, and overlapping constructs.
+
+Guidelines:
+- If a Candidate meaning substantially overlaps with any Bank feature (even if phrased differently), exclude the Candidate.
+- If a Candidate is narrower but does not introduce a clearly distinct evaluative axis, exclude it.
+- If a Candidate introduces a genuinely new axis of evaluation, keep it as-is.
+- Preserve the original Candidate text (name and descriptions) for any kept feature.
+
+Output: A list of Feature objects. If no Candidates remain after deduplication, return an empty list.
+""".strip()
+
 openrouter_client = AsyncOpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=constants.OPENROUTER_API_KEY.get_secret_value(),
+    api_key=constants.SECRET_OPENROUTER_API_KEY.get_secret_value(),
 )
 
 
@@ -50,13 +69,18 @@ class Feature(BaseModel):
     description_max_value: str
 
 
-class ModelFeatureEvaluation(BaseModel):
+class FeatureListModelResponse(BaseModel):
+    features: List[Feature]
+
+
+class FeatureEvaluation(BaseModel):
     feature: Feature
     explanation: str
     score: float
 
-class FeatureEvaluation(BaseModel):
-    evaluations: List[ModelFeatureEvaluation]
+
+class StatsFeatureEvaluation(BaseModel):
+    evaluations: List[FeatureEvaluation]
     min_score: float
     max_score: float
     average_score: float
@@ -65,20 +89,16 @@ class FeatureEvaluation(BaseModel):
     num_evaluations: int
 
 
-class RubricResponse(BaseModel):
-    features: List[Feature]
-
-
-class RubricEvaluationResponse(BaseModel):
-    evaluated_features: List[ModelFeatureEvaluation]
+class FeaturesEvaluationResponse(BaseModel):
+    evaluated_features: List[FeatureEvaluation]
 
 
 # NOTE: To improve reliability, we should:
 # - Have the first output in freeform text invinting the model to think and write down its thoughts (like a scratchpad)
 # - Have the second output in the structured rubric format based on the first output
 # (like authors have done in General Social Agent paper)
-async def generate_rubric(conversation: str, model: str, n_rubrics: int) -> List[RubricResponse]:
-    conversations = await asyncio.gather(*[
+async def generate_features(conversation: str, model: str, n_rubrics: int) -> List[Feature]:
+    rubrics = await asyncio.gather(*[
         openrouter_client.responses.parse(
             model=model,
             input=[
@@ -91,24 +111,24 @@ async def generate_rubric(conversation: str, model: str, n_rubrics: int) -> List
                     "content": f"Conversation:\n```\n{conversation}\n```"
                 }
             ],
-            text_format=RubricResponse
+            text_format=FeatureListModelResponse
         )
         for _ in range(n_rubrics)
     ], return_exceptions=True)
 
-    num_errors = len([_conversation for _conversation in conversations if isinstance(_conversation, Exception)])
+    num_errors = len([_rubric for _rubric in rubrics if isinstance(_rubric, Exception)])
 
     if num_errors > 0:
         print(f"{num_errors} error(s) generating rubrics")
 
-    if num_errors == len(conversations):
-        raise ValueError(f"All rubrics generation failed: {conversations[0]}")
+    if num_errors == len(rubrics):
+        raise ValueError(f"All rubrics generation failed: {rubrics[0]}")
 
-    return [_conversation.output_parsed for _conversation in conversations if not isinstance(_conversation, Exception)]
+    return [_rubric.output_parsed.features for _rubric in rubrics if not isinstance(_rubric, Exception)]
 
 
-async def __evaluate_feature_variance_in_rubric(conversation: str, rubric: RubricResponse, model: str) -> RubricEvaluationResponse:
-    conversation = await openrouter_client.responses.parse(
+async def __evaluate_features_scores(conversation: str, features: List[Feature], model: str) -> List[FeatureEvaluation]:
+    model_output = await openrouter_client.responses.parse(
         model=model,
         temperature=1.0,
         input=[
@@ -118,46 +138,37 @@ async def __evaluate_feature_variance_in_rubric(conversation: str, rubric: Rubri
             },
             {
                 "role": "user",
-                "content": f"Conversation:\n```\n{conversation}\n```\nRubric:\n```\n{rubric}\n```"
+                "content": f"Conversation:\n```\n{conversation}\n```\nFeatures:\n```\n{features}\n```"
             }
         ],
-        text_format=RubricEvaluationResponse
+        text_format=FeaturesEvaluationResponse
     )
 
-    return conversation.output_parsed
+    return model_output.output_parsed.evaluated_features
 
 
-async def evaluate_features(conversation: str, rubrics: List[RubricResponse], models: List[str], num_evaluations_per_model: int) -> List[FeatureEvaluation]:
+async def evaluate_features_scores(conversation: str, features: List[Feature], models: List[str], num_evaluations_per_model: int) -> List[StatsFeatureEvaluation]:
 
-    evaluated_rubrics: List[RubricEvaluationResponse] = await asyncio.gather(*[
-        __evaluate_feature_variance_in_rubric(conversation, _rubric, model=_model_name)
-        for _rubric in rubrics
+    evaluated_features: List[List[FeatureEvaluation]] = await asyncio.gather(*[
+        __evaluate_features_scores(conversation, features, model=_model_name)
         for _model_name in models
         for _ in range(num_evaluations_per_model)
     ], return_exceptions=True)
 
-    num_errors = len([_evaluation for _evaluation in evaluated_rubrics if isinstance(_evaluation, Exception)])
+    num_errors = len([_evaluation for _evaluation in evaluated_features if isinstance(_evaluation, Exception)])
 
     if num_errors > 0:
-        print(f"{num_errors} error(s) evaluating rubrics")
+        print(f"{num_errors} error(s) evaluating features scores")
 
-    evaluated_rubrics = [_evaluation for _evaluation in evaluated_rubrics if not isinstance(_evaluation, Exception)]
+    evaluated_features = [_evaluation for _evaluation in evaluated_features if not isinstance(_evaluation, Exception)] # filter out errors
 
-    features: List[ModelFeatureEvaluation] = [
-        _feature
-        for _evaluation in evaluated_rubrics
-        for _feature in _evaluation.evaluated_features
-    ]
+    evaluated_features: List[FeatureEvaluation] = [_evaluation for sublist in evaluated_features for _evaluation in sublist] # flatten
 
-    output: List[FeatureEvaluation] = []
 
-    if not features:
-        return output
-
-    # Group evaluations by feature name (uniqueness based on name )
-    feature_grouped_by_name: dict[str, List[ModelFeatureEvaluation]] = {}
+    # Group evaluations by feature name (uniqueness based on name)
+    feature_grouped_by_name: dict[str, List[FeatureEvaluation]] = {}
     feature_order: List[str] = []
-    for evaluation in features:
+    for evaluation in evaluated_features:
         feature_name = evaluation.feature.name
         if feature_name not in feature_grouped_by_name:
             feature_grouped_by_name[feature_name] = []
@@ -165,6 +176,7 @@ async def evaluate_features(conversation: str, rubrics: List[RubricResponse], mo
         feature_grouped_by_name[feature_name].append(evaluation)
 
     # Build FeatureEvaluation objects with summary statistics
+    output: List[StatsFeatureEvaluation] = []
     for feature_name in feature_order:
 
         evaluations_for_feature = feature_grouped_by_name[feature_name]
@@ -174,7 +186,7 @@ async def evaluate_features(conversation: str, rubrics: List[RubricResponse], mo
             print(f"Skipping feature '{feature_name}' because not enough evaluations. (Need at least 2 evaluations)")
             continue # We need at least 2 evaluations to compute statistics
 
-        output.append(FeatureEvaluation(
+        output.append(StatsFeatureEvaluation(
             evaluations=evaluations_for_feature,
             min_score=min(scores),
             max_score=max(scores),
@@ -184,10 +196,45 @@ async def evaluate_features(conversation: str, rubrics: List[RubricResponse], mo
             num_evaluations=len(scores),
         ))
 
-    return output
+    return sorted(output, key=lambda x: x.standard_deviation)
+
+
+async def evaluate_features_scores_across_conversations(conversations: List[str], features: List[Feature], models: List[str], num_evaluations_per_model: int) -> List[StatsFeatureEvaluation]:
+
+    evaluations: Dict[str, List[FeatureEvaluation]] = {feature.name: [] for feature in features}
+
+    batched_evaluations = await asyncio.gather(*[
+        evaluate_features_scores(
+            "\n".join([segment["text"] for segment in batch]),
+            features,
+            models,
+            num_evaluations_per_model=num_evaluations_per_model
+        )
+        for batch in conversations
+    ])
+
+    for batch_evaluations in batched_evaluations:
+        for _evaluation in batch_evaluations:
+            evaluations[_evaluation.evaluations[0].feature.name].extend(_evaluation.evaluations)
+
+    stats = []
+    for feature_evaluations in evaluations.values():
+
+        stats.append(StatsFeatureEvaluation(
+            evaluations=feature_evaluations,
+            min_score=min(_evaluation.score for _evaluation in feature_evaluations),
+            max_score=max(_evaluation.score for _evaluation in feature_evaluations),
+            average_score=mean(_evaluation.score for _evaluation in feature_evaluations),
+            standard_deviation=stdev(_evaluation.score for _evaluation in feature_evaluations),
+            variance=variance(_evaluation.score for _evaluation in feature_evaluations),
+            num_evaluations=len(feature_evaluations),
+        ))
+
+    return sorted(stats, key=lambda x: x.standard_deviation)
+
 
 # TODO: try out empirical (numerical) correlation approach to merge correlated features
-async def merge_correlated_features(features: List[Feature], model: str = "openai/gpt-4.1-mini") -> List[Feature]:
+async def merge_similar_features(features: List[Feature], model: str = "openai/gpt-4.1") -> List[Feature]:
     response = await openrouter_client.responses.parse(
         model=model,
         input=[
@@ -200,7 +247,40 @@ async def merge_correlated_features(features: List[Feature], model: str = "opena
                 "content": f"Features:\n```\n{features}\n```"
             }
         ],
-        text_format=RubricResponse
+        text_format=FeatureListModelResponse
+    )
+
+    return response.output_parsed.features
+
+
+async def filter_features_candidates_against_bank(candidates: List[Feature], bank: List[Feature], model: str = "openai/gpt-4.1") -> List[Feature]:
+
+    if len(candidates) == 0:
+        return []
+
+    if len(bank) == 0:
+        return candidates
+
+    response = await openrouter_client.responses.parse(
+        model=model,
+        input=[
+            {
+                "role": "system",
+                "content": DEDUPE_AGAINST_BANK_SYSTEM_PROMPT
+            },
+            {
+                "role": "user",
+                "content": (
+                    "Bank features:\n```\n"
+                    f"{bank}\n"
+                    "```\n\n"
+                    "Candidate features:\n```\n"
+                    f"{candidates}\n"
+                    "```"
+                )
+            }
+        ],
+        text_format=FeatureListModelResponse
     )
 
     return response.output_parsed.features
