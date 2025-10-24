@@ -1,6 +1,8 @@
 import asyncio
 import constants
 
+from tqdm import tqdm
+from tenacity import retry, stop_after_attempt, wait_fixed, RetryCallState
 from typing import List, Dict
 from pydantic import BaseModel
 from openai import AsyncOpenAI
@@ -22,11 +24,12 @@ Follow these principles:
 
 
 RUBRIC_EVALUATION_SYSTEM_PROMPT = """
-You are an expert rater applying a subjective style/persona rubric to conversational text.
+You are an Social Science researcher scoring a set of subjective style/persona features to conversational text.
 
-Your job: score each trait 0-10, cite evidence spans, and return a clean machine-readable object.
-
+Your job: score each feature provided 0-10, cite evidence spans, and return the output in the required format.
 You are evaluating style/tone only (not factual correctness or task quality).
+
+Make sure to score each single feature provided without omitting any. Do not skip any feature.
 """.strip()
 
 
@@ -62,6 +65,10 @@ openrouter_client = AsyncOpenAI(
 )
 
 
+# Global concurrency gate for outbound API requests
+_api_semaphore = asyncio.Semaphore(constants.SEMAPHORE_MAX_CONCURRENCY)
+
+
 class Feature(BaseModel):
     name: str
     description: str
@@ -93,7 +100,13 @@ class FeaturesEvaluationResponse(BaseModel):
     evaluated_features: List[FeatureEvaluation]
 
 
+def __log_retried_error(retry_state: RetryCallState) -> None:
+    pass
+    # print(f"An error occurred (at attempt {retry_state.outcome.attempt_number}): {retry_state.outcome.exception()}")
+
+
 # NOTE: To improve reliability, we should:
+# - Add a retry per operation to handle errors
 # - Have the first output in freeform text invinting the model to think and write down its thoughts (like a scratchpad)
 # - Have the second output in the structured rubric format based on the first output
 # (like authors have done in General Social Agent paper)
@@ -121,49 +134,94 @@ async def generate_features(conversation: str, model: str, n_rubrics: int) -> Li
     if num_errors > 0:
         print(f"{num_errors} error(s) generating rubrics")
 
+    for _error in [_rubric for _rubric in rubrics if isinstance(_rubric, Exception)]:
+        print(f"Error: {_error}")
+
     if num_errors == len(rubrics):
         raise ValueError(f"All rubrics generation failed: {rubrics[0]}")
 
     return [_rubric.output_parsed.features for _rubric in rubrics if not isinstance(_rubric, Exception)]
 
 
-async def __evaluate_features_scores(conversation: str, features: List[Feature], model: str) -> List[FeatureEvaluation]:
-    model_output = await openrouter_client.responses.parse(
-        model=model,
-        temperature=1.0,
-        input=[
-            {
-                "role": "system",
-                "content": RUBRIC_EVALUATION_SYSTEM_PROMPT
-            },
-            {
-                "role": "user",
-                "content": f"Conversation:\n```\n{conversation}\n```\nFeatures:\n```\n{features}\n```"
-            }
-        ],
-        text_format=FeaturesEvaluationResponse
-    )
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2), reraise=True, sleep=asyncio.sleep, before_sleep=__log_retried_error)
+async def __evaluate_single_feature_score(conversation: str, feature: Feature, model: str) -> FeatureEvaluation:
+    async with _api_semaphore:
+        response = await openrouter_client.responses.parse(
+            model=model,
+            temperature=1.0,
+            input=[
+                {
+                    "role": "system",
+                    "content": RUBRIC_EVALUATION_SYSTEM_PROMPT
+                },
+                {
+                    "role": "user",
+                    "content": f"Conversation:\n```\n{conversation}\n```\nFeature:\n```\n{feature}\n```"
+                }
+            ],
+            text_format=FeatureEvaluation,
+            timeout=60.0,
+        )
 
-    return model_output.output_parsed.evaluated_features
+    output = response.output_parsed
+
+    if output is None:
+        raise ValueError(f"No output from model {model} for feature {feature.name}")
+
+    return output
+
+
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2), reraise=True, sleep=asyncio.sleep, before_sleep=__log_retried_error)
+async def __evaluate_features_scores(conversation: str, features: List[Feature], model: str) -> List[FeatureEvaluation]:
+    tasks = [
+        asyncio.create_task(__evaluate_single_feature_score(conversation, _feature, model))
+        for _feature in features
+    ]
+
+    # pbar = tqdm(total=len(tasks), desc="Scoring features", leave=False)
+    outputs: List[FeatureEvaluation] = []
+
+    try:
+        for future in asyncio.as_completed(tasks, timeout=len(tasks) * 60.0):
+            try:
+                result = await future
+                outputs.append(result)
+            except Exception as _error:
+                print(f"Error while evaluating feature scores: {_error}")
+            # finally:
+            #     pbar.update(1)
+    except asyncio.TimeoutError:
+        print(f"Timeout while evaluating feature scores for conversation, evaluating {len(outputs)} features out of {len(tasks)}")
+
+    return outputs
 
 
 async def evaluate_features_scores(conversation: str, features: List[Feature], models: List[str], num_evaluations_per_model: int) -> List[StatsFeatureEvaluation]:
 
-    evaluated_features: List[List[FeatureEvaluation]] = await asyncio.gather(*[
-        __evaluate_features_scores(conversation, features, model=_model_name)
+    tasks = [
+        asyncio.create_task(__evaluate_features_scores(conversation, features, model=_model_name))
         for _model_name in models
         for _ in range(num_evaluations_per_model)
-    ], return_exceptions=True)
+    ]
 
-    num_errors = len([_evaluation for _evaluation in evaluated_features if isinstance(_evaluation, Exception)])
+    pbar = tqdm(total=len(tasks), desc="Evaluating features scores (models x eval)", leave=False)
+    evaluated_batches: List[List[FeatureEvaluation]] = []
+    num_errors = 0
+
+    for future in asyncio.as_completed(tasks):
+        try:
+            batch_result = await future
+            evaluated_batches.append(batch_result)
+        except Exception as _error:
+            num_errors += 1
+            print(f"Error: {_error}")
+        finally:
+            pbar.update(1)
 
     if num_errors > 0:
         print(f"{num_errors} error(s) evaluating features scores")
 
-    evaluated_features = [_evaluation for _evaluation in evaluated_features if not isinstance(_evaluation, Exception)] # filter out errors
-
-    evaluated_features: List[FeatureEvaluation] = [_evaluation for sublist in evaluated_features for _evaluation in sublist] # flatten
-
+    evaluated_features: List[FeatureEvaluation] = [_evaluation for sublist in evaluated_batches for _evaluation in sublist] # flatten
 
     # Group evaluations by feature name (uniqueness based on name)
     feature_grouped_by_name: dict[str, List[FeatureEvaluation]] = {}
@@ -174,6 +232,15 @@ async def evaluate_features_scores(conversation: str, features: List[Feature], m
             feature_grouped_by_name[feature_name] = []
             feature_order.append(feature_name)
         feature_grouped_by_name[feature_name].append(evaluation)
+
+    if len(feature_grouped_by_name) != len(features):
+        print(f"Warning: {len(feature_grouped_by_name)} != {len(features)}")
+
+        missing_from_features = set([feature.name for feature in features]) - set(feature_grouped_by_name.keys())
+        print(f"Missing from features: {missing_from_features}")
+
+        extra_from_grouped_by_name = set(feature_grouped_by_name.keys()) - set([feature.name for feature in features])
+        print(f"Extra from grouped by name: {extra_from_grouped_by_name}")
 
     # Build FeatureEvaluation objects with summary statistics
     output: List[StatsFeatureEvaluation] = []
@@ -203,19 +270,24 @@ async def evaluate_features_scores_across_conversations(conversations: List[str]
 
     evaluations: Dict[str, List[FeatureEvaluation]] = {feature.name: [] for feature in features}
 
-    batched_evaluations = await asyncio.gather(*[
+    coroutines = [
         evaluate_features_scores(
-            "\n".join([segment["text"] for segment in batch]),
+            "\n".join([segment for segment in batch]),
             features,
             models,
             num_evaluations_per_model=num_evaluations_per_model
         )
         for batch in conversations
-    ])
+    ]
 
-    for batch_evaluations in batched_evaluations:
-        for _evaluation in batch_evaluations:
-            evaluations[_evaluation.evaluations[0].feature.name].extend(_evaluation.evaluations)
+    pbar = tqdm(total=len(coroutines), desc="Evaluating features scores across conversations", leave=False)
+    for _coroutine in asyncio.as_completed(coroutines):
+        batch = await _coroutine
+
+        for _feature_evaluation in batch:
+            evaluations[_feature_evaluation.evaluations[0].feature.name].extend(_feature_evaluation.evaluations)
+
+        pbar.update(1)
 
     stats = []
     for feature_evaluations in evaluations.values():
@@ -233,7 +305,7 @@ async def evaluate_features_scores_across_conversations(conversations: List[str]
     return sorted(stats, key=lambda x: x.standard_deviation)
 
 
-# TODO: try out empirical (numerical) correlation approach to merge correlated features
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2), reraise=True, sleep=asyncio.sleep, before_sleep=__log_retried_error)
 async def merge_similar_features(features: List[Feature], model: str = "openai/gpt-4.1") -> List[Feature]:
     response = await openrouter_client.responses.parse(
         model=model,
