@@ -1,0 +1,264 @@
+Daniel Dines: I was joking with my team, saying our strategy is like Genghis Khan’s strategy. You should go faster than them. You know how they conquered China? Their army was faster than Chinese army, so they were defeating all the Chinese cities, and they couldn’t catch them. So that was kind of my strategy: let’s go, let’s spread, let’s see where it works and let’s double down on it. And they thought I’m crazy.
+
+Introduction
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha.
+
+All businesses rely on a number of repetitive tasks: data entry, payroll processing, inventory management. And they take up time, requiring someone to manually type in the same figures over and over again.
+
+Today’s story is about the unlikely rise of UiPath, a company that pounced on an opportunity to eliminate some of this repetitive work, replacing it with software operating in the background of an application. This technology is known as Robotic Process Automation, or RPA, and UiPath has harnessed it to save untold hours and dollars for companies around the world. 
+
+When we think of the world’s tech hubs, Bucharest, Romania is not usually at the top of the list. But after bootstrapping for nearly a decade out of an apartment in the Eastern European city, Daniel Dines saw an opening for the nascent RPA category and placed a risky bet, pivoting his entire company around it. From humble beginnings, UiPath became the fastest-growing SaaS company ever — only to face crucible moments in navigating growing pains.
+
+Today, the company faces new challenges as it adapts to the changing AI landscape to further revolutionize the way we work. 
+
+This is the story of UiPath.
+
+The Origin Story of UiPath
+Daniel Dines: My name is Daniel Dines. I am the Founder and CEO of UiPath. 
+
+Growing up in Romania, I wanted to become a writer, but I soon discovered that I have no talent actually for writing. And in communist Romania, that involved, anyway, a lot of bullshit. 
+
+I was under pressure to make my own living since I was 19. I had to sustain myself. And at that point, I remember I was probably making like $30 a month.
+
+Roelof Botha:  Just before his 20th birthday, Daniel received a gift from his girlfriend that would change the course of his life.
+
+Daniel Dines: She had this book called Introduction to C++ of Programming, C++ of the — inventor of the language itself — Bjarne Stroustrup. I started to read it and I, I read it more like fiction and I got really enamored by the language. 
+
+A friend of mine from university told me there is a guy that hires developers. He hired both of us, but basically without any kind of interview. It was just a discussion. So I started to work with this guy, but initially, he didn’t have a computer to give to me because it was a small firm with, I think, maybe like 10 people. But they were all working during the day, but he offered me to go there during the night. So I had access to their best computer at that time. So I changed for the next six months my entire life. 
+
+I was working basically from like eight to six in the morning. I was basically just sleeping, working on the computer. And I learned so much. It was, I was really immersed and I, I built basically my entire career on that six months.
+
+Roelof Botha: Over the next few years, Daniel continued to hone his skills as a developer. In 2001, he landed a job at Microsoft in Seattle. After learning the ropes at a major tech company, Daniel became determined to start a business of his own. He moved back to Romania and launched DeskOver. In the early years, DeskOver focused on outsourcing and building software developer kits. But miles from any major tech hub, the company faced challenges.
+
+Luciana Lixandru: Well, Europe has a very fragmented ecosystem. So in the U.S., of course, there, there is New York there, there is Miami, there are other ecosystems, but Silicon Valley is so concentrated when it comes to talent. You have mentorship and expertise just around the corner. And that wasn’t the case for Daniel and for his co-founders starting in Bucharest.
+
+My name is Luciana Lixandru and I’m a partner at Sequoia. 
+
+I was born and raised in Romania, but I have to be honest, I had not focused on Romania as a country that had a lot of potential to create these outliers.
+
+Daniel Dines: The idea of raising capital in 2005 in Romania was unheard of. I bootstrapped the company by doing some consulting work. So we were all working in a small flat.
+
+Andra Ciorisi-Chelmus: It was a very, very small company — they were all male software developers who were pretty isolated by themselves. I was the first female. I was a junior developer at the time, and it wasn’t very easy for me to start.
+
+My name is Andra Ciorisi-Chelmus, and I’m a VP of Product at UiPath.
+
+Daniel helped us a lot in letting us express our opinions, although most of the time, at least in the beginning, were wrong. And encouraging us to speak up and say whatever crossed our minds, and if it was a good idea, it was always built on and included in the development process. 
+
+So, we started having a lot of parties. We started playing poker nights. We’re starting debating a lot more. It was really, really nice, like a family debate over dinner.
+
+Daniel Dines: I started to do some, uh, some products. The first commercially viable application was this SDK type of software that a developer could have used and read the text on any application. 
+
+Andra Ciorisi-Chelmus: We were building a software library, which are the building parts of any software product, that was automating your actions. And to, to give you an example because, uh, I remember when Daniel first explained to me. I went home, and my friends asked me, “Okay, so what will you do there?” And, uh, I said, “I, I didn’t understood, but it sounds interesting.” So I think this is what most of our, uh, customers thought in the beginning as well. 
+
+So at that time, the browsers, for example, didn’t have that “remember your password” functionality. So every time you wanted to join something, you needed to remember and type your own username and password. Our library was able to do this automation for you, just like the browser does it today. 
+
+Daniel Dines: We were doing initially, things that we kind of liked as developers. We thought this is a cool thing to build this stuff. It was kind of hackery in a way, but not really a business vision.
+
+Andra Ciorisi-Chelmus: Our primary customer was actually the software developer. They were individuals that were, some were working in companies, some were freelancing and it was quite hard for it to take off as a developer tool dedicated to hardcore developers. We had customers that use it, but not many. We were like the engine of a car, but we didn’t have all the other parts.
+
+The Pivot to RPA
+Roelof Botha: DeskOver struggled to find product-market fit. But in 2012, Daniel received an email that would alter the company’s trajectory.
+
+Daniel Dines: We got this request from someone to show a demo of our product, and they put their personal address. But they didn’t mention any business or anything. So at that point, I was on the verge of ignoring that request. But I don’t know, I had a hunch, you know, there is this gut feeling sometimes that tells you maybe you should follow that lead.
+
+Roelof Botha: The request was from a manager at a Business Process Outsourcing company in Chennai, India who needed to reliably automate some of the company’s manual tasks. He wanted to see how DeskOver compared to a larger British tech company called Blue Prism that worked on Robotic Process Automation, or RPA.
+
+Daniel Dines: I never heard about Blue Prism or RPA at that time. And I said, I have no idea who they are. Let me search on the internet. And I did a quick search while I was talking to him. I didn’t read much, but I said, it seems like this is a big company. I don’t think we can compare in any shape with them. But he was patient and he started to work with us more to understand. 
+
+He really liked our approach. So we had this visual “low code” that was really novelty at that time. And in all RPA space, it was only us and Blue Prism that have this “low code” approach. So we had like a nice flowchart to design and automation, and nobody else had that at this point. And basically, he was actually looking to get some leverage on Blue Prism and they were really considered kind of inflexible.
+
+Roelof Botha: The company in India invited DeskOver to come to Chennai to see if its software library could automate some of the BPO’s processes. 
+
+Daniel Dines: I also said yes without missing a heartbeat. I displaced three people, some of my best people, to go to India for three months at cost. So this is how we got into, into RPA and I got a wind of what RPA is.
+
+Andra Ciorisi-Chelmus: I was a part of the three-people team that went to India. The experience in India was very eye-opening for us.
+
+We used to go every day into the office in India. We were automating part of the process. If something wasn’t working, we went back to our hotel, we implemented the fix or the new feature that was required to automate that part, we went with a new version of the product the next day and automated the part that was missing. 
+
+When we returned to Bucharest, it was like a light for us. We said, “Okay, this is what we can do to make their lives better, the companies better, to bring them real value.” I wouldn’t call us a company at that point when we went in India. We were a small group of people that wanted to bring value to their customers when they finally discovered, “Oh, we might have customers.”
+
+And that was the moment that we decided to, to switch and focus on RPA.
+
+Daniel Dines: I realized that actually that’s a much bigger market than what we were going for before. I couldn’t imagine that there are so many inefficiencies in the world of business, enterprise business processes. It has become obvious to me that we have to go all in after that market.
+
+Roelof Botha: After eight years of bootstrapping and looking for product-market fit, Daniel made a crucible decision: DeskOver would shift its focus entirely to RPA.
+
+Daniel Dines: There was no risk for us at that point. We were going to die anyway in, in our little market. There are moments when you, you go, you feel like you are in a fog, and you don’t know which direction to go. And you go carefully, and suddenly the fog clears up, and you see where you go and then you go very fast. That was us. After, kind of, eight years of, uh, going in the fog, we went right after the target. It was very easy for us to just follow customer requests based on that.
+
+Brandon Deer: We knew that Blue Prism had an indirect sales motion, meaning they sold exclusively through the channel. They didn’t have direct conversations with their customers.
+
+My name is Brandon Deer. I am the Chief Strategy Officer and COO of our go-to-market organization at UiPath. 
+
+And I think this is something that set us apart very early on was that we wanted to go direct. We wanted to have customer empathy and centricity. We wanted to originate product innovation, new feature ideas, uh, world-class support, and we wanted to do it all through the voice and the continuous feedback loop of having a one-to-one relationship with our customers. 
+
+Roelof Botha: In 2013, DeskOver released a new RPA-focused product. They called it UiPath Studio.
+
+Daniel Dines: We’ve built our first orchestration in our product. It was a little bit patchy, but you have a product that is capable of building one automation, and you need to build another product that can scale, deploy and scale hundreds of automations.
+
+Andra Ciorisi-Chelmus: In time, we built all the other building blocks that allowed us to automate a business process from one end to the other, and with the input visible both for the people that are actually doing the job — the mundane tasks — but also for the C-suite or management suite, to see how their automations are performing.
+
+Luciana Lixandru: The other thing that came up quite often with customers was just more, a more robust and more scalable architecture. Because when you run many robots at scale, automating many, many processes, the last thing you want is for these robots to break down. Because then you still have to have humans go and fix them, um, and you’re trying to automate this work; you’re not trying to create extra work. 
+
+Customers wanted RPA, and it was a lot about Daniel and the team, yes, creating more demand, but mostly fulfilling the demand that was already out there.
+
+Andra Ciorisi-Chelmus: One of the key things to learn and to remember while you are a startup is that your market fit may not be the one that you’re thinking of. May not be the one that you’re actually serving today. But if you are open, and if you allow yourself to look outside, to interact with all the opportunities that come, you may actually discover that your market fit is other and is the one that is more appropriate for you.
+
+Daniel Dines: Imagine eight years working in a garage. You know that you build some kind of a good technology, but nothing moves. You don’t die, but you don’t grow either. After you get so much beating, I think you don’t stop — it gets you prepared. I felt this is the moment that we all were waiting for. But our real growth was after we first concluded our seed round.
+
+Gaining Traction
+Daniel Dines: Imagine eight years working in a garage. You know that you build some kind of a good technology, but nothing moves. You don’t die, but you don’t grow either. After you get so much beating, I think you don’t stop — it gets you prepared. I felt this is the moment that we all were waiting for. But our real growth was after we first concluded our seed round.
+
+Roelof Botha: After achieving product-market fit, the company began attracting attention from investors in Europe. As it was taking off in 2015, Daniel changed the name of the company from DeskOver to UiPath.
+
+Luciana Lixandru: I happened to go to Bucharest for, for a weekend, and I thought, let me take one day and meet some of the smartest people in the tech ecosystem in Bucharest. 
+
+Roelof Botha: At the time, Luciana was working for the venture capital firm Accel. In Bucharest, she met UiPath’s seed investor, who insisted on making an introduction to Daniel.
+
+Luciana Lixandru: I remember when I went to visit the company, one of the co-founders said something to me that I still remember after seven years now. Um, I said, “I’m so excited to see a Romanian company with so much potential,” and they were almost offended. They said, “We are a Silicon Valley company, but we’re building in Romania.”
+
+And with Daniel, after spending many hours together, a few things became obvious. He was highly intelligent. He had an unusual level of determination, which is reflected in the fact that for ten years he did not give up. I think at some point he called himself unemployable. Looking for product-market fit for a decade takes a lot of resilience; that’s really unique. So he had this attitude that this is it or nothing else. There’s no choice but to win, there’s no choice but to succeed. And he was very confident. It came across in many ways, but, but one of the ways was when we signed the term sheet. I still remember he said, with just a lot of conviction, “This is going to be a very successful company.”
+
+Roelof Botha: Luciana and Accel led a $30 million Series A financing. The company’s pivot to RPA had completely transformed it from obscurity to one of the hottest tech startups in Europe. But Daniel wasn’t satisfied.
+
+Daniel Dines: So we have finished 2016 with $5 million in ARR, and in 2017, we were thinking we will finish the year maybe $30, $35 or so. It was really huge growth. And I could have seen that, uh, actually this is becoming a big category. And, uh, at that point, we were still number three in the market.
+
+But what I realized is, is that there is a big pull from the market, and this is gonna accelerate into next year. And actually, the number one company will take the lion’s share, and if, if we can become prominently, clearly the number one RPA company, it will be a no-brainer decision for many customers. So we’ll get the, the biggest market share.
+
+The Genghis Khan Strategy
+Roelof Botha: Some crucible moments land on your doorstep. Others hide in plain sight, demanding you identify them and act. While many would have been happy with the company’s trajectory, Daniel sensed a fleeting opportunity to change gears and leapfrog the competition to become the clear winner in a big category.
+
+Daniel Dines: We knew pretty well our competitors, and we knew where they were as, as revenue. I think the biggest one was probably maybe $70, $80 at that point. And I knew that they are probably going to $100 next year based on their growth. And in a board meeting at that time, when we were discussing the budget for 2018, I remember Luciana Lixandru telling me, “Daniel, I will be very happy if next year you’ll deliver, like, $70 million of ARR.” And I told them, “We need to be twice as big revenue-wise as our competitors. So I want to build a company to deliver $200 million in 2018.”
+
+And they thought I’m crazy, clearly. 
+
+Roelof Botha: The thing about large numbers is that the bigger you get, the harder it is to maintain your growth rate. And if you do, the organizational challenges are immense. Going from $5 million to $35 million in revenue in a year is one thing — but going from $30 million to $200 is something else entirely
+
+Luciana Lixandru: I remember this board meeting where Daniel put out a plan to go from $35 million to $200 at the time. A very, very aggressive growth plan. And I remember saying, “Daniel, even if we double from $35 to $70, that will be a great year.” I remember it because Daniel reminds me all the time.
+
+Roelof Botha: To get there, Daniel borrowed a strategy from the history books — literally.  
+
+Daniel Dines: At that point, I was joking with my team, saying our strategy is like, uh, Genghis Khan strategy. 
+
+Brandon Deer: We both read the same book, which was the biography of Genghis Khan. And there was this obsession around the speed.
+
+Daniel Dines: You should go faster than them. You know how they conquered China? Their army was faster than Chinese army, so they were defeating all the Chinese cities, and they couldn’t catch them. So that was kind of my strategy: let’s go, let’s spread, let’s see where it works and let’s double down on it.
+
+Andra Ciorisi-Chelmus: He talked about the Genghis Khan strategy all the time. Once, uh, an idea comes to mind, usually while he reads something, he repeats it, and thinks about it, and repeats it and repeats it until I think it makes sense to everyone.
+
+Roelof Botha: The Genghis Khan strategy would mean expanding into multiple international markets simultaneously, including the U.S. and Japan, and rapidly scaling up the UiPath team to serve them.
+
+Daniel Dines: Going to multiple markets simultaneously was, uh, I think a product of our exuberance.   
+
+Luciana Lixandru: I would say that at the time there was no playbook yet. I think that UiPath is one of the first companies that built out this playbook. 
+
+Roelof Botha: UiPath also carefully examined the practices of competitors in order to differentiate themselves.
+
+Brandon Deer: Our competitors, they were at the forefront of all of our conversations. What are the things that they were coming out with? What are the things that they’re talking about in their press releases and their documentation? When we met with prospective customers that were already using their technologies, we’d ask them, “What is it about them that you love? How do you derive value? What have they shared with you in terms of future things that you’re excited about? How have you compared and contrasted our capabilities versus theirs?”
+
+I think early on, we saw that there was kind of a naive neglect from the Blue Prism, a shop around customer support and white-glove service. And so, we completely rotated towards providing the best support. Anything the customer wanted, we did. You know, it was like an Amex Black Card concierge-type service. You called UiPath as a customer or a prospective account, we gave you our all. And it didn’t matter who you talk to. You could have called me direct. You could have called Daniel direct.
+
+Luciana Lixandru: I think RPA was great to UiPath, but UiPath was also great to RPA. The company invested a lot in category building, in customer education, in just giving customers a delightful experience, which is what promotes more and more of this product to be sold.
+
+Roelof Botha: UiPath met Daniel’s audacious goal, growing from $5 million in revenue to $35 million to nearly $200 million year over year. This astronomical rise made UiPath the fastest-growing SaaS company in history at the time. UiPath moved its headquarters to New York and opened 30 offices in 16 countries.
+
+Luciana Lixandru: Those stories are very, very rare. At the time, in my experience, it was almost unheard of. At this point, the UiPath story was pretty crazy. It was probably the “hottest startup in Europe” and, and one of the “hottest startups in the U.S.” They had access to really great talent. It was overall, incredibly exciting. But I will say it also made us a little bit nervous because the revenue growth was spectacular; the employee growth was also spectacular. 
+
+Brandon Deer: It seemed like every day there was 10 new people in the office. And it wasn’t that big an office — it was probably equipped to hold, I don’t know, 150 or so people. I remember, uh, going to the men’s room, and turning the corner and there was a line looping all the way across the desk where the engineers sat. And the engineers are sitting there, you know, trying to have their quiet time, you know, conduct their coding and trying to work in some peace and quiet. And you’ve got a line of guys, you know, it was kind of doing an S-wrap around their desks. And it was just this moment of like, one, you could see they were pissed off and super irritated, but it was also, like, kind of funny, you know, to see. And all of these people had just started, you know. We were busting at the seams. 
+
+Daniel Dines: We moved to a bigger office, and you see suddenly a hundred people in a room. And you have to talk to a hundred people, it was kind of insane, the feeling for me. And you have all sorts of faces, and they look with trust in you and things were growing. And yeah, it was crazy good times. It’s the best feeling in the world, really.
+
+Roelof Botha: The Ghengis Khan strategy had paid off. UiPath had cornered the RPA market. But in 2019, it became obvious that this extraordinary growth came at a price.
+
+Navigating the Financial Realities of Explosive Growth
+Brandon Deer: I think that there’s always dichotomies of tradeoff between speed, and quality and process.
+
+Luciana Lixandru: We’re seeing two different things. On the one hand, we’re seeing a lot of customer demand, and we’re seeing a very fast growing market where UiPath is really solidifying its position as the leader. In fact, it’s growing much faster than competitors, and the reviews of their product are really positive compared to other players in the market. So on the one hand, that’s going really well. On the other hand, we’re starting to feel internal organizational pains from having added so many people in such a short period of time. And the company is obviously burning quite a lot of money at this point as well, given the meaningful increase in the organization from 100-150 people to about 3,000 people in only a couple of years. 
+
+Because when you add 3,000 people in two years, of course, it’s impossible to do that in the most structured, process-driven, disciplined manner. And that became clear to the board, and became clear to Daniel as well.
+
+Daniel Dines: It’s a very risky game you got into. We were in a bad position. We were really getting into our cash. 
+
+Roelof Botha: In 2019, UiPath’s projected cash burn was $150 million, but the company ended up at a number almost triple that amount — the company consumed $400 million.
+
+Brandon Deer: Cornering a market isn’t for the faint of heart. It sounds like, “Hey, let’s go, let’s go build an incredible company and make a ton of money,” and that sounds great. In actuality, to do it, you need to make a lot of mistakes — painful mistakes along the way. You need to really feel some pain. 
+
+And it’s hard to realize the cost of all of these things in any given moment as you’re making these decisions. You end up with a lot of people, poorly defined roles, that you made a lot of big offers to. You end up with a lot of big customers that you made a lot of big promises to.
+
+Roelof Botha: The explosive growth finally brought a reckoning: how could the company rein in costs to grow in a sustainable way?
+
+Brandon Deer: I think we really were fighting for our lives. It was a matter of life and death at that moment, and that’s part of the reason that we were forced to cut so deeply and so quickly. 
+
+Daniel Dines: We have to do a hard course correct. We had to fire 10% of our people. I think there is no tougher feeling than to tell someone, you know, that we have to part ways. Because it’s a disappointment. It’s a disappointment in yourself, first of all. You feel their pain. You feel their disappointment.
+
+It never gets easy. It’s, it’s hard. It’s the hardest part, I think, of, uh, of business. It’s a pain that makes you to act in a way that you’ll never feel it again. 
+
+Luciana Lixandru: UiPath had to make some very hard decisions while the company was still growing very fast. So on the one hand, you can be out there celebrating incredible growth like very few companies had. From $5 million to $35 to $170 to $370, this is really spectacular. But at the same time, you have to be very, very honest with yourself about how the health of your organization — the culture, the productivity of your organization, fixing problems, doing more with less.
+
+I think as a leader, you also have to be really, really honest with yourself about all these things. And Daniel did that. 
+
+Roelof Botha: The measures taken to rightsize the business in 2019 meant that UiPath headed into 2020 a leaner and more nimble company. This paid off during the pandemic, allowing them to weather the crisis and its economic instability better than competitors. 
+
+In 2020, UiPath’s revenue broke $600 million. And then, in April 2021, UiPath had one of the largest software IPOs in history. It was a breathtaking rise from a company that, just a few years earlier, was only a handful of engineers operating out of a small apartment in Bucharest.
+
+Andra Ciorisi-Chelmus: The IPO moment itself still feels like a dream. 
+
+I think the moment I personally realized we, we actually IPO’d was the night of the party when I was looking at an ice sculpture with “UiPath” and “New York Stock Exchange,” and I said, “Why are these words together? It makes no sense. Oh, we just IPO’d today. Okay, now it does.”
+
+Adapting to the AI Era
+Roelof Botha: Utilizing so-called “computer vision” technology, UiPath had always relied on a form of AI for its process automation. But in late 2022, OpenAI’s release of ChatGPT upended the AI landscape.
+
+Brandon Deer: I don’t know that anyone was fully prepared for the power of generative artificial intelligence. I think it came fast and furious. And I remember the first time I heard about GPT was probably two and a half, three years ago. And there were a bunch of really, um, kind of complex white papers written on it.
+
+If you were part of the AI community, you know, you were listening to researchers begin to talk about it, but its application — at least within the enterprise — was not widely accepted. Uh, I don’t think a lot of people saw it as a real threatto what they were doing today. Everyone in enterprise software has been building, you know, their tech, and training their data and acquiring customers for so long.
+
+How could something come in and disrupt that in an automated fashion overnight, and have seemingly unlimited intelligence on everything?
+
+Roelof Botha: For UiPath, the rise of generative AI posed an existential question: Would the capabilities of LLMs impact the relevance of RPA? How should UiPath adapt?
+
+Daniel Dines: We started with computer vision. So, to understand screens, we extended that computer vision technology to understand documents, semi-structured documents. And it was kind of natural to incorporate GenAI.
+
+Daniel Dines: It’s kind of clear to me that if we don’t go to combine GenAI with automation, we will become extinct. We will become irrelevant to the enterprises. I think the main challenge with GenAI for businesses right now is from the reliability of GenAI. It’s so smart, but it’s like hiring unstable geniuses. And most companies would like stable, decent level of intelligence. And I think this is where most of the challenges are. But having the automation creating better grounding for LLMs, I think, will go a long distance.
+
+Brandon Deer: When a new technology like this evolves, I think if you’re not at the forefront of it, you’re likely in a place to be displaced. And so, we’re investing everything that we have to ensure that our products are not just keeping up with the market but actually pushing the market, as it relates to all the different capabilities around automation. 
+
+Andra Ciorisi-Chelmus: I think it’s very important for UiPath to have the AI capabilities that fix the customers’ problems. But also to be able to explain to them, “This is not an AI problem. You can automate this with this tool, or this tool or any other process, and it will be maybe more cheap and more reliable for you.” I think they complement each other. I don’t think it can ever be outdated; the RPA category can’t be eliminated altogether.
+
+Daniel Dines: Our platform, having our low-code approach, is very suitable to use to build an LLM app. And when you pair it with automation, the result is exponential.
+
+Roelof Botha: UiPath has released a number of products combining GenAI and RPA, like AI Center, which lets users easily add ML models to existing UiPath automations. There’s also Clipboard AI, a tool specifically designed for copying and pasting large amounts of data, and UiPath Autopilot, a tool anyone can use to supercharge productivity.
+
+Andra Ciorisi-Chelmus: UiPath Autopilot is one of the best examples of AI working with RPA, and helping our, our platform deliver the, the AI benefits to our customers. We have Autopilot for developers, Autopilot for testers, Autopilot for reporting. And what this actually does is it brings the value and the power of our platform to people that, uh, don’t know how to, and to build the processes end-to-end, and they don’t have the deep technical skills. It’s more like you’re talking to a friend in layman terms — and Autopilot can generate for you the test cases, the workflows, the automations, the reporting. And this will be really helpful both for the beginners and for non-technical people, but also for advanced developers that want to validate their work.
+
+Daniel Dines: Our main proposition is automation will make the models more reliable in how AI can help us. I think we’ve become much crisper over the last 18 months. I see actually a new dawn, in a way, for automation. Now, many people realize AI without automation doesn’t really get to the full benefit of AI. And to quote one of, uh, our long time customer, uh, he said to me recently, “Daniel, we talk a lot about AI, but most of the time, we end up talking about automation.”
+
+Roelof Botha: To prioritize the company’s integration of RPA with LLMs and ensure the business remains relevant in the AI era, in January 2024, Daniel decided to step away from his position as CEO to take on the role of Chief Innovation Officer.
+
+Daniel Dines: It was very helpful for me, considering all the evolution of AI, to be there, to put my mind completely there. 
+
+Brandon Deer: Daniel had some time as the Chief Innovation Officer of the company where his primary domain, his primary, uh, effort was spent on all things products and engineering. And I think that was a really incredible opportunity for him and for the company for him to get extremely deep into the weeds in a domain that he’s super passionate about. I think the things that Daniel has been working on for the last year around semantic automation, around agentic AI, Process Orchestration, these are the things that are probably going to shape the future of the company.
+
+Daniel's Return as CEO
+Roelof Botha: But with Daniel focused on product innovation, it was a rocky period for the company’s leadership team.
+
+Daniel Dines: It was an old guard versus new guard type of, you know, dynamic in the company, which was kind of not very healthy. I got a little bit disconnected also from customers, from partners, doing all this. And the company has become more and more siloed — not that we are not talking, but I think somehow organizations mimic the leader. 
+
+Roelof Botha: To mend divisions and propel the company in a new direction, in May 2024, Daniel stepped back into the role of CEO. The rapid change in leadership rattled the public markets, and UiPath’s stock saw a steep drop in share price.
+
+Daniel Dines: The last two months were probably some of the toughest — maybe the toughest. It was, it was a different order of magnitude from 2019. Talking to investors after our earnings call, it was really some of the toughest moments. It’s the disappointment of people that put the trust in you, it’s to me, it’s extremely hard to, to get over it. But, at the human level, it’s terrible. But at an intellectual level, I think we are doing the right thing.
+
+I think that my returning as the CEO reinvigorates a bit. For us as a company, maybe it’s the, it’s the best move. We can move faster. I can connect faster. I can break the silos. To me, there are no new people or old people — it’s just one. 
+
+We are, uh, we are putting the company back on track. And of course, it’s going to take, it’s going to take, you know, a few quarters until we’ll see the results, but we are seeing the early signs in the company.
+
+Brandon Deer: I think we’re all super bullish on the future of the company. We made a number of refinements to how we build, where we spend time, how we ship. And I think our product strategy has really honed in on something quite special for the future.
+
+Reflections on the UiPath Story
+Roelof Botha: Today, UiPath has 10,800 customers in over 100 countries. It continues to be the leader in RPA. 
+
+Brandon Deer: I think UiPath today in many respects is special because it has the same values that Daniel had set forth all those years ago. It has the same mission: people no longer need to be stuck in those keystrokes, in those mouse clicks, moving data between systems and different end applications. And that allows them to focus on higher-level, more strategic thinking.
+
+Luciana Lixandru: We always joked in the earlier days that UiPath was a 10-year in the making, overnight success. It is the largest enterprise software company coming out of Europe in the last decade or more. And one may expect this company to start in London, or Paris or Munich, and that wasn’t the case. The company started in a, in a pretty small country in Eastern Europe that doesn’t have a developed technology ecosystem. And from there, Daniel and the team found their way to global domination in RPA, and to winning not only in Europe but winning in the U.S. as well. And I think that’s really inspirational. And to this day, founders come and want to talk to me because they think that that’s a really great story. And because Daniel is such a role model, and because they showed that, you know, with great people with the right ambition, you can build something great from anywhere. 
+
+Daniel Dines: I think no crucible moment will look the same. To me, I think it’s essential to be surrounded by, uh, by people you trust — board members, your executive team — and, uh, collectively go through these moments. It’s so important to, to come together, and talk and really in all goodwill, find solutions. 
+
+Even if it’s sometimes, it’s the wrong direction, but by moving, you learn. And then if you have the will to course-correct, you’ll find eventually the right way. 

@@ -1,0 +1,364 @@
+Drew Houston: Right after stepping offstage, I throw my jacket on the ground or something, and my phone’s ringing. And it’s my mom. 
+
+And I’m like, “Why is my—oh wait,” I’m like, “Oh wait, yeah, this is all, like, a live-streamed. Not just, it wasn’t just the people in the audience that saw this. It was, like, literally everybody’s parents who works at the company just saw this, like, complete meltdown.” And I’m like, “Oh my God, am I going to be, like, fired? Is the company dead? Did we, did I just, like, torpedo the company?”
+
+Introduction
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha. 
+
+In 2008, Drew Houston and Arash Ferdowsi launched a file-syncing product called Dropbox. Dropbox emerged right at the threshold when people were transitioning from one device connected to the internet to multiple. The company would go on to define the cloud-based storage and file-sharing market, offering users a simple, elegant product that stitched together their digital lives. 
+
+Today, Dropbox serves over 700 million registered users around the world with $2.5 billion in annual revenue.  But to get there, the company ran the gauntlet, with forces threatening to crush it at every turn. Dropbox had to compete with the world’s biggest tech giants, re-focus its priorities after a period of viral growth and ensure its longevity with a “bet the company” feat of engineering. 
+
+Drew Houston: My name is Drew Houston, and I’m the Co-Founder and CEO at Dropbox. 
+
+The inspiration for Dropbox was I just kept forgetting my thumb drive. 
+
+And I had started a different company before Dropbox called Accolade doing online SAT prep of all things. And I had kind of a niche problem in that I needed to work on that company across different computers. And so, I’d have, like, a desktop at home and a laptop, and a thumb drive is kind of the best way to, to move my work around or kind of move the whole company around. 
+
+And I just graduated from undergrad, and a lot of my friends had moved from Cambridge to New York and enticed me to go visit.
+
+When I sat down and opened up my laptop on the bus, I realized that something was wrong, and I had forgotten my thumb drive. And that was really the start of it. I was just so frustrated. I’m like, I never want to have this problem again. And so, on that bus ride, I just started coding and kind of planting the seed.
+
+I had no idea what it would become, but that was the, those were the first lines of code that eventually morphed into Dropbox. 
+
+It was funny because I was really interested in getting into Y Combinator but, like, to get into Y Combinator, there was sort of a challenge—just getting their attention to begin with. I ended up making the first of a series of kind of viral videos engineered to attract attention because I sort of worked back from, like, what does Paul Graham do all day?
+
+Probably not that different from the rest of us, which is just refresh Hacker News dozens of times every day. So I made a little video, kind of a video demo of the prototype, and it stayed on the top of Hacker News for two days. And then, sure enough, I got an email from Paul saying, basically, “Your idea looks pretty cool, but you need a co-founder if you want to get into Y Combinator.” And then the deadline to apply for that batch was only a few weeks away.
+
+So, you know, in essence, I got an email from Paul saying, like, “I know you’re not even dating, but you need to be married in two weeks if you want to get into the batch.” So that set off this frenzied search for a co-founder. And a lot of co-founder stories start with, “Oh, we were, you know, we played T-ball together and met in, you know, first grade.”
+
+Arash and I didn’t even know each other. I mean, we went to MIT together, it turned out, but had never met. That said, we had a mutual friend, and he introduced the two of us.
+
+Arash Ferdowsi: You know, I, I met Drew at the student center at MIT, and he had this early prototype of Dropbox, which I was blown away by. It was really simple and elegant, and I was impressed that he had sort of put it together so quickly.
+
+My name is Arash Ferdowsi, and I am Co-Founder of Dropbox. 
+
+Drew Houston: We just had a couple conversations, and he’s like, “Yeah, this sounds cool.” And then, um, basically he dropped out of college a few days later.
+
+Arash Ferdowsi: The most difficult part of the process, honestly, was, was convincing my parents to, to let me drop out. They were, uh, definitely concerned at first.
+
+You know, is, is something wrong? Why would I want to leave, leave MIT? It was my dream to go to MIT. But, you know, it honestly didn’t take more than, you know, a couple more hours before I knew that this was something I had to do.
+
+Drew Houston: The two of us just threw in together, flew out to the interview in Mountain View for Y Combinator and got in. And then first thing that happened after getting in is we went out to our rental car and realized our laptops were stolen because someone broke into our car—but our stuff was on Dropbox, so it was okay. Actually happened. 
+
+Dropbox Pitches Against the Odds
+Roelof Botha: As Drew and Arash pitched Dropbox for seed financing, most investors didn’t share their enthusiasm. 
+
+Bryan Schreier: If you rewind back to 2007, around the time Dropbox was founded, I’d say there were dozens of would-be cloud storage companies. 
+
+My name is Bryan Schreier, and I’m a Partner at Sequoia. 
+
+It was a time when storage as a business had gone through, you know, an extreme commoditization. So any, any business with the word “storage” attached to it was going to have a really hard time raising money from early-stage investors.
+
+Arash Ferdowsi: There were a lot of companies in this space—companies that had tried to build businesses out of backup products, sync products, version control. So what, what was different about Dropbox and why we would succeed when there were so many companies in the space?
+
+Roelof Botha: In addition to direct startup competitors, there was also the threat of the behemoths—companies like Apple, Google and Microsoft. What was stopping them from building something just like Dropbox and leveraging their powerful distribution?
+
+Drew Houston: When we met with investors, pretty common responses of “This isn’t a very good business, and it seems competitively doomed because aren’t Google and Microsoft and Yahoo and everybody else going to do this?”
+
+And I was like, “Yeah, I think so.” But like, my first angle into this problem was more as a frustrated user than as an entrepreneur. I was just like—because I tried all these other tools and they didn’t work. They had real reliability problems and design problems.
+
+So investors would raise a lot of these concerns. But at the same time, I asked investors, I was like, “I know there’s a lot of tools out there that claim to do this. Do you use any of them?” And they said, “No.” And I said, “Isn’t that interesting?”
+
+And, I mean, I think we were always living under the sort of shadow of the hammer of “When’s Google gonna launch Google Drive?” And that was even rumored before we had started. And “When’s everybody else gonna launch a competitive product?” But I recognize from a lot of my past experience that it’s really hard to build a cross-platform file-syncing system and cloud service reliably. And so, I think, coming back to the question of “Do you use any of these services?”, they said, “No.” And I thought, “That’s interesting because it’s representative of an opportunity. Maybe the time has come for something like this.”
+
+Building Trust and Simplicity
+Roelof Botha: Drew and Arash dove into refining Dropbox. They were well aware of their competitors and of how prior file-syncing products had let their users down. The founders were determined to hold Dropbox to a higher standard. 
+
+Drew Houston: Things like engineering rigor, and correctness and getting the details right were really important. Dropbox was one of those mission-critical-type engineering challenges where you can’t have a bad day. 
+
+Arash Ferdowsi: There definitely was a lot of pressure to get it right. People were entrusting us with their most important information—um, whether it was personal memories or critical sort of business information. 
+
+And we viewed it as, as completely unacceptable, you know, to ever lose data, to ever lose a change to an important file. And a lot of competitive products were really sloppy in, in this regard.
+
+And so, people would just not trust them.
+
+Drew Houston: Another problem with the existing nascent cloud storage tools was that they were really hard to use or had a lot of—a lot of knobs and dials you had to configure.
+
+And so, we really thought a lot about how do you make the user experience as simple as possible, because this is a concept that’s going to be pretty hard for people to understand. And Dropbox wouldn’t spread as a concept unless it were easy to use. 
+
+And so, Arash and I both intuitively understood that and really valued it highly, and then so did the early team that we hired.
+
+The Critical Technical Innovations Behind Success
+Roelof Botha: In addition to unfailing reliability and useability, there were other critical technical decisions that set Dropbox up for success. 
+
+Bryan Schreier: There were two major innovations in the very early days of Dropbox that enabled them to compete with enormous companies, despite the fact that they were a small startup. 
+
+The first was they were one of the very first companies to standardize on Amazon’s Web Services for their infrastructure. This was a time when Amazon Web Services, also known as AWS, was very new, and, you know, most technology executives were very wary of the idea of outsourcing their infrastructure to another player. But for a startup like Dropbox, the opportunity to pay as you go, uh, instead of racking and stacking servers, was a huge opportunity to build the company that they envisioned without having to raise hundreds of millions of dollars out the gates.
+
+The second major innovation in terms of technology on the back end of Dropbox is they did something really, really smart. Drew and Arash came up with an algorithm that took advantage of the fact that there are only so many unique files out there. And so, what I mean by that is if I share a PDF with 10 people, the previous cloud vendors might’ve stored that 11 times—one for me and one for each person that I shared it with. Dropbox is going to store that one time but then write the software to know that, that file is something that 11 people, different people have, thereby their storage costs are one-eleventh of what a less smart solution might have been. 
+
+And so, this dramatically decreased these costs of getting Dropbox started and enabled them to compete with players who had much, much more scale. 
+
+The Journey to Attract Early Users
+Roelof Botha: In the fall of 2007, impressed by the product and the prowess of its founders, Sequoia led Dropbox’s seed round.
+
+But faced with encroaching competition from day one, the company’s promising technology meant nothing if they couldn’t rapidly attract a critical mass of users.
+
+Bryan Schreier: One of the most important questions for early-stage startups, especially in the consumer world where Dropbox started, is how are you going to acquire users? If a company can’t gain users, it’s a failure to launch. You never got lift-off. And so, this is pretty important. How are you going to get this product into the hands of the right users? And it’s something that many founders will feel a great deal of stress about. 
+
+You can’t just plan to pay for users because that doesn’t scale. 
+
+Roelof Botha: While in private beta, Drew and Arash began to think critically about how to tackle this crucible moment: how would they quickly get a meaningful number of people to actually use Dropbox? 
+
+Drew Houston: I read a lot of books, and a couple of the books I read—one was Guerrilla Marketing, which is basically how do you do marketing or attract users when you have no money—and second was Crossing the Chasm by Geoffrey Moore. It’s about how technology is adopted. And, basically, there’s an early adopter set, and there’s sort of the general population. And our first step was, “Alright, let’s go get the early adopters.” So that’s where that Hacker News video came from.
+
+And then that worked so well, we did that again. And so, we made another video where it was really designed for the kind of Hacker News, Reddit, Slashdot, Dig audience. It was—the title was, like, total link-bait titles like “Google Drive Killer Coming from MIT Startup” and putting all these little Easter eggs in there about Tay Zonday and “Chocolate Rain” and, you know, there’s a YouTube guy, and the HD DVD decryption key, so that when you were watching it, it sort of looked like a deadpan screencast of “Here’s Dropbox and here’s how it works,” but when you were paying attention you found all these little Easter eggs that made you want to share the video or like it or engage.
+
+The day before we launched the video— and maybe 5,000 people on the beta waiting list—we went out to some, like, chain Italian restaurant in North Beach and were placing bets on this, on this video we were going to launch the next day and how many users we would get. And the most crazy estimate was we’d get 10,000 new signups or get up to 15,000 on the waiting list. 
+
+And we put it up there and it got to 85,000 within the first day.
+
+That was successful way beyond our wildest imagination. But we also had this feeling it was kind of unprofessional. There’s only so many funny videos you can make about file syncing. Right, so we needed something that could really scale. And after we started raising some money—after we had like a million dollars in the bank—we’re like, “All right, we have to, like, grow up a little bit and do, you know, capital ‘M’ Marketing.” 
+
+And, and, and so we’re, “Let’s go buy a bunch of AdWords. Let’s go hire a PR firm. Let’s go do these big deals.” And the truth was we tried a lot of stuff, but very little of it worked. 
+
+Arash Ferdowsi: We tried partnerships with sort of PC OEMs, you know, affiliate programs, things like that, and a lot of those efforts either required a lot of engineering bandwidth or just didn’t materialize the way we hoped.
+
+Drew Houston: The press wasn’t that interested because we were just one of a bajillion startups in the cloud storage space at the time, and none of them were particularly successful. We were buying AdWords, but it sort of made the other problem obvious: when people don’t know about your product, they’re not searching for it on Google. And ironically, people—the early adopter, the tech early adopters—who were searching for, like, Windows file synchronization software were actually pretty bad customers because the first thing they would do is ask for, like, 25 different knobs and dials that would have made the product unusable for normal people. 
+
+From Demo Disaster to Viral Growth
+Roelof Botha: The team knew that any attention from its two viral videos was rapidly fading; they desperately needed another avenue to boost user growth. Luckily one was on the horizon. 
+
+Bryan Schreier: Silicon Valley is quite an echo chamber, and prestige really matters. And in 2008, the TechCrunch Disrupt Conference was the most important event for startups that were launching. Dropbox was invited to pitch their startup. They were one of just 10 or 20 different companies that was put on the main stage for this event. 
+
+Arash Ferdowsi: Disrupt was basically our public launch moment. So we had really rallied the team around working through a bunch of bugs and new features, and that was really going to be the company’s big moment.
+
+You know, we, we got a lot of users on our waiting list from Digg, and I think we, we thought this would be a similar moment where if we won Disrupt, we would get a bunch of users out of it. 
+
+Drew Houston: It was stressful because, you know, not only are we unveiling Dropbox really publicly for the first time, we’re also making the service live. So we had to make sure all the servers were ready. We’re going to turn on monetization. We’re going to launch a Linux version. We’re going to have these paid accounts that have a lot more space. So we’re just going to be putting a lot of stress on the system. So I think Arash and I maybe got, like, two hours of sleep the night before. 
+
+Bryan Schreier: And, you know, Drew and Arash got up on stage; they had prepared incredibly well for the presentation that they were about to make.
+
+The easiest part of that presentation was going to be the demo, because Dropbox never fails. Well, guess what happened? 
+
+Drew Houston: I’m walking through the story. I’m like, “This is Dropbox, it’s a folder. Anything you put in here shows up on all your computers. All you have to do is drag a file in. I’m going to drag a file in here on my computer and then point it over at Arash.” And I’m like, “As you can see, it shows up on his computer.”
+
+And then I look at the screen, and I’m like, “It doesn’t seem to be showing up on his computer, does it?” The longest 15 seconds of my life.
+
+Arash Ferdowsi: It was definitely crickets in the audience. Drew was waiting for the file to sync, and I, I don’t think we had really thought about that scenario. And so, yeah, it was, it was not great. 
+
+Drew Houston: I could just hear clicks, which were the, the shutters of cameras kind of memorializing every tenth of a second of this meltdown. 
+
+Bryan Schreier: It wasn’t Dropbox’s fault; the Wi-Fi had gone out at the conference. So it was just horrible, horrible timing.
+
+Drew Houston: It was really just like, “All right, you know, we have our one shot,” and it was probably one of the worst demos that that conference had ever seen. Right after stepping offstage, I throw my jacket on the ground or something, and my phone’s ringing. And it’s my mom. 
+
+And I’m like, “Why is my—oh wait,” I’m like, “Oh wait, yeah, this is all, like, a live-streamed. Not just, it wasn’t just the people in the audience that saw this. It was like literally everybody’s parents who works at the company just saw this, like, complete meltdown.” And I’m like, “Oh my God, am I going to be, like, fired? Is the company dead? Did we, did I just, like, torpedo the company?” You know, my mom’s like, “Oh, yeah, don’t worry about it. It’s gonna be okay.” I’m like, “Mom, it’s really, like, not going to be okay. Like, I don’t know what to tell you.”
+
+Bryan Schreier: The TechCrunch Disrupt demo failure ended up being one of the most important early moments for the founders of Dropbox.
+
+Drew Houston: A friend of mine called me, and he was like, “Drew, people are going to react to this how you react to it. If you’re freaking out and losing it, everybody’s going to freak out and lose it. If you’re like, it’s fine, let’s just keep going, people are going to be like, it’s fine, just keep going.”
+
+And I just remember the sound of putting my key in the door after walking up the stairs—like, the key into the office and the sound it made— and just opening the door and seeing everybody looking at me and Arash after this total failure of a demo. And I’m like, “All right,” I just, like, put this kind of mask on. I’m like, “All right, guys, like, how are the servers?” They just pretended, like, didn’t pretend, like, nothing happened, but tried to sort of move on. 
+
+Arash Ferdowsi: I think, uh, you know, it was definitely a setback, and we were worried about it at the time, but we sort of quickly shifted focus to just making the product better and really understanding how to engineer virality.
+
+And I think above all, what worked better than any other thing that we tried was the referral program. 
+
+Drew Houston: Our referral program was: if I tell you about Dropbox, it was this two-sided incentive where you would get some free space; I would get some free space. And that was inspired by an incentive program from PayPal where they’d give you five bucks in cash basically if you would, if you signed up.
+
+And the two-sidedness was actually me misremembering. I thought maybe both the sender and receiver would get five bucks if they signed up for PayPal. I don’t think that was actually true, but I said it as if it were true a lot, and that’s what we did, and it worked super well. I mean, we went from, like, 100,000 to 200,000 users in the first 10 days.
+
+Arash Ferdowsi: We were, we were blown away very early on just how successful the referral program was. I think that we basically doubled our growth rate overnight, and then as we made optimizations, it just kept compounding. And so, we were just growing faster and faster. 
+
+Drew Houston: I mean, one of the things we learned early is viral growth is an exponential game, and it’s also a game of inches, where reducing friction in every step of that flow—from I start using Dropbox, I share a file with you or I send you or send someone else a referral, and then they have to sign up and then around the loop goes. It’s super important to remove as much friction from that and maximize the yield at every step of that. 
+
+And so, we were always sanding down all these little rough edges of how do we increase the email deliverability a little bit, or let’s try different color buttons or let’s try to remove a step here. 
+
+Arash Ferdowsi: We were big fans of just getting people off the street and off Craigslist to test a lot of our key flows. We learned a lot through just having people come in, and we got a lot of really helpful feedback from those studies that we use to iterate on the product. 
+
+You know, we were a bunch of engineers from MIT, and so, I think we just had a pretty skewed perspective of what, you know, what people understand about how software works and people’s mental models around the file system and files and installing things. So, you know, it, it helped us understand what we needed to do to make those flows as simple and intuitive as, as possible. 
+
+Drew Houston: Once we got the viral loop started, it didn’t stop. We had this little office above the Walgreens on Kearney Street, and every time we hit a user milestone, we’d put a new printout of 5,000, 10,000, 50,000, 100,000, and then at some point, we got to 200,000, 500,000, 1,000,000, 2,000,000, and then, then we just had to, like, keep going on the ceiling. 
+
+And kind of like that feeling of getting, like, pressed in the back of your seat when, like, pressing the gas in a fast car or something. We’re just like, “Oh man, this belongs to the internet now.” 
+
+Bryan Schreier: It was really hard to think of another company that was growing this fast. And what really surprised us was how fast it was growing, given its category. This wasn’t a social network. This was a company that helped you access your files, information and share that with your friends. One of the most unique attributes of Dropbox history is they were cash-flow positive almost immediately after their public launch, and this was just unheard of at the time, and it’s very rarely repeated. You know, it’s hard to think of another company that launched like this. 
+
+And being cash-flow positive is a superpower for companies, especially for startups. It enabled them to scale the team; it was the ultimate validation that this was a great success and a real business. On top of that, being cash-flow positive early on put Dropbox in the driver’s seat in terms of its fundraising strategy. It meant that they didn’t have to raise if they didn’t want to. And so, when they did want to raise, they set the terms, and they did it quickly.
+
+On top of that, when they raised financing, they were able to do it in a way that was just much less dilutive than your typical startup. 
+
+And that was really meaningful for the employees at Dropbox who really deserved it.
+
+The Battle Against Big Tech
+Roelof Botha: Dropbox’s growth had exploded, crossing 3 million users in 2009 and 50 million in 2011. But this success put the company squarely on competitors’ radars.
+
+Bryan Schreier: Google and Microsoft, and Apple in particular, had a very close eye on the company. So in many ways, it was a race for Dropbox to continue to scale while front-running the efforts of the larger companies to cut off its growth.
+
+Sujay Jaswa: And then, of course, it all got capped by, by the Steve Jobs announcement. 
+
+My name is Sujay Jaswa and I was the Vice President of Business and Chief Financial Officer of Dropbox. 
+
+In June of 2011, in his last big speech, Steve Jobs announced iCloud. And the way he announced it was he said, “What are you all using today? You know, your Dropbox or something. We’re going to change everything.” I’m paraphrasing, but not, not a lot. And he then announced that when iCloud launched, it was going to be effectively our five-year product roadmap, and that was going to happen in September. 
+
+And so, we’re this tiny company, um, you know, again, off to a good start, but, but a lot of things were challenging at that moment in time and fairly stressful. You know, the question, you know, most investors are asking themselves in startups when they’re evaluating them is, “Is some big company going to roll over and kill this company by announcing a new product?” And certainly, it felt like there was a pretty good chance of that happening in the summer of 2011.
+
+Expanding Horizons into New Products
+Roelof Botha: To position itself against competitors, Dropbox decided to follow the playbook of other ambitious companies and unlock the next phase of growth by moving into adjacent territories with new product offerings. To do this, they embarked on a series of acquisitions. 
+
+Drew Houston: We bought a company called Mailbox, which was the first mobile email client that really started to scale. They had a waiting list that had a million people on it. We hadn’t seen that. 
+
+Sujay Jaswa: Mailbox had really pioneered a lot of user interface and product features that were delightful from a user standpoint. It made managing your email so much better. 
+
+Drew Houston: Like you’d be, being able to swipe on messages to archive them or snooze them, and just a lot of the basics of how you make a great mobile email experience. 
+
+Sujay Jaswa: You know, we had been talking for years at that point about being a multi-product company—think of it as like what is the mobile version of Microsoft Office? And we had never actually at that point launched a second product successfully. And so, Mailbox was a real chance to demonstrate the business strategy at work in a way that we hadn’t done before.
+
+The Rise and Fall of Carousel and Mailbox
+Roelof Botha: In addition to Mailbox, the company acquired the photo-sharing service, SnapJoy. The team used SnapJoy as a foundation to create what would become a product called Carousel.
+
+Drew Houston: We started building this new photo app called Carousel because, especially as people are now taking more photos on their phone, in a lot of cases, those photos would kind of go nowhere and kind of wait to die because you, your, the photos were not backed up to the cloud. You know, if you broke your phone or lost it, you had to, like, manually sync these things.
+
+And so, sort of back to a lot of the problems that we had started with, and I was really excited about the concept of, you know, you should be able to have your whole life in your pocket. You shouldn’t just be limited to the, especially back then, very, like, primitive amount of storage on the physical phone.
+
+And that was a really fun period because, you know, 2014, maybe seven years into the company, where I’m on stage talking about how we’re going to reimagine photo sharing. We had a lot of things on the productivity side—Mailbox was an example, but there was a lot of stuff with Dropbox itself.
+
+And getting up in front of this super enthusiastic audience and making all these pronouncements about the future in Dropbox and all these new directions we were headed. And yet, it was clear that as every month passed after that, it was clear there was a reckoning coming for us. 
+
+Sujay Jaswa: I left Dropbox in early 2015, but, so Drew and I are very close—personally and professionally. But at that time, he and I, you know, we’re busy and we didn’t really talk much about business at all for a few months.
+
+And then, uh, he and I went on vacation together and he was like, “Hey, by the way, I haven’t caught you up on the business in a while. Let’s, uh, let me catch you up on it.” And I said, “Great.” And I remember this vividly.
+
+He pulled out, basically, the P&L and I was like, “Oh boy, what happened? Like, you know, this is a different, this is a different company than what I just left nine months ago.”
+
+Revenue growth had slowed meaningfully, and expenses had grown out of control. And so, you, you had this thing that at the core was one of the greatest software businesses ever, I think you can say. And all of a sudden, it on paper, it didn’t look great at all.
+
+Drew Houston: We were slowing down a little bit, exiting hyper-growth mode. And then, a lot of the tactics we were using to grow as fast as possible—kind of growth at all costs—were kind of no longer the right gear for the company. Because when you looked at our P&L, we were, like, hemorrhaging hundreds of millions of dollars a year.
+
+So we had to figure out, like, “What do we do?”
+
+Arash Ferdowsi: There were a lot of conversations around Carousel and Mailbox and whether the strategies made sense, and whether the product were working and whether there were sort of viable business models for them. 
+
+Sujay Jaswa: The issue with Mailbox was that it had not really taken off the way we had hoped. And Apple Mail and Gmail had sort of copied a lot of its initial breakthrough, you know—kind of, like, awesome features. And so, it just didn’t have a life of its own at that point. On the Carousel side, it had just never cracked the distribution piece of the equation. We had just not been able to get a massive audience of people to use it.
+
+Drew Houston: You know, competition is often not like a shotgun. It’s more like a boa constrictor, where they’re just going to keep coming at you and keep going and keep going. So, the first several months after the launch of Carousel and Mailbox, I just had an increasingly unsettled feeling that Dropbox was in trouble.
+
+Google Photos had just launched, and, you know, the company was looking to me for some answers as to what the hell are we going to do.
+
+It’s becoming pretty clear that, um, a lot of these things that I had said were the future of the company were, like, kind of dead out of the gate.
+
+How Dropbox Found Its Focus
+Roelof Botha: Dropbox had invested time and resources in Carousel and Mailbox, but they weren’t finding the traction the team had expected. The business was suffering, and so the question was how to move forward—a true crucible moment.
+
+Bryan Schreier: Carousel, in particular, was Drew’s baby.
+
+Arash Ferdowsi: Carousel was really his vision; he was really passionate about it. One of the roles that I had to play is to just be really candid with him about what people’s concerns were and what I thought that we should do. And, uh, you know, that was never a fun role to play. But I think Drew did view me as sort of a truth-teller and while in certain cases I would tell him things that he wouldn’t want to hear, I think he always knew it was coming from a good place.
+
+Sujay Jaswa: Ajay, who was I think at that point the CFO, and Dennis Woodside was the COO, and Bryan, we were all kind of like all hands on deck to, to try to support Drew and figuring out what to do next. And Drew, to his credit, I mean, he made the tough decisions that were required to, to get, to get the business back on track and be a great business.
+
+Drew Houston: A friend of mine reminded me of a, a page in a book called Only the Paranoid Survive, which I had read and then reread over that Fourth of July, uh, 2015. And basically, what it says is CEOs, when they’re going through some kind of inflect, strategic inflection point for their companies, often want to, like, hedge and have lots of options.
+
+But really, what you want to do is focus and put all your eggs in one basket. And then per the Mark Twain quote—“Put all your eggs in one basket and watch that basket.” And the book, it’s really about the story of Intel going through something that actually is pretty similar, where Intel didn’t start out in microprocessors; they started out as a memory company. And suddenly, competitors were catching up in a much faster rate, and customers were abandoning them suddenly and they knew they had a problem.
+
+And there’s this scene in the book where Intel had memory business and they had this nascent microprocessor business, but the microprocessor business was basically zero. And they’re basically confronting the question of like: if we were consultants to ourselves, what would we do? And they said like, “Well, obviously we’d get out of the memory business and put all our chips on this sketchy microprocessor thing.” Sounds easy, clearly worked in hindsight, but, you know, it’s like Google saying, “We’re going to get out of the search business.” Right? Or like, Dropbox is kind of getting out of the storage business. Like, what is that? How do you even do that? But what I took from that was like, “We really need to focus,” and I, I really had to think about, like, “Why, why does Dropbox need to exist?”
+
+We thought about Dropbox as a place to sync your files, but some customers, when we talked to them, were like, “Yeah, I don’t really, I mean, yeah, Dropbox is my, but I don’t think about Dropbox as keeping my files in sync. I think of Dropbox as keeping my team in sync. Dropbox is, like, where I go to work. It’s like my studio. It’s like my workspace. It’s like my office, and it’s awesome. I can work from anywhere. I can collaborate with all these people around the world.” And they just gave us, like, very different metaphors for how to describe what we did, and I was like, “I think we can build on this.”
+
+I’m like, “We definitely need to focus on collaboration.” But what that really meant was we’re not going to focus on storage, we’re not going to focus on consumer. And so, the implication of that was I had to go back home, and be like, yeah, the next day, and called in all hands and said, “We’re going to shut down Carousel. We’re going to shut down Mailbox.” 
+
+Bryan Schreier: The hardest part of shutting down a product is the team that’s working on the product. It’s not because you’re going to let them go or something like that; it’s because it’s a public acknowledgement within the company that the product didn’t work. And oftentimes, there is a big difference in perception from outside the company than from what people inside the company think. You know, oftentimes, by the time you get to the point where it’s, it’s the moment to shut down a product, everybody inside the building is waiting for you to do it and thinking, “What took you so long?” But outside the building, the critics pass judgment and just focus on failure.
+
+Sujay Jaswa: The press was an interesting thing for me to observe from the outside. A lot of the press was oriented around “$10 billion company that isn’t good.”
+
+Drew Houston: The press kind of latched on, and, you know, we were the first “dead deck of corn,” and those kinds of articles started coming out and, you know, just couldn’t really get the monkey off our back for a while. And then that made recruiting really difficult and, and sent us into a bit of a tailspin. 
+
+As painful as it was, you know, following the recommendations of the book, like—“Don’t hedge, just shut everything down”—we need the company to focus. It was an extremely painful but ultimately necessary decision. But there was a lot more work to do. 
+
+Arash Fardowsi: Once we killed Carousel on Mailbox, we just had a lot more resources and ability to focus on, on collaboration and work-related use cases. And so, we, we focused on those use cases and really started to dig into what the most important workflows were around Dropbox and how we could make those better.
+
+That meant things like improving the document previewing experience or, or commenting workflows, you know, adding more sort of knobs and dials around document sharing. And so, you know, a lot of these things were things that people had been asking for, for, for sort of years, but, we just weren’t able to sort of get around to.
+
+Drew Houston: Being able to shed that part of the business meant we could really clean up a lot of the fundamentals. And so, pretty shortly thereafter, we, we set a course to be free cash flow positive in 2016, and we actually managed to do it. So we were able to drive a lot of change pretty quickly, but it did represent kind of getting out of our teenage years, reaching the end of our teenage years as a startup, and really having to professionalize the company, and bring in experienced management and grow up in a lot of ways.
+
+Bryan Schreier: One of the things that I would say is that before Dropbox, the bar for business software was really low. Those of us who around a couple of decades ago probably remember when there was a dramatic difference between the software that came with your Mac and the software that you had to go use at work. And one of the reasons Dropbox accessed the business market was because people realized that they should have just as good a software and just as good of an experience off at work, if not better, because they’re paying a lot more for it.
+
+And so, it’s one of those moments where Dropbox wiggled its way into a new market and they really changed expectations for business software forever. Now, if you’re at work, you expect the same or better experience from Dropbox, or Figma or Notion as you would from the apps on your iPhone and you won’t tolerate any less. I think that we have Drew and Arash to thank for that.
+
+Building Magic Pocket
+Roelof Botha: One of the enabling technologies for Dropbox’s initial success was the emergence of cloud infrastructure with Amazon Web Services. But a handful of years into Dropbox’s journey, the company reached a scale where it began to consider whether this dependence was a liability.
+
+Bryan Schreier: Dropbox had been founded on the realization that a startup could compete in a scale game by building on top of Amazon Web Services, building on someone else’s infrastructure. 
+
+Arash Ferdowsi: In the early days, that was really helpful because it allowed us to focus our engineering on just improving the product, you know—building apps on multiple platforms and just generally being able to move as quickly as possible.
+
+But eventually, storage was just such a core part of what Dropbox did that we, we realized we could both build a better user experience, but also save a lot of money if we built our own infrastructure. 
+
+Bryan Schreier: What we realized was that controlling the infrastructure would allow us to build in a way that would make it impossible for anyone else to compete on the cost and ultimately would lead this thing to being a 70 to 80 percent gross margin business, which, you know, which makes it look a lot like a pure software company.
+
+Drew Houston: I think the same kind of, you know, twenty-something hubris that led us to go launch into fighting with these guys in the first place on the app side of Dropbox, plus a lot of the engineering horsepower that we brought to solving the first problem, we’re like, “Why can’t we do this ourselves?” And so, we started this initiative called Magic Pocket to try to see if this was possible for us to be self-hosted. 
+
+Bryan Schreier: Dropbox’s decision to pursue Magic Pocket was perhaps the biggest turning point in the company’s history.
+
+Now it’s one thing if you start a company and build on your own infrastructure from day one, but Dropbox’s scale was absolutely gigantic. It was a huge percentage of AWS’s overall infrastructure, as far as we could tell. We would first have to take the technology risk of trying to create our own infrastructure stack and data centers, and then number two, we would have to run the service mirrored on our own infrastructure and Amazon’s for a period of time, which would cost the company dearly in terms of cash.
+
+So it was a huge technology bet. It was a huge financial bet. And it was a challenge of the scale that the company had not yet faced.
+
+Akhil Gupta: When I joined the server team in 2012, I think we were about five, maybe seven people. And one of the engineers, one of the first engineers at Dropbox, was actually working on this project that I heard was Magic Pocket. And my first reaction was, “Wait, this is not a one-person project. I mean, this needs a team. I mean, who, who thinks that one person can build this massive system by themselves?”
+
+There are handful of systems in the world that exist even today that can handle that scale of data. 
+
+My name is Akhil Gupta. And I was the VP of Engineering at Dropbox.
+
+We could never set up a team of 200 engineers just working on this project, so our approach was to just get the best of the people in the valley, create a small team, and that made it even more daunting.
+
+James Cowling: My initial reaction was skepticism. You know, I initially thought, I don’t think this company is big enough. I don’t think this company has the, the scale to pull off a project like this. But over time it started becoming more and more realistic, more and more believable. 
+
+My name is James Cowling. I was a Senior Principal Engineer at Dropbox.
+
+Akhil Gupta: So the first few years was focused on just building a great team that works very closely with the networking and the data center team to start testing out the idea and figuring out the architecture. And that’s why people like James Cowling, we had a few more folks coming from Google, and some really great, uh, new grads, to create a team of maybe five or six people. And they spent, I would say a year just validating whether the system and the architecture will scale and help us achieve the goals that we are looking. 
+
+When we knew we had the software. We knew that we had the basic shape of what we want to do, I remember going to, um, Sujay—who was I think at that point CFO or CEO—and Drew and Arash and making a case and saying, “Look, this is what we want to do. And this is roughly the amount of money that we’ll be spending.” 
+
+Sujay Jaswa: We had probably $400 million of revenue, $500 million of revenue, something like that at that time frame, and we anticipated the cost of the project, including running the parallel infrastructure, to be something like $300 to $500 million.
+
+So from a financial standpoint, there were elements of it that look like a “bet-the-company-play.” 
+
+Drew Houston: There were certainly people that were skeptical whether we could accomplish this. You know, in principle, like, so many companies were going from their own infrastructure to the cloud, we were sort of going to be like the one, one car on the road going the other direction. But we’re like, “Why not? And, you know, maybe we don’t have a choice. So we better, you know, we better start now.”
+
+Akhil Gupta: We started aggressively building out the data centers, the network, and essentially spending capital, capital that if you don’t use those things quickly, it’s going to get wasted. 
+
+James Cowling: So you can imagine you have a very small team that has to move very fast. We built the main storage system, software-wise, in a period of six weeks, which is almost hard to believe. But we had a prototype written in Python before then; we rewrote the whole thing in Go in six weeks. And we had a big countdown clock in the office above our desks, and we just coded non-stop for six weeks. 
+
+But an additional challenge was we were working with new hardware technologies at the same time. So this is not the kind of situation where you kind of walk into Best Buy and buy a bunch of hard drives. You have to have big, huge, multi-hundred-million-dollar contracts with hardware suppliers. And there’s also just the thing that I loved about it was where software meets the real world. Like, you can have a great idea in theory, but there was a point in time where we were bringing up to 40 racks per day of storage into the data center. And I get a message from the data center team saying, “We can’t bring them in. The loading dock is full. So well, we’re going to go back to the drawing board and rethink about how we’re going to scale up.”
+
+Or there was a point in time where two trucks crashed in one week that were carrying hardware, and we had to keep growing the system or we’d miss this deadline.
+
+The Great Migration
+Roelof Botha: An added complexity was that Dropbox’s contract with AWS was up for renewal. A new contract with higher prices would go into effect in six months. The team set out to beat that timeline to be fully migrated off AWS.
+
+Akhil Gupta: The cost of delaying the migration beyond that six-month window would have been extremely high. And as you can imagine, that means there’s a clock ticking, uh, but we also have to make sure the systems are stable. 
+
+James Cowling: We had to go through, uh, what we constructed ourselves like a proving period, we called the “dark launch.” So we had this little contract of all these requirements we had to hit, and we had to run the system for three months without any operational incidents, without any errors to convince ourselves that we were ready for this. We were mature enough to be able to delete this data from S3. 
+
+Roelof Botha: The team made it halfway through its self-imposed three month target. And then they found a bug. 
+
+Akhil Gupta: You have to imagine where the engineers have been working weekends, nights, uh, and they are seeing that in three months, we will declare victory. And then, they hit a bug. That was a little bit more demotivating for the team. But the team stepped up; I felt proud that they were honest to themselves. They said, “Look, we have a bug. We did sign a contract with the leadership that even if you find a bug—even if it is small bug—and it was a very small bug, by the way, we will reset the clock.”
+
+So they didn’t deviate from that principle of we need to make sure that we do not put our customers’ data at risk. They were disappointed, but it speaks about the resiliency and the team that we had where they said, “Let’s learn from it, uh, put in some more testing and validation.” And then the next three months went flawlessly.
+
+Roelof Botha: In March 2016, Dropbox announced its successful migration off AWS. 
+
+James Cowling: We did have, like, a countdown clock, a big, a big, um, dashboard in the office showing the data moving off S3. And the point in time where the last byte, um, was deleted from S3, there was some group of the company came and celebrated and drank some champagne. I missed this; I was interviewing a new member for the team, and I think maybe that’s a little bit emblematic of how we felt at the time. You know, that was great, and we celebrated for half an hour. And then we looked at each other and said, “Well, I guess we’re going to own this system now.” 
+
+And so, there wasn’t this sense of, “you build it and you’re done,” right? There was a sense of, “We built it, it worked. Now we have to take on the responsibility of maintaining the system and continuing to optimize the system, continuing to scale the system.” Um, and so, maybe there’s an anti-climactic answer that there wasn’t really this big moment of relief, but there was a feeling of satisfaction that we’ve built something that now we have to keep on owning.
+
+Arash Ferdowsi: The decision to move to Magic Pocket was sort of a transformative from a financial perspective. Allowed us to drop our margin significantly, and make us a much more attractive company in the public markets.
+
+Akhil Gupta: So when the company went public, I think it was obvious—to not just the Magic Pocket team, but to everyone in the company—that one of the reasons, one of the big reasons that the IPO was so successful and the company even today is profitable is because of this team. And I would actually say when we went public, the joy, the pride and the sense of achievement this team had was one of the best, it probably was even more than what they had when they finished the migration. Because that was the business impact and the validation that we were working towards for the last four years.
+
+From Files to AI
+Roelof Botha: Today, Dropbox has over two and a half billion dollars in annual revenue, over 18 million paying users and five hundred thousand business customers—a scale few imagined possible back in 2007. The company has continued to develop its services for work and collaboration, including products and tools that leverage AI. 
+
+Drew Houston: What’s happening in machine learning and AI is just super exciting. And I’ve been following it for a long time, and engineering is still my first love. I mean, I’ve been coding since I was a little kid, and kind of back to coding like a little kid on weekends. Um, and in a lot of ways, Dropbox is solving the 2024 version of the problem we started with. Because in the beginning, it was, yeah, I forgot my thumb drive. But the problem I really had is, like, I can’t find my stuff; I can’t organize my stuff; I can’t share my stuff; I can’t secure my stuff. Kind of funny you fast forward to today, it’s like you actually have a lot of the same genre of problem—like, I can’t find my stuff at work, can’t organize it, can’t share it, security challenges. So the problems are the same—the shape is a little bit different. 
+
+So, you know, 100 files on your desktop have turned into 100 tabs in your browser. And for years we’ve thought about, like, why is it easier to search all of human knowledge with Google Search than, like, my company stuff or my own stuff? And Dropbox is really well positioned to solve that problem and it’s a pretty natural evolution for us to go from syncing your files to organizing all your cloud content. And AI and generative AI have opened the door to create some really awesome experiences that we’ve, that I’ve wanted to build for a long time but can actually become real. So the first example of that is we have a new product called Dropbox Dash, AI-powered universal search so it’ll search, not just your files, but your Google Docs, and your email, and your Slack and your Salesforce from one place. 
+
+And, I mean, it’s a fascinating transition from kind of being this, like, hyper-growth thing to this, like, profitable, low growth company, and then investing for growth again and, you know, reaching the top of that one S-curve, trying to grab onto another.
+
+But we’re just in the first inning. There aren’t very many good things about getting older, but one thing that is good is perspective and having been able to see and kind of ride a bunch of different waves, see a bunch of different cycles, and we’re in the most exciting part of these cycles. Because every 10 years or so, the kind of concrete unfreezes and then, you know, old buildings get knocked down, new franchises get built. Everybody’s kind of figuring it out. And, um, that’s the kind of thing I love. That’s the kind of puzzle I love to solve. 
+
+I always think about, all right, you know, a year from now, two years from now, five years from now, what will I wish I had been learning today? And, some things are pretty tough, like, you’re not going to be a great manager or leader in the next two weeks any more than you’ll be a great guitar player or a great surgeon. But, you know, over two years, five years, ten years, you can grow a lot, and so I think, thinking about that exponential learning rate probably makes a difference between the founders that make it and the ones that don’t.
+
+There are different ways to, to keep that learning rate up. I think certainly reading and having a community of people that are going through similar things, having investors was really helpful in helping us navigate a lot of these turning points and focusing our attention on the right things. But however you do it, just recognize, like, that’s a very primary job and, like, how do you cultivate the judgment and wisdom to keep scaling, um, as your job keeps changing every, every year in pretty dramatic ways? 

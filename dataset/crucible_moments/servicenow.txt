@@ -1,0 +1,357 @@
+Frank Slootman: It was much more existential than, oh, you know, we got some tough challenges on our hands. I didn’t think we were going to live through this. This is so huge, so enormous. How do you survive this? Because there are no good explanations. There are no reasonable stories to be told. This is just insanity. 
+
+Roelof Botha: Welcome to Season 2 of Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha.
+
+Picture the office mailroom of the 1970s. In that mailroom were stacks of typewritten forms. A form for expense reports, a form for vacation days, a form for purchase orders, and so on. A few decades later, a programmer named Fred Luddy was determined to reimagine that workflow system for the internet age and the IT departments tasked with managing it. His low code, no code solution would be able to handle anything from reporting a broken laptop to managing the world’s largest particle physics lab.
+
+Today’s episode is about ServiceNow, a cloud application platform for digital workflows. ServiceNow evolved from an IT service tool into a workflow platform that can be used in any department. With this evolution, its market cap has grown to over $150 billion.
+
+Difficult questions and hard choices shaped ServiceNow’s journey. How does one rebuild their life after catastrophe, and devise an innovative idea in the process? When do you know it’s time to hand over the role of CEO for the good of your own company? And how do you decide whether to take what seems like a once-in-a-lifetime offer to sell your company, or take a gamble and remain independent? These are the crucible moments that forged ServiceNow.
+
+Fred Luddy: I’m Fred Luddy and I’m the founder of ServiceNow.
+
+My journey into coding was really, pretty much an unconventional one. I left home at a very early age, right around the same time I got my driver’s license and started working in a factory. In the office part of the factory, a machine came down the hallway that was wrapped in plastic, in this clear plastic.
+
+And I didn’t even know what the machine was, but I followed it, and it went into this room with this white raised floor and people were wearing lab coats. And somehow, I knew that that was the place where I needed to be.  
+
+For a couple of weeks or months, I poked around and tried to find out what was going on in that room and found out that it was a computer, an HP 2100 C and that there were people building applications to do things like payroll and order entry.
+
+I found the passion of my life at that moment. I never really wanted to leave that room until I went to a bigger computer room. And that holds true today.
+
+Roelof Botha: In 1990, Fred became CTO of Peregrine Systems, a company that built some of the first IT service management software. But in 2002, the company faced a major crisis. The SEC would find the company guilty of massive accounting fraud. Peregrine went bankrupt and several of its top executives went to prison for fraud, embezzlement and lying to regulators. 
+
+Fred Luddy: I had all of my net worth tied up in this company and my net worth went from 35 million to zero in an instant. 
+
+Fred Luddy: I had fear because I wasn’t sure what I was going to do next. But then, there was relief because, fundamentally, I didn’t like working there. The year at this point is 2002, you could see on the horizon that there was going to be just a tectonic shift.
+
+Pat Grady: ServiceNow kind of sat at the intersection of two major tailwinds.
+
+My name is Pat Grady and I’m a partner at Sequoia. 
+
+Tailwind number one was as simple as the cloud transition and the benefits that this new business model provided for software companies. The second was a very specific tailwind, which is this thing called ITIL, or I-T-I-L, which stood for IT Infrastructure Library, and it was basically a language for talking about what was happening in IT. 
+
+And it coincided with this broader transition from the heads of IT, the CIOs, being hackers who had sort of gotten promoted up into the role, to being professional business people who were more likely to have an MBA than a CS degree. 
+
+Fred Luddy: ITIL defined different processes for running your IT organization. Largely break/fix, change management, upgrades, application development cycles, security, risk, etc. 
+
+Nobody, to that point, had built something to this ITIL standard. So, there was no set of applications available. So, we ran into I think a perfect storm, if you will, of market opportunity. 
+
+The idea for ServiceNow was that we were going to create a completely extensible, low code, no code platform that would let you build applications with just a tiny amount of technical knowledge.
+
+We really wanted to build something that empowered people that had been previously intimidated by technology stacks. But my heroes were Steve Jobs, and Bill Gates, and Page and Brin and they all started right out of puberty, right?
+
+And all of a sudden, they’re building these great corporations and I’m thinking, what the heck am I thinking trying to build a company, especially starting it after 50?
+
+Doug Leone: Fred was a founder that had been burned before. He had a chip in his shoulder. 
+
+I’m Doug Leone, I’m a partner at Sequoia Capital. 
+
+He wanted to do something special, one. Two, he had domain expertise. So, he knew what he wanted to build. He had crystal clear vision. Those are the best kinds of founders.
+
+Roelof Botha: In 2004, two weeks before his 50th birthday, Fred Luddy launched ServiceNow from his house—with no resources and no sales team to pitch the product. He took to the road, driving up and down San Diego County, looking for prospective customers.
+
+Fred Luddy: I asked people, would you please use our software for free? But I’m asking you, in return, to give us, you know, some kind of feedback on how it’s working. 
+
+We worked with them on a day in, day out basis because we wanted to make sure that they were properly engaged and actually deriving value from the software. And, this turned out to be a really good way of getting into the market. 
+
+Fred Luddy: So, the evolution of the ServiceNow platform was really inherent in its initial design, which was based on simplicity and approachability.
+
+And, this idea turned out to be a fantastic one and a not good at all one at the same time. By not good at all, I mean that we built this platform and it was similar to creating a computer language. What can it do? Well, it can do anything you want. Well, what business problem can you solve for me? Well, what business problem do you have? We’ll solve it for you.
+
+So, you go around in this circle because it didn’t solve a specific business need. 
+
+Roelof Botha: Almost at the outset, ServiceNow faced a crucible decision: How do you take such a general product to market? Do you stick to your broader vision of a Swiss Army Knife solution or do you frame it as something more specific?
+
+Fred Luddy: And so, even though when I left Peregrine, I swore that I would never, ever, ever go back into the IT service management area, it turns out that my definition of never was about nine months.
+
+Roelof Botha: Fred took ServiceNow’s broad architecture and refined it into a help desk replacement tool specifically for IT departments.  But Fred also decided on a seat-based licensing structure with no limit on seats. This way, a company could organically begin using the product  across the entire office, not just IT.  
+
+Pat Grady: So, the product that he had built was, in his words, just a forms-based workflow on top of a database. The specific workflows that ServiceNow was targeting was the resolution and management of help desk tickets.
+
+Doug Leone: You join a company, you get a laptop, you have questions, you want to be integrated to the systems in the corporation… and what you really need is a back and forth forms application to do that.
+
+Pat Grady: Somebody submits a helpdesk ticket, you got to figure out if that incident speaks to some sort of underlying issue, you got to resolve the incident while also inspecting the issue and you got to keep going until you get it fixed. That same basic process of managing things through a workflow, that’s the same thing that you would do if you were tracking a candidate through the candidate pipeline. It’s the same thing you might do if you were tracking a prospect through your customer pipeline. It’s the same thing you might do if you were processing an insurance claim. 
+
+Fred Luddy: It’s eminently more extensible, eminently more scalable, eminently more secure, and at the same time, it’s more approachable. 
+
+Roelof Botha: Using IT as a lever to encourage adoption across the entire organization was a strategy Fred called going wide.
+
+Fred Luddy: We had a couple of different customers that were very much leading edge in showing us this ability to go wide. And probably my favorite one is CERN, which is a particle physics laboratory in Europe.
+
+They offer 4,000 or 5,000 different services to the visiting people. And it could be anything from getting a classroom, getting a whiteboard, complaining that the toilet is leaking or scheduling time on a Large Haldron Collider to do a particle physics experiment.
+
+And CERN built 4,000 of these tiny little applications that serve this entire community, and they came and presented it at our user group meeting. And I think the people that were most blown away were those of us that had built the platform because we thought, my God, this is awesome that they could build these sets of applications.
+
+Roelof Botha: Slowly, the company was growing, gaining enterprise customers like Edmunds and Qualcomm. 
+
+Fred Luddy: And I would say that the thing that told me that the company was going to do well was the enthusiasm that our customers had to make reference calls.
+
+They said, let us talk to your prospects. They actually asked us if they could talk to our prospects. And I had worked in software companies where digging up a reference call could take a month because our customers hated us so much.
+
+<< laughs>>
+
+Fred Luddy: We kept meeting people from the VC community. First of all, they’d come in and assert that they were different. Then, they’d tell us exactly the same story that we heard from the prior person.
+
+And then, they would say, well, listen, you guys are doing great. And they said, let’s keep in touch. And then, they’d leave and we looked at each other, my CFO and I, thought, well, I’m not sure we’re getting any value out of these. So when Pat started calling, like, oh, here’s another one of these people from Sand Hill Road.
+
+Pat Grady: In 2008, I started emailing Fred. 
+
+Three out of four emails went unanswered. And then, the fourth email might’ve been a polite, hey, thanks for thinking of us, but we don’t need any money sort of thing. I think during one of those responses, he said, but let me give you a little update on the business. And the little update on the business was a couple of sentences that basically painted the picture of a business that was thriving. And so, at that point, I transitioned from the, hey, do you want to get on the phone? emails to the, hey, I’ll be in San Diego next Tuesday. Do you want to grab lunch? And of course, if he were to respond, then I would fly to San Diego for lunch. I sent him one of those and he responded, I want to say at 11:30 AM on the Tuesday that I told him I was going to be there and said, yeah, yeah. Do you want to swing by? Are you still open? And I responded immediately and said, ah shoot. My trip got pushed in next week. How about same time next week? And he said, okay, great.
+
+So, Doug and I flew there for a lunch on a Tuesday, which was the first time we met Fred in person. When you talked with him, and this is the thing that really stood out, the clarity of thought and the focus on first order issues was impossible to miss.
+
+Doug Leone: He was hungry. He worked like mad and he was building a great business. And so, it seemed like something we ought to do without much thinking.
+
+Pat Grady: And then, as the conversation progressed, Doug has this magical way of sort of getting a complete picture of a founder and of a business, not just the stuff that they’re eager to share, but also all the stuff that maybe they’re not so eager to share.
+
+Doug Leone: We met Fred, we gave him the pitch of Sequoia. I remember we had a 10 slide pitch. It talked about all the mistakes we’ve made and all the mistakes we commit our companies we’ll not make again, because we’ve seen those mistakes. I remember Fred took that slide and kept it in his binder. And along the way I asked him, what’s the biggest challenge you have now?
+
+He said, keeping our systems up. Our data centers are getting inundated by volume. And I said, I know just the person that can help you. 
+
+And he took the name and the card. And I remember that I got a call from Fred a week later. He said, you’ve already helped me more than my existing investors have helped me up to now. And I knew when he said that we had a shot at becoming investors.
+
+Roelof Botha: In late 2009, Sequoia led ServiceNow’s $41 million Series D round. ServiceNow gained household name customers like Deutsche Bank, Intel and McDonald’s. The company was on a tear, doubling revenue annually, but the problems with outages that Fred shared with Sequoia in their first meeting were only mounting. 
+
+Doug Leone: It was clear to us that the company was being just buried under its own success. The number of customers it was getting was too fast. And it’s probably the only time in my life that I suggested that we slow down growth because I didn’t think the then-management team could absorb the volume of business coming our way. And then Fred, a wonderful founder, you also have a person that’s much happier coding than interfacing with people. And unfortunately, as a Chief Executive Officer, you have to interface with people. He was a visionary, but just left to his own wishes, he’d rather be left in a corner room and code.
+
+Roelof Botha: ServiceNow was at a crossroads. It needed leadership to get to the next level. Where would it come from?
+
+Fred Luddy: After Sequoia made the investment, Doug asks me, Fred, do you want to be the CEO or do you want to be the product guy? Because in our experience, you can do one, but not both. And Fred, we’ll support you in whichever path you want to take, but I don’t think you’ll have the bandwidth to do both. And I took this under advisement and did absolutely nothing.
+
+Pat Grady: We did have an idea for a process that we could run to help him figure it out. And so, we brought Fred up to the Bay Area to meet with a bunch of people who were executives or founders of various shapes and sizes.
+
+And so, we wanted Fred to hear all of the different sides of the story, and all of the different pros and cons to the various configurations that he could set up for himself.
+
+Fred Luddy: It was a fairly exhausting day, for me anyway. They put together all these meetings. We drove all over the Valley.  
+
+Pat Grady: And then, that night, Doug and Fred and I go to dinner. And I just remember Fred having this big grin on his face. And we’re like, Fred, what are you grinning about? He’s like, I know exactly what I want to do. We’re like, okay, great. What do you want to do? 
+
+Fred Luddy: I looked at Doug and he looked at me and I said, Doug, I don’t have any of the skills that those people have that are CEOs. And furthermore, I have no desire in developing them. I’m your product guy. We need to find a CEO. 
+
+Fred Luddy: We went through a really exhaustive search to find somebody.
+
+Doug Leone: We went on a mission to find someone that could be his business partner, someone who understood he was coming in as a CEO, but he would have to partner with Fred, not in running the business, but as a business partner, and if that marriage worked, we were going to have a homerun opportunity.
+
+Fred Luddy: Doug had a favorite, I had a favorite, we did not have a shared favorite. 
+
+Doug Leone: We both didn’t quite have the meeting of the minds. And then, we came across Frank Slootman, who was then a partner, an operating partner at Greylock, and we got wind of the fact that he had known that investing was not for him, and he was looking for a CEO job. 
+
+Frank is a doer. Frank is not, you know, all sugar, lollipop and apple pie. Frank is a real deal. 
+
+Frank Slootman: When I was first approached by Sequoia, I was slightly incredulous because this was help desk management. It was the most boring business on the planet, right?  
+
+My name is Frank Slootman and I was the Chief Executive Officer of ServiceNow.
+
+When I started making inquiries and, yeah, everybody kind of replaces that software every three years and eventually, that will just go away. 
+
+So, I was getting all these conflicting signals about, wow, is this a hot shit company, or is this something that is incredibly boring and has no real strategic mojo to it?
+
+So, the one thing that stuck out, of course, is the company was growing fast. I mean, velocity is the mother’s milk of venture capital, okay. I mean, when you have velocity, you got something. And when you don’t have it, you got nothing. So, when you have velocity, you’re going to start looking closer and go like, what’s going on here?
+
+Fred Luddy: I think what intrigued Frank was, first of all, he really didn’t believe how well we were doing financially from a cash flow positive perspective at this age of the company. 
+
+Frank Slootman: There’s high growth there. There’s velocity, and there is an incredibly passionate customer base there. So I sort of figured, you know what, I can figure out the rest. I think we got the most important things covered here.
+
+Roelof Botha: In 2011, Frank Slootman became CEO of ServiceNow and Fred became Chairman and Chief Product Officer. 
+
+Pat Grady: Leadership change is always a crucible moment because you never know what you’re going to get. <<laughs>> It’s a system full of people. And even the best and most capable and well-intentioned people are still human beings. And when you throw somebody new into the mix, no matter how talented that person is or how much you might respect them, disagreements are going to come up. Organ rejection is a possibility, and there’s a lot of work that you have to do to get the team to gel. 
+
+Fred Luddy: The first 90 to 120 days that Frank was CEO was probably the most difficult of my career. I was used to being a benevolent autocrat at the corporation. And now, I had a position where he was in that seat. 
+
+Doug Leone: Frank is a do something yesterday kind of person. He doesn’t mess around. Your lead, follow, or get out of the way kind of leader. 
+
+Pat Grady: There’s a new sheriff in town moment that does stick out. And that was, the company was based in San Diego, but then it opened a Bay Area office.
+
+And they had tickets to one of the San Diego sports teams, but they did not have tickets to any of the Bay Area sports teams. And when Frank found out about this, he said, huh, well, that’s not fair that one office has tickets to go to the games and the other office doesn’t. Get rid of the tickets. And a couple weeks later, he heard that some people had gone to the game, and he went to the person who he’d deputized to get rid of the tickets, and he said, what happened? I thought I told you to get rid of the tickets? And he said, well, people were already signed up for the games and people really liked them, so, we decided we’d just keep them through the end of the season. And Frank said, okay, you don’t work here anymore. And it’s a trivial thing, but the message that he needed to make sure that people heard was, when I ask you to do something, that’s not a request, that’s an order. 
+
+Fred Luddy: I remember calling Doug and telling him that I’m not sure that this was the right thing. And his only advice to me was, give it 90 days. And I thought, well, I can do that pretty easily. 
+
+Early on, Frank said, well, this is going to be our number one priority. He sent this email out to six or seven people. And I said, well, I disagree. This can’t be our number one priority. Our number one priority should be this. And he calls me and he said, Fred, there can only be one CEO. He said, it’s okay if you don’t want me to be the CEO, but there can only be one CEO.
+
+And I said, you know what? You’re absolutely right. There is absolutely one CEO. And that really set the tone for our relationship, in that, if I disagreed with him, and it was something that was, perhaps, where people would get emotional, then he and I discussed it one-on-one.
+
+Frank Slootman: We needed him. So, the question was very much, are you going to be here? How long are you going to be here? And there were many reasons we needed him. Because he was a visionary, he was a driver, he was an innovator. And he knew where all the bodies were buried. 
+
+There were a lot of reasons why we needed Fred in the worst way. I mean, that was just not an option at all. He had to be there. 
+
+Doug Leone: What Frank faced is a company which had more issues than what I understood, maybe anybody understood.
+
+Frank Slootman: The thing that really scared us, is that we were a cloud application platform at a time when cloud infrastructures didn’t exist.
+
+Fred jokingly said, when I joined, he said, oh, when we first got started, we bought a used Dell server on eBay and we stuck it in the closet and that was our cloud. That was the data center or whatever had to, you know, pretend to be a data center.
+
+Fred Luddy: Frank realized, far more so than I did, what was going to be necessary to build out the resilient and scalable architecture that we have today. 
+
+Frank Slootman: We had customers like General Electric, UBS, Deutsche Bank, the largest institutions in the world who had committed themselves to a ServiceNow strategy. 
+
+Fred Luddy: One of the things about our system, which is different from a lot of others, is that our customers can’t take an outage of even several minutes. And by that, I mean several minutes ever. 
+
+Frank Slootman: I remember having a conversation early on with the Chief Operating Officer at Deutsche Bank, and he said, you must succeed. He says, we have no way back. And, I’m thinking at the same time, yeah, and we’re running on a Dell server running out of a closet.
+
+Many days, we were up and down and sideways. That, after a while, became super intense because we were not growing out of that situation. 
+
+I had CIOs from Johnson and Johnson who would just call up and say, what in the hell’s going on over there? We didn’t even understand the problems. 
+
+So, people looked at us like, you guys don’t know what you’re doing. And they were not wrong. We did not know what we were doing.
+
+Doug Leone: I remember Frank telling me that for the first year he went to sleep terrified of the calls he may get in the middle of the night.
+
+Frank Slootman: It was much more existential than, oh, you know, we got some tough challenges on our hands.
+
+I didn’t think we were going to live through this. I mean it was one of those things. This is so huge. So enormous. Right? How do you survive this? Right? Because there are no good explanations. There are no reasonable stories to be told. This is just insanity. 
+
+Roelof Botha: Facing potential collapse, ServiceNow needed to figure out how to build a reliable cloud network.
+
+Frank Slootman: We started to enlist all kinds of different people, different resources. Everybody had an opinion. Everybody had a recommendation. But it was a discipline that was not understood or developed at the time. We went down this path and we had multiple false starts where we said, this is not going to work. And we had to part ways with people several times. We were like looking for water in the desert.
+
+It turns out that, in the end, our VP of Engineering that was part of the incoming team, Dan McGee, was an incredibly strong, process-and-discipline guy and he really figured out how to homogenize the infrastructure, meaning that everybody ran on exactly the same software stack. 
+
+So, homogenizing, making everything absolutely the same in terms of patch levels, service levels, all these different things, that process started to really freeze out a lot of these problems. They were just completely cookie cutter in the end, and that helped us really get over this chaos and mayhem that we experienced in the early days.
+
+It went from being the absolute worst to being one of the best in the industry and also incredibly economically viable as well. Our gross margins became very, very strong.
+
+Roelof Botha: Among the other issues Frank faced were unworkable contracts with customers that had to be rewritten, a lack of patents for its intellectual property that put the company in danger of catastrophic lawsuits, and the need for more talent to fill out every department, from sales to research and development. 
+
+Frank Slootman: I’ve been in companies that were dramatically overspent and overstaffed and this one was the exact opposite. It was the scariest of scariest experiences to see how thin this company was on this technical talent.
+
+We massively backed up the truck in terms of hiring. I mean, it was insane the amount of hiring that we did and we actually went into a loss-making position for a couple of quarters… even though the company was massively profitable, but for the wrong reasons. We doubled the size of the entire company in terms of number of employees in a matter of months. And it shocked the Board of Directors. They’re like, you did what? But, in hindsight, I would have gone faster if I could.
+
+We would always get up in the morning, one foot in front of the other. We did what we had to do, however difficult and ugly it was, and confrontational it was at times. We kept moving, and in the end, we solved all these problems 
+
+They all went away. So, in other words, it can be done.
+
+Roelof Botha: In addition to solving some of ServiceNow’s most pressing issues, Frank also led an effort to broaden the company’s product offerings and capitalize on the promise that was inherent in Fred’s initial product design.
+
+Frank Slootman: We fairly quickly started to look at evolving our positioning from help desk replacement to what we refer to as the ERP for IT. The idea was that IT would have its own system of record, it would have its own platform where all the functions of IT would be, you have a single database and a fully integrated system. That had never been done, and people looked at us like, what? ERP for IT? What are you talking about? You’re a help desk replacement tool. 
+
+Here’s the important thing. Now, everybody in IT is going to be licensed on ServiceNow, not just that small group of help desk management people.
+
+We just said, look, if you work on IT, and you don’t have a login to this system, what are you doing here? Obviously, from a business model standpoint, you can now sell 40, 50 times as many licenses to the same customer, because we would go in and say, yeah, we’re not here to license your help desk management staff, which is a very small group of people. We’re here to license everybody, including you, Mr. CIO.
+
+But it was only the beginning, because we had other transformations that were coming after that.
+
+Pat Grady: There’s no one moment that stands out as the moment where we said, thank goodness, Frank is here. It was almost all of the moments. 
+
+Fred Luddy: I have the utmost respect for Frank and I considered it to be an honor to work for him, and I learned a lot from Frank and I’m very, very appreciative of that relationship that we had.
+
+Doug Leone: I remember being at a Board dinner. And Fred and I were talking about how great things had worked out with Frank. And I said, thank God we got Frank, because in my opinion, Fred, we were 90 days from going out of business. 
+
+Roelof Botha: With Frank’s cleareyed stewardship and Fred’s visionary product design, ServiceNow was growing from a helpdesk replacement tool to the ERP of IT, and then beyond, to a multi-use tool that was being used across every corner of the enterprise. The company’s success was not going unnoticed.
+
+Fred Luddy: ServiceNow started getting unsolicited offers for an acquisition. And there were companies large and small, including Dell, and then, we did get an offer from VMware. And that was an exciting thing.
+
+Because VMware at the time, 2010, was really just on top of the world. They had a huge market cap. They were really well revered in the technology industry.
+
+And then, I flew up to Palo Alto and met with Carl Eschenbach. 
+
+Carl: We reached out to ServiceNow. We realized that this could be a very good platform for us to have as an asset, as we continued to build out our management approach to how IT and service management was delivered.
+
+My name is Carl Eschenbach. I’m the former President and COO of VMware and I’m currently the CEO of Workday. 
+
+We also knew that, at the time, ServiceNow was having some challenges with their platform and technology.
+
+Frank Slootman: This is in a time where we were struggling greatly. We don’t know whether we can do this with the level of challenges that we have. So, that’s when you start entertaining these kind of scenarios. 
+
+You’re like, the last thing I want to do is fumble this and basically have a train wreck on my hands.
+
+Carl: I think we had some of the best engineers in the world and we could help them modernize a product, bring stability to it, and help them scale the technology as well.
+
+Doug Leone: One day, I got a call from Frank Slootman saying there’s an offer on the table to buy the company for $2.5 billion.
+
+Frank Slootman: Back then, multi billion dollar exits were pretty goddamn rare, so if there’s one being offered, you don’t summarily dismiss that. When you’re a VC, you’re betting on many companies. We only have one. 
+
+This is not Peter Pan, okay. This is real life.
+
+Fred Luddy: At the time, I was about 55 years old. I’d been bankrupt twice. I had a new child. So, this is a chance to be not bankrupt.
+
+I really had my heart set emotionally on being acquired by VMware, and then brought it to the board and said, that’s what I would really like to do, is be acquired.
+
+Roelof Botha: But not everyone was so excited.
+
+Pat Grady:This offer was the old holiday sneak attack. 
+
+My now-wife, then-girlfriend and I, Sarah were in New Zealand and we went for one of these three-day hikes where you’re just kind of off the grid for three days.
+
+And we come back in from this three-day hike and I’d had no cell phone reception, no email service… for the first time since joining Sequoia. And so, I was already a little bit nervous about what might’ve happened while I was off the grid. 
+
+And so, as this flood of emails comes back into my inbox, I see one from Doug where the subject line says in all caps, WHERE ARE YOU PLEASE? And then the body of the email was just, CALL ME.
+
+Doug Leone: And I asked him to put together a presentation that we’re giving it away for $2.5 billion. We created 10 slides and we sent it to Fred and Frank. 
+
+Fred Luddy: Mr. Leone always says very nice things, but he’s also very unambiguous at times. And he said, Fred, you’re getting screwed. And I thought, well, if this is getting screwed, I might learn to like it.  
+
+And he said, I cannot in any way support this.
+
+Doug was the one, he said, Fred, you’re going to be a 10 Bagger. What’s a 10 Bagger? He goes, you’re gonna be worth 10 billion dollars, why are you selling for 1 billion dollars?
+
+Roelof Botha: You have a CEO and a Founder who want to sell the company and investors who want to prevent this at all costs. ServiceNow was at a crossroads that would have an enormous impact on the company’s fate.
+
+Doug Leone: I’m on vacation in Hawaii, and for seven days, my family saw me pacing back and forth with a flip phone in my ear. 
+
+Pat Grady: We were in a situation where we had no leverage whatsoever.
+
+Doug Leone: We bought common shares from Fred. We had no voting rights. In fact, we had no rights as Board members. We can voice our opinion, but that’s where it began and ended. And so, I tried very hard to find a way, during a Christmas holiday, to stop this sale. 
+
+Fred Luddy: It’s right around December 22nd, 23rd. And I had taken my son for a walk down the horse trail next to our house, and he’s holding on to my little finger, he’s in his onesie with his footie pajamas, and I get a call, and it’s Doug Leone.
+
+He goes, Fred, do you want us to write you a check for a hundred million dollars? 
+
+Pat Grady: Doug said, well, I will personally buy the shares of anybody who wants to sell at this price. And people thought that was a nice sort of show, but that also didn’t necessarily end the conversation because people were still inclined to go after the offer.
+
+Fred Luddy: Again, this is like a couple days before Christmas, and I’m like, no, I’m good. I’m good. 
+
+Doug Leone: I remember calling Steve Bochner, who was then, I believe, the CEO of Wilson Sonsini. I told Steve, Steve, they want to take an offer. And Steve told me, well, no, they can’t take an offer. They have a fiduciary duty to shop the company around for a maximum type of valuation. And so, I call a Board meeting. I said, we have to shop the company around. And the then-lawyer of ServiceNow, the outside counsel, said, Doug, only public companies have to be shopped around. I go, shoot, I got bad advice.
+
+So, we ended the Board meeting. I call Steve Bochner again. Steve, they’re telling me that only public companies have to be shopped around. He said, no, no. Private companies also have to be shopped around. I said, well, how am I going to argue this? He’s going to say public, I say private. I need something more. 
+
+And this is where one of those breaks of a lifetime happens.
+
+And so, Steve said, we happen to have hired at Wilson Sonsini as one of our partners, the Honorable Bill Chandler in our Washington, D. C. office, who actually wrote the law that private companies must be shopped around as well.
+
+I go, wow, can we get Bill Chandler on the phone? 
+
+So Steve, Bill Chandler, and I talked, and he confirmed everything that Steve Bochner said. I asked Bill whether he’d be available for a phone call during a Board meeting. And I called yet another Board meeting. It might have been the 23rd of December now.
+
+Doug, are you thick? You know, I got a little abused. Aren’t you listening? Only public companies need to be shopped around. And I said, well, I just happen to have, on standby, the Honorable Bill Chandler in Washington, who actually wrote the law. 
+
+I got him on the phone. And he explained very clearly that it’s not just public companies, but private companies also. The Board and the attorney were stunned. I asked if there were any questions of Bill.
+
+There were no questions and right after I put down the phone, I said, who’s going to call Larry Ellison? And there was silence in the room, and I knew that then and there, I killed the M&A transaction.
+
+Fred Luddy: I was hyper disappointed that we were going to make up our minds not to sell to VMware, but in the back of my mind, I knew that it was the right thing to do. 
+
+Carl: I thought it was a tremendous, if you will, jujitsu move by Doug and the Sequoia team. They knew the market they were selling into was ripe for disruption. They knew it was a very big market opportunity. The total addressable market at the time was quite large. 
+
+I think it was super unique and I can’t recall over my career now spanning almost 37 years that this has actually happened.
+
+Doug Leone: It’s once in ten careers stories like this happen.
+
+Roelof Botha: Just a few months later, in June of 2012, ServiceNow celebrated its IPO. After Fred, Frank, and other members of the management team rang the bell at the New York Stock Exchange, the company’s value soared 29 percent. By the end of that year, the company’s market cap was $3.7 billion, over a billion dollars more than VMWare’s offer. Two years later, Doug’s 10 Bagger prediction came true: ServiceNow reached a market value of $10 billion.
+
+Fred Luddy: I’m glad that he was right about the 10 Bagger, which is almost one 10th of what we’re valued at now.
+
+Pat Grady: Selling the company to VMware versus living as a public company with 150 billion in market cap, and perhaps living as the canonical example of performance at scale as the enterprise company that all other companies admire and look up to and hope to someday be like, that’s a pretty big difference.
+
+Doug Leone: I would advise companies that receive an acquisition… do not get charmed by a number that seems like a big number, or a number that some model says is pay two year forward. Don’t get charmed by that. The only question that matters is, what can this company be five years from now, seven years from now, ten years from now?
+
+That is the question. How big is your ambition? And let it ride.
+
+Roelof Botha: Today ServiceNow is a one-stop shop for CIOs, making work simpler for over 7,700 companies.  
+
+Pat Grady: There is quite literally no other software company at their scale putting up the sort of numbers that they’re putting up. 
+
+Doug Leone: It’s a behemoth. It’s a respected giant in the software industry.
+
+Frank Slootman: When I walked in versus what it is today, it’s mind-blowing. We were 250 people at the time, we were doing not even 100 million in sales. It’s doing 10 billion, and still have a lot of fuel in the tank to drive the growth of the company.
+
+Sometimes it’s nice to hear a story like this because it’s like, yeah, you had the worst terror known to man and yet here’s where we are today. So, it’s not just wishful thinking. These things do really happen. So, keep the faith.
+
+Pat Grady: Fred Luddy nailed the product. Here is a guy who dropped out of high school to work as a programmer and in his early to mid-fifties, having had literal decades of experience in this market, decided that he could probably do it better than he’d done it before.
+
+And he absolutely nailed it.
+
+Fred Luddy: Technology that’s going to last a long time requires extreme simplicity and extreme modularity. But I think it’s probably really the corporate culture that has let the company grow through now four different CEOs and branch out into the market expanse that it has.
+
+So, our corporate culture was always—Operate with great integrity. Be very honest about our capabilities. Be forthright about any shortcomings. Take accountability for when we have made mistakes. And I think that, because of that, our customers have been so willing to work with us in good times and in bad and to help the company grow. 
+
+We really do form a partnership with our customers. So, I’m very proud every day to be associated with ServiceNow. I can’t wait for the next 10 or 20 years.

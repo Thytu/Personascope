@@ -1,0 +1,881 @@
+0 (0s):
+So now there is mounting evidence for strong link between Hearing Loss and Dementia. It's not that everyone with Hearing Loss will develop Dementia, however, we are trying to identify who is at risk. Hearing Loss is a huge problem. It currently affects one and a half billion people and disables half a billion of them. And the World Health Organization estimates that another billion will be affected by 2050.
+
+1 (29s):
+Welcome to the Huberman Lab Podcast where we discuss science and science based tools for everyday life. AM Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Constantina Kovich. She's a medical doctor and researcher and the chair of the Department of Otolaryngology Head and Neck Surgery at Stanford School of Medicine. Today, we discuss hearing and how to protect yours as well as how to deal with common problems related to hearing like Tinnitus or ringing of the ears, which is a very debilitating condition that many millions of people suffer from. Most of us don't think about our hearing very often unless it's compromised.
+
+1 (1m 12s):
+And yet we now know that our ability to hear clearly in many ways drives our ability to think and engage with the world, which is of course not to say that deaf people don't have excellent cognition and the ability to engage with the world, but they of course, compensate for that Hearing Loss. With the use of sign language and Lip Reading, most people of course have the ability to hear, and yet don't know that even subtle deficits in hearing can lead to focus issues. Mild cognitive impairment and more serious Hearing Loss is directly related to Dementia. And while until recently we thought about partial Hearing Loss as really something that a company's aging. It turns out that for various reasons related to loud environments, the use of Headphones, et cetera, progressive subtle Hearing Loss is occurring much earlier in people's lives, even as early as childhood.
+
+1 (1m 57s):
+Today, you're going to learn from one of the top experts in the world how your auditory system works. We'll talk about how it works from the time you were in your mother's womb. Yes, indeed. You could hear quite well even within your mother's womb all the way through adolescents and into old age. And you're going to learn the specific things that you can do to protect your hearing. And I'm certain that you'll realize that some or many of the things that you're doing are subtly or not so subtly damaging your hearing. And fortunately, you can remedy that very easily. We talk about some of the behavioral protocols that are backed by science as well as things like the use of magnesium to protect against Hearing Loss. And of course we talk about Tinnitus, this very common condition of ringing in the ears and how you can remedy it.
+
+1 (2m 37s):
+Thanks to Dr. Stankovich, this is both a fascinating and incredibly important conversation relevant to people of all ages. The information she shares is not covered in traditional public health announcements, but it absolutely should be because it's not just about protecting your ability to hear, it's about protecting your brain function more broadly. So today's discussion is going to teach you about how your auditory system works, how to take care of it, how to remedy any partial Hearing Loss that you might have already experienced, and in doing so, how to take care of your Brain Health and cognition. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public in keeping with that theme.
+
+1 (3m 21s):
+Today's episode does include Sponsors. And now for my discussion with Dr. Constantina Stankovich, Dr. Constantina Stankovich, welcome.
+
+0 (3m 30s):
+Thank you.
+
+1 (3m 31s):
+Most of us don't think about our hearing often enough, except now everyone is using Headphones or listening to things very loud, or most people are living in quite loud environments. I was in New York last week, I've been in Chicago, San Francisco. These are really loud cities and even if one goes out into the countryside, you know, if you're listening to music loudly, which can be fun, feels good, if you like loud music, classical or rock and roll or otherwise, I have a feeling you're gonna tell us that it's not good for our hearing and that losing our hearing is not good for a bunch of other things. Tell us about Hearing Loss. How do we avoid it?
+
+0 (4m 13s):
+Absolutely. So Hearing Loss is a huge problem. It currently affects one and a half billion people and disables half a billion of them. And the World Health Organization estimates that another billion will be affected by 2050. So this is an enormous issue and it's really underappreciated and stigmatized and lots of people live in silence, For example, for those who have problems with their vision, they wear glasses and glasses can restore their vision back to normal, to the point that people now wear glasses even if they don't need them. It's a fa, it's a fashion statement.
+
+0 (4m 55s):
+However, that's not the case for Hearing Loss and it's because hearing aids are aids. Like the name says, they don't restore hearing back to normal. So to answer your question, I think we really should review How Hearing Works. So the way we hear is when sound comes and travels down the ear canal, it vibrates the eardrum. The fancy term for it is the tympanic membrane that sets in motion the smallest bones in the body. They're called the malus, inus and staes, which is Latin for the hammer, the anvil, and the stir bone. As they vibrate, they set in motion fluids in the inner ear.
+
+0 (5m 37s):
+And this is where these incredibly delicate sensory cells reside. They're called hair cells, but that has nothing to do with this hair. And as they deflect their sensors on top of their surface, which are called stereocilia, that leads to flow of ionic current and release of neurotransmitter and excitation of the auditory nerve, which then sends signals all the way to the brain. So in the inner ear occurs this, it's called mechanical electrical transduction because we are converting a mechanical stimulus into an electrical one.
+
+0 (6m 19s):
+And there are two broad categories of Hearing Loss. One is the so-called conductive Hearing Loss, and the other is sensory neural Hearing Loss. The conductive Hearing Loss affects the ability of sounds to be conducted to the inner ear. That can be if there is a hole in the eardrum or there is fluid behind the eardrum, or these hearing bones don't vibrate, they're frozen because of a disease process. There are surgical treatment options for that type of Hearing Loss. And non surgicals, which include amplification with hearing aids. So that's an easier type of Hearing Loss to have.
+
+0 (6m 59s):
+But the more common type of Hearing Loss is the sensory neural Hearing Loss. It's the one that originates from the inner ear and why it's been so challenging to study and to crack that nut is because it's tiny. It's a tiny organ. It's encased in the densest bone in the body, and it's located deep in the base of the skull. You may even ask how tiny, if you take a penny, then you'll notice that Lincoln is on a penny. So the human organ of hearing, which is called the cochlea in cross-section, is the size of Lincoln's upper face on a penny.
+
+1 (7m 43s):
+Wow. That's small,
+
+0 (7m 45s):
+Super small. And that organ is filled with fluid. How much fluid, what's your guess? What's the volume of this inner ear fluid? It even has a fancy term. It's called lym and endy. There are two types of fluid, but that doesn't matter. What matters is the scale. So how much fluid do you think there is?
+
+1 (8m 6s):
+I'm guessing the equivalent of one less than one drop out of a, out of an eye dropper.
+
+0 (8m 13s):
+That's pretty close. It's actually the equivalent of three raindrops, so about 140 microliters. So this is an organ that's amazing. It is the most sensitive sensory organ. It can detect displacement that are on the order of the diameter of a hydrogen atom. That's astounding. If you just think in terms of electronic chips, the traces are now on the order of one nanometer, which is the size of five silicone atoms, but the ear can detect displacement that are one 10th of that.
+
+1 (8m 56s):
+So at the angstrom level,
+
+0 (8m 58s):
+Sub angstrom level,
+
+1 (8m 59s):
+Sub
+
+0 (8m 59s):
+Angstrom, sub angstrom level, it's really phenomenal. And another example to really highlight the sensitivity of this organ. If you have a trained violinist, if they move their finger by only a micron, so that's a millionth of a meter, the ear can perceive that as a change in pitch.
+
+1 (9m 23s):
+Amazing.
+
+0 (9m 24s):
+You can see that with your naked eye, but the ear can perceive it. So these examples really highlight how delicate this organ is. And another absolutely stunning thing about the ear is that there are these cells, there are sensory cells that we talked about, but they're called inner and outer hair cells. And what's special about these outer hair cells, they actually move, but they move at audio frequencies. So what does that mean? To put in a perspective, let's say that the heartbeats at 60 beats per minute, which is one hertz. If the heart starts beating at two hertz 120 beats per minute, let's say arrhythmia, that could be life threatening.
+
+0 (10m 9s):
+Well, these cells in the inner ear move in humans up to 20,000 hertz and in bats up to a hundred thousand hertz. So this is to tell you how incredible this system is, and it's designed to let us detect sounds and it's evolved so that we can detect sounds at any point in a day or night. Sound travels through any media. Sound travels around obstacles. It's really essential for survival. There are species that don't even have vision. They're blind and they're surviving superbly well because of their incredibly astute sense of hearing like bats or moles.
+
+1 (10m 57s):
+May I just ask a question about Sound Waves themselves? Could you differentiate for us how high versus low frequency sounds travel further or have a greater propensity to impact the movement of the eardrum, which you be beautifully explained, is the consequence of a bunch of mechanical features and the the endo limp and you said the other lymph para limp perilymph. So I, I want people to get this image in their mind that that Sound Waves, not voices, not music, but Sound Waves, yes, are traveling through space, arrive to the ear, and then there are converted into a mechanical pressure that changes over time like the beating of a drum ear drum that then is converted into pressure within this lymph fluid, which then moves these little hair quote unquote hair cells, which then activates neuronal signals that go up to the brain.
+
+1 (11m 57s):
+And it remarkably, I mean to this day I'm a, you know, neuroscientist and it still blows my mind that then we perceive language, we perceive music, we recognize a cry versus laughter, and it all happens very, very fast. I think most people don't think about hearing that way. And so could you explain for us that the elements within Sound Waves that sort of create this, this incredible architecture that we call a perception of hearing
+
+0 (12m 29s):
+Sounds as they set in motion the typa membrane, the ear drum, and then lead to motion of hearing bones? There are different modes of vibration depending on both sound Intensity and frequency. Once they get transmitted to vibration within the inner ear, everything is tuned in the inner ear. So the cochlea is a coiled organ. Cochlear even means a snail in in Greek. So now if you uncoil it, then it's a tube and high frequencies are encoded at the base close to the middle ear and low frequencies far away at the apex.
+
+0 (13m 14s):
+And so when sounds Sound Waves come in, if they have high frequency, they will cause primarily vibration at the base of the cochlea. If they have low frequency, they have to travel all the way up. And this is where speech resides at higher frequencies. It's interesting that the high frequency end of the cochlea tends to be more vulnerable to various insults like noise levels that you pointed out, certain drugs and aging. Now, in terms of music being so essential for being human and our ability to communicate, this is a podcast.
+
+0 (13m 58s):
+So it highlights how we important our ability to communicate and hear that communication is essential. It can create vivid experiences, it can be very engaging even without seeing people and looking at that throughout history. For example, Socrates in ancient Greece said, speak so that I can see you. And then in the medieval years it was a French writer and physician Franco Ble who said, of all the senses, hearing is the fittest for the reception of the arts sciences and disciplines.
+
+0 (14m 45s):
+And then 500 years later, Helen Keller, who was both blind and deaf and is one of the most celebrated people of the 20th century said, deafness is a worst misfortune because it separates you from people as opposed to things. So that gets at your question of why is hearing important to us? It's important not only to communicate, that's direct relevance, but there are indirect major effects on how we feel on our emotional, relational, and cognitive wellbeing.
+
+Wealthfront (15m 26s):
+In today's financial landscape of constant market shifts and chaotic news, it's easy to feel uncertain about where to keep your money. However, saving and investing does not have to be complicated. There's a solution that can help you take control of your finances while still managing risk. And that's Wealthfront. I've trusted Wealthfront with my finances for nearly a decade. With the Wealthfront cash account, I can earn 3.75% APY annual percentage yield on my cash from program banks. I know my money is growing until I'm ready to spend it or invest it with my Wealthfront cash account, my money is eligible for up to $8 million in FDIC insurance through program banks, which adds an extra layer of security. One of the features I love about Wealthfront is that I have access to instant no fee withdrawals to eligible accounts 24 7. That means I can move my money where I need it without waiting even in volatile conditions. And when I'm ready to transition from saving to investing, Wealthfront lets me seamlessly transfer my funds into one of their expert built portfolios. Right now, Wealthfront is offering Huberman Lab podcast listeners an additional half percent boost over the base rate for three months. Meaning you can get 4.25% APY on up to $250,000 in deposits. More than 1 million people already trust Wealthfront to save more, earn more, and build long-term wealth with confidence. If you'd like to try Wealthfront, go to Wealthfront dot com slash huberman to receive the boosted APY offer and start earning 4.25% APY today. That's Wealthfront dot com slash huberman to get started. This is a paid testimonial of Wealthfront. Client experiences will vary. Wealthfront brokerage isn't a bank, the APY is subject to change. For more information, see the episode description.
+
+Our Place (17m 6s):
+Today's episode is also brought to us by Our Place. Our Place makes my favorite pots, pans and other cookware. Surprisingly toxic compounds such as PFASs or forever chemicals are still found in 80% of non-stick pans as well as utensils, appliances, and countless other kitchen products. As I've discussed before in this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to try and avoid them. This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all completely PFAS and toxin free. I especially love their titanium always pan pro. It's the first non-stick pan made with zero chemicals and zero coating. Instead it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its non-stick effect over time. It's also beautiful to look at, I cook eggs in my titanium, always pan pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it and it puts a really nice sear on the meat, but again, nothing sticks to it. So it's really easy to clean and it's even dishwasher safe. I love it and I basically use it constantly. Our Place now has a full line of titanium pro cookware that uses its first of its kind titanium non-stick technology. So if you're looking for non-toxic, long lasting pots and pans, go to from Our Place dot com slash huberman and use the code huberman at checkout with a hundred day risk-free, trial, free shipping and free returns. You can experience this terrific cookware with zero risk.
+
+1 (18m 41s):
+I'd like to return to this close relationship between what we hear and how we feel. But before we do that, let's say I were in the wilderness And I was lost and I was trying to find my way back and I was out of water and I spot somebody on the horizon and I wanted to call out to them with the greatest probability that they could hear me. Would I call out in a higher pitched, lower pitched or whatever my typical voice happened to be? Assuming that I'm going to call out at the greatest Intensity in either case, which sound frequency is going to travel furthest and or have the greatest likelihood of reaching somebody's ears and having them perceive it.
+
+0 (19m 29s):
+You partly answered your question because sound Intensity is the key. And as humans, we can produce only sounds of certain frequencies and throughout history people have used horns. Horns really work. And so that that would be the first thing that you do. And you can even create it like this, your yourself.
+
+1 (19m 49s):
+Okay, put your hands on either side of your mouth
+
+0 (19m 51s):
+Exactly to project, but if you have a longer horn, use that, that really works. In terms of our human ability to detect tones in every species, it's a sensitivity curve. So when we test hearing in clinic, we test it only up to eight kilohertz, but we can hear up to 20,000 hertz. And it's because most of speech really lives below that frequency. Lots of speech leaves between 250 hertz and 4,000 hertz. And if you speak at those levels, which we do because that's what we do as humans, women can have more high pitched voices or children have, can have more high pitched voices, but it's still in the range of optimal human hearing.
+
+0 (20m 41s):
+That's what you would need to do. So then all you have to do when you're in a situation like that is speak as loudly as you can and if you can find a horn so that it amplifies.
+
+1 (20m 52s):
+And if you don't have a horn, put your hand on either side of your mouth. Yes. Which we do
+
+0 (20m 55s):
+Intuitively. Intuitively. Exactly.
+
+1 (20m 57s):
+And if we need to hear something at a distance, we put our hand to our ear. Exactly. In order to create a temporarily larger ear.
+
+0 (21m 4s):
+And that works too. It absolutely works. Power patients tell us it works. Sometimes in the clinic if people don't have a hearing aid and they're really hard of hearing and they don't know how to lip read and they don't want to be reading what's being written, that's what they do. And it really makes a difference
+
+1 (21m 23s):
+Because it's capturing the Sound Waves into a funnel.
+
+0 (21m 26s):
+Yes, exactly.
+
+1 (21m 27s):
+Other animals, most famously the the desert fox or the Nik fox have these really cute tall ears that they can direct independently. Am I correct in thinking that some people can move their ears and other people can't? I don't think I can do it. I've never practiced it. It didn't seem like a worthwhile thing to try and generate that skill. Yeah. But I know people that can move their ears either together or independently a little bit. Is this a vestigial thing from, I don't know, from some other animal that we once were?
+
+0 (22m 1s):
+Yeah, it's vestigial. Okay. Some people indeed can do it. It's not common. And as far as we know, it doesn't convey any advantage in modern world to human hearing.
+
+1 (22m 13s):
+I know this might seem like a silly question, but based on the pure mechanics of everything we're talking about, especially ears, do people with Larger Ears hear better than people with smaller ears?
+
+0 (22m 24s):
+I don't think that's been studied. Okay. I, I certainly haven't come across data to support that. In human body, things tend to be very proportional and they grow with time. Children tend to reach their adult ear size around age 10. So For example, those who are born without the outer ear altogether, that's called mysia. We can make it. But the timing of surgery has to be conducted appropriately so that you don't give them too small of an ear if you operates too early
+
+1 (23m 0s):
+These days, there's a lot of content online about how different sounds can impact the Emotionality of kids independent of learning, sort of innate sound, emotion relationships. I actually don't know whether or not these, these posts are ethical or not. It's hard for me to know because what they show is babies. It's typically a series of clips with babies where they'll say something, I forget what it is and it's probably best that I forget so that people don't do this and try it 'cause I don't know that ethics around it. But they'll say something to their kid and it's not a word, it's a, it's a, it's a sound. And the kid will suddenly either be terrified or will suddenly be really happy and there's no indication that that sound is a scary sound or a happy sound.
+
+1 (23m 48s):
+It's not like they're, they're screaming at the kid or barking at the, so it seems to be that they're, people have learned to tap into these frequencies end intensities, but it tends to be pretty low Intensity, at least by my listen of these things. But very strong coupling of sound and emotion independent of learning. And I say independent of learning because of course I hear certain pieces of music and they really move me emotionally, but I have a relationship to that music that I formed over time or it's similar to a different piece. I heard over time what is known about the convergence of sound information and emotion and let's leave outside, you know, big loud bangs or you know, high shrill things that really like impact our, our pain system.
+
+1 (24m 34s):
+So is there something known about how different sounds impact Emotionality? Oh yes,
+
+0 (24m 39s):
+Absolutely. That really the brain has evolved to perceive and manage sensory inputs and sound is one of these sensory inputs and it's critical for emotional wellbeing. We have thus far talked about the periphery, what happens in the inner ear and how those signals are then transmitted all the way to the brain. While there are numerous relay stations from the ear to the brain to the cortex. And they are in the brainstem and midbrain all the way to the cortex. And these auditory pathways have very strong links with emotional pathways and the limbic system.
+
+0 (25m 20s):
+And in fact, that's why music, hearing music can really move us. That's why remarkable speeches of impressive leaders can get people aroused and motivated to do something. So that link between hearing and emotion is really strong, well established, and sometimes can be detrimental. For example, for people with Tinnitus. So Tinnitus, it's a phantom sound. It's produced by the brain, typically in response to a reduced input to the brain. So the brain makes up the sound that it's normally not detecting.
+
+0 (26m 2s):
+It's similar to phantom limb pain where people don't have an arm or a leg, but they can still perceive pain in the limb that they don't have. So now some people with Tinnitus can just put it in the background, they can ignore it. They are reassured by knowing that it's not life threatening and it's fine. But there are people who can't handle it. They're really severely disabled by it and some are suicidal. So, which is a huge spectrum. And why is that? So clearly these circuits in the brain are differently connected for different people. And in some, that emotional component is really amplified.
+
+1 (26m 44s):
+Interesting. Many people have heard of a smr, auditory sensory meridian reflex I think it's called. This is something that, sure, there are accounts online where people will whisper or they'll scratch or they'll scratch a microphone, I won't do it here. Some people find certain sounds extremely pleasant. Other people find the same sounds, extremely aversive. Actually, I was thinking for a moment about fingers on a chalkboard and it's enough to make me cringe. Like my, I tighten up. It's like it's a as if I'm ready to get, you know, hit by something. I think many people hearing this will imagine that sound. It's the same thing. Is the relationship between our, our cringing, our physical cringing and these high frequency sounds.
+
+1 (27m 31s):
+Is that a, a pain offset mechanism? You know, in other words, in the visual system, if you just show someone a really bright light, they'll raise their hands, they'll turn, turn away. It's to protect their retinas. And it's a reflex, it's a hardwired reflex. And when we're sick, incidentally there's a this incredible reflex pathway that sort of becomes unveiled that we always have, which gives us Phonophobia bright light that we normally might like suddenly becomes aversive and it can give us headache, headaches in this kind of thing. Is there, are there similar pathways in the auditory system?
+
+0 (28m 4s):
+There are. There's this phenomenon of Hyperacusis or even Phonophobia. And when it comes to Hyperacusis, it frequently accompanies Hearing Loss. And really what happens in people with Hearing Loss is that sounds have to be loud enough for them to hear them. But if they're too loud, that can be painful, very uncomfortable. So their dynamic range of hearing is reduced and pretty much everybody with Hearing Loss experiences that now to have a real fear of sound Phonophobia, that's not common.
+
+0 (28m 45s):
+And it's usually linked with some underlying Mental Health condition. It's more common in people with obsessive compulsive disorder or personality trait and other conditions.
+
+1 (28m 59s):
+It's so interesting how the, the timur of somebody's voice leaves a mark on us. Yes. Pleasant or unpleasant. Yes. And going back to what you said earlier about hearing being so important and you know, historically people really identifying that, I think we're all familiar with something somebody said perhaps by virtue of the way they said it and or what they said kind of ringing in our ears, keeping, you know, we, it's hard to forget those things. Things we see, believe it or not, are pretty easy to unsee over time. Some things that are very extreme can leave a, you know, a post-traumatic stress stamp. But if you think about the number of violent and challenging images that were bombarded with all the time, and if you just go on X nowadays, I mean it's very hard to not see something you didn't want to see.
+
+1 (29m 49s):
+But one can, you can kind of suppress that over time it takes work. But if you hear something that's very disturbing, it's very hard to unhear it. It stays in our memory banks quite, quite a long time.
+
+0 (30m 4s):
+But you are correct and that can be true for both unpleasant and pleasant experiences. And it, you are absolutely correct that it goes into our memory bank. And how do we know that there are people who are profoundly deaf and if they have been profoundly deaf for many years and now they're becoming a candidate for having cochlear implant surgery and that's surgery that bypasses any cells in the inner ear that could be missing or non-functional and it directly electrically stimulates the auditory nerve before they have that cochlear implant surgery. When they've been profoundly deaf, they can have memories of music that they used to listen to.
+
+0 (30m 49s):
+So these are Auditory Hallucinations, but they're different. They're musical hallucinations, they're not like Auditory Hallucinations that people with schizophrenia have. They're not hearing voices, they're hearing symphonies and Concerts in their head, whatever music they used to listen to. And what's fascinating is after they get the cochlear implant and now they can hear speech, those musical hallucinations go away.
+
+1 (31m 13s):
+Amazing. Yes. Amazing. We'll get back to Cochlear Implants because I have a couple of friends in the deaf community and my understanding is there's very divergent stance on the cochlear implant within the deaf community. Yes. In part because the deaf community forms a lot of within community and outside of community bonds through Lip Reading and through sign language and the cochlear implant really transforms the way they interact with the world. So we'll get back to that a little bit later. It's an interesting, and I must say, I, I was about to say controversial topic, but I've been really positively surprised actually how people in the deaf community are very open about talking about deafness and repair of deafness and whether or not they would want it or not want it.
+
+1 (31m 60s):
+Whereas from my work as a vision scientist, most of the people in the low vision, no vision community would say if they could get vision back or if they could get vision, they would take it. Although they're right now, the technologies don't quite exist to go from completely blind throughout one's life to to seeing, although those may be coming in in the meantime, let's talk about Hearing Loss. Let's talk about what happens when we go to a loud concert. I, I fear I've done this and you get too close to the speakers or they're just turned up too loud and the acoustics of the room make it such that you have ringing in your ears the next day. If you have ringing in your ears after a concert or some other auditory experience, does that mean that some level of permanent damage was done?
+
+0 (32m 48s):
+Possibly. And why I say possibly is that until maybe 10 years ago, we thought that if you go to a concert like that, you have ringing in your ears. You may even feel like your ear is clogged and then it goes away that that is temporary threshold shift. But now we know that some forms of temporary threshold shift, like in fact permanent, although your hearing may come back and in fact we can see it on audiometric testing, we now know that the wheel has been set in motion where synapses that connect these sensory cells to neurons that contact them have been damaged or destroyed by loud sound.
+
+0 (33m 38s):
+It takes them a long time to degenerate. And in fact it's led to the concept of the so-called Hidden Hearing Loss. So there is obvious Hearing Loss that you can measure on audiograms, but now we have a new appreciation for the type of Hearing Loss that you are describing. And it's more common among young people. And if they go through standard audiometric testing, it'll be perfect. All of their audiometric thresholds are fine. However, they report that they cannot hear clearly in a noisy background or they have this Tinnitus that they didn't have before. So what's now emerging from both animal and clinical data is that indeed there are anatomical correlates of this damage and it typically involves synapses between sensory cells and neurons or it may even involve hair cells and neurons themselves.
+
+0 (34m 36s):
+So what is the loud noise level? That was one of your questions. For example, right now we are speaking at about 60 decibel in terms of sound pressure level and and what does that mean Decibel, it's a logarithmic scale because we had to compress an enormous scale that's really million fold from the softest sound to the loudest sound we can, that we can hear. We compress it to a linear scale that looks linear. It's not, but it's a logarithmic scale. So that's what DB is. And we can hear anywhere between zero to 120 decibel and louder we can even hear a jet engine and that's 140 decibel.
+
+0 (35m 22s):
+And to calibrate us, if I'm now speaking at around 60 decibel to come here, I had to take a plane. And the noise in the cabin is typically around 80 decibel. If you drive a motorcycle, it's about a hundred decibel. If you go to a concert that you have referred to, it's not uncommon that it's between 110 and 120 decibel and jet engine is around 140 decibel. And the loudest noise level ever achieved at a football stadium was in Kansas City and it was 142 decibel.
+
+0 (36m 6s):
+That is deafening,
+
+1 (36m 8s):
+Literally deafening,
+
+0 (36m 9s):
+Literally deafening because it's again a logarithmic scale. So for every three decibel increase in sound inten Intensity, you have to have the time exposure that's safe. So now back to your question, what is safe? Roughly speaking, 80 decibel is fine for eight hours, but for any three decibel increase you have to half it, which means 83 decibel is okay for four hours, 86 for two hours, 89 for one hour, 92 for half an hour, while most of music Concerts that use amplified music are above 92 decibel.
+
+0 (36m 56s):
+But it's not that everyone develops Hearing Loss. And it's not that we have to stop enjoying music Concerts at all, it's just that we have to take precautionary measures. First of all, why does music have to be that loud? It's kind of a peer pressure phenomenon because most people don't even enjoy it when it's that loud. But they feel like they should because somehow it's a kind of being youthful.
+
+1 (37m 20s):
+I have an idea, but it's just a speculation. Part of it I think, is to drown out other sounds in the crowd in the same way that if you go to a party and they dim the lights on the dance floor, partially because of people's self-consciousness, but you know your, your people are more likely to dance when they're not every like movement of the dance is being detected right then bright lights in, like when the lights come up at the end of a a night of dancing or bar, you kinda feel like, okay, party's over. Right? And that's what they're trying to signal. So part of it is probably to drown out the micro conversations going around. And I think the other part is that I do think that like with highly palatable food it, you know, there's been this sort of drift of setting higher and higher thresholds of what's normal and that people many times go to Concerts 'cause they wanna feel the music at the level of an intense sound wave.
+
+1 (38m 15s):
+Especially, you know, like, I mean if you live in California, probably anywhere in the country, but you're familiar with someone pulling up next to you and and really pulling, blasting the base in their car and your whole car is shaking and they're obviously enjoying it and to you it's aversive or you like it depending on who you are. But most of the time we don't want people, other people's sound experiences encroaching on hours at at that kind of like whole vehicle level. So yeah, I think it's this, this notion that we can't feel the music unless we, unless it's very loud. Again, it's a speculation there
+
+0 (38m 49s):
+Is something to it because it turns out that at loud enough sound intensities, the vestibular system is stimulated at all A as well. And there are experiments in animals that have shown this unequivocally. So there are vestibular or balanced neurons that actually respond to loud sound. So yes, there is a component of that. However, we talked about initially how delicate this organ is. Again, it can detect sub angstrom displacement and now you are literally hammering it with this blast noise.
+
+0 (39m 30s):
+It's like an elephant in a China shop and that is not good and that's what contributes to some Hearing Loss. So what can you do to protect your hearing if you're going to a loud concert like that? Definitely wear Earplugs. You can even measure sound intensities if you want to be very quantitative about it because now you have a rough formula. You can get a DB app on your phone, it's free, you can measure it and let's say if it's 120 decibel at the concert you're using, then wear Earplugs that provide at least 30 decibel of attenuation. When you buy these Earplugs in a store, it tells you what a degree of attenuation they provide and it can be anywhere from 10 to 30 musicians.
+
+0 (40m 18s):
+Earplugs usually provide about 14 decibel of attenuation. So clearly that wouldn't be good enough for this event. And you have to put them incorrectly because if they don't fit in, it doesn't matter what the number says, they're not protecting you. So that's one thing that you could do. Another thing that you can do is take magnesium before going to a loud concert. And this is because studies have shown that magnesium can protect against noise induced Hearing Loss. And the studies were done in countries where they have mandatory military service and they literally grouped people into those who received magnesium before those exercises and those who didn't and everybody was exposed to the same artillery and explosions as a part of preparation, those who took magnesium beforehand had less Hearing Loss.
+
+0 (41m 14s):
+Also, what measurements have shown in animal models is that after noise trauma is the levels of magnesium that changed the most in the cochlea, in the organ of hearing more than any other iron that's been studied. And also what large scale human population studies have shown is that those with higher magnesium serum levels or higher magnesium intake tend to have better hearing. However, that needs to be further studied and replicated because the precise dose is really not known or the formulation because as you know, there are many different kinds of magnesium and magnesium is good for your whole body, but depending on the formulation it may be better for the gut versus the musculoskeletal system versus the brain.
+
+0 (42m 4s):
+And different formulations have been studied in different scenarios. What we now think is that Magnesium Threonate eight is most efficient in crossing the blood brain barrier. So we think it's probably the best for hearing protection, but that study is yet to be conducted.
+
+1 (42m 24s):
+Incredible. I've been taking Magnesium Threonate eight for gosh, well over a decade because I learned that it was the form that most readily crosses the blood brain barrier. I was interested in the cognitive enhancing effects. I take it about 30 to 60 minutes before sleep and it does seem to make me a little bit, a little bit more drowsy and does seem to improve the architecture of my sleep slow wave and REM sleep measured, et cetera. I know a lot of people take magnesium bis glycinate as a, as an alternative as far as I know, those are interchangeable. I think it's wonderful if people are getting enough magnesium from their diet and if they need to supplement, they think about that. I'm struck by these studies on magnesium because you know, in the visual system, the field of of ophthalmology has, has been sort of reluctant to embrace Supplementation with things except for a few things.
+
+1 (43m 20s):
+Everyone knows you need enough vitamin A, you know, and you know, carrots are good for your vision and this kind of thing, but it's a fat soluble vitamin so you don't wanna overdo it. But nowadays there's a kind of an emerging sense from some of our colleagues in ophthalmology at Stanford that some of the things found in supplement form actually can help protect the, the retinal cells, which is a sort of correlate of the, of the hair cells in the context of Hearing Loss. So I'm, I'm curious as to why magnesium would do this. Is it something about the, the lymph that the, the sort of the chemical architecture of the, the cochlear environment? Is it happening at the level of the brain? Maybe we don't know, but it's it is very interesting.
+
+1 (44m 1s):
+I think
+
+0 (44m 2s):
+It's probably both at both levels. And by the way, going back to Supplementation, really the best way is to have a healthy diet. And numerous studies have shown is that what we absorb through healthy diet is better than Supplementation and Supplements are not really strictly regulated in the way that other prescription medications are. So what the label says on a box could be all over the map. Yeah,
+
+1 (44m 29s):
+You need to go with a trusted brand. Some companies get third party testing, but I completely agree yeah, that the supplement industry is replete with all sorts of things, especially for instance, melatonin. You know, the great sleep scientist, Matt Walker, author of Why We Sleep, et cetera, has cited experiments where they look at bottles of melatonin labeled as one milligram five three milligrams, five milligrams, 10 milligrams, and the actual amount in one pillar capsule can be off by 85% in either direction. Yes, in either direction. Either much less than you thought or much more. Actually, that reminds me to ask, is there any evidence that taking magnesium can help slow, reverse or prevent Tinnitus?
+
+1 (45m 13s):
+Because I know many people are really struggling with Tinnitus.
+
+0 (45m 18s):
+What is known is that for some people with Tinnitus in the setting of migraine magnesium Supplementation really helps. As you know, magnesium can do magic for people with Migraines along with healthy diets and coen and Q 10 and be complex or at least B12 vitamins. So that is the standard part of armamentarium to treat Migraines. And some people with Migraines have Tinnitus during their exacerbations as well as auditory fluctuations. And some people get really dizzy. And this is where thorough evaluation is really key because someone may assume that the problem is in the inner ear, but the problem is really in the brain.
+
+0 (46m 7s):
+And then going back to foods that are good for you that are better than a supplement, given this unregulated nature of the Supplements, they include seeds and nuts and fish, especially salmon and then green leafy veggies like spinach, they're all rich in magnesium, but it's all common sense. Basically what's good for your body is good for your hearing. Yeah.
+
+1 (46m 31s):
+Although, you know, having done many episodes on nutrition and talked to experts in nutrition, the number of people that really go out of their way to make sure they get enough green leafy vegetables, fiber and meet their protein quota per day, which, you know, nowadays there's kind of controversy about how much protein, but you know, most people just don't do the common sense thing. So I think what I've learned is everyone, including myself, needs to be reminded to get sunlight, you know, set our circadian rhythm, not be on screens too late, get enough magnesium ideally from food. I completely agree that Supplements are useful in the context of when you're already doing things correctly with your nutrition or sometimes it's the case that when people are traveling or they're overly busy, they're just not paying enough attention to the foods they're eating.
+
+1 (47m 20s):
+But that's not a long term solution. So I completely agree. Green leafy vegetables, fish, and it is this information's now easy to find, find online, right? Yes. Which forms of magnesium, so for people that have Tinnitus or that don't want to get Tinnitus, do you see any, any harm in them kind of emphasizing magnesium intake through food and or Supplementation
+
+0 (47m 43s):
+That really hasn't been studied for any type of Tinnitus? It's been studied in the context of migraine and there it really helps. And Tinnitus, it's an umbrella term just like sensory neural Hearing Loss. It's an umbrella term. I see it encompasses lots of different conditions when it comes to Hearing Loss. There are already more than 200 genes identified to cause Hearing Loss and that's the genetic component. But then there are environmental components to Hearing Loss, which includes noise, trauma that we talked about, aging infection. Lots of different infectious diseases can cause Hearing Loss, not only viruses from the herpes family like herpes simplex virus, which causes a cold sore or cytomegalovirus, which is the most common congenital infectious cause of Hearing Loss.
+
+1 (48m 35s):
+CMV is very common. Right, exactly. Something like 80 to 90% of adults in the United States carry CMV. Yes. What does that mean? That they, at one point they had the CMV virus and it, they felt it as a cold or a flu, but it was CMV.
+
+0 (48m 50s):
+Yes, indeed. And it, some of these viruses, they stay dormant and live with us forever. And then when the immune system gets weakened, then they can wreck havoc and some of the other viruses from the herpes family like Epstein-Barr virus, CBV, it's actually linked to cancer, different cancer types including nasopharyngeal cancer. So that's yet another cause of Hearing Loss, infectious Hearing Loss. Then there is immunologic Hearing Loss when there is no infection, but it's an inflammation such as people with celiac disease or rheumatoid arthritis. They may have higher predisposition to developing Hearing Loss, not only because the little tiny joints in the middle of the ear becomes fi become fixed and don't vibrate as well, but also because the inner ear is injured.
+
+0 (49m 42s):
+So when we now say sensory neural Hearing Loss, we actually cannot specifically say exactly what's wrong.
+
+1 (49m 52s):
+It's like a fever could come from any number of things. Exactly. Interesting.
+
+0 (49m 56s):
+And the reason for that really goes back to the tiny size of the inner ear to the point that if you image it using the current state-of-the-art imaging tools that include computer tomography or a CT scan or MRI, which is magnetic resonance imaging, you don't see cells in the living human inner ear. You just see a gray or a wide blob and the organ is too small to be detectable by technologies of that resolution. Another issue is that you cannot biopsy it. It's so tiny that if you did tissue biopsy, you would destroy it.
+
+0 (50m 37s):
+So that has really stimulated lots of very promising research in the area to improve diagnostics for Hearing Loss, which include both high resolution imaging of the inner ear and liquid biopsy as opposed to tissue biopsy. And we have shown that if you take as little as half a microliter of that fluid para lymph, we can detect molecular differences between mice with or without Hearing Loss. However, we have also collected this fluid from patients who undergo ear surgery. It's either when we perform cochlear implantation for those who have profoundly deaf or we literally have to drill through the inner ear to get to the brainstem because they have a tumor such as a vestibular schwannoma or an acoustic neuroma, which is a tumor that causes Hearing Loss.
+
+0 (51m 34s):
+So in these two instances, we can actually get inner ear fluid and we can study it and we can see differences. So I think that's a promising direction on the horizon. Another diagnostic possibility is genetic testing that's relevant for people in whom there is a family history of Hearing Loss. But today when we test for known deafness causing genes, it comes back definitive with a definitive answer only in 50% of people and in another 50% it often lists lots of variants of unknown significance.
+
+0 (52m 18s):
+They're so common that we even use an acronym VU Ss and some people will have tens if not hundreds of these variants of unknown significance. So what do you make of that? You just drag your shoulders and at this point we say, well, we don't know. But now when exciting research direction that we are pursuing with other investigators at Stanford and in collaboration with Google is to use AI to help us figure out which of these variants of unknown significance is actually significant. And by using those tools, we can establish the diagnosis in 80% of people. So now that's for Hearing Loss and you really asked about Tinnitus, but this is really to tell you that both of these terms are huge umbrella terms and it's been super frustrating not having the ability to establish precise diagnosis to guide therapy.
+
+0 (53m 16s):
+So Tinnitus is an even bigger black box.
+
+1 (53m 20s):
+We've known for a long time that there are things that we can do to improve our sleep and that includes things that we can take, things like Magnesium, Threonate theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed.
+
+AG1 (53m 40s):
+I'm excited to share that our longtime Sponsor, AG one just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed. Over the past few years, I've worked with the team at AG One to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios, in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of Supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is, to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way, and it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better Sleep. AGZ is available in chocolate, chocolate mint and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be I think chocolate mint, but I really like them all. If you'd like to try AGZ, go to drink AGZ dot com slash huberman to get a special offer. Again, that's drink AGZ dot com slash huberman.
+
+David Protein (54m 49s):
+Today's episode is also brought to us by David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein that's 50% higher than the next closest protein bar. These bars from David also taste amazing. Right now my favorite flavor is the new cinnamon roll flavor, but I also like the chocolate chip cookie dough flavor and I also like the salted peanut butter flavor. Basically. I like all the flavors, they're all delicious. Also, big news David Bars are now back in stock. They were sold out for several months because they are that popular, but they are now back in stock. By eating a David Bar, I'm able to get 28 grams of protein in the calories of a snack, which makes it very easy for me to meet my protein goals of one gram of protein per pound of body weight per day. And to do so without eating excess calories. I generally eat a David Bar most afternoons and I always keep them with me when I'm away from home or traveling because they're incredibly convenient to get enough protein. As I mentioned, they're incredibly delicious and given that 28 grams of protein, they're pretty filling for just 150 calories. So they're great between meals as well. If you'd like to try David, you can go to David Protein dot com slash huberman. Again, that's David Protein dot com slash huberman.
+
+1 (56m 6s):
+What you're saying is extremely important, both by virtue of what you're explaining in terms of the different Types of Hearing Loss, new novel ways to detect Hearing Loss and hopefully treat Hearing Loss. But also that we lack subtyping of what we broadly call Hearing Loss or sensory Hearing Loss or, or Tinnitus. This is a ubiquitous problem in, in the health space. I had our, our colleague, Mike Snyder from the Department of Genetics on just recently that episode came out and you know, he said, you know, we have to stop talking about blood glucose responses. You know, some people to potatoes, other people spike to grapes or actually have grape spikers versus potato spikers and they need different things.
+
+1 (56m 48s):
+Same thing we hear, fiber is great for us and I agree we need fiber. Some people experience a profound reduction in inflammation when they eat certain types of fiber. Some people experience significant inflammation, whole body inflammation when they eat other types of fiber. This was actually studied by Justin Sonenberg and and Chris Gardner in their now becoming classic study about the value of low sugar fermented foods, which were great for the microbiome, but the fiber group, actually the inflammasome in some people show market increase. Do we say fiber is bad? No, it depends on the type of fiber and on and on. And we can talk about, it's like when people say colorblindness, I always say, well, like which kind? I mean, there's so many types of colorblindness.
+
+1 (57m 30s):
+So it's very important that that you're highlighting this for vision as well. I, I definitely want to ask something about Tinnitus because I went into the literature a while, this was a while ago, and just was trying to explore for what's being done or what's being been tested in the nutrition and Supplementation space, just because that was happened to be what I was looking at. And it seems that there are a few studies, I don't know how powerful these studies are, but a few studies that suggest that perhaps low dose melatonin might help. But then I realize it's very difficult to separate those out from improvements in sleep because the people were taking the melatonin before sleep. And then we know that anytime you sleep less, your inflammation goes up. You have a bunch of gut issues and a whole body issues.
+
+1 (58m 11s):
+So is there any evidence that there's anything that people could safely experiment with, perhaps magnesium if they choose through diet or Supplementation or both. But is there any indication that people can take something or is it really the case that they need to go see a proper auditory neurophysiologist or clinician like you and get treated for Tinnitus?
+
+0 (58m 30s):
+Yeah, it's the latter that they need to really be evaluated and what studies have shown and systematic reviews and meta-analysis that none of this Supplementation makes a difference For Tinnitus,
+
+1 (58m 44s):
+It's a real shame.
+
+0 (58m 45s):
+It's a shame. And it's also potentially a methodological issue because again, everything was lumped under the same umbrella, but it is conceivable that different subtypes may respond to certain interventions, but because we don't know how to identify these subtypes, we are lumping them all together. So when you lump them all together and put all studies together that have ever been done and perform meta-analysis, then it sounds like none of them make a difference. So to the point that the American Academy of Otolaryngology Head and Neck Surgery really endorses two main interventions, one is amplification with a hearing aid for those who need it, and two is cognitive behavioral therapy.
+
+0 (59m 32s):
+Those two interventions have actually shown to make a difference. There are other things that have been tried, some people take things on their own. There is anecdotal reports of potential benefit, but that hasn't panned out in large scale epidemiologic studies that have had the appropriate control group.
+
+1 (59m 49s):
+Thank you for that. When Michael Kilgar was a guest on this podcast, he's an auditory, he is a neuroplasticity guy, but spent most of his time in the, the auditory system now vagus nerve system, but he is from Mike Menik lineage. He emphasized that people's who have Tinnitus, the fact that they think about it and pay attention to it tends to exacerbate the circuitry. Yes. And it sounds like a brush off, but he really encouraged people to try and not think about it, try to distract themselves because that could help prevent some of the, you know, ramping up of the, the what we call as you And I call the gain of those circuits. Because, and, and people don't like that answer and I can understand why they don't like it, because, well, you won't me to think about this loud ringing in my ears.
+
+1 (1h 0m 35s):
+And he's saying, yeah, until you, until you get a treatment, a proper treatment, you need to try and not think about it because thinking about it makes it worse. Which of course for some people makes it worse. Yes. But nonetheless, I think it's a very important message that if you have Tinnitus to do everything you possibly can to try and distract yourself from it and then pursue proper treatment.
+
+0 (1h 0m 55s):
+Exactly. And in fact, that's what we recommend in the clinic as well. And lots of people find it reassuring because we first have to do complete and thorough evaluation, which includes examination of the ears, examination of the whole head and neck hearing testing to make sure that there is no asymmetry or difference between the two ears. If there is a significant asymmetry that triggers imaging or additional testing like auditory brainstem, evoked response testing and imaging. It's typically MRI, and this is where we are looking for these tumors that could cause Hearing Loss. They're super rare. So I don't want people to be stressing out and thinking they have that, but it's important to rule out.
+
+0 (1h 1m 39s):
+So indeed, once we find that there is no tumor, then we do try to reassure patients and explain that Tinnitus is indeed a phantom sound produced by the brain and why it makes it. And the more you think about it, the more you reinforce that circuit, just like you said. So if you are occupied by other things or you have background noise, it lessens it. And we already know that this is true in terms of experiments that have been conducted, and that has been shown by electrophysiology, by imaging, even in people, in people with Tinnitus, with normal audiometric thresholds, you can see hyperactivity in auditory centers in the brain.
+
+0 (1h 2m 28s):
+And in particular, the area that has been imaged is the inferior colliculus. And so we know that there is hyperactivity also. Most of the brain works on the principle of inhibition. Now, what has been shown in animal studies is that loud noise, which causes Tinnitus, can lead to loss of that inhibition. So that can lead to hyperactivity, but Tinnitus can also be due to increased synchrony. And that informs different strategies going forward. But at this day and age, really the best treatment option for Tinnitus is a cochlear implant.
+
+0 (1h 3m 9s):
+However, most people don't need a cochlear implant. Right? And why do I say that? Because we know that 75% of people with Tinnitus who undergo cochlear implantation because they have severe or profound Hearing Loss get better. And in 10% of those, it goes away altogether. So it tells you that if you improve function at the periphery, the brain recalibrates and takes care of it, which
+
+1 (1h 3m 36s):
+Is great.
+
+0 (1h 3m 37s):
+Which is great indeed. And that's why we are so enthusiastic about all the research that's happening at Stanford and across the world to regenerate and restore function in the inner ear, because that then facilitates the brain's adaptability to take care of itself.
+
+1 (1h 3m 58s):
+The brain is so smart. Yes. I I'll never forget these studies. You perhaps, maybe it was Thomas Poeo who authored these studies, I don't recall, but where people would wear inverting glasses, so they put on glasses and then for a couple days, the entire world looks upside down. Yeah. And you would think this would be very debilitating, and you would think that people perhaps might learn how to, you know, pour water in a way that adjusts for the, but actually the brain just flips the image back. Yeah. It, it does a complete reversal, which is incredible because the, the, our eye actually inverts images Yes. Coming into the brain. And our brain does the same thing. Yes. It does it all the time. Our brain is incredible with respect to this ability. I have to ask with respect to Headphones, how do I know if I'm listening to my Headphones too loudly?
+
+1 (1h 4m 45s):
+Because I used to assume that if I use, I use corded Headphones. I, I don't like the Bluetooth Headphones for reasons related to I, anytime I use the Bluetooth Headphones, I get a swelling of the lymph behind my ear, not the sort of lymph that we're talking about in the inner ear. And it's quite, quite consistent effect. And I think it's a heat effect. Some people say, oh, it's EMS, but I'm pretty sure it's a heat effect. So I don't, And I don't like them, I don't like having my ears plugged with those things. It doesn't sound as well to me as corded Headphones. And I also was always losing the, the, the non corded ones. I used to assume that there's no way that the phone manufacturer would let me turn up my phone loud enough to cause damage to my ears.
+
+1 (1h 5m 27s):
+How could that possibly be? Everything's regulated. But I recently learned that it's very easy to exceed the threshold of safety by going not even to the maximum volume of, of what I'm listening to.
+
+0 (1h 5m 41s):
+Yes. And it, it's so interesting that observation that you have made because these regulations are different in different countries. So even the same manufacturer of phones will set up the threshold at a lower level for the European market than for the American market. Wild. Because the assumption is that Americans like it louder. And
+
+1 (1h 6m 4s):
+They definitely talk louder than many. Not all, but many areas of the world. I was recently in Italy and I went to this farmer's market. It was, and then I was indoors elsewhere. And the Italians talk a lot. Yes. And they gesticulate a lot. And the noise level got up there. But at one point I was like, wow, you know, it's, it's, it's so pleasant. It's not super loud. And then I landed in New York City, a city I love. Yes. And I was indoors and environment shielded from outdoor sounds. I was like, wow, people are super loud here. And there are a couple other cities where I've really noticed that, and this isn't a knock on New York City, but boy, Americans can be really loud.
+
+0 (1h 6m 41s):
+And to your question, it's not really the headphone style. It's really the sound level. And you can measure it. You can measure it on your DB meter that you can download on your phone if you don't have it already. And again, the safe rule of thumb is 80 decibel is safe for eight hours, however, and then, and then for every three decibel increase in sound level, you have to have it.
+
+1 (1h 7m 10s):
+But what if I don't use this decibel meter app? What if I'm lazy? And I,
+
+0 (1h 7m 13s):
+So then, then if anyone can hear what you're listening to, who's standing by you, it's too loud. So that's a good rule of thumb.
+
+1 (1h 7m 24s):
+Great. So parents take note.
+
+0 (1h 7m 28s):
+Yes, exactly. Take note. If you can hear your child's music or podcast that they're listening to through the Headphones that they're wearing too loud,
+
+1 (1h 7m 38s):
+Is there any detriment to listening in one ear, like setting up strong asymmetry of sound input over time? You know, a lot of people will go with one earbud or you know, they'll let one AirPod dangle out, not AirPod, but the one one headphone dangle out. Is there any detriment to that?
+
+0 (1h 8m 0s):
+Not really. As long as it's at the sa Safe Sound Levels, it's really all about what is the sound level that's damaging. And it's not the same level for all. In fact, if you have a construction worker and you have two of them being exposed to exactly the same levels of noise, one may lose hearing very quickly. And the other may work in that environment for 20 years and have really mild Hearing Loss. So very roughly, we categorize them into those with tough versus standard ears. That's super simplification. But it tells you that there must be a genetic predisposition to their vulnerability because they had the same environmental exposure.
+
+0 (1h 8m 47s):
+And now we are uncovering genes that are contributing to this vulnerability. And it's not one, it seems like it's several different genes that are working together to orchestrate this sensitivity. What we have also learned from both human and animal studies is that children are definitely more vulnerable. So another take home lesson for the parents, what may be comfortable for an adult may be too loud for children. And it's another important message for how loud different events are in elementary schools or middle schoolers. Because by the time they are high schoolers, auditory sensitivities are changing.
+
+0 (1h 9m 31s):
+But there are numerous studies that have shown that younger adult, young, younger people or younger animals are more vulnerable to noise levels.
+
+1 (1h 9m 42s):
+When I was in graduate school many moons ago, I took a great auditory neuroscience class from Irv Hefter, who's a yes. You know, kind of one of the, A legend. A legend and a wonderful person. And yes, a, a brilliant and just a wonderful person. And he can move his ears. He pointed that out. He could move his ears. And I recall him describing something called the two hip model, which has parallels to concussion where, and I get asked this a lot, you know, someone will say, you know, they had a bike accident or something. Have they had a slip and a fall? Or maybe they played a sport and they, they had a concussion. What should they do? And the first thing I always say, based on my understanding of concussion and my, all my colleagues, our colleagues support this statement, is don't get another concussion.
+
+1 (1h 10m 27s):
+Especially not anytime soon. Now, people don't like that answer when it comes to a particular sport. But oftentimes the advice is, you gotta stop playing this sport because if you get another concussion soon, you're gonna have serious issues down the line, maybe even sooner. If I recall Irv telling us about this notion that if you leave a concert the next morning, you notice that your ears feel like they're a little bit clout. Like you have Ear Plugs in and you don't, or if you hear a little bit of ringing in your ears that you need to be especially careful about getting another high threshold sound arriving at your ears because the vulnerability is there. And two sub-threshold insults as they're called, right to the cochlea, to the hair cells, each of which is not sufficient to cause damage.
+
+1 (1h 11m 16s):
+If there occur too closely together in time, you can get very potent damage that's irreversible. Yes. And so I, I wonder if it makes perfect sense in the context of like concussion, which we raised as the parallel example, but, and he had some, some interesting experiments. I think these were done in Guinea pigs actually. But you also see this in industrial workers where they're getting, they have some ringing in their ears after a long week of being on the construction site. They'll go to a concert and sure, they could have gone to the concert at another time and it wouldn't have been an issue. They certainly could recover from their work week. But you put those two things too close together in time and they end up deaf.
+
+0 (1h 11m 52s):
+Yes. It's adding insult to injury. And indeed then the effect can be synergistic as opposed to additive.
+
+1 (1h 11m 60s):
+Yeah, I think about this a lot because I like going to Concerts. I also have friends that are musicians and I notice all the musicians wear Earplugs because they're very interested in keeping their ears healthy, to be able to create music and listen to the subtleties as they write music. So I think that there's this idea that that wearing Earplugs is kind of nerdy or not cool, but the very people producing the music that people are listening to, these are rock and roll musicians, they're all very, very careful what they're hearing. They're not messing around and on Some of the Earplugs now actually go far, pretty far in. So you don't have to, you know, maybe they, other people don't even know you have them in do those work as well.
+
+0 (1h 12m 40s):
+They do. It really depends on whether they're fitted properly and how much attenuation they are designed to provide. Because some provide only 10 to 15 decibel of attenuation and others provide 30 decibel of attenuation. And depending on the ambient noise levels, one versus the other may work
+
+1 (1h 13m 1s):
+In the visual system. We know that if you're in a dark environment or a dim environment for a while and you transition out of that environment, the eyes are particularly sensitive for the first moments. Is that also true for the auditory system? So if I wear Earplugs and then take them out, do I need to be especially careful about, in other words, are my ears more susceptible than they normally would be if I'm coming from a very quiet environment or a noise cancellation headphone environment?
+
+0 (1h 13m 29s):
+They are. And the way we know that is from people who have hyper cues that we alluded to before. And they're just so uncomfortable being in loud environments or even what we consider normal auditor environments that they wear Earplugs, but then when they pull them out, everything is unbearably loud. So in fact, the first thing in terms of counseling them, we say, well, take out your Earplugs. You have to get used to the normal listening environments. And we already know that the brain is amazing. It can get used to different stimuli. And it's important that it gets natural input so that it can work normally, otherwise, indeed it can calibrate in ways that are unhealthy.
+
+1 (1h 14m 20s):
+I know the fetus can hear, yes. At what stage does the fetus begin to hear or sense mechanical waves at the level of the, the
+
+0 (1h 14m 29s):
+Cochlear second trimester. Wow. And the organ of hearing is fully formed in utero, fully formed.
+
+1 (1h 14m 36s):
+Babies come into the world ready
+
+0 (1h 14m 38s):
+To go, go listening, ready to go. And again, they hear in the womb. It's amazing.
+
+1 (1h 14m 44s):
+Amazing. So all this stuff about, you know, mothers talking to their unborn in embryo and fathers too, presumably. That's right. But especially mothers are closer. Exactly. They have more opportunities for it. What are the thresholds? And the reason I ask is, I mean, can they hear a whisper? Can they, or what can they hear?
+
+0 (1h 15m 3s):
+As you can imagine, challenging experiments to perform. And some are based on electrophysiologic data and others are done based on imaging. And there's only so much you can do to pregnant women for safety reasons. So it's actually hard to precisely answer your question, but what is clear that the fetus can hear the mother's voice? So anything that's of that same Intensity that the fetus can hear.
+
+1 (1h 15m 30s):
+For me, as somebody who's long been interested in and worked on plasticity, it absolutely has to be the case that the infant's auditory cortex is tuned to the precise frequencies and other aspects of mother's voice in particular. I mean, I think every mother would say, of course, but, but you know, it's, it, what's intuitive is not always scientifically supported. And what's scientifically supported is not always intuitive. So it's nice when the two things match. Yes. Fascinating. Second trimester, wow, this might seem like a bit of an unfair leap, but dogs have very sensitive ears. Are we subjecting them to hearing damage? I know this is more for the veterinary crowd, but I I'm about to get another dog and I would, my last dog, I, he always seemed to ignore me no matter what.
+
+1 (1h 16m 16s):
+He was a bulldog. So that was part of his personality to pretend he couldn't hear. But should we be more thoughtful about the hearing of our cats and dogs and other animals?
+
+0 (1h 16m 24s):
+Of all animals? Absolutely. And the most striking example is actually Sea Animals like whales and dolphins. All of that noise generated by big ships and motorized vehicles that are in the water damaging their hearing and modes of communication to astounding and scary ways. It, it's really unfair that we are doing that to the world around us. So now whales are getting lost because they communicate by sending and receiving these Sound Waves really long distances, miles away. And now you find them lost.
+
+0 (1h 17m 5s):
+They can't find their crew, the rest of their family, if you call it that. And if they're in a quiet environment, the way they used to communicate before the modern industrial world, they function completely differently.
+
+1 (1h 17m 22s):
+Wow. So Sound Pollution in the ocean is a very real thing.
+
+0 (1h 17m 25s):
+Very real. Yes. They, they, it's actually messing their navigation.
+
+1 (1h 17m 31s):
+Wow. It's, it's incredible. 'cause it, I think the paper was published a few weeks ago that light pollution is disrupting the duration over which songbirds are, are singing. And, and it turns out they're singing longer throughout the year than they normally would. And everyone goes, oh, nice songbirds. But it's screwing up all the, the mating patterns and the migration patterns. I mean, we may see the eradication of many species, which I, I hope people realize is not just about being able to see them in a zoo. It's, or, or appreciate a photograph of them. I mean, every animal impacts the ecosystem of another. So, exactly. I think its so important what you're saying. Are there any efforts being made to try and create limitations on where Sound Pollution or how much Sound Pollution can occur in the oceans?
+
+1 (1h 18m 13s):
+I know it's hard to regulate.
+
+0 (1h 18m 14s):
+It's hard because it's not even tightly regulated for people on land. Good point. And there's a lot of room for improvement. For example, you have mentioned that you have traveled the world, you have noticed that in Western Europe, amplified music is not allowed on the streets. But in the United States, and you mentioned New York, you can have any artist amp up the volume to any level they want completely
+
+1 (1h 18m 40s):
+Or van speech people bike around with, with speakers blasting.
+
+0 (1h 18m 43s):
+Yes. It's completely unregulated. And when I have approached some people about this topic, then I was told, well, this is a free country. People should be allowed to do whatever they want. And if they choose one behavior, then it's up to them, they know the consequences. So there are pros and cons to that because as physicians and scientists, we also know what's good for people. And if that information is not widely disseminated or if it's not widely accessible, which our conversation today clearly illustrates it's not then having some regulation in place to protect us all is a good thing.
+
+1 (1h 19m 25s):
+Yeah. I mean, we don't allow people to dump certain chemicals into the sewer, go down the drain. Yes. Because we understand the toxicity of that. What we're talking about here is sensory induced damage to the nervous system. Yes. I mean, which is no joke. I mean, it's just as serious to me as a chemical that somebody might put into, you know, the drinking water. And I mean, you don't want that. So I think it's very important that we're highlighting these, these topics
+
+0 (1h 19m 55s):
+That directly links to what you mentioned before, the Importance of Hearing for emotional communication, for relational wellbeing and for cognition. So now there is mounting evidence for strong link between Hearing Loss and Dementia. It's not that everyone with Hearing Loss will develop Dementia. So I really want the listeners to feel reassured that they don't need to run home and purchase hearing aids right away. It's just not the case. However, we are trying to identify who is at risk. And the standard tests are not that helpful in that regard because if you get just the standard audiometric testing where you're in a sound booth and they play different tones and you raise your hand if you hear it, and then you have a plot generated, it turns out that you can have 90% of neurons gone and your audiometric thresholds could be normal.
+
+0 (1h 20m 54s):
+And it's because the auditory system is so exquisitely sensitive that there is tremendous redundancy in it. And we talked about sensory cells, how they're connected to the brain by the auditory nerve. It turns out that the 10 different nerve fibers contact a single sensory cell. Do you need all 10 of them to perceive sound? No, you need one, however, you need all 10 of them if you are in a noisy environment. So the, going back then to the link between Hearing Loss and Cognitive Decline, we are now using different tests to identify people who are at risk.
+
+0 (1h 21m 36s):
+And studies such as testing speech in noise or the ability to understand words in a noisy environment as opposed to in a quiet environment turns out to be helpful. It's not so simple. It's not, there is one test that has perfect sensitivity and specificity, but the field has recognized the need to develop better hearing tests, which are being developed.
+
+1 (1h 22m 0s):
+I love hearing that because I, no pun intended, because when I was a kid, I remember getting on, they would take you outta class, you'd get onto it, it was typically a bus or a van, and you'd sit there and then you'd, you'd do the, the hearing test. While that was appreciated, it was not very sophisticated. I like to know that there's been an evolution that brings up a, an interesting scientific phenomenon as well, which is the cocktail party effect. Yes. Here you and I are sitting in a room that is essentially silent except for a few noises around us from time to time. But if we go to a loud environment within a few moments, we can hold a conversation and, and essentially rule out all the other sounds. Do we know where in the brain that occurs? My guess is it's a circuit or network wide phenomenon.
+
+1 (1h 22m 43s):
+But that's a brain thing.
+
+0 (1h 22m 44s):
+It's a brain thing, it's a circuit. And it's absolutely essential for understanding speech and noise. In fact, people with Hearing Loss typically experience problems understanding speechy noise. They have no problem in a quiet and facing you. In fact, that's a big message for everyone who is listening, that it's more important to face someone and speak slowly if they have Hearing Loss than speaking loudly. I mean that than, than yelling. And so if someone has Hearing Loss and you're trying to talk to them with water running or TV on, or you're trying to talk to them from a different room, forget about it.
+
+0 (1h 23m 30s):
+You really have to face them and it has to be quiet and you have to slow down and then they can really understand so much more.
+
+1 (1h 23m 39s):
+Thank you for that. I have a family member who's suffering from some moderate Hearing Loss, and I do notice that if there's anything going on in the background while we're on a phone call or even in person, it's, it's very, they get discombobulated and they're very cognitively sharp. But the relationship between Hearing Loss and loss of cognition, what we call age related Dementia, people normally hear the word Dementia and they think, oh, Alzheimer's. But the reality is we're all going to lose some cognition, speed or some other aspect of it with time. And it seems that vision loss and Hearing Loss are profoundly linked to age related Dementia.
+
+1 (1h 24m 20s):
+And I wonder if you could just speculate on whether you think that has to do with how Hearing Loss in this case, you know, changes our behaviors and then causes loss of, of neurons in other areas of the brain in the same way that, for instance, if if I had chronic ankle pain on my left side, I'd probably take the stairs less. I, I would at first probably push myself to do it, but at some point I would probably take the stairs less. So then you say we take the stairs less, you get less fit. Cardiovascular fitness declines over time and you know, did, did the ankle actually cause the cardiovascular issue? Not directly, but indirectly in the same way that if, if hearing is challenging, we're less likely to interact socially, which also feeds back on Dementia.
+
+1 (1h 25m 6s):
+Is that how it works? Or is there a direct link to unplugging some of the auditory input?
+
+0 (1h 25m 11s):
+We think that it's both. However, the direct link has not been established yet. Lots of studies are being done both in people and in animal models trying to really, really establish the direct link. So they're data supporting it and refuting it. So that's why it's an active area of research. The indirect link is super well established because we know that Hearing Loss leads to social isolation to depression and Cognitive Decline. In fact, the cost of unaddressed Hearing Loss is the staggering nearly trillion dollars annually.
+
+1 (1h 25m 54s):
+Trillion.
+
+0 (1h 25m 55s):
+Trillion with a T. Absolutely. Whoa. Yes. And it's because people have issues getting employed. They may not get the best jobs that they would like to be qualified for. All of arrangements that have to be done to make them as fully functional as possible. A very costly, so indeed it's an enormous problem that really needs more focus, more attention, and more research to develop new therapies.
+
+Joovv (1h 26m 28s):
+I'd like to take a quick break and thank our Sponsor, Joovv Joovv makes medical grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cell and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function and improving vision itself. What sets Joovv Lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the optimal cellar adaptations. Personally, I use the Joovv whole body panel about three to four times a week. And I use the Joovv handheld light both at home and when I travel. If you'd like to try Joovv, you can go to Joovv spelled JOOV v.com/huberman. Joovv is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Joovv products. Again, that's Joovv spelled JOOV v.com/huberman to get up to $400 off.
+
+1 (1h 27m 40s):
+Do non-deaf, non-hearing impaired people lip read? Are we always Lip Reading a little bit and we don't realize it.
+
+0 (1h 27m 49s):
+Some people are better than others. And as we've been discussing all along, it's not that one size fits all. All of us are a little different and some people are better at some things than others. And people lip read to different degrees depending on all sorts of things. Their innate predisposition, their potential Hearing Loss. They may not even know their artistic nature where they're analyzing a face all the time, their engagement and interest in what's being said. So going back to your question about the cocktail party environment, it, it's a problem for standard hearing aids in an environment like that because they tend to amplify everything including that background noise.
+
+0 (1h 28m 40s):
+So that has led to a new generation of hearing aids that are AI informed and really are performing auditory scene analysis in real time to pick up signal from noise and reduce amplification of the noise and reduce feedback. So that's an active area of research. The latest data, very promising. However, what's still needed is large scale controlled studies comparing traditional versus ai enhanced, Enhanced Hearing Aids. And indeed that auditory seen analysis in a cocktail party environment is a problem.
+
+0 (1h 29m 20s):
+For example, directional hearing aids can address it to a point. I mean, hearing aids that have directional microphones, if you know who you want to be listening to, because then you face them. However, you may also want to be hearing someone who's talking behind your back and you don't realize it until you hear the first sentence or two that they have said. So if you have purely directional microphones, you're not even aware that that's happening. And that's why hearing aids with directional microphones are loved by some and not by others. So again, really all of this highlights that we are all a little different and it calls for personalized approaches that are tailored to a given individual's makeup and needs and preferences.
+
+1 (1h 30m 14s):
+I'm a big proponent of trying to get great sleep enough sleep. It's a challenge for everybody, but it's definitely worth striving towards because it's really the foundation of mental and physical health. Right? Yes. I think everyone agrees on that nowadays. Again, you know, hat tip to Matt Walker for really being the first, about 10 years ago, to really bring it out of the scientific community because it was Dr. Dement at Stanford and others who did all this pioneering work and, and he himself was a physician and he was saying, you know, many deaths, sadly, of patients are due to sleep deprivation and fatigue of physicians and nurses and you know, it's a serious issue. And that's just leaving aside all the other health issues.
+
+1 (1h 30m 56s):
+One of the things that I've done in really in the last six months to try and improve my sleep, and it's worked tremendously well, is to use Earplugs when I sleep. And the motivation for this came from, there's this wild study published a couple years ago in Nature neuroscience that shows that people can actually answer simple math problems in their sleep in rem sleep by, because you're paralyzed in REM sleep. They have to answer a different way. But we're actually, we're still hearing a lot in our sleep, so many people with sleep disturbances actually could resolve those by wearing Earplugs. I've been using the wax Earplugs that, you know, fill the, the space quite a lot and I notice something that I put them in and for the first minute or two I hear my heartbeat, it's very distracting, but then it cancels out.
+
+1 (1h 31m 43s):
+So I offer that if people are having trouble sleeping, you might try, the Earplugs thing actually might help. The other thing is that we don't tend to hear our own voice. We cancel it out. And I am not listening to my voice in the room, but of course I can hear it if I try. So normally how do we notch out our own voice given that our voice is encompassing a ton of different frequencies has a dominant frequency, like I guess in your world they call it what, like a frequency envelope, you know? But just, but, but I, I mean I can speak a little bit higher, I can go a little bit lower. Like, so how does that work in real time? That's incredible.
+
+0 (1h 32m 19s):
+It is incredible. And you actually bring two really interesting points, one about sleep. So what studies have shown is that the ideal sleeping environment is what bears do when they hibernate. It's three things. It has to be quiet, dark, and cold. And that's perfect for sleeping for months. Love it. But then when it comes to not hearing ourselves, actually some people do and that's very disturbing. And that can occur if there are basically two things. One, it can be that they are missing a part of the bone that covers the bony balance canal.
+
+0 (1h 33m 2s):
+One of the canals we have focused on talking about the hearing part of the inner ear, but the inner ear has one organ of hearing and five organs of balance, two organs that detect linear acceleration, one in a horizontal and the other in the vertical plane.
+
+1 (1h 33m 18s):
+So either going for, like imagine someone hitting the gas on a car versus Dr bouncing a bouncing on a trampoline. Yeah. Taking an elevator, bouncing on a
+
+0 (1h 33m 26s):
+Trampoline. And then there are three organs that detect angular acceleration. And these are the three semi-circular canals.
+
+1 (1h 33m 34s):
+So the pitch of the, like the nod, the shaking, the head, I guess it's yaw Yaw, right? Yeah, yaw and roll, right, exactly. Which is the, the the cute puppy thing. Yes. Yeah. Okay, got it.
+
+0 (1h 33m 45s):
+Yes. So what can happen is that over that superior semicircular canal, that bone can be missing partly, and people can have super human hearing, they can hear everything. They, they can hear their eyeballs moving. Whoa. They can hear their footsteps. If they're taking a shower, it's definitely loud. They really can't take it. If an ambulance drives by, they start spinning. If they are straining on the toilet, they start spinning and can pass out. So that's called Superior Semicircular Canal Dehiscence. And it was actually discovered by our dean, dean of the school of Medicine, Lloyd Minor at, when he was at Hopkins University.
+
+0 (1h 34m 34s):
+Amazing.
+
+1 (1h 34m 35s):
+And it right on Dean Minor, not just saying that 'cause he is our dean, but that's but
+
+0 (1h 34m 39s):
+Be because because it was, he was such an astute physician where he listened to a patient because before him, when patients like that would come to our office, I mean, what would be your knee-jerk reflex?
+
+1 (1h 34m 53s):
+You'd be like, come on, come
+
+0 (1h 34m 54s):
+On. Exactly.
+
+1 (1h 34m 55s):
+Really? Okay. Like, you know, maybe, maybe we get someone from psych over here. Exactly. You know, to evaluate them or maybe they're a hypochondriac.
+
+0 (1h 35m 2s):
+Exactly, yeah. But what Lloyd heard and paid attention to is that the patient said, when I hear loud sound, I feel that my eyes are moving and my vision becomes blurry. And so Lloyd thought, really, so let me put loud sound in your ear, which he did. And he noticed that the patient's eyes started moving in the vertical direction. So there is this vestibular ocular reflex, and he figured, well then the superior semicircular canal must be involved. And that led to imaging that had to be really developed so that it's fine, cuts through the appropriate plane, and then you could really see the missing bone.
+
+0 (1h 35m 43s):
+And then he developed surgery to fix the problem. And now we can help people like that who actually do hear their bodily sounds that are too disturbing to them. However, we don't do that surgery lightly because it clearly, it has some risks. Like any surgery, there are two ways of doing this. One is through the middle cranial fossa, which entails lifting of the brain to identify the dehiscence and then plugging it or resurfacing it, and then letting the brain fall down again. Or we can approach it through the ear, so drilling from behind the ear. But normally that surgery is really reserved for those with intractable vestibular symptoms.
+
+0 (1h 36m 27s):
+They just can't function in the normal world because if someone yells next to them or an ambulance drives by, they just start spinning.
+
+1 (1h 36m 39s):
+Awesome clinical work and science and discovery and description of, of this incredible, I I knew Lloyd was worked on the vestibular system and, and, and the hearing system, but I I wasn't aware of that. So very, very cool. I I'm struck by a, a number of things. You raised the relationship between the visual system and the balance system, the vestibular system and the hearing system. Do we have any idea why the auditory system and the vestibular system co-evolved in the, in the inner ear, in the cochlea? Is it just a, a function of, of neighborhood or is there something fundamental there that perhaps we can glean from other species that tells us, oh, like this is, this is sort of like with the eye and the pineal.
+
+1 (1h 37m 31s):
+You know, the human pineal is deep in the brain. Prob almost certainly doesn't have access to light, but in Birds it's the, the skull is thin. Sunlight can go through the skull, and the pineal is a light sensitive organ. We have a light sensitive pineal, but it gets light information indirectly through the eyes. Over time, as we grew bigger, thicker brains, it just went deeper and deeper. And you need to do that. So did the auditory system and the vestibular system start from a, from a, the same origin and split?
+
+0 (1h 38m 1s):
+They both sense vibration and vibration is such a fundamental phenomenon. If you think about it in terms of the universe. It's these Vibrations that are everywhere around us. Electromagnetic Vibrations, we are talking about sound Vibrations. But now we can even convert these electromagnetic Vibrations from the depths of the universe to sound so that we can hear gravitational waves, which is really interesting. So this idea of being able to detect vibration is very deeply fundamental. And even bacteria can detect vibration.
+
+0 (1h 38m 43s):
+They have those little flagella that allow them to move around and fish, For example, we talked about fish and other species that live in the seas and oceans. They had this lateral line organ along their side that detects vibration. And it's very similar to the sensory cells in the inner ear to the point that we sometimes use, For example, zebra fish as animal models because they're transparent. You can see through them. And you can literally see these hair cells in the lateral line organ and test for drugs that may be toxic to the ear, although they also have the ear.
+
+0 (1h 39m 29s):
+So yes, there is this profound deep connectedness. And in the human auditory versus vestibular system, those cells look very similar. We talked about inner versus outer hair cells. In the auditory system, inner our hair cells are flax shaped, and outer hair cells are more like cylinder or cigar shaped. Similarly, in the vestibular system there is type one and type two hair cells beautiful. And they detect vibration and different frequencies. The vestibular system is a lower frequency system compared to the auditory system.
+
+0 (1h 40m 11s):
+But what's fascinating is that there are some data showing that that even stimulation that's non-audit auditory can still be very impactful on our functioning and perception. And there, there are some data showing that people who live close to windmills have described some disturbances that they initially couldn't really explain. And then it sounds, it turns out that that can stimulate stimulation of the vestibular system and it's all connected. I mean, the whole body's connected out of convenience.
+
+0 (1h 40m 54s):
+We have decided to subspecialize in ear physiology and surgery versus eye versus liver. But really it's all interconnected.
+
+1 (1h 41m 6s):
+You know, you can't live in northern California, which is where I grew up for too long before somebody exposes you to Sound Therapy. And at first it seems a little silly, right? They have the, if you're not familiar with it, and I'm not about to say it's silly, I'm actually about to say the opposite. You know, they're doing these sound bowls and it's, and, and it, and if I just take a step back from it, it's like, of course sound is going to impact the way I feel that that's why I listen to music that I love. Sometimes it's the lyrics in the music, but oftentimes it's the components of the music. And some years ago I, I was very interested in kind of layers of sophistication within sensory systems. Like we have aspects of our visual system that encode day and night, the circadian system. We have aspects that relate to color, vision, form, et cetera.
+
+1 (1h 41m 47s):
+Likewise, in the auditory system you have sort of more primitive reflex type things, like a really loud noise that you, you orient towards it and away from you want to know where, locate it, you want to know where it is, and you wanna make sure it doesn't damage you. Same thing with a bright light. You c you know, you shield yourself from it. I find it very interesting. We just love your thoughts on this. That music that has a lot of low frequency bass tones tends to evoke people to dance with a lot of trunk and what we would call proximal musculature, which is nerd speak for movement of the, of the core muscles and then muscles closer to the midline.
+
+1 (1h 42m 29s):
+Whereas high frequency music, people when they hear high frequency music will actually often raise their, raise a hand and start moving their fingers. It's as if they're playing the, the music. But, and, but if you look at different forms of dance, And I've been doing this in anticipation of a, of a guest coming to the podcast who's a, you know, a world renowned choreographer. You can see when low frequency sounds are played, bass drums and things of that sort. The movements tend to be very, very proximal musculature dominated. Whereas when high frequency sounds are made, people will actually lift themselves up. You know, if you watch ballet, which I've been watching more and more ballet recently for this reason, and they're moving their, the digits on their fingers, it's really incredible.
+
+1 (1h 43m 12s):
+Like there's almost like the, the sound Frequency Map is correlated with a body Frequency Map. And you can look in at hip hop, you can look at classical, you can look at Gregorian chants. I've been obsessed lately with Russian choir music because this Vernor Herzog movie used it. And I was like, this is beautiful and it encompasses a huge range of sound, you know. Oh my goodness. Like our bodies have a Frequency Map. Yes. And it sounds crazy, but we're neuroscientists so I can say this kind of thing with some degree of, of, of assuredness that I'm not crazy, at least not in this dimension. Yes. What are your thoughts about this?
+
+0 (1h 43m 47s):
+It is fascinating because really vibration is around all of us. We are exposed to vibration all the time. Different things do happen at different time points. And there seems to be this really fascinating frequency pattern to it. We already know that circadian rhythm exists even in the inner ear. We know that certain drugs are more effective if they're given at certain times of the day. So yeah, th there is something to be studied even more, but keeping within the realm of what's manageable.
+
+0 (1h 44m 29s):
+Sure. At this point in time, I will say that Von Behi, who was a physicist, and he studied the auditory system because he worked for a telephone company and he was charged by making better devices for communication. And he said he reached a limit in terms of what he can do as a physicist. So he needed to understand how the system worked. And he started performing these experiments in human temporal bones. So they are collected when people die of unrelated causes and they donate their ears for study. And he was playing sounds of different frequencies and noticed that those of high frequencies stimulated the basal turn, the, the basal portion of the cochlear and those of low frequencies stimulated the high end.
+
+0 (1h 45m 23s):
+So because of his seminal contributions to understanding how the auditory system and description of this place, Frequency Map plus other things that he did, such as discovering that there is a biological battery in the inner ear where you have hundred millivolts of positive potential, which is really unheard of everywhere else in the body cells. Ab bathed in fluid and the potential of that fluid outside of them is typically around zero. Yeah.
+
+1 (1h 45m 53s):
+We should explain for a sec, sorry to interrupt, but just very briefly, and we're talking about membrane potential. Some people will know what that is. We're essentially talking about how charged a battery is like it's, it is opportunity to create electricity of a given amplitude, essentially. Yes, yes. Like it's a potential. And you're saying in the inner ear, the, the membrane potentials are very, very high
+
+0 (1h 46m 13s):
+Extracellular. Extracellular. So extracellular, so normally cells have some resting potential, which is usually negative 60 80. Yeah, exactly. But now on top of it you have a hundred millivolts of extracellular potential. So there's a difference that really drives ionic current through these sensory cells is really large. And that contributes to this exquisite sensitivity of the inner ear. He
+
+1 (1h 46m 43s):
+Discovered that von Beck,
+
+0 (1h 46m 43s):
+He discovered it, he discovered the endo cochlear potential. He was the first to measure it. So for these contributions, he actually won an Nobel prize. So by studying frequency, because you started talking about frequency and how there may be a whole adhering to body Frequency Map, I think it's a fascinating phenomenon because at least the auditory system is all functioning based on frequency. And in fact understanding that place Frequency Map has been essential for the introduction and success of Cochlear Implants. Because Cochlear Implants rely on that Cochlear Implants pick up sound from the environment via microphone and then process it into different frequency bands.
+
+0 (1h 47m 33s):
+And then that is delivered to the intracle electrode that directly electrically stimulates the auditory nerve. So if you're hearing high frequencies, then it's only the electrodes that are encoding high frequencies that are transmitting that information. And so it all ties it together and really highlights how important it is to do fundamental research that is sometimes even curiosity driven, to really lead to major advancements in terms of therapies for people. And many times that curiosity driven research and its potential impact on therapies for humans is unknowable.
+
+LMNT (1h 48m 21s):
+I'd like to take a quick break and acknowledge one of our Sponsors. Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios but no sugar. Proper hydration is critical for brain and body function. Even a slight degree of dehydration can diminish your cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for the functioning of all cells in your body, especially your neurons or your nerve cells. Drinking element makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. My days tend to start really fast, meaning I have to jump right into work or right into exercise. So to make sure that I'm hydrated and I have sufficient electrolytes. When I first wake up in the morning, I drink 16 to 32 ounces of water with an element packet dissolved in it. I also drink element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes element has a bunch of great tasting flavors. In fact I love them all. I love the watermelon, the raspberry, the citrus. And I really love the lemonade flavor, frankly, I love all of them, but if I had to pick one, I'd probably say watermelon or lemonade. It used to just be watermelon. But now they came out with lemonade and now I love them both. And as I say, I basically love them all can't go wrong. So if you'd like to try Element, you can go to drink element.com/huberman to claim a free element sample pack with any purchase. Again, that's drink element.com/huberman to claim a free sample pack.
+
+1 (1h 49m 53s):
+Now I completely agree. I mean, much of what we know about how to treat strabismus and amblyopia and and visual cataracts and all this was worn out of David Hubel and torn and weasel trying to figure out how the visual system works. I guess the, the, the crowd and the auditory system, it's a little bit broader, but I certainly von Beckie would be one. David Cory's done beautiful work. Yes. Husbeth, I mean these are names that for the kind of inside ball of yes. Of Irv Haft or others. But I feel like the auditory system didn't get as much attention as the visual system for a long time because we, we are such visual creatures. But the more I learn about the auditory system from you, and the more I think about the, the incredible ways in which it shapes our Emotionality at at, at unconscious levels as well as conscious levels, the more I'm convinced that it's driving a lot of social development.
+
+1 (1h 50m 48s):
+Yes. And Mental Health and in some cases mental illness. Yes. You know, we've talked before on this podcast about developmental challenges with social interactions. Nowadays the word autism is used too broadly. Talk about subtyping. Right. So I'm gonna set that aside, but I'm gonna keep that kind of in reference for people because what I've been learning is that many of the challenges that kids who have social interaction challenges have relate to them feeling overwhelmed by the sensory environment. And some of it's vestibular and a lot of it's auditory. They're not walking into a room and oh, there's too much black on the wall. It's uncomfortable. And I don't know, it's, it the, it's the noise or what to other people isn't noise, but to them is noise.
+
+1 (1h 51m 33s):
+And I it, you know, And I I feel like if we all spent a day listening to the experience of these kids, the way they experience life, we would develop tremendous empathy for them. Yes. Right. In the same way that, and I've never done this experiment, I probably should, but if you spend time with people in the low vision, no vision, community, try and go about your day with no vision, seeing eye dog can help their new technologies that additionally can help. But it's very challenging. Simple things for everybody else are made very, very challenging and time consuming. So I, I wonder what is known about the relationship between auditory development and social Cognitive Development and Mental Health?
+
+0 (1h 52m 12s):
+There are really strong ties and it's a very active area of research. And like you said, hearing is such an essential sense and it's hypersensitivity and sensory hypersensitivity or dysfunction beyond hearing can be a part of both mental health disorders as well as on the other end of the spectrum, developmental disorders. And I, I think it really calls for first of all, greater awareness. And a part of what we are doing today is really bringing it up to the known because so many people are really stigmatized because you don't have a label on your forehead that you have Hearing Loss.
+
+0 (1h 52m 59s):
+It's invisible. And people are afraid to admit that they have Hearing Loss because they're concerned about how they'll be perceived. And for a long time it's been linked automatically to losing your marbles. And it's a part of why people in a social situation where they don't hear and they have having a gathering with friends and then they're initially just nodding their head and then they feel isolated because they're just nodding their head and then they respond to what they think was said and then it's, turns out it was something completely tangential. And then they decide, I don't even want to be a part of this anymore. And that's how they become withdrawn and isolated at at least a part of the reason.
+
+0 (1h 53m 40s):
+And similarly, if you are hypersensitive to everything around you, you want to avoid that kind of situation. And I think we definitely need better education. We need better ways to measure these things and quantify them. We talked about Tinnitus. We don't really have a way to quantify Tinnitus to measure it precisely objectively in a robust fashion. And we need these types of tests for all of sensory perceptions that we are discussing because senses are really essential for function of the brain.
+
+0 (1h 54m 21s):
+And like I said before, the brain has really evolved to perceive and manage senses. And it also provides a tremendous therapeutic potential because it's easier to fix sensory dysfunction than to fix brain function. But the brain will take care of it if it's given corrected input. And we already know that for the, from the tremendous success of Cochlear Implants, which are the most successful neural prosthesis out there, there are more people with Cochlear Implants than all other neural prosthesis combined.
+
+1 (1h 54m 55s):
+Does insurance cover the cochlear implant? Yes,
+
+0 (1h 54m 57s):
+It does.
+
+1 (1h 54m 58s):
+It's not an outpatient. It is. You can go in and out the same
+
+0 (1h 55m 2s):
+Day. Yeah. And out the same day. It takes only an hour or two. But now it's become routine. Really?
+
+1 (1h 55m 6s):
+Yes. I assumed you are going under general anesthesia. You are. Okay, you are. But you're up and back. Yes, you're back. You excuse me, you're down and back. Yes.
+
+0 (1h 55m 14s):
+Yeah, you're down and back. It's very delicate. It's done under the microscope relevantly, it was ear surgeons who were the first to introduce a microscope in the operating room. Is that right? And that was a hundred years ago. And it's for a reason.
+
+1 (1h 55m 26s):
+It was only a hundred years ago. Yes. Before that they were naked eyeballing it. Exactly.
+
+0 (1h 55m 30s):
+And in fact, you were kind of considered a lesser surgeon if you use a microscope when it was introduced because the thinking was, well, your vision is not good enough or you are not good enough. So interestingly enough, there was some backlash before widespread adoption. And now of course you can't imagine doing anything precise surgically without the use of a microscope. Whether it's ear surgery or brain surgery or microvascular tissue transfer. Even
+
+1 (1h 55m 58s):
+My dermatologist has these things that go down over his glasses and he can see more glass. I want my surgeon using a, using a microscope or magnifier of some sort. Do men or women on average. These are always averages hear better meaning with more sensitivity can detect either different frequencies or thresholds of sounds as compared to the other group.
+
+0 (1h 56m 22s):
+What we know that is that women tend to have better hearing premenopausal, but postmenopausally, they catch up to men. So there are data showing that Estrogen contributes to better hearing. And now larger scale epidemiologic studies are being conducted. As you know, for the longest time women were not really studied in lots of clinical trials. Most of clinical trials decades ago involved only men. We already know from those studies that, For example, for a heart attack, how a woman presents with a heart attack could be very different than a man where the classical description of a
+
+1 (1h 57m 4s):
+Pain down the left arm,
+
+0 (1h 57m 5s):
+The left arm
+
+1 (1h 57m 6s):
+Elephant stepping on the chest type, exactly what is it in women,
+
+0 (1h 57m 9s):
+They may not have discomfort, but no elephant pressing, no pain in the arm. And so we are only now starting to understand all these differences, how different diseases manifest in Men vs Women and how they respond to different medications and different treatments. And back to your question, what do we know about auditory sensitivity? We do know that women tend to have better hearing pre-menopausal. Now does that have to do with environmental exposure? That has to be factored in because traditionally men have been more involved in occupations that entail large noise exposures such as military or construction.
+
+0 (1h 57m 57s):
+But these days everybody is exposed to recreationally loud music and noise levels. So I think these studies need to be conducted with proper controls and proper sample sizes to really answer some of the questions you're asking. If
+
+1 (1h 58m 16s):
+We were to look at the average adolescent males and females, they would have essentially equivalent hearing ability. Yes. As they approach their twenties, thirties, forties, those lines start to divert average. Yeah. Such that men have
+
+0 (1h 58m 32s):
+Higher thresholds, which means worse hearing. Great. On average.
+
+1 (1h 58m 36s):
+Great. Okay. Thank you for that. I mean, not great for me. Yeah, I'm, I'm male, but great for the clarity. And then at perimenopause, menopause, women's thresholds go up, which means their hearing gets worse. Yes. Which suggests all other factors removed that something about loss of Estrogen or things in the Estrogen related pathways is causing that, that loss of hearing. And presumably nowadays with hormone replacement therapy becoming more prominent, the sort of recapture of of hearing could be examined. And hopefully that experiment is done
+
+0 (1h 59m 15s):
+That is now being studied because anything can be a treatment and a poison. So whatever you are using, you have to look at pros and cons and hormone replacement therapy can be very helpful in certain situations and also carries risks in other situations. And it's having that discussion of what are the pros and cons for a given individual and does it make sense? And the discussion that we are having really highlights the need for having more types of these studies. However, the good news is that losing hearing as we age is not necessarily a given. There are tribes in Africa where they're not exposed to modern, loud environments and they have normal hearing even in the, into their eighties.
+
+0 (2h 0m 4s):
+So environment clearly plays a very important role, plus everything else that we take, which includes all sorts of drugs. For example, we and others have shown that regular intake of nonsteroidal anti-inflammatory medications like ibuprofen increases the likelihood of developing Hearing Loss. And what is regular use? It's at least twice a week
+
+1 (2h 0m 30s):
+For all ages.
+
+0 (2h 0m 31s):
+For all ages. That's been studied in men and women. For younger people, it seems like they're a little more vulnerable. The good news is that most of that Hearing Loss is reversible. But there are other medications that affect our hearing. Aspirin
+
+1 (2h 0m 46s):
+Aspir in kids, right? Don't they warn against kids taking aspirin? Yes. For this very reason,
+
+0 (2h 0m 51s):
+It's for rye syndrome because that
+
+1 (2h 0m 53s):
+How common is rye syndrome?
+
+0 (2h 0m 54s):
+It's not common. Okay. And that's different. It's not specifically for Hearing Loss. However, in addition to these anti-inflammatory medications, there are others, there are certain antibiotics that in have increased risk of causing Hearing Loss. Like Gentamycin. There are certain diuretics like fluoride that causes Hearing Loss. There are drugs that are used to treat erectile dysfunction that can cause sudden Hearing Loss. Most of the time that's reversible if people stop taking them. So what I'm saying is that there is as always genetic predisposition and then the environment and the environment can include what we take, what we eat, what our lifestyle is, what noise levels we exposed to, what drugs we take, and all of that impacts our genetic predisposition.
+
+1 (2h 1m 53s):
+What about environmental exposures to chemicals these days? There's a lot of discussion about pesticides, which I think is an important discussion. There's a lot of discussion about food dyes, which at least to my view, while I support a careful analysis of that, I, I think in terms of overall health there, if I were in charge and I'm not in charge, I perhaps would emphasize slightly different things first. But hey, you know, I'm not complaining if people are trying to clean up the food supply. Just would hope that we would also pay attention to the kinds of Environmental Toxins that we know at lower moderate exposure can cause loss of neurons. Because ultimately, you know, for the neuroscientists and for you the c, the clinical and and researcher oriented person, neurons don't regenerate.
+
+1 (2h 2m 39s):
+A couple in the nose regenerate some in the denate gyrus. But you know, I unfortunately, so much has been made of so-called neurogenesis while an exciting topic, neurons in the adult brain and even in the adolescent brain, they don't regenerate. And so anything that kills neurons is bad. It's that simple. So what do we know about like a bus exhaust, car exhaust, any kind of environmental pollutants that could kill neurons specifically in the auditory system? Do we know, is there anything being done there? Is the toxicology being done?
+
+0 (2h 3m 17s):
+Some, so For example, Heavy Metals are known to be toxic to neurons in the ear as well as other neurons. Lead, lead mercury. We talked about drugs. So For example, platinum containing compounds, which are typically used to treat cancer, a toxic to the ear and auditory neurons in addition to other neurons throughout the body. In terms of other environmental pollutants that are now gaining more and more interest. It's plastic micro nanoplastics, they're everywhere. Long-term effects of that are unknown.
+
+0 (2h 3m 58s):
+We have performed a study where we exposed sensory hair cells to micro nanoplastics. In fact, we exposed the entire in our ear and it was striking to see that they were preferentially taken up by hair cells. What that means for function, we don't know, but it was striking. So we don't even know what we are doing to ourselves. And it's scary because plastic is everywhere. It's released at very high levels, at extremes of temperature. So you definitely don't want to put a food containing plastic container into a microwave to heat it up, because then even more plastic gets released
+
+1 (2h 4m 36s):
+Or even cook hot food and then put it into plastic and then consume it. Yes. You know, I sometimes will order food delivery, not that often, but oftentimes it excellent. You know, they're doing all the right things with the foods in terms of, you know, organic sourcing and, and free range meat and eggs, and then, you know, and then it arrives hot in a plastic container. Yes. And you, and you know, you're the second person to come on this podcast to emphasize this point. The, the previous one was Dr. Shauna Swan, who's written about this extensively as well as declining fertility rates and how it relates to endocrine disruptors. You know, what used to be considered kind of like maybe, or fringey type like analysis of this is becoming mainstream science. I mean, she's run a serious laboratory for a long time.
+
+1 (2h 5m 17s):
+So I'm so glad that you're highlighting this point. I make it a point to avoid drinking outta disposable plastic bottles. I confess, if I'm very, very thirsty and it's the only thing available, I, I'll do it. But I really try to avoid it. It's also about generating less waste. So the two, you know, it's a twofer if you avoid those, the micro and nanoplastics being taken up by hair cells is very interesting. Concerning, but interesting. And I have to wonder, given what you said before about the, the external environment of those cells when they're in the body and how, how much charge there is there? You kind of have to wonder if the neurons that are most metabolically active and most sensitive in their body are the ones that are most readily going to be taking up toxins because they're the most active
+
+0 (2h 6m 5s):
+And auditory neurons are the most active because they have spontaneous firing rates that are really high. Hundreds of spikes per second. Really?
+
+1 (2h 6m 15s):
+Yeah, because they, they, I always thought it was the visual cells, but I'm happy to know it's the auditory cells. They,
+
+0 (2h 6m 19s):
+They have to be active all the time. They're, because then it's easier to respond quickly because if you're completely turned off and now a sound comes, it's a higher activation energy than if you're always active and then a sound comes in. So the threshold of detecting that is lower.
+
+1 (2h 6m 41s):
+Interesting. We've talked a lot about the things that we can do to damage our auditory system. Ways to avoid those. Actually, before I move on, I should ask you, are there any other drugs or things that you might put into the Absolutely avoid, maybe avoid, because we're looking into it. You know, people, I, we're not trying to create hypochondria acids here, but I think people who listen to this podcast often are interested in things that they can do to take better care of themselves. And if they're commonly used medications or environmental exposures that they should be thinking about, we'd wanna highlight that. So you, you said ibuprofen is one
+
+0 (2h 7m 16s):
+And, and all of those drugs in that category, non-steroidal anti-inflammatory medications, that includes acetaminophen as well.
+
+1 (2h 7m 24s):
+What are some good alternatives? You're a physician, so I mean,
+
+0 (2h 7m 27s):
+Yeah, so you need to, if you need to take drugs, you take them. It's just not good to develop a habit of taking a drug on a regular basis if you don't need it. Got it. And that has become sort of a norm. For example, there are, there's this Tylenol PM where they put Benadryl into it so that it would help people sleep. Well, that's a bad habit. Well, do you need Tylenol or do you need Benadryl? What do you need? Or do you need either, and we talked about good diet, lifestyle, exercise. If you exercise during the day, you'll sleep better. So you don't need these other bandaids.
+
+0 (2h 8m 11s):
+Really. Yeah. So it
+
+1 (2h 8m 12s):
+I totally agree, by the
+
+0 (2h 8m 12s):
+Way. So then it's considering the whole patient, their needs, their priorities, their lifestyle, and helping them understand how to manage that in the healthiest way possible, because we really aim to keep people healthy as opposed to letting them get sick. And that sickness getting out of control and then trying to fix the problem. Because then it's a much more challenging problem to fix. Even we are talking about the auditory system, it's much easier to intervene if these cells are still there, as opposed to if they are gone. If they're gone. They do not spontaneously regenerate in mammals, however, in Birds, and you talked about Birds and song Birds.
+
+1 (2h 8m 58s):
+Yeah. This is Ed rubble's work, right? Yes.
+
+0 (2h 8m 60s):
+Yeah, indeed. And numerous studies have shown that Birds really regenerate their hair cells. And one of our investigators at Stanford, Stefan Heller recently published a paper describing the specific pathways that are absolutely essential for this in Birds. So in Birds, we really have nailed it in terms of understanding the specifics. And Birds do it quickly. They regenerate their hair cells within days, within a month they're done, but humans don't. However, by understanding how Birds do it, we can now start to think, can we reawaken these pathways in mammals in humans, and can we do it in a very precise fashion so that we turn them on when needed and turn them off afterwards because cancer is regeneration gone awry.
+
+0 (2h 10m 0s):
+So if we let these cells continue to divide and generate more cells in an uncontrollable fashion, that's a problem. What's also really interesting is that there isn't a primary cancer of the inner ear. And that's really cool. That's another fascinating thing that could be used to potentially even develop new cancer therapies since there is an organ that doesn't get it.
+
+1 (2h 10m 29s):
+I think most people heard at some point that sharks don't get cancer. Everyone was obsessed with shark cartilage. That's not the direction to go to avoid cancer. Folks. Very interesting that the, the ear doesn't develop cancers. I feel like there are two areas, at least from the neck up that are so fascinating that we need to understand. One is this, the inability of cancers to develop in the ear. So interesting. And the other is, someone pointed this out, I think this was a lab at Stanford that our mouth is open a lot of the day and exposed to the environment. It's a moist, warm environment. That combination of features means that it should be filled with infections all the time. And yet if we get a cut in our mouth, we bite down on our lip or something, it hurts.
+
+1 (2h 11m 13s):
+You get it heals very fast with often, not always no infection. It's an incredible area. And it's our gut exposed to the world. We don't like to think about it as, but the top part of our gut pathway exposed to the world. And it doesn't tend to collect infections nearly as easily as other areas of the body. And the, and wounds heal with often with minimal or no scar. Fascinating. I know this is a, a discussion about the auditory system, but I feel like, like here we're sort of getting into the, the fascination about science and medicine and what we don't know. And it's so important that we've, we parse this because there may be molecules within the mouth that could lead to robust wound healing for people with burns, for people with deformities, you know, a repair of neural tissues.
+
+1 (2h 11m 56s):
+I mean, there's, I have a feeling there's, there's a, an an, an immense number of important discoveries to be made there.
+
+0 (2h 12m 2s):
+Yes. And before I comment on that, I'll just clarify that there is no cancer of the inner ear, inner ear. There, there can be cancer of the outer ear. Got it. Which is the oracle or the ear canal. But we are really talking about the inner ear in terms of this remarkable microenvironment within the head and neck region. Yes. It's one of a kind, and at least in part it has to do with the remarkable blood supply to the area and the Lymphatic System. There is a very dense Lymphatic System in the head neck region. We even call it a wall dire ring. It includes the adenoid, which is the gland that sits at the back of the nose, plus the tonsils that sit at the back of your throat, plus all of these lymph nodes throughout the head and neck region.
+
+0 (2h 12m 51s):
+And indeed, in reconstructive surgery of the head and neck, we capitalize on that ability to heal quickly without an infection because sometimes people develop cancer of their jaw and or, or of their tongue and a part of the jaw or the whole jaw has to be removed or the tongue has to be removed apart or a whole tongue. So how do you reconstruct that? We reconstruct that by borrowing tissue from somewhere else. We can use tissue from the leg that's called fibular free flap or from the radial forearm or any other part of the body. And we bring it in.
+
+0 (2h 13m 31s):
+So now you are bringing sterile tissue into a super dirty environment that you're describing that's rich in these microbes. You sew it all together, artery to artery, vein to vein, nerve to nerve. You close it up and it heals beautifully Amazing most of the time. And people do not need extra antibiotics than what's typically prescribed for every surgery, just a short perioperative course. So indeed that this area of the body, the head and neck, which is in our turf, that's what otolaryngology head and neck surgery is, is super inspiring and really motivating to understand and really ripe for even deeper discoveries than what have been done to accelerate progress, not only in the head and neck region, but throughout the body.
+
+1 (2h 14m 27s):
+Fantastic. I, I love it. And we are not here to, to beat the drum again, no pun intended, for support of basic research to fund important treatments for disease. But there's just so much to discover that, that we clearly, clearly need to discover. I wanna ask about plasticity of the auditory system in the other direction, meaning in the direction of positive change. Let's say as an adult or a young person, we decide to start listening to a new form of music, but really paying attention or we learn a new language or we just expose ourself to some healthy, appropriate volume levels of, of sound and type of sound.
+
+1 (2h 15m 16s):
+How much plasticity is there in the auditory system and can that be bene beneficial for cognition? Yes, but I mean we, there are a lot of nice studies showing that, you know, people who play music or people especially who play music with others where you need to coordinate action. Brain plasticity is more, is sort of opened up, if you will, what's known about shaping of the auditory system. And here I might even just go a step further and ask you if you're willing, I'm sure you do all the things to take care of your auditory system, and I'm sure you tell the people in your life to take care of their auditory system. But what sorts of things do you do to enrich your auditory system?
+
+0 (2h 15m 55s):
+That's a great question, and I agree with you. I love to listen to music like you. I also love to sing. I used to play the piano. I hope to get back to it. It, it's been a very busy life, but I really love being immersed in music. In fact, that's one of the main reasons that I pursued this field. It was my love of music and the appreciation of how important it is for human connection. And it's for a reason that no culture has ever existed without music. And that dates back to 40 millennia. So music perception and language have been so essential for us as humans.
+
+0 (2h 16m 39s):
+That's unique to us. And we as clinicians know that auditory training is very helpful. For example, we talked about people sometimes needing Cochlear Implants. While those who are musically trained, they tend to do better in terms of their appreciation of music after cochlear implantation. On average, people cannot really appreciate music after cochlear implantation on average. They can appreciate rhythm but not tonality of it. But there are those who can, they can actually go back to playing the instruments they were playing.
+
+0 (2h 17m 20s):
+And we definitely now have growing evidence that the more you train your brain to be sensitive to different inputs, which in this case includes music, the better it responds when challenged.
+
+1 (2h 17m 38s):
+Incredible. In the last couple of years, I've been asked a lot about, and I've experimented a bit with things like binaural beats to, for focus during, you know, learning and things of that sort. My read of the literature is that certain sounds, white noise, brown noise, pink noise, people wonder what, what is brown noise? But different frequencies added or deleted, but white noise, essentially all the sound frequencies played at inappropriate volume to not damage your ears, binaural beats, et cetera. That there's some modest effects in some studies. But I'm curious what your take is on just auditory environments and learning at a, at the social level. So nowadays people text a lot that's devoid of auditory information.
+
+1 (2h 18m 22s):
+I grew up in the era of people actually having phone calls, but there you don't see the mouth move. So, you know, my probably the pe my grandparents probably would've said, oh, you're not actually interacting with people, you're just talking on the phone. And now I'm saying, you're not even talking on the phone, you're just texting. But we do seem to be separating the different senses from one another more and more. Do you think with AI there's an opportunity for people to, at some point soon perhaps, to receive a text from someone and see a video of them actually talking in a way that's very realistic even though they didn't take a video of themselves, right. Like there's actually a, a company out there where you can give them 10 minutes of video and then you authorize them and then after that they will generate a very accurate video of you saying anything you want in Word document form or whatever.
+
+1 (2h 19m 6s):
+And you can use that. It would look just like this. You have pupil dilation and inflection and everything's, it's not perfect, but it's pretty darn close. So I imagine pretty soon text messages will be your son or daughter or spouse. You go, Hey, how's it going? And they're like, Hey, can you pick up some milk or eggs at the store after what time are you gonna be home? And they will have written that or spoken that, but it will look as if it's a video of them. Do you think that's going to be better than where we're at now? Because right now there's a lot of splitting of of the different senses.
+
+0 (2h 19m 38s):
+I think it's a really interesting question. There is a splitting of the senses. I think integrating senses is really important. And we already know that there are people who, if they lose their hearing, they are devastated. They really can't function. And there are others who adopt to it. We think that it has to do with sensory integration. Those who are really reliant on one sense, if they lose it then they can't function well. But those who have exercised various senses, then the other senses can pitch in to provide, to fill the gap. So I think it's going to be a fascinating world.
+
+0 (2h 20m 21s):
+And the popularity of Podcasts highlights the growing interest in the auditory system. And in fact, I was talking to a colleague whose son is now applying to colleges, and the colleague was really concerned because he never saw his son studying and said, I, I don't know how you'll do. And the son nailed the exam. And so the question was, and when did you study? I've never seen you read a book. And the son just said, well, who reads books these days? You just listen to the stuff. So he was studying all the material through Podcasts and prepared for the test. Really? Well, I, so as human species, we are adaptable. I think when you mention ai, we now are at an inflection point.
+
+0 (2h 21m 6s):
+And in fact, an essay was written that actually won the New York Times essay award last year by ashen Brenner who talked about AI and its transformative impact on humankind. And one of the graphs talked about how long does it take for something to double the economy. So he looked at hunting, For example, for hunting, it took quarter of a millennium to double the economic impact. But then as new and new technology was introduced, it took less and less.
+
+0 (2h 21m 49s):
+So when you look at scientific discoveries, it takes about 60 years. So that's on the order of a lifespan for technological advances. It takes only 15 years to double the economy. And now with AI and super intelligence on the horizon, the question is, are we really at this inflection point where the growth of Human Progress has been increasing at a steady pace and now it's about to take off in ways that we can't even imagine.
+
+1 (2h 22m 22s):
+Super exciting. Well, before we wrap here, I I want to, I wanna just toss out a couple of things that I heard and I wanna make sure that I have this correctly. But also just wanna highlight them because there are things that I'm gonna definitely change in my, in my behavior. One is to really be thoughtful about the level of volume I use with how Headphones and just noise pollution around me in general. This isn't just a function of age, I turn 50 in a couple of weeks, but just because hearing is so fundamental to how we experience life, and I think unlike vision loss, people don't really conceptualize just how detrimental Hearing Loss can be.
+
+1 (2h 23m 3s):
+And so I'm going to do that. I also really took note of the fact that he said, when you talk to somebody who has difficulty hearing, the, the point is not to talk louder and certainly not to gesticulate more or something, but the idea is to slow down and try as much as one can to eliminate background noises. Great. That's gonna help a lot of interactions. The other one is, I, I think I, I know I have developed a much greater appreciation for the auditory system as a consequence of this conversation. I mean, I always loved the auditory system. I have to admit, part of it is Irv Hefter because we're talking here about somebody that nobody knows who he is.
+
+1 (2h 23m 43s):
+He's just a very colorful and very kind character and, and has immense amounts of enthusiasm. And so I was intrigued by the auditory system. Maybe in a different lifetime I would've worked on it. But I think until this discussion with you today, I didn't appreciate the, the incredible richness within it that it offers essentially every domain of life. I mean, from the second trimester, we're listening to stuff mostly our mom, okay, we're hearing stuff I, I intentionally did not ask you to comment on whether or not men or women listen better as opposed to hear better. We'll leave that for another time. But then we enter the world and we're exposed to all these auditory environments which shape our brain. And you've just beautifully illustrated the functioning of the auditory system, the structure of the auditory system, the things that we can do to protect it, the things that we can do to enrich it.
+
+1 (2h 24m 32s):
+And as you pointed out, this is an evolving field. So first of all, thank you so much for coming here today to share this immense and valuable knowledge with us. Please come back and update us on the discoveries coming soon. And also we'll highlight your work and the, the ongoing work. This is super important clinically at every level. Mental Health, we talked about cancers, I mean it, it's incredible the number of different areas of health and wellbeing. We talked about nutrition, even that, that intersect with the auditory system. So thank you so much. It's been wonderful.
+
+0 (2h 25m 5s):
+Thank you so much for having me. What a pleasure. And I look forward to staying in touch. Great.
+
+1 (2h 25m 10s):
+Will do. Thank you for joining me for today's discussion with Dr. Constantina Stankovich. To learn more about her work, please see the links in the show Note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review and you can now leave us comments at both Spotify and Apple. Please also check out the Sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube.
+
+1 (2h 25m 52s):
+I do read all the comments
+
+Protocols Book (2h 25m 53s):
+for those of you that haven't heard, I have a new book coming out. It's my very first book. It's in entitled Protocols and Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at Protocols Book dot com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols and Operating Manual for the Human Body.
+
+1 (2h 26m 33s):
+And if you're not already following me on Social Media, I am Huberman Lab on all Social Media platforms. So that's Instagram X Threads, Facebook and LinkedIn. And on all those platforms, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all Social Media platforms.
+
+Neural Network Newsletter (2h 26m 55s):
+And if you haven't already subscribed to our Neural Network Newsletter, the Neural Network Newsletter is a zero cost monthly newsletter. That includes podcast summaries as well as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Huberman Lab dot com, go to the menu tab in the top right corner, scroll down to newsletter, and enter your email. And I should emphasize that we do not share your email with anybody.
+
+1 (2h 27m 29s):
+Thank you once again for joining me for today's discussion with Dr. Constantina Stankovich. And last but certainly not least, thank you for your interest in science.

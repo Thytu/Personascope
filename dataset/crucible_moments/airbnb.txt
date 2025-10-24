@@ -1,0 +1,272 @@
+Brian Chesky: It’s 2011. I summon the meeting together and I say, “This is war. And in a war between missionaries and mercenaries, the missionaries always win.  And we are gonna win because we care more about this than them. We’re gonna outlast them. But make no mistake, this is do or die.” It was literally like: We’re on a mission and we weren’t gonna lose.
+
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha. 
+
+Airbnb was founded in 2008 by Nathan Blecharczyk, Joe Gebbia, and Brian Chesky, who you will hear from today. Their vision was a different type of travel experience. At the time, it was unheard of: Strangers staying with strangers?
+
+I distinctly remember meeting the founders at the Sequoia office in early 2009
+when the company was still called Air Bed and Breakfast. It was a three-person, seed-stage company with a barebones product and nascent adoption—just $5,000 a week in revenue. But what they had was a bold dream. 
+
+The team articulated a completely novel approach to travel. The idea was unorthodox, but compelling. And we were able to dream with the founders and could imagine how successful the company would be. Within weeks of our first meeting, we had closed the seed financing to become their long-term business partner. 
+
+It’s hard to imagine a world without Airbnb today. But the company’s journey included perilous moments. In today’s episode, we’ll look at how Airbnb built and then rebuilt user trust, launched a war against a copycat clone, and led its community through a global shutdown that brought travel—the company’s foundation—to a halt. 
+
+Brian Chesky: My name is Brian Chesky. I’m the founder and CEO of Airbnb. 
+
+The story of Airbnb kind of begins well before Airbnb. It begins a little over 20 years ago.
+
+Brian Chesky’s unexpected path from designer to entrepreneur
+I went to the Rhode Island School of Design not knowing what I wanted to do. It never occurred to me to be an entrepreneur. Like, the only entrepreneur I knew was, like, Bob from Bob’s Pizza growing up. So I didn’t really think about that. I wanted to be an artist. 
+
+So I graduate RISD. I get a job in Los Angeles manufacturing, like, products for a small industrial design firm. And one day, I’m in LA and I had this image, like my life is, like, I’m in a car and the road in front of me looks exactly like the road behind me. And I said, “This is not my life. I love design, but I’m not meant to be a designer. I think I’m meant to be an entrepreneur.” 
+
+And one day, I get a package in the mail that changes my life. It was a seat cushion that was designed by my friend at RISD, Joe Gebbia. And he was living in San Francisco and he made this product. And it was successful. I always thought it was successful because he made it, he manufactured it, and he sold it. And to me, wow, you had an idea and that idea was real. You made something. That is success and I wanna do that too. And Joe said, “Come to San Francisco.” 
+
+So I go to work, I quit my job with no savings, with no plan, except I’m gonna come to San Francisco and live with Joe. When I learned how expensive it is to live in San Francisco, the rent was $1,150. And I don’t have enough money to pay rent.
+
+Well, it turns out that weekend an international design conference was coming to San Francisco. And all the hotels that were recommended on the conference website were sold out. And we had an idea. We said, “Well, what if we just turned our house into a bed and breakfast for the conference? We can meet some cool designers, get paid. They could have a local guide to the city.” 
+
+But there’s a problem. And the problem is, like, we didn’t really have beds. We had just moved there and Joe had a bed. I was literally sleeping on a foam mattress. 
+
+And Joe said, “Well, no worries. I have a bunch of airbeds in my closet.” So he pulled the airbeds out of the closet, we inflated them and we said, “This is not a bed and breakfast. This is an air bed and breakfast. It’s gonna be cheaper than a bed and breakfast.” And we built the website in like three days. It was just Joe and I, basic HTML. And we launched it. And I didn’t know what kind of people would stay with us, but three people ended up booking with us. 
+
+And something really cool happened. We made enough money to pay our rent. Something even better than that happened, though, is three people lived with us for a week. And here’s the thing: When three strangers come and they stay with you for a week, it’s like you take a multi-year relationship and you compress it to a matter of a few days, right? You get to know somebody when they live with you and you spend all day with them. Like, it would take, like, months and months and months to get to know them if you had worked with them, right? And so, we actually end up becoming friends. And I kept in touch with them. 
+
+And so we were waving them goodbye. And I remember Joe and I looking at each other and we’re like, “You know what? We’re ordinary guys. I bet you there’s other ordinary people like us, people that wanna make some extra money meeting cool people.” 
+
+I think that we felt like if people could experience what we experienced that first weekend, when the three guests stayed with us, that this would be an idea that would spread around the world.
+
+I remember telling people this idea. The first person I told this idea, he said, he looks at me, he says, “Brian?” I said, “Yes.” He said, “I hope that’s not the only idea you’re working on.” And that was like, the nicest thing that some people said to me. You know, in other words, the idea seemed crazy. You mean to say that strangers are gonna stay with other strangers?
+
+Distilling the problem statement: designing for trust
+Roelof Botha: Remember, this was back in 2008, before Uber, DoorDash, Instacart––before the sharing economy was a mainstay of our lives. Today, we don’t think twice about getting into an Uber. But back then, the idea of sharing a space with a stranger sounded…kinda weird? 
+
+Getting people to seriously consider Airbnb, to trust Brian and his co-founders’ idea enough to use it, was the company’s first crucible moment. The company’s existence hinged on it. How do you unlock user trust? 
+
+Brian Chesky: I think we thought of it as a design problem. How do you design something for people to kind of virtually get to know people well enough to be able to trust each other, to give each other access?
+
+And I think we just, you know, we just looked at, like, a number of things that were converging. Facebook is rising at the time, social networking. That was an era where people had profiles, so it seemed kind of obvious that people on Airbnb should have profiles. PayPal was rising. And increasingly people could pay each other online. And then Yelp was very popular and people were used to rating things five star. And they were also used to, like, telling a story with a review. It wasn’t just a five star, but they would leave an actual review and write. And messaging platforms were becoming more robust. People were used to messaging each other online. And then customer service. I don’t think we invented any one of those things, but I think we just were able to combine them all together. 
+
+Alfred Lin: Over the years, they developed faster and better ways of creating trust. 
+
+Hi, I am Alfred Lin. I’m a partner at Sequoia Capital.
+
+Previously I was the Chief Operating Officer at Zappos, where we were known for being customer obsessed. So when I joined the board at Airbnb I started helping the team think through how to deliver the best customer experience possible.
+
+Brian Chesky: When you bought an iPhone, Steve Jobs didn’t come and sleep on your couch. But I did. I literally lived with our users. We took photographs at our homes, we did meetups. We built the community one block at a time. And by having first-hand instincts, we were able to bring those back, design a better product, give it to Nate, and really refine and perfect the experience. 
+
+Alfred Lin: Whether it was ratings on the guests and the host, comments on how well a guest behaved, how well a host provided where to go because they knew the local places to go as opposed to the things that every single tourist goes to. And so, Airbnb has always developed trust in a much more organic and authentic way by helping their guests live like a local. I think in any commerce business, and marketplace business, trust is paramount. It’s very, very hard to build. And it’s very, very easy to lose it.
+
+Roelof Botha: There are crucible moments that arrive suddenly, that demand an immediate solution, and once that solution is executed, the puzzle is solved. Other crucible moments feel slow at first. And then a simmering tension suddenly erupts. 
+
+Airbnb Trends on Twitter: #Ransackgate
+Brian Chesky: The product is growing, growing, growing. But in the background, there’s this lingering question, like, “This is just one accident away from being a dead idea.” And everyone asked, “What happens when something horrible happens? What happens when someone’s home is totally ransacked?” And that happened in July 2011. 
+
+A host in San Francisco named EJ reported that somebody stayed in her home and ransacked it. And it became viral. Suddenly, there was this massive essentially online pile on. In fact, we got one of the first #gates. You know, like those, like it was called “#ransackgate.”
+
+And #ransackgate was trending on Twitter. And then that trended on Twitter for a few days until it was replaced by another hashtag, “#RIPAirbnb”. And people were literally predicting our demise. And I don’t blame them for having questions. We didn’t initially have a great answer to, like, what happens if somebody’s home gets trashed.
+
+Alfred Lin: It was a wake up call. Of course, something like this could happen at any given point in time. It just had never happened. And there was an element of shock. How could this have happened? Well, it’s just going to happen. It’s a situation where you can’t avoid something bad happening. What you can decide to do is how you’re going to respond. 
+
+Brian Chesky: We initially put out a response, it was a very inadequate response. People felt like we, like, just weren’t owning up to the fact that there was a fundamental weakness in the model. And so, there was this huge pile on. It was a crisis in confidence. Oh and, by the way. Why was this, like, such a big viral moment? Well, not weeks before, we were announced to be a billion dollar company. And so suddenly people expected us to be, like, a large multinational corporation. But we were still basically operating out of a three bedroom apartment. Or we had been not long before that. So, we basically worked around the clock and we knew this was a do-or-die moment.
+
+Building user trust, again
+Roelof Botha: Airbnb began with the crucible moment: how do you unlock user trust? Now the company had arrived at another crossroads: When you lose user trust, how do you rebuild it? 
+
+Brian Chesky: I did two things that has guided me ever since in every crisis, in every crucible moment. The first is I decided to not make business decisions, but to make a principled decision. And things seemed honestly so desperate at the time that people were predicting we go out of business. And I thought that was crazy, but I didn’t know. 
+
+And I thought: How do I wanna be remembered, regardless of if I can predict the outcome? Cause I can’t possibly know how to get out of this. So what’s the right thing to do?
+
+And I think the classic advice was, like, “Don’t accept responsibility. Don’t apologize. You open yourself up to liability.” 
+
+And I said, “Screw that.” What I really wanted to say is, “I’m sorry. I feel horrible about what happened to this woman’s home. And I’m going to write an open letter and I’m gonna apologize to her. We’re gonna take responsibility and we’re gonna try to make things right.” And the second thing I want to do is, I want to use this opportunity to ship something that restores confidence. And we had this idea. We had this idea to create an Airbnb guarantee against theft or property damage. And the original Airbnb guarantee was gonna be a $5,000 guarantee for all damage for all homes globally. And even crazier than that, we decided to make it retroactive. So anyone who’s ever had any damage could come forward. As long as you had any evidence whatsoever, you can come forward and we would retroactively reimburse you for the damage. And I partly did this to restore confidence because if everyone’s home was constantly being damaged, we’d be bankrupt. And I was betting that there weren’t that many incidents on Airbnb and I wanted to use this to prove it. 
+
+And we have this $5,000 guarantee. And it was, like, July, I think, still? 2011. And Marc Andreessen had just led our investor round. He came into the office and he read my letter and he actually recommended one edit. And I said, “What’s the edit?” And he added a zero at the end of $5,000 and he changed it to $50,000. And I’m like, “Oh my God, this seems completely crazy. But you’re the one that wrote us a check, so I hope you and other investors are willing to gimme money.” 
+
+We ended up changing it to a $50,000 guarantee. We also established a 24/7 trust and safety line and a few other upgrades. And I wrote this open letter. I published it. And not only did it restore confidence, but it actually became one of the biggest growth drivers we’ve ever had. I don’t know what is causality versus correlation, but certainly we never looked back. I think confidence was restored. The product was better for it. We tried to do our best to make things right with EJ.
+
+Brian Chesky’s framework for crises
+I always thought a crisis is a terrible opportunity to waste. And ever since then, whenever I’ve had a crisis, I’ve asked myself, number one: What’s the principled decision? What’s the right thing to do? Number two: In a crisis, more people are paying attention than ever. So it’s an opportunity for you to demonstrate what you stand for, your values. A crisis is a great forcing function to be bold, to do things you wouldn’t have otherwise done in normal times.
+
+Alfred Lin: It was a defining moment because the company woke up and grew up in a very fast way to knowing that how they respond in a crisis––in a crucible moment––is what defines them.
+
+And one of the things that Airbnb does really well is always to find the solution to these problems by being empathetic to the customer––whether it’s the guest or their host––and to really think from their point of view. How would we best protect the guest? How do we best protect the host in situations that you don’t anticipate?
+
+Roelof Botha As Airbnb rose in popularity, there came the question: What’s next? How should Airbnb expand? Where do you go from here?
+
+Alfred Lin: A lot of people like to reason by analogy. And it’s very easy to look at Airbnb and the analogy would be an online travel booking site, an OTA. And then you should just accept whatever inventory that can make you money.
+
+Brian Chesky: I think there was a temptation to say, “Well, the natural instinct is to expand to hotels.” But I think that we had a really good insight early on to focus on a differentiated product to, like, really hone in on a niche category. But beyond our business rationale, like, listen, I’m in my twenties and I’m like, I’m not dedicating the rest of my life to building a hotel booking site. Like, there’s something magical about people staying with each other. And that’s who we want to focus on. And we don’t want to divert our focus. 
+
+I like to ask entrepreneurs like, “Why do you deserve to exist?” And the best generic answer I’ve ever heard is, “Cause if I don’t do it, no one else will.” And if your answer to the question is, “If I don’t do it, someone else will,” then that’s a less compelling answer. And so, I felt like if we don’t do this concept no one else will. And for a while, that was true.
+
+The European copycat
+And then one day someone else copied us. Here’s how it happened. I want to take you back to 2011. The fastest growing company ever up to that point, supposedly, was a company called Groupon. Overnight, they went from zero to a billion dollars in revenue. They were the hottest company in tech. And then this company called Citydeal cloned them and created a European version of them. And Groupon ended up having to buy that company. 
+
+And Citydeal was created by these brothers called the Samwer brothers. I remember I was meeting with these investors and they basically told me the major thing you need to worry about is if these brothers discover you, because they can rebuild your business overnight. And so I thought, “Oh my God, as long as these two brothers don’t clone us, we’re probably fine.” 
+
+One day we, like, noticed we’re getting all this scraping data and, like, a lot of weird messages are being sent to our hosts to list them on this site called Wimdu. And we’re like, “What’s Wimdu?” And we learned that Wimdu is a clone of Airbnb based in Europe, out of Berlin. And it’s created by the Samwer Brothers.
+
+Alfred Lin: Every time we changed a pixel or changed anything on our website, Wimdu would change theirs to basically mirror our website. They would be contacting our hosts, placing bookings on Airbnb, just to go there and recruit the hosts to list on Wimdu. It was quite a fascinating situation on a copycat competitor that was trying to beat Airbnb, but doing it in ways that were very combative on day one. 
+
+Brian Chesky: All of a sudden I felt like we had a gun to our head. And this company, overnight, raises apparently a hundred million dollars and they hire, like, 400 people in 30 days. They set up all these international offices and they said, “We’re gonna be the international Airbnb. We’re gonna be the Airbnb of Europe.” And this was a huge problem for us. If you’re Airbnb, and you’re not in Europe, and you’re a travel company, but you can’t travel to Europe, that’s, like, not a very interesting product. Airbnb not being international is like your phone not having email. It’s just not useful. 
+
+And then, sure enough, I get an overture from the Samwer brothers to meet. Oliver Samwer, inviting me and my co-founders, and a partner from Sequoia to Berlin. 
+
+Alfred Lin: By the way this was Greg McAdoo, a former Sequoia partner who initially sourced Airbnb. And he traveled to Berlin with Brian, Joe and Nate to meet Wimdu in 2011.
+
+Brian Chesky: And so, we fly to Berlin and the office is in, like, a former factory. The factory’s converted to a tech office, but honestly, it still looked like a factory. It was literally, like, an assembly line, maybe a sweatshop. When I say sweatshop, like people were literally sweating in there. Like there was no air conditioning. There was hundreds of people sitting elbow-to-elbow. And many of the people have two monitors up. On the left monitor is Airbnb’s website. And the right monitor is Wimdu. And literally there are designers and engineers cloning the site, like an assembly line cloning the product, in front of us. And Oliver Samwer’s like, “You are the Americans. You are the innovators, but we are the executors.” And he said, “We are gonna copy you. We’re gonna clone you, we’re gonna out execute you.” He was very straightforward. He’s like, this is exactly what we’re doing. 
+
+Roelof Botha: The Samwer brothers effectively gave Airbnb an ultimatum: Buy us or else. It was a crucible moment where Brian and his team had to decide: In the face of a company shamelessly cloning your product, do you buy them or do you fight back? 
+
+Alfred Lin: It was a struggle to sort of think about: Well this company that is trying to copy Airbnb in a different region of the world. Should we just buy them because they have traction in another geography, and maybe we should allow them to continue to grow there and make them part of Airbnb? Or do we compete with them and conduct a ground war.
+
+Company culture: missionaries versus mercenaries
+Brian Chesky: I thought there’s no way we buy them and we win. Because even if we do win, it’s never gonna be Airbnb again. It’s gonna be a different culture. It’s not gonna have the same spirit. And we’re gonna bring in, like, a mercenary mentality to an otherwise mission-oriented company where people suddenly, like, it would just be a culture clash and it’s not gonna go well. And I just didn’t think they really cared at all about the experience. They didn’t care about design, they didn’t care about connection, all the things that we talk about. And I said, “Well, that is not a culture fit.” 
+
+And if my goal was to flip the company then this probably would’ve made sense. But I’m 41 now and, at the time, I thought I’d be still doing this in my forties. And I said I need to make really, really long-term decisions. And I thought the best revenge against a clone isn’t to beat them, it’s just to make them run the company long-term. You had the baby, you raise the baby, I’m not adopting your baby, you raise the baby. And I thought: There’s no way they’re gonna raise this baby for 18 years.
+
+Alfred Lin: That incompatibility in both mission and culture was ultimately the reason why we just didn’t think a merger would work. 
+
+Brian Chesky: It’s 2011. I summon the meeting together and I say, “This is war. In a war between missionaries and mercenaries, the missionaries always win. And we are gonna win because we care more about this than them. We’re gonna outlast them. But make no mistake, this is do or die.” And I felt like I went from, like, a CEO to like a, I don’t know, I don’t wanna say general. But like, it was a do-or-die situation from a business perspective. So I was like, “Alright, I’m gonna lead from the front.”
+
+Creating an international playbook
+And I decided to, like, basically be the head of international. And I worked to build a team. I assembled a few leaders and they very quickly mobilized. And we hired, like, over a dozen country managers. A country manager of, like you know, UK and Germany and France and Spain and Italy. And I think we had one in Brazil, Korea, and Japan. So there were a few others. So probably about a dozen country managers. And we mobilized. We worked harder than we ever had before. It was literally like: We’re on a mission and we weren’t gonna lose. 
+
+Alfred Lin: The efforts we made were fast and furious. And Brian was very, very focused on: How do we sign up a lot of supply? How do we get hosts to become productive as quickly as possible? How do we make products and services to get them to be great hosts?
+
+And there was a lot of meetups. He was traveling a lot. He was going to all over Europe to to host many of the meetups. He also had to talk to a variety of government officials because some various government officials thought that Airbnb was a crazy idea. But that wasn’t new to him—people thought Airbnb was a crazy idea from the beginning. 
+
+Brian Chesky: You know, I think we did a really good job localizing Airbnb. That was really critical. It’s probably the biggest ROI thing we ever did. And then we created a playbook, a country-by-country playbook. And I think we did it, actually, before Uber and others. And then we became, like, the model that other companies then built off of. But we’d get a country manager, I would interview the manager, I would then go to the team, we’d create a whole, like Airbnb-in-box kit. They would build out a local operation. We’d create all the different guidelines for them. Then I’d go to the market, we’d do a big launch. We did, like, a bunch of press interviews. We’d do a giant community meet up. We’d work with a team, get them, like, all rallied and mobilized. And we’d go and we’d never look back. And it was essentially, like, an all out war for like a couple years probably.
+
+And predictably they were able to stick with us for a little bit, but exactly what I thought was gonna happen happened.
+
+Roelof Botha: Wimdu hung on for seven years. But in the fall of 2018 they finally capitulated. As Brian predicted, the missionaries prevailed.
+
+Brian Chesky: They never had an intention, in hindsight, to build a long-term company. They built this company to sell it. And ultimately it became a marathon and they didn’t wanna keep racing. 
+
+Alfred Lin: One sign of success to me from Airbnb through this crucible moment with Wimdu is, you know, in some sense, this was known to be the harder path. And they made it, in retrospect, they made it look easy. I don’t think it was actually easy at any given point in time when they were going through the motions of trying to sign up as many listings as possible in Europe. But slowly––but surely––a company that was based in San Francisco, most of its business was in the United States, ended up in a situation where the majority of the business was actually coming from Europe and bookings in Europe. And that was a very proud moment when we, sort of, woke up one day and realized we had a really thriving business in Europe. And the numbers proved out our conviction to do the hard thing. 
+
+So I think the success from that, and the learning from that is, you don’t necessarily take the easy route. You wanna take the hard route because when you solve a hard problem, you get rewarded.
+
+Brian Chesky: If you think about the story: We have this crazy idea, originally. People think it’s implausible. Strangers will never stay with other strangers. It works, it takes off. We don’t buy this company. And now, we’re this, like, global company. And we were one of the hottest companies of the 2010’s––you probably think of us and Uber and a few others. And so by 2019, we were preparing to go public. And we were a $30-$31 billion company. 
+
+But I remember it was late 2019 and I had some other creeping feeling that was bothering me. And I ended up going on a hike in Bolinas, California in late 2019 with Joe and Nate. And I told them about this and they said, “What do you mean?” 
+
+I said, “Well, the company’s successful, but it’s not exactly the company I intended for us to build.” 
+
+And they said, “What do you mean?” 
+
+I said: Well, growth is slowing, cost is rising. It’s, like, super hard to get work done. There was a lot of bureaucracy. We were doing a billion dollars of marketing, like, pretty soulless, like, performance marketing. We were increasingly focusing more and more energy on, like, hotels and property managers and things that weren’t central to the original idea of Airbnb.
+
+Roelof Botha: With the company’s massive growth, the team strayed from its focus on the original mission of building connection between guests and local hosts. 
+
+Brian Chesky: I knew some big changes needed to happen. But I didn’t quite know how to change them because we were about to go public. And I’m like, “Oh my God, what do we do?” 
+
+So I come back New Year’s Day, after New Year’s, 2020. And I meet with the executive team and I say, “I know we’re about to go public, but I think we need to make some changes. But I don’t quite know how. And I know this seems like a really bad time.” And we didn’t quite know exactly what to do.
+
+Fall from grace: the hottest IPO of 2020 no more
+And all of a sudden, the pandemic hits and within eight weeks we lose 80% of our business.
+
+Ellie Mertz: I recall that first day staying at home, looking at the daily metrics and seeing that, you know, we had a real problem on our hands. 
+
+My name is Ellie Mertz. I am a Vice President of Finance at Airbnb.
+
+It was not just that the business had slowed, but it was that bookings had really evaporated overnight and our guests were canceling at really unprecedented levels. Which meant there was a massive sucking out of the business in terms of overall cash flow. 
+
+Brian Chesky: When you are our size and you lose tens of billions of dollars of business in eight weeks, it’s like you’re an 18 wheeler and you slam on the brakes––nothing good happens. I felt like I was the captain of a ship and it was just torpedoed and there was a hole in the ship.
+
+We went from the hottest IPO of 2020, to within eight weeks, people predicting the demise of Airbnb. These were actual headlines.
+
+“Is this the end of Airbnb?”, “Will Airbnb exist?”, “Can Brian Chesky save Airbnb?” 
+
+Roelof Botha: Crucible moment number three: the COVID-19 pandemic. 
+
+Alfred Lin: This crucible moment is one of the best stories that I’ve been part of in my career because I had a front row seat to how you deal with a crisis.
+
+And the reason I say that is because this is not just an ordinary crisis. This is a once in a generation, once in a century, pandemic that is no doubt gonna affect a travel industry way more than almost any other business that you can think of. People stop traveling. So what do you do then? 
+
+Brian Chesky: I remember a quote by Andy Grove. He said, “Bad companies are destroyed by a crisis. Good companies survive a crisis, but great companies are defined by a crisis.” 
+
+And I said, “We will be defined by this crisis because we’re gonna become a great company. This is a crisis that we will not waste.” 
+
+We put the IPO on hold, and we have to make a ton of difficult decisions. 
+
+Ellie Mertz: It was an all-hands-on-deck moment to figure out what is most important at this moment, and what do we need to move on most quickly? 
+
+In a matter of weeks we had put together a set of various forecasting scenarios to understand, not necessarily what was the best bet in terms of what would happen to the business, but more so to understand the variables and the range of scenarios that could occur so that we could plan for the worst. 
+
+Brian has described the period as everyone being in a foxhole together. And I think that’s actually a great analogy. 
+
+Brian Chesky: The first thing we did is we paused all marketing 100% overnight. Next, I basically started immediately cutting costs. We reduced the pay of all the executives. We punted a lot of key projects. 
+
+I studied Apple. When Steve came back to Apple, he reduced the product line, he went back to a functional organization. That’s what we did, reduced the product line. We went back to a functional organization.
+
+You know, we had to do a layoff. We were one of the first big layoffs in Silicon Valley. We cut 25% employees. It was the hardest thing I ever did. We had over a billion dollars worth of reservation requests that came in for guests that wanted to cancel their trips, but they couldn’t get a refund because there were cancellation policies. And the hosts were really hoping to get paid.
+
+Roelof Botha: In a two-sided marketplace with guests on one side and hosts on the other, Airbnb faced existential financial risk. 
+
+Alfred Lin: The hosts are thinking, “I’m not gonna get any more revenue for a period of time because all of travel is shut down.” 
+
+And the guest is like, “Well, I don’t know what’s gonna happen. Maybe I’m gonna lose my job because of the pandemic, and I have to take care of family members. I need that money back.” There’s about 3 or 4 billion dollars of customer deposits where both sides were claiming that they were owed that money. 
+
+Ellie Mertz: And so, a real tension of who do you favor, guest versus hosts. And based on the principle that Brian was very clear with from the onset of the pandemic, we really wanted to balance these different stakeholders to try to do the best we could by all of them. 
+
+Brian Chesky: We made a decision to override our host cancellation policies and refund a billion dollars of reservations. But this really upset our host. You know, they were really hurting financially. 
+
+Alfred Lin: The biggest crucible moment that, in my opinion, that we had to solve was that. Because in a marketplace, if you choose one side or the other, even if you come out of it, the other side’s gonna be annoyed at you for not taking their side.
+
+And the company didn’t need more capital for its own internal operations. They needed to raise capital so they can guarantee both sides. And that was the reason why Airbnb decided to raise money.
+
+Ellie Mertz: We moved very quickly. So over the course of I would say two weeks we explored a variety of different options in the form of, you know, straight equity, a convertible, or debt. 
+
+Alfred Lin: We ended up raising $2 billion of straight debt. And the interest rate was really high because nobody really understood how to price risk back then. So the interest rate was like 10%. 
+
+Ellie Mertz: In retrospect, the cost of that capital seems extremely high. But if we walk back to that moment, when we are facing insolvency and we don’t know what the world will look like going forward, the cost of that capital was effectually, you know, the cost of solvency. And so, quite a good deal in retrospect in terms of shoring up the balance sheet and allowing us the freedom to navigate the rest of the pandemic.
+
+Roelof Botha: The $2 billion in straight debt allowed Airbnb to pay its hosts what they were owed and protect its community as a whole. 
+
+Zoom IPO?
+Ellie Mertz: We got to mid-May and there was a moment of respite. And we started to look at the numbers. 
+
+Brian Chesky: And something crazy happens. It’s Memorial Day weekend and we start seeing that people are actually booking Airbnbs again. And they’re not going to cities. They’re not crossing borders. But they’re getting in cars and they’re driving like a tank of gas away because they’ve been sheltering in place to other homes where they’re living. And then suddenly this, like, domestic business of larger homes booms in these small towns, vacation rental communities, and rural areas. 
+
+And all of a sudden we have this rebound. We pivot the entire company to provide housing in non-urban areas to provide longer stays. Pretty soon, nearly a quarter of our nights booked were for stays of a month or longer. 
+
+Ellie Mertz: We realized this business is much more adaptable and resilient than even we would’ve anticipated. Which led to the secondary thought, which was maybe that IPO isn’t permanently on pause.
+
+Brian Chesky: So suddenly it’s now the summer 2020 and something miraculous happens. The bankers that told me that you don’t need to think about the S-1 anymore, now they’re like, “Yeah, maybe we should dust the S-1 off. There may be a window to go public.” 
+
+And now here’s the problem. We basically, we were, like, tired and exhausted. We had to rebuild the company and now we need to prepare for an IPO. Oh, and by the way, the S-1 we wrote, it’s basically, like, we have to rewrite it almost from scratch. Because it described a business that basically didn’t exist anymore. And I wasn’t honestly that involved in the original writing of the S-1. But the new muscle was now I’m involved in every detail, because that’s the way I got outta the crisis. And me and the team were involved in every detail. I wrote 14,000 words of the S-1 myself. 14,000 words. I remember asking Morgan Stanley, “When’s the last time somebody was this involved?” And I think Michael Grimes said it was like decades ago. I’m not sure that was a compliment or a warning to me, but it was unusual.
+
+And there hadn’t been any Zoom IPOs. So we didn’t even know if that was a good idea. So in the midst of a crisis, a travel company in the middle of a pandemic was gonna go public on Zoom, having had to rewrite the S-1 in basically, like, 8-10 weeks from scratch. And all the risk factors and half them had changed and the whole premise of the company had kind of changed a little bit. 
+
+And so we prepare to go public, and in the beginning of the roadshow, the initial indications are fairly tepid because there’s this narrative that Airbnb was going outta business and the narrative was outdated.
+
+And we started showing some of the data, the rebound, the recovery. And I basically told the story that Airbnb was born in an inflection point in the world. You know, the Great Recession, mobile, social, were all kind of converging. And I said, “This is another inflection point, the post-pandemic world.”
+
+Roelof Botha: Airbnb went public, via Zoom, on December 10th, 2020. 
+
+Ellie Mertz: If you think about, kind of, our expectations for that day, they were pretty low. We had priced the IPO on the initial public filing at, I believe $44 to $50 which was already almost double what we had priced warrants at at the time of the financings back in March. And so we thought we were doing quite well in terms of how this might perform. 
+
+And yet as we sat on that, kind of, morning opening trade and we saw the first trade cross the wire, I think the entire call was dumbfounded to see a stock that, a mere eight months previously would’ve been liquid at say $20 a share, cross that first trade at over $140. 
+
+Brian Chesky: A company that people thought was gonna outta business is now a hundred billion dollars. It was one of the most surreal moments in my life. 
+
+I got interviewed on Bloomberg. I was informed live by Emily Chang on Bloomberg that the company’s value in moments had doubled from $50 to $100 billion. They caught me on camera. My eyebrows went to, like, the back of my head. I couldn’t believe it. And it was like the whole crisis flashed before my eyes and I thought: Oh my God, how did we get here? This is like the most unbelievable journey. And it felt like the ultimate vindication that we had actually succeeded. 
+
+Ellie Mertz: It was honestly beyond anyone’s, you know, wildest expectations and quite, quite surreal for all of us who had dealt with, you know, the collapse and the recovery. It really was the kind of the moment of looking at the top of the mountain in terms of all that had been accomplished in a very small amount of time. 
+
+And, candidly, a huge amount of gratitude towards our hosts and guests who had, you know, come back on the journey with us. 
+
+Brian Chesky: And so over the last couple years we’ve done our very best to grow into that valuation. And I think that hopefully the results now speak for itself.
+
+Lessons learned from a pandemic
+Ellie Merz: When I think about the role of the pandemic crisis on Airbnb’s business, we are a fundamentally different and better business today because of that crisis. And, you know, the lessons there were, you know, act quickly, be decisive, consider your stakeholders and play the long game. And, you know, where we are today, we are leaner, we are more focused, and we haven’t forgotten the pain that was the forcing function for all the changes that ultimately made us stronger.
+
+Brian Chesky: Since we went public, we’ve made more than 340 upgrades and innovations to the product. It went from a breakeven business to generating. We’re a unicorn by cash flow three and a half times over. And I’m pretty, I’m pretty proud of that. And we are just relentlessly obsessed with creating the most magical experiences, bringing people together.
+
+I think that people need travel in connection with other people more than ever before, because the office is now Zoom, the mall is now Amazon, the theater is now Netflix. And I think travel is increasingly becoming the way that people see their friends, they reunite with others, they meet people. And that’s what I want to do.
+
+I don’t just want to be in the business of travel. I want to be in the business of getting back to that idea of Airbnb, that original idea of bringing people together and reminding people that the other is not so other, that people are 99% the same. And we can make this world a little bit smaller and we can do it by designing not just products, but ways for people around the world to connect with one another. And that is gonna keep me busy for decades to come.
+

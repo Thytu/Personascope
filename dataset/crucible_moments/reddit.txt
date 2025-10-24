@@ -1,0 +1,357 @@
+Steve Huffman:  The strategy of the team was, “We don’t know how Reddit works, or why Reddit works. Therefore, we’re not going to change anything because we might break it.” And so, literally, that was their strategy, was don’t change anything. And then when I would talk to the team, they were so torn on this. They were like, “We don’t like the way Reddit is being used. There’s some content on here and communities on here that are really bad. We don’t like that. We hate that, but we feel powerless to get rid of it ‘cause if we get rid of it, we’re going to break Reddit.” 
+
+What I told them is, “What you’re describing to me is like, ‘if we change, we die.’ But the situation is, ‘if we don’t change, we’re dead.’”
+
+And it was like, “That’s why I’m here, is Reddit’s dying, and we have to change. We have no choice.”
+
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha.
+
+To the unacquainted, Reddit may look like a labyrinth of message boards. But to the devoted faithful, of which there are 90 million daily active users and thousands of volunteer moderators, it is a place to converse, debate and connect. 
+
+Founded in 2005 by college roommates, today Reddit is one of the biggest sources of online information and one of the most visited sites on the internet. But Reddit’s path was circuitous and riddled with points of near failure. Controversies and crises, a sale and spin-out, resignations and business reinventions shaped Reddit into the juggernaut it is now. These are the crucible moments that defined “the front page of the internet.”
+
+Steve Huffman: My name is Steve Huffman. I’m the co-founder and CEO of Reddit.
+
+There’s a long story behind the idea of Reddit. 
+
+I had had an idea for ordering food from your cell phone — this was back in like 2004, 2005. And my college roommate at the time, Alexis Ohanian, I shared that idea with him, and he liked it too. And so, it was something that we had talked about doing. At the same time, we learned that Paul Graham was giving a talk called “How to Start a Startup” during our spring break of our fourth year at UVA.
+
+And my girlfriend at the time overheard me talking about this and suggested that we go. And so, that’s why we went to that talk.
+
+Alexis Ohanian: I wasn’t really familiar with Paul, but when I heard about the talk, I was like, “We got to go, dude. Who cares about spring break? Like, you know, there’s terrible screen glare on the beach. Let’s go to Boston instead.”
+
+I’m Alexis Ohanian, co-founder of Reddit and former Executive Chairman.
+
+We go up, we hear Paul speak, Steve wants to go get an autograph for one of his books. And then I followed by inviting Paul out for a drink. And he agreed. 
+
+Roelof Botha: Steve and Alexis pitched Paul Graham their mobile food ordering app, and he was interested. It just so happened Graham was about to launch a startup accelerator called Y Combinator.
+
+Steve Huffman: Paul encouraged us to apply with the idea that he had heard. And so, we applied with that idea, but were rejected.
+
+Paul, the following day, after saying we couldn’t do YC, called us and said, “Hey, if you want to be in Y Combinator, we’d like you in it, but you need to work on something else.”
+
+Alexis Ohanian: Paul was really enamored with this idea of like, what is going to replace The New York Times when the front page needs to be more than just what one editorial board, what one publication can decide. 
+
+Steve Huffman: And his idea for that something else was a version of Delicious. Delicious was a website at the time that, among other things, invented tagging. It was a social bookmarking website. He was like, I have this idea where if it was Delicious, but the content was good. And so, we went back to Boston.
+
+And then, we mashed it up with another idea I had, which was Slashdot, which was another website at the time, basically Slashdot, not just for tech news, because Slashdot was this website for tech news, but it had this really great community that was, was really what Slashdot was about.
+
+And so, that initial idea for Reddit was a combination of the Delicious social bookmarking and the Slashdot community and conversation. 
+
+Roelof Botha: Steve and Alexis received a $12,000 check from YC as part of the inaugural class. They decided on the name Reddit, as in, “I read it on Reddit.” They built a simple, user-friendly platform for sharing and discussing topics in one centralized place—which at the time, was a novelty.
+
+Alfred Lin: 2005 was a lot of firsts. It was the first time broadband was greater than dial-up. And you also have to understand, in 2005, this is pre-social media.
+
+My name is Alfred Lin, and I’m a partner at Sequoia Capital.
+
+So, you know, in some sense, Reddit and YouTube, which was also founded in 2005, were the first of its kind to combine user-generated content and community. And so, Reddit is this social content and community site that, in some sense, was never seen before, and they were the first to do this.
+
+Steve Huffman: Because of how we got into Y Combinator with that, like, extra attention from Paul, we got extra attention in the batch as well, for better or for worse.
+
+And so, he was really putting a lot of pressure on me to get this thing launched. 
+
+He sent this email that said, “Why haven’t you launched yet? Is it because you can’t? Or because you think it’s not ready yet? And I don’t know which is worse.” And so, I responded to him with a link. I was like, “Here it is. Here’s Reddit.” And then he linked to Reddit from his blog, which was a popular blog, without telling me. So that’s how we launched. I was just working on Reddit, and all of a sudden, the error log started scrolling really fast. And so, that’s when we got our first users.
+
+Alfred Lin: I thought it was a pretty basic website. It had mainstream content. It had some niche content, and it was a pretty good way for you to read about anything and engage in interesting conversations around the content.
+
+The UI was very, very simple. Simplicity was part of the reason why I believe people gravitated to Reddit, um, because of the usability.
+
+Alexis Ohanian: There were moments we’d get a spike, and then a significant number of users stuck around. And it just kept growing. 
+
+Chris Slowe: The community was starting to kind of kick off. We didn’t think of it as a community at that point; we just thought of it as being a kind of a neat product to service interesting content.
+
+My name is Chris Slowe. I’m the CTO and founding engineer at Reddit.
+
+I first met Steve and Alexis back in June of 2005. 
+
+Roelof Botha: Steve and Alexis moved into Chris’s apartment and threw themselves into work.
+
+Chris Slowe: At the time I was also going through grad school, so I was in my fifth year of my PhD at Harvard doing experimental physics, and so, my schedule was a little bit more normal in that I would wake up at like seven in the morning and go to lab, and then work on my startup at night. Whereas, Steve was definitely kind of rotated into like kind of night hours. And so, I think, I think they were going to bed a couple hours before I was getting up. 
+
+And so, I remember it started off with a couple of mornings in a row where I woke up. And of course, the first thing I did was check Reddit because everyone was checking Reddit at that point. On the third day in a row where I woke up and Reddit was actually down. Kind of went over and knocked on Steve’s door and was like, “Hey Steve, Reddit’s down.” By the third day, he was just fed up with it. He just showed me how to restart it. 
+
+So technically, I started working at Reddit before I actually started working at Reddit.
+
+Roelof Botha: As the team immersed themselves in building Reddit, they began to consider how best to organize content posted to the site.
+
+Steve Huffman: One of the, I think, ideas that was important to us is that we not over-categorize things and this is part of this kind of broader idea that we are not the editors.
+
+We are not the gatekeepers, and that categorizing things by topic is one of the things that editors do. And so, we’re like, “That’s not what we do.” But what happened is, as Reddit grew, what started off as a cohesive community started to fracture.
+
+Roelof Botha: This fracturing led to a defining feature of Reddit, the “subreddit.”
+
+Steve Huffman: The first subreddit that we made, I would say intentionally to have a different community on Reddit—which is the point of subreddits—was programming. I was sad that the programming content was no longer the most popular content on Reddit because the politics was becoming more and more popular. The front page was now mostly politics, and I didn’t like that. It was like, I was like, “Reddit was this fun place and now it’s this angry place.” 
+
+And so, I made the politics subreddit so that the political content could live in its own place. And then I waged this like a campaign—I’m going to regret saying this—but I waged like this sock puppet campaign of me and lots of my alts. Anytime somebody posted politics outside of the politics subreddit, I said, “This doesn’t belong here, put it in the politics subreddit.” 
+
+Alexis Ohanian: At the time I’d really wanted tags because I believed that was going to help the site grow faster because you could have one post tagged to multiple things. Steve was really adamant about communities, and he definitely got this one right.
+
+Steve Huffman: The concept of subreddits, in generally, is what allows Reddit to scale. Because people are diverse, they have diverse interests, the wider our user base’s audiences are, and the more diverse they are, the less appealing that single shared space is.
+
+Roelof Botha: But as Reddit continued to scale, 2006 brought growing pains and personal stress. 
+
+Alexis Ohanian: I get a call from the mom of my then-girlfriend, who was studying abroad. She had had this horrible accident—fallen five, six stories from her apartment. She was in a coma. I flew out there, spent about a week with her and the family. And then, about two months later, I get another call, uh, that my mom had just had a seizure. They had brought her into the hospital, done a scan, and they found a stage four glioblastoma tumor—so brain cancer, terminal brain cancer. And so, within the first few months of building this company, coming right out of college, feeling invulnerable, I am hit with this back-to-back trauma.
+
+Steve Huffman: It was kind of a little bit of a lonely time. By the time we got into 2006, there were four of us working on Reddit. It was me and Alexis, the co-founders and then Aaron Swartz and Chris Slowe. 
+
+But at the time, Alexis was going through… his mom was sick. His mom had cancer. And so, Alexis was going through that. Chris was still a full time student at Harvard. And so, he was working evenings with us. And at that point, Aaron wasn’t working on Reddit anymore. 
+
+And so, by 2006, that left me basically working on Reddit by myself day to day. And most of what I was doing at that time was just trying to keep Reddit online. I was 20, I don’t know what I was, 21, 22, kind of learning, learning the hard way, all the like systems engineering to keep a website of that scale online, you know, while the plane was flying.
+
+Roelof Botha: Meanwhile, major tech companies like Google and Yahoo began taking notice, expressing interest in a potential acquisition.
+
+Chris Slowe: Yahoo in 2005, 2006 was still a fairly massive player.
+
+Alexis Ohanian: When Yahoo flew us out a few months into starting Reddit, and the executive had us in this meeting room, and when he asked for our traffic and I gave it to him, he just laughed.
+
+And he said, “You’re a rounding error compared to Yahoo. What are you doing here?” 
+
+Chris Slowe: That comment ended up printed out and mounted in our bathroom as a little reminder of like, it just said, “You’re a rounding error.” And I think that helped to actually, if anything, kind of galvanize us. I mean, I’m not going to say that we continued to build out of spite, but the spite didn’t hurt.
+
+Roelof Botha: Later that year, Reddit received a call from another interested buyer—one outside the tech sphere that, at first glance, didn’t seem like an obvious partner.
+
+Steve Huffman: Condé Nast came into the picture wanting to buy Reddit.
+
+Alfred Lin: Condé Nast, um, they’re a publisher, and so, most of their content is in magazines and they’re probably looking for a way to transform their business to be a lot more internet-friendly than publishing-focused.
+
+Chris Slowe: The pitch was actually that, “Hey, okay, Reddit is this increasingly large presence of being able to effectively like, redirect eyeballs and sling traffic, right? Like, we aggregate content, and we rank content and we’re able to show what is the current really hot things that are present on the web without any real other way to kind of get to it.” 
+
+Whereas, Condé was effectively, it’s a media platform, right? They generate content. And so, the pitch was effectively, “With our powers combined, we can be unstoppable!”
+
+Roelof Botha:  After a series of conversations, Condé Nast made an acquisition offer of $10 million. Barely a year old, Reddit faced a crucible decision: do you sell to an old media empire or gamble on creating a part of the internet’s future?
+
+Steve Huffman: When Condé Nast came into the picture wanting to buy Reddit, I almost felt like that was an escape because I didn’t know, I didn’t feel like that situation we were in was sustainable. All I could see was like, “Oh, I’m just kind of holding this thing together by my fingernails.”
+
+Chris Slowe: The whole thing was just kind of wild, right? This is less than a year or a year roughly from when we had gotten into YC, and we’re talking about an acquisition. Like, Steve was working like 16-hour days, just kind of like continuously grinding.
+
+I was doing the night shift, effectively doing like grad school by day and then working on Reddit by night and then, you know, sleeping maybe four hours a night. It was wild to think that like, you know, all that blood, sweat and tears had actually gone into, like “We can, we can sell this?” 
+
+Alexis Ohanian: We had $72,000 in the bank at this point. It changes your perspective on things. When, probably six months later, I’m meeting with this guy, this biz dev guy from Condé Nast. He says, “Hey, we’d like to buy your company.” And that the price is $10 million. I’m thinking, “My God, I could make life-changing money.” 
+
+My parents will not make this money their entire lives, and I’m going to make it for 12 months worth of work—and, and get to let my mom know that her, you know, unflagging support and belief in me was worth it. 
+
+Chris Slowe: On top of it all, you know, at that point, um, there wasn’t really a monetization route for Reddit.
+
+We didn’t advertise. We didn’t have any real way to make money, uh, we’re still also a fairly lean startup. 
+
+Steve Huffman:  But we thought that would give us the best chance at survival because resources were so scarce. I had also thought, more shallowly, that this is what we were supposed to do.
+
+Those were the stories that I had read about during the dot-com bubble when I was in high school. It was people starting companies, and then selling them, and then leaving their acquire and starting another company. And that’s more or less what Paul and YC evangelized as well.
+
+And so, part of me felt like we were fulfilling the prophecy.
+
+Alexis Ohanian: I remember having a conversation, Paul and Jessica.
+
+Roelof Botha: Jessica Livingston, co-founder of Y Combinator.
+
+Alexis Ohanian: Had me over to their house, and they said, “Listen, we got to talk.”
+
+‘Cause at the time, we weren’t shipping a ton. And this is like maybe Q1 of 2006 and, and they were like, “Listen, like if, if things aren’t going great on the engineering front. You know, and you’ve got this offer, like you should sell this company.” And they just said, they were like, “Look, this is a great opportunity. This company is in distress, like they’re not shipping, and if a software company is not shipping, it’s not good.”
+
+Also, frankly, I know I was just too naive to really understand what that change of control could really look like. 
+
+Roelof Botha: In October 2006, Condé Nast’s acquisition of Reddit closed. Steve, Alexis and Chris moved into the Wired offices in San Francisco.
+
+Alfred Lin: Acquisition, in some sense, it, it is a crucible moment because it is a milestone of some sorts. Somebody gets some level of liquidity. And in many situations, when that happens, people’s revealed preferences show up. Their stated preference might be that they want to focus on the vision of the company and when an acquisition happens and some people get a little bit of liquidity, their reveal preference might be, you know, “I made X dollars. That’s enough for my bank account. And therefore I’m done,” versus following through on their vision. And so, it’s, it’s a little dangerous if you don’t have an aligned team on the vision.
+
+Both Steve and Alexis were still focused on their vision. And so, when they were acquired by Condé Nast, they still continued to stick around and continue to build the product for, for a couple more years beyond the acquisition.
+
+Chris Slowe: One of the mistakes of the acquisition was this idea of… that advertising was transferable to Reddit. And Reddit is a drastically different product than style.com. Or especially then, it was more on the kind of like, snarky, techy, nerdy kind of axis.
+
+And so, it was very hard to have the same sort of transferability of ads onto Reddit. And so, we weren’t even quite breaking even with that modest staff. In fact, if anything, the tricky part was, uh, “Hey, server costs scale with users.”
+
+Alfred Lin: The property had matured to a level where they needed different DNA inside of Condé Nast to run with the business.
+
+And it was hard to attract the type of talent that they were looking for when it was inside of Condé Nast.
+
+Roelof Botha: In 2009, with the media industry under pressure and Reddit struggling for resources inside of Condé Nast, Steve left to start the travel site Hipmunk along with Adam Goldstein. Alexis left to start a career in investing. Chris, however, stayed on.
+
+Steve Huffman: Deciding to leave is another story that I’ve changed a lot over the years. And so, I’ll tell you what I think was my reasoning, was that’s what I was supposed to do. 
+
+Now, there was also the fact that I wanted to start another company. I was no longer an owner of Reddit; I was an employee of Condé Nast working on Reddit. 
+
+Chris Slowe: We couldn’t take on VC to grow, like we couldn’t take on capital to invest in the growth engine.
+
+And when the product is, is succeeding by every, every kind of growth metric, but not succeeding as a business, that’s kind of the meaty startup spot, right? And so, it’s almost like we were kind of stuck in—I used to joke—we’re kind of stuck in carbonite. 
+
+Roelof Botha: In a last-ditch effort to jumpstart the business inside of Condé Nast, a small but determined Reddit team decided to take their survival into their own hands. 
+
+Chris Slowe: We launched Reddit Gold in summer of 2010, and that, this was just about the time where I was considering, uh, departing Reddit. And so,, uh, I definitely had a little bit of a, like, “F it, we’re doing it live” uh, feel, uh, at that point in my career. And frankly, it was out of a certain amount of desperation. It was like, okay, if we can’t sell ads or we can’t sell enough ads, and our self-service product is, our advertising product is still growing, let’s just see if we can sell subscriptions. 
+
+And the original pitch was actually kind of funny in that we didn’t even offer anything back. We were just like, “If you all go through with this, we will find products to build you.” And so, we got a fantastic first pass of, uh, of donations, to the point where we opened up a PayPal account. And the reason for it was, well, New York summer hours, people generally leave and kind of go to the Hamptons or wherever they go during the summer on Fridays pretty early. And so, if we launched it later on a Friday, maybe no one would notice until Monday, at which point we’d have a giant pile of cash. We could say, “But, but look, it worked.” 
+
+And so, we kind of turned it on, and I remember we were, we went out to lunch. And we were just sitting there the whole time on our phones, reloading the PayPal box, watching the counter just go up in a way that was like, I think we raised more in the first day than we had made in ads for that month. 
+
+Roelof Botha: When the Condé Nast executives returned on Monday morning, they were impressed—if a little annoyed—by the Reddit Gold gambit. But, ultimately, the subscription model couldn’t generate enough revenue for Condé Nast to justify keeping Reddit under its umbrella. In 2011, in an unusual move, Condé Nast spun Reddit out into an independent company once again.
+
+Alfred Lin: In general, these, these acquisitions and spin-outs are, are rare. In my career, I’ve probably seen a few of these, but, but they’re very rare. There are very few of these situations where a company gets acquired, then they get spun out.
+
+Chris Slowe: Spinning it out a couple of years later, really, I think, was an opportunity to like, really take a proper series A, really to kind of go through those, like the, the, the awkward middle years of a startup that we all have grown to love and hate. Of like, you know, “Everyone has to have their awkward Series B,” otherwise you don’t really realize exactly what the, what the product is for and what the business is for. Um, uh, in the Reddit’s case, that just happened to happen, like close to 10 years after the founding of the company.
+
+Roelof Botha: The spin-off from Condé Nast allowed Reddit to fundraise and bring in new talent, including CEO Yishan Wong, who had previously led engineering at PayPal and Facebook. In 2014, Sam Altman led Reddit’s Series B, which included an investment from Sequoia. Alexis also joined the Reddit board, bringing a co-founder’s perspective back to the company.
+
+Roelof Botha: But from 2012 to 2015, a series of crises plagued the company—from toxic subreddits and harmful content to moderators in open revolt.
+
+Steve Huffman: The moderators had a lot of grievances over safety, the content policy, or the lack of a content policy. Some mods thought Reddit didn’t do anything on safety, and others thought Reddit was doing too much.
+
+Up until that point, Reddit’s content policy was basically, we don’t remove things. The reasoning was the reasoning we’ve used since the beginning of Reddit: we are not the editors, we are not the gatekeepers. This is community-run. We did, and still do, believe in free speech and free expression. But one of the lessons we were learning at that moment is it’s very easy to take a kind of absolutist free speech position when you don’t have any issues.
+
+When you start to be confronted with like, real issues, then you have to start making hard decisions.
+
+Chris Slowe: What do you do when the trolls start to win? Is really what was starting to happen. I think what I’ve learned over my, uh, very long career at Reddit now, is that 98% of people are actually good and funny and just want to be left alone to do their thing. And just, you know, are pretty overall going to be good actors if you set up the situation to allow them to be good, to be good actors. That other 2% are just jerks. 
+
+And the game, if there is a game, is to make sure that that 2 percent of jerks doesn’t dominate the discourse for the other 98%—because they’re gonna try. Um, and I think that, you know, the, the, the story of the internet has been how those jerks have oftentimes taken the narrative away and taken the story away. 
+
+Roelof Botha: These incidents begged the question: what belongs on Reddit? The platform was built on the ideals of free speech—but where do you draw a line? What is the role of community moderators to take down harmful content? And when does the company itself need to step in? 
+
+Alfred Lin: Ever since the spin-out of Reddit, it was clear to the community that Reddit was going to grow up and become a business. There was this friction between the company and the community. The Reddit community became increasingly belligerent towards Reddit the company, and Reddit employees were such active users of Reddit, they felt like they were not just employees of the company—they were also Reddit community members, and some of them were moderators. 
+
+And so, the Reddit employees had difficulty delineating the community’s wishes and the company’s objectives. It was a unique problem that I don’t think I’ve ever saw in any other company that I’ve worked with.
+
+Steve Huffman: For the first half of 2015, Reddit kind of lurched from crisis to crisis.
+
+And then we just got to the point in, it was July of 2015, where Reddit was going through its basically biggest crisis to date, which felt to me like the final crisis—like this is going to kill the company.
+
+Steve Huffman: The local cause was Reddit had terminated an employee who did mod relations. So basically, she was the main liaison with the moderators.
+
+Chris Slowe: There was a well-loved community team member, a Reddit employee, who was the main kind of coordinator with moderators, who was let go. 
+
+And so, that departure was like the match that lit the tinderbox of the community, just being upset with, “We’re changing the rules—you fired our favorite person.”
+
+Steve Huffman: That was really just kind of the straw that broke the camel’s back. The users were basically in open revolt, and then they had shut their subreddits down.
+
+And so, Reddit was basically offline, at that moment. And it’s the first time we had seen anything like that.
+
+Reddit was like, truly offline. If it stayed offline for too long, it would just be gone.
+
+Roelof Botha: In July of 2015, Reddit went dark. Thousands of moderators made their subreddits private, meaning no one could post and no one could comment. The site came to a standstill. This moment would come to be known as The Great Reddit Blackout of 2015, or, AMAgeddon.
+
+Chris Slowe: It went from, you know, a couple of these little, little sparks led to 50 percent of communities on Reddit blacking out, calling for the departure of the CEO at the time and just like basically calling for people’s heads. Full pitchforks and torches, which, again, it’s Reddit—so pitchforks and torches are effectively one of the things that people love the most on Reddit. Just tough when they direct it back at Reddit.
+
+Alfred Lin: The friction just became worse and worse.
+
+And, you know, if the company doesn’t exist, the community will also not exist.
+
+Roelof Botha: Ellen Pao had replaced Yishan Wong as CEO after he resigned in 2014. She stepped down after a user petition called for her resignation, just a week after the site went dark. Pao then published an Op-Ed in The Washington Post called “The Trolls are Winning the Battle for the Internet.”
+
+Alfred Lin: I think the challenges for Yishan and for Ellen was not that they were not good as being a CEO of a company of the size of Reddit at the time. It was, they didn’t have the founder moral authority to push back on the community. 
+
+So Sam called Steve, I called Steve and we started to put the full-court press on getting him to think very seriously about leaving Hipmunk and coming back to Reddit.
+
+Steve Huffman: I was super absorbed with Hipmunk, and that was like really the only conversation I’d had about Reddit in years.
+
+And we were in the middle of an M&A process for Hipmunk, so we were trying to sell the company. So, I promised Adam, I said, “I’m not going to leave.” Adam knew I was having these conversations with Reddit. And, and I was like, “Adam, I’m not going to leave while we’re in the middle of this process.”
+
+Roelof Botha: Steve faced a crucible decision: six years out, should he leave one company he’d founded to save the other?
+
+Steve Huffman: Literally every single person I knew called, or texted, or emailed and said, “What is going on? You have to go back to Reddit.”
+
+And I had a conversation with Michael Seibel, who’s then, and still now, a very close friend of mine, now is on Reddit’s board. And he told me I should go back. It was a long conversation.
+
+I think it was the Saturday morning I called, uh, I called Sam and said, “Hey, like, I’ll, I’ll do this.” And called Adam and had to break that promise to him to not leave Hipmunk during that time. This was, and, and still is, I think the hardest decision I’ve ever had to make is to break that promise to Adam and to Hipmunk.
+
+My reasoning was Reddit is more important to the world than Hipmunk will ever be, and it’d be a real shame if Reddit didn’t live up to its potential or even worse died. 
+
+Roelof Botha: Just a little over a week after Reddit’s biggest user revolt, Steve officially stepped back into the role of CEO. 
+
+Alfred Lin: Steve’s returning to Reddit was a crucible moment because he had the moral authority to state where the company began and end, and where the community began and end. So, put some distance between the company’s objectives and the community objectives and making sure that, um, when you’re an employee, you work for the company, you’re focused on completing the company objectives. And the community may mostly be right, but there are certain situations where they’re not right, and the company has to make the decision on when to make a call on that. And I don’t think that that was an easy line to draw.
+
+Steve Huffman: There’s a few things that I thought needed to be done that weren’t being done, the most important of which is Reddit needed a content policy.
+
+Because that was kind of the beginning of Reddit starting to ban subreddits and content. Prior to that, Reddit didn’t really do that. 
+
+When I would talk to the team, they were so torn on this. They were like, “We, we don’t like the way Reddit is being used. There’s some content on here and communities on here that are really bad. We don’t like that. We hate that, but we feel powerless to get rid of it ‘cause if we get rid of it, we’re going to break Reddit.” And so, it was extremely demoralizing for the team. What I told them is, “What, like you’re describing to me is like, ‘if we change, we die.’ But the situation is, ‘if we don’t change, we’re dead.’”
+
+And it’s like, “That’s why I’m here, is Reddit’s dying, and we have to change. We have no choice.” So, I and the team wrote the first content policy.
+
+Alexis Ohanian: The, the way I like talking about it to non-internet people is, it’s kind of like Javits Center. So imagine an infinite convention center where Reddit’s a place where you can come and host conventions, and they all happen right next to each other. 
+
+Now, sometimes they show up in Pikachu costumes for the r/Pokemon community. Sometimes they show up for the Mets community.
+
+You are also implicitly validating those communities when you’re the Javits Center and you’re saying, “Hey, there’s a bunch of people loving the Pokemon, and then here’s a bunch of people doing some really awful racist stuff.” And that’s where I draw that line.
+
+Steve Huffman: We did make one mistake there, which is: there’s no such thing as a perfect line. There’s always gray area, and you always need to be interpreting and kind of adapting and changing the policies and interpreting the policies and kind of growing as the problems change. But we got that first content policy out there, and we started enforcing. Pissed a lot of people off, but I would say it made the vast majority of people feel a lot better. That got us on the path to eventually, like, recovery.
+
+Chris Slowe: And I just remember there was a change in about 2018. Where, we were kind of working our way down this list of communities that were extremely toxic and we banned another one. And the response we got was like, “Jeez, about time, guys. What took you so long?” And it was like this big shift—all of a sudden now the kind of like, the good users could speak again. 
+
+And they were like, “We were waiting for you to finish cleaning that up.” 
+
+Alfred Lin: When Steve came back he was undeterred. He pressed forward, he hired a new management team, he redesigned the site, he moved Reddit onto mobile and more importantly, he built a business.
+
+Roelof Botha: With Steve back at the helm and the crises abating, Reddit turned its attention toward operating as a self-sustaining business, finally seizing control of its own destiny.
+
+Chris Slowe: One of the other major things in the last epoch has been to try to convert Reddit, the community social science project, into Reddit, the actual sustainable business that happens to run a community social science project. It’s not possible to run Reddit without money.
+
+Steve Huffman: The revenue, everybody knew sucked. There just wasn’t a whole lot of revenue.
+
+Reddit wasn’t measuring users accurately in 2015. So, we also had 12 million DAU, but Reddit reported MAUs. And so, they reported MAUs in the like 200 millions or something, which is like, huge. But advertisers really care about DAU. And when I remember calculating it with our head of product at the time, Alex.
+
+He was like, “Dude, there’s only 12 million users here.” So we’re like, oh, that was the “oh shit” moment—it’s like, “Oh, this platform is actually smaller than I think people think.”
+
+I’d say we started with the beginning of Reddit being a real business was when Jen Wong joined us, uh, in 2018.
+
+Jen Wong: When I first got to Reddit in 2018, my first priorities were to think about what business model we wanted to pursue to become a self-sustaining business. 
+
+My name is Jen Wong, COO of Reddit. 
+
+I think we still believe there are a lot of different business models hiding within Reddit. But we wanted to land on one that we could invest in because you can’t pursue everything at the same time. And one that would be reasonably quick in scale with users, and we landed on advertising because it keeps Reddit free and open, which is really important.
+
+Reddit really believes in the open internet and allowing users to have access to information, and we knew that that could scale really nicely as we grew users, as we’ve seen with other businesses. 
+
+Alfred Lin: While we wanted to build an advertising business, there was lots of conversations inside the boardroom to make sure that, when we build the advertising business, we did not upset the Reddit community because the community is the reason why the users are so sticky and they come back again and again.
+
+Roelof Botha: Reddit faced another crossroads: could it scale an advertising-based business model without alienating its community?
+
+Steve Huffman: I wrote a post that said, “Hey, look, we need to survive. To survive, we have to make money. We have two ways of making money: we can either raise money and be beholden to VCs forever, or we can monetize ourselves with ads. That’s the choice.” And the users got it. They got it. 
+
+Jen Wong: It was important to us to build an advertising business that was in harmony with our values. And that’s what I spent a lot of my time thinking about is like, okay, you know, how would we have an advertising business that our community, you know, who has strong feelings on lots of things, was in harmony with the values of our community?
+
+And so, being a business and being clear about that to our community was more intentional than probably other companies. We are an extremely mission-driven company, but we are a company and a business. And so, having that dialogue with our community and users was important. It had to be explicit.
+
+We had to bring the community along with it.
+
+Chris Slowe: Though Reddit is a social product, it’s not really as social as many of the other social products, right? Users have personas, but they don’t really have personal information.
+
+We don’t know who the users are; we know what they like. And so, a lot of the work in building and scaling the products that we’ve had to figure out has been: how do we explain to advertisers the value proposition of Reddit, as distinct from the rest of the social space where you have maybe a much more direct line of like, “We know who this person is. We know where they live. We know where they went to high school.”
+
+Jen Wong: We are an anonymous platform. We’ve never changed that. We’ve never forced login to get access to information, even though other platforms do, and that in, makes for a, a richer login graph. But we don’t do that. 
+
+Another part was allowing for all parts of the human experience. Reddit covers adult NSFW—we’re very thoughtful about, you know, ey, that content is part of the human experience. It has to stay. We don’t run ads there. That’s very important to our advertisers. We have human review of all subreddits, make sure they’re appropriate for ads. So I think we found a way to allow for all parts of the human experience to persist on Reddit and yet have a really brand safe advertising business.
+
+Roelof Botha: From a starting point of $15 million when Steve returned, Reddit grew to $456 million in 2021 and $804 million in 2023, clearing the way for a successful IPO in March of 2024. 
+
+Steve Huffman: Reddit’s always going to change. Our number one value is evolve.
+
+We’re always going to try to change for the right reasons. Now, sometimes we get it wrong. Historically, sometimes we haven’t done a great job. But what’s really fun about working at Reddit today is we’re doing a, I think, a much better job, the quality level is much higher and we’re really delivering on stuff that users have wanted for a long time.
+
+Alfred Lin: Reddit would not be a public company today without having scaled revenue to the size that it is today. I don’t think the company would exist today if they had not made these changes. 
+
+Roelof Botha: Post-IPO, Reddit continues to consider ways to iterate on its business model to support its user base and strengthen its financial profile. 
+
+Jen Wong: Reddit is one of the biggest content corpuses on the internet. And for every topical area, it has incredible expertise and insight that people want, you know, sports mavens, beauty mavens, you name it. And some of that content is so good that it is the equivalent of a media company.
+
+And so, creating an opportunity for some of those people—those creators, those thought leaders who are sharing the thoughts to be able to earn money from that—I think seems sensible. That’s just one business model of many that could be on Reddit.
+
+It is our duty to be a self-sufficient business because if you believe in our mission, then we should endure. We’ve been around 19 years, another 19 years at least. And the only way to do that and control your own fate is to control your economics and whether you can self-fund all the things that you want to do.
+
+Steve Huffman:  Like our relationship with the moderators is a forever work in progress. I think it’s always important to, first and foremost, keep our eye on the prize. And so, for us, that’s our mission—community belonging and empowerment for everyone in the world.
+
+Now, more day to day, we want Reddit to be great. We love Reddit. We all use Reddit, and we want to be proud of our work. And so, in any moment, there’s a lot of noise outside, external noise: “Reddit should do this. Reddit should do that. Reddit shouldn’t do this. That was so stupid. Look what the CEO said.” In those moments, we just have to tune most of it out.
+
+Alfred Lin: Today, Reddit is home to thousands of communities, endless conversations, and an authentic human connection for all its users. And Reddit is today the 18th most visited website in the world. And that’s, I think that’s a pretty big deal.
+
+Chris Slowe: I think that at every step along the way for Reddit, we’ve thought, “How could this get any larger?” It’s gotten larger. And getting a chance to watch some of our very early decisions on how communities should be built have proven out to be highly scalable across several orders of magnitude of traffic and across that, that kind of increase in, in user base is just fantastic and humbling.
+
+Steve Huffman: Reddit has been bigger than I ever thought it would be since August 2005. The fact that we have any users at all is sometimes a little bit of a surprise.
+
+Now what has surprised me, truly surprised me about Reddit is we’ve always, we’ve always believed in the agency of people, right? The users create the communities, the users submit the content, they rank the content, their conversations are the community—they are the community. We’ve always believed it’s like the people will do amazing things.
+
+But what’s so fun is that what I didn’t realize is peoples’ capacity to do amazing things every day is like, a hundred X greater than what we thought of—and we were optimistic people in 2005. But we just see people helping each other, supporting each other, being funny, doing interesting things, changing the world, because that’s just how people are. But it’s actually been even more good and powerful than we ever, I think, than I ever imagined.
+
+Steve Huffman: We’ve been through at Reddit, a number of crises that have been challenging for me and the team. I often, in those moments, remind the company that we’ve been through crises before and gotten through them. You know, this, whatever, this, whatever’s going on right now, it’s going to not last forever, but we have to work our way out. 
+
+Also, there are times when things are relatively peaceful, where I’ll remind the company, “Hey, things have been peaceful before and then something happened. So enjoy it, do your work, rest up, appreciate this moment for what it is, because there’s something coming. There always is.” 
+
+And so, I think, try to be measured in those moments and just constantly remind people that we get to work on something really special. And even if it’s hard, even if we’re in a difficult moment, at the end of the day, we get to work on Reddit.
+
+And that is something that we should never take for granted.

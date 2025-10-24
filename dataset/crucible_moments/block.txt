@@ -1,0 +1,287 @@
+Jack Dorsey: Nobody wanted us to work on Cash App. 
+
+Brian Grassadonia: The organization, for many years, was trying to reject the organ. 
+
+Jack Dorsey: Like it’s losing us all this money. Why are we doing this? It was in those moments in our company’s history where, as a lead, you kind of have to sacrifice some of your credibility. And I was willing to take that credibility hit and willing to protect this thing because I believed in it. 
+
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host, Roelof Botha.
+
+Today’s episode is about Block Inc, formerly known as Square, which was founded in 2009 by Jack Dorsey and Jim McKelvey. 
+
+Block’s first product was a little white square that plugged into your phone’s audio jack and turned it into a credit card terminal. It gave millions of small business owners who previously couldn’t participate in the digital economy the ability to accept credit cards.
+
+While Block’s journey began with a single product, today the company offers a suite of financial tools for millions of businesses of all sizes and for individuals as well. 
+
+The crucible moments in today’s episode hinge on the company’s strategic approach to growth and expansion. We’ll look at how Block sacrificed revenue early on in order to build its network. How a distribution deal with Starbucks tested the company’s identity and its resolve when the hidden costs of the deal became clear. And how the company turned a hack week project called Cash App into one of the most popular consumer finance products in the world. 
+
+You’ll learn how Block’s culture of risk-taking, its willingness to accept mistakes, and its refusal to let failure hold them back led to some remarkable outcomes. 
+
+Jack Dorsey: My name is Jack Dorsey and I am Block’s head, the Block Head.
+
+My second boss ever was this guy named Jim McKelvey, when I was about 15 years old. 
+
+Roelof Botha: In 1993, Jim hired Jack to work as a summer intern at his software company, Mira. Jim coined him “Jack the genius” and the two worked together for the next two summers. 
+
+Jack Dorsey: I went to college, moved away. We kinda lost touch. And after I left the CEO role of Twitter, Jim reached out and he was interested in working together again. I was too. So I went back to St. Louis during the holidays and we had a conversation and we decided that we wanted to build something. We didn’t know what that something was. But generally we just wanted to work together because we enjoyed it. 
+
+I think it was in January of 2009, he said, “I know what we’re working on.”
+
+And I said, “What?”
+
+He’s like, “Well, I just lost a sale because I couldn’t accept an Amex.” 
+
+Roelof Botha: Jim’s side hustle was blowing glass. He ran a studio in St. Louis selling sculptural glass faucets––which are beautiful by the way, if you look them up. But, like millions of other small businesses owners, Jim was unable to accept credit cards.
+
+The problem statement: Life before Square and the “why now”
+Before Square, if you were a merchant who wanted to take credit cards, you had to purchase expensive hardware, which locked you into a multi-year contract and came with exorbitant, often hidden monthly fees. On top of that, as the merchant, you were on the hook to pay a range of transaction fees to credit card networks. 
+
+For a small business, these costs were prohibitive. This meant if someone wanted to pay with a credit card, as was the case with Jim, business owners had no choice but to turn down the sale. 
+
+There was an important “why now”. The app store had launched the previous year, and smartphones were quickly becoming ubiquitous. Jim thought, “What if someone could accept credit card payments using their phone?” 
+
+Jack Dorsey: He said, why don’t we build that? We wanted to build something that stood for small businesses, giving them tools to level the playing field. 
+
+So we started with it being entirely software-based. And then we realized we needed hardware, and we figured out how to build the hardware and intersect with the networks and just constant iteration to get to a point within a month of a working prototype that we could actually take someone’s card and take money off the card. 
+
+Roelof Botha: In 2009, when I first met Jack and Jim, the idea that there was this little reader that you’d plug into the audio jack of your phone that would transform your phone into a credit card terminal was pretty remarkable. 
+
+I remember Jack giving me one of the readers and I ran around like a child in a candy store showing it to all my partners at Sequoia. And I said, “please gimme your credit card.” And I would charge $5. And I’d give them the money back. Obviously it wasn’t, I wasn’t trying to scam all my partners in this case. 
+
+But it was just, it was so inspiring. When you think about the ability for a merchant to just run its business, accepting payments––it’s just such a fundamental part of that. Block enabled these merchants that were unserved to become part of the electronic payment system. 
+
+Jack Dorsey: We have a core purpose, which is economic empowerment.
+
+How will Square gain distribution?
+Roelof Botha: In 2011, Sequoia invested in Square and I joined its board. Back in those early days, I was worried about Square’s ability to gain distribution. At the time, Intuit had a payments product and they had a bluetooth reader. So competitors in the credit card terminal space existed. And Square, this brand new company, would be up against them. 
+
+And there was a real question of whether the simplicity of design that Square offered and the seamless nature of the whole product experience would really resonate in a way that made distribution and growth efficient. So it was a little bit of competitive noise. And then a question about: Is this a product that you needed to sell? Or is it a product that customers would find?
+
+The risk was that if Square didn’t figure out an efficient way to get sellers to embrace its product, and then also develop a business model, the company would die before it even got started. 
+
+Should Block sell its hardware and software? Or give it away for free?
+Jack Dorsey: So there was an inflection point within six or seven months of starting work on the project where on one path we could have built hardware and software and sold it much like some of our competitors were doing like, Verifone, and NCR and all these, all these terminals you’ve seen on countertops.
+
+The initial idea was we sell this reader and we sell the software. And we could build a somewhat healthy margin business based off that.
+
+But then we started watching how people were using Square early on. So we had one merchant under my apartment in San Francisco named Lilybelle and she sold flowers. And we kept going to her every week asking her if she wanted to try what we were building, try to accept credit cards, ‘cause she was cash only. And she consistently said no to us. She said, “I don’t wanna deal with credit cards, I wanna keep it simple, use cash.” 
+
+Eventually after about a month, we asked her and she said no again. And we were standing around. Someone came up to buy flowers, handed over a credit card, and she said, “We don’t accept that, but there’s an ATM around the corner.” He kinda shrugs his shoulders and walks away. The guy never comes back. And she turned to us and said, “I’m gonna try this.” 
+
+When we reflected upon it, for Lilybelle, she doesn’t care about accepting credit cards at all. What she cares about is making the sale. So if that’s the case and we wanna help as many people make as many sales as possible, we need to give this away for free. We need to give the hardware away for free. We need to give the software away for free. We need to grow the network as quickly as possible.
+
+And it was super scary. It was super risky. 
+
+Roelof Botha: All the companies in the credit card terminal space were making money by selling their hardware and software. Square disrupted this business model by doing the opposite: give the hardware away for free and charge a percentage fee on each transaction. 
+
+They envisioned they could succeed by growing a large network with lots of transactions. But this direction would mean incurring enormous initial losses– just as the company was just getting its start, when everything was at risk. And so the crucible decision became: Should Square stick with its initial plan to sell its hardware and software? Or should it take the less obvious, riskier path and give it away for free? 
+
+Jack Dorsey: After a lot of back and forth, we decided to give it away for free and grow the network. And that moment led to the whole company. If we stuck with the hardware aspect, which we were intending to do, we would’ve been Verifone and I wouldn’t be talking on this podcast.
+
+Roelof Botha: Square introduced the credit card reader in 2010 and it immediately took off. Customers flocked to the service. 
+
+In addition to giving hardware and software away for free, Square simplified the byzantine fee structure of traditional credit card providers. At the time these fees were anywhere from 1 to 8 percent of a purchase depending on whether it was charged to a Visa, Mastercard, Amex, et cetera. 
+
+Jack Dorsey: We wanted to make it simple for sellers to say yes. And having a always changing rate table was not simple at all. So we decided: We’re gonna have one price, it’s gonna be 2.75%. We’re going to pay the difference. We know we’re gonna lose money for a while. But we did the math and we felt comfortable that we could do it, that we were willing to take the risk and see it through. And it ultimately worked out. 
+
+Roelof Botha: While Square did lose money initially, the company was able to grow its network so much that eventually it became profitable. And this opened the door for Square to develop other financial tools for merchants. 
+
+Alyssa Henry: Square has evolved a ton over the years. 
+
+I’m Alyssa Henry, and I’m the CEO of the Square business at Block. 
+
+Innovating beyond payments by latching on to the right problem
+When I started we were primarily payments—it was a hardware dongle and most of our payments revenue was really, enter $10.50, hit charge, and go. And the majority of the revenue wasn’t associated with customers using software and our commerce products to really run and optimize their business. 
+
+Over time, that’s really kind of inverted. 
+
+Jack Dorsey: Because we latched onto this problem of, no we’re helping sellers make the sale, there’s other things that helped them make the sale in addition to accepting credit cards. 
+
+The next thing that we found was we were giving the credit card reader to Sightglass Coffee, for instance. They were using it, but they had no way to track how many cappuccinos they sold that day, or croissants or espressos or black coffee or whatnot.
+
+We made a very simple register and the biggest thing we did was just made a button for cappuccino. And it was programmable, of course. But what that meant is every time they hit that button for cappuccino, the price would automatically come up. And, in the background that was now tracked. So now at the end of the day, they could see how many cappuccinos they sold. They could remember that on Tuesday it was rainy and how that impacted their sales for the day. They could see the correlation between biscotti sales and espresso when they moved the biscotti jar across the counter, away from the register. So suddenly they had all this data, and the data helped inform how they built their business. And what did that lead to? Led to them making more sales. 
+
+We did it again, recognizing that we had a salon, for instance, and if they could buy a new chair, which costs about $2,000 to install, they would literally double their sales. 
+
+So we started looking at, like, what if we lend money? And we talked to a bunch of merchants. And it turns out if they go to a bank, if they ask for a loan, the floor is usually about $20,000-$25,000. Like, banks just don’t work at those small amounts. So we said, okay, why don’t we set up a very simple system where we can lend money to these sellers, send them an email––it says, you know, here’s an offer for a $500 loan or a $5,000 loan––all based on the data that we had from them using our register and the payment device. You can accept it if you want. Here’s the rates. And you pay it back every time you swipe one of your customer’s cards. And it was a hit, because it was easy. 
+
+Our model became very, very simple, which was if we help a seller make a sale, and we help them make more sales, it benefits our business positively, and then we can support more sellers. So we actually found this very virtuous loop, which had very little tax on our customers. And our interests were entirely aligned. All we had to do was help the seller make more sales and our business would grow.
+
+Don’t listen to your customers, observe your customers
+You’re told a lot to listen to your customers. And I think people take that somewhat literally. Like if a customer tells you to do this, then you do that. Whereas, we had a different approach. Which was, we’re going to observe what our customers are trying to do, and then we’re going to learn why they’re trying to do that over a base of customers. And then we’re going to iterate based on that. So this cycle of observe, learn, improve. And that really set the tone for the business for the next two years or so.
+
+So, in 2012, we had Starbucks reach out to us. And, it was Howard. 
+
+Roelof Botha: Howard Schultz, then-CEO of Starbucks. 
+
+Jack Dorsey: Square got onto their radar and Howard reached out. And they were interested in using Square at all their stores, moving all their processing over to us, which was pretty crazy given that we were only three years old. And, we’d built a really great scalable system. But we’d never imagined, like, going to the level of a Starbucks, which had 10,000 stores all around the US and even more internationally. 
+
+Roelof Botha: As I mentioned, I was worried about Square’s ability to gain enough distribution to get off the ground. Here was a chance to get a lot of distribution quickly. But it also came with a lot of risk.
+
+The Starbucks deal: the risks of a big distribution partnership
+One of my earliest memories of the Starbucks deal was discussing it at a board meeting where the management team presented this as a potential avenue for growth. 
+
+How do you gain wider distribution for your product? And one of the paths is to do a big partnership deal. And that is always fraught with risk, as was the Starbucks deal for Square (as it was known at the time).
+
+And I was, I’d say initially I was a little resistant to the idea. The gap between where our product capabilities were and what Starbucks needed was very big. And by investing the resources to meet Starbucks’ needs I worried that we would divert resources from other things that serve the meat and potatoes of the business that we were in. I realized that doing that would also stretch our capabilities and maybe that then would trickle down and benefit everybody else. It’s a difficult trade off decision. I’ve seen companies where they were smothered by one big customer, really overwhelming them, and you almost become the R&D extension, or product development extension, for some big company. And I’ve seen instances where it can catapult you. So there’s no single formula to say you should or should not pursue these sort of distribution deals.
+
+And so this became a crucible moment: Should Square take the deal with Starbucks? 
+
+Jack Dorsey: It’s hard because Starbucks is a big name. And of course you want to be associated with this giant name. And of course you want those headlines. And, you know, it would feel good.
+
+But it was challenging, emotionally, because we were building this company that stood for small businesses––giving them tools to level the playing field on competing with the larger businesses, like a Starbucks. We had so many coffee stores at this point, and they were all competing against Starbucks. My mom had a coffee store when I was young in St. Louis, Missouri. And she was actually put out of business by Starbucks. 
+
+Explaining it to our customer base, I said, “You know, there’s an opportunity for us, potentially, to work with Starbucks. You’re a coffee store, would you be opposed to that?” 
+
+And I was assuming that they would not be comfortable with it. But what they said consistently was, “No, you know, I feel you should do that ‘cause if you can handle Starbucks, you can handle me. And by the way, my coffee’s better than Starbucks. I’m not really competing with them.”
+
+I went to my mom and I said, “You know, Starbucks wants to work with us. Would you be upset?” 
+
+She’s like, “No. Like, if we could have used Square at the time, we would’ve used it. And maybe I wouldn’t have been outta business. I don’t know.” 
+
+And then it was Square employees, and that’s where the mini-revolt kind of happened. There was this mindset of, we are for the underdog. We’re solely focused on helping them against the giants. And, we had a big conversation. I think we were about 200 people at the time. Those moments come with a lot of pain, a lot of conversation, a lot of stubbornness. But eventually, you arrive at the right solution if you’re asking the right questions. 
+
+One of the things that came to me through the conversations is that if we cast ourselves as “for the underdog”, for the smaller sellers, leveling this playing field, and we’re successful and they actually grow, are we gonna tell them to go elsewhere because philosophically we don’t want to handle them at this arbitrary line of growth that they just passed? No. So what if, instead, we change our mindset a bit and grow with our sellers? If we can grow with them, for whatever ambition they have, we’re fulfilling the promise that we made to them when they came to us. So, that eventually resonated and we decided to sign the Starbucks deal.
+
+Square’s dark hours & subsequent IPO
+Certainly it ended up being somewhat of a one-sided deal that did not benefit us. And, it is what it is. 
+
+Roelof Botha: In August 2012, Square became Starbucks’ exclusive processor of in-store payments for 7,000 US stores. 
+
+But in 2015, Square’s S-1 filing revealed that this partnership had caused losses of $70 million. Square had been promised a percentage of the transaction fees. But the terms of the deal were such that with each transaction, Square was required to pay an even higher transaction rate to the credit card companies. And so, ultimately, on every Starbucks swipe, Square lost money. 
+
+Alyssa Henry: There’s this good Medium article that talks about the clock and the news cycle that companies go through where, you know, noon is your high, riding high, everyone loves you. Six o’clock everything starts to turn sour. And then you’ve got the two sides in between. 
+
+At this point, we were in the second half, we were probably seven or eight o’clock. You know. There had been some bad press. Somewhat dark hours. And then, you know, the IPO was rough as well. 
+
+Roelof Botha: The revelation about the Starbucks deal and this very specific focus on the losses incurred in the payment processing part of it was something that cast a shadow over Square and raised more questions about the company’s ability to be profitable long term, right when we’re going public, right when you’re unable to respond to these criticisms because you’re in the middle of a quiet period. And so it was one of several headwinds we faced as we moved into the IPO. 
+
+Square had been valued at $6 billion, but on the day of the IPO, we were priced at just 9 dollars a share, meaning a valuation of just $2.9 billion. I felt sick to my stomach.
+
+You know, the key is obviously how a company performs in the long run. People often talk about the only share prices that matter are the share prices of the day you buy and the day you sell and everything else in between kind of is irrelevant. As filings showed, we essentially lost $70 million on that deal. But that’s one way of framing it.
+
+Jack Dorsey: Yeah, did we lose 70 million dollars or did we pay 70 million dollars to get the exposure and to grow the network? I don’t know. I mean certainly there were a lot more things that we wanted to do with Starbucks that they did not fulfill. But I don’t regret the move because it hyper-accelerated number one, our technology stack, number two, our awareness with both customers and potential candidates that wanted to work with us. And number three, it broke us out of a box, which was we are building hardware and software for small sellers. 
+
+So it definitely changed the company for the better. 
+
+Alyssa Henry: In company or business building there will always be dark hours. No company, no business is immune from these periods of time. Square was going through those moments in 2014 and 2015. But I think we were planting the seeds then that have led to the success of Block overall today. It’s helped us expand to support a larger range of sellers and grow up-market as well. And then of course, transition from kind of hardware-only or hardware-focused, in-person focused, and payments-focused to omnichannel software such that sellers can meet their buyers wherever their buyers may be, whether it’s in-person, online, or over the phone, or over social media.
+
+Roelof Botha: One of the questions I always wrestle with when one reflects on decisions made is you don’t have a parallel universe where you knew what all the other choices could have been. So in assessing the Starbucks deal on its own, I think it was worth doing it the way we did it.
+
+Taking a step back: Did it enable the company to succeed long-term? Did we learn from that experience? Did it provide enormous value to us? It absolutely did. 
+
+The thing which I’m not sure about is: Was there some other decision that we could have made that might even have been better for the company in the long run? And obviously, you know, I don’t know that. 
+
+But I’d certainly encourage anybody listening as you evaluate your own decisions, key crucible decisions, strategic options you’re weighing is, have as wide a set of choices as possible that you’re evaluating. And if you find yourself deciding between only two choices, maybe you need to widen the aperture. Is there a third or a fourth option that you haven’t even considered that you need to throw into the mix to really test whether that is the right path. 
+
+Building a consumer product: enter Cash App
+Brian Grassadonia: Something that maybe is not obvious to people that have studied Square’s history or looked at Square over the years was very, very early on, the company, we were just culturally obsessed with trying to figure out how we could build a consumer product. 
+
+My name is Brian Grassadonia. I’m the CEO of Cash App.
+
+We launched the Square credit card reader in October of 2010, and by January of 2011 we thought that the product that we were building was really interesting, but we didn’t think that the business that we were building was very compelling unless we could bridge both sides of the counter. So, figuring out a way for sellers to connect with their customers and helping them engage their customers, helping them understand who their customers were. So in 2011, we started hacking on this idea of a product called Square Wallet. And it was a product that worked at Square merchants. And you could walk up to the counter at a Square merchant and you could pay.
+
+And that product never really got off the ground. 
+
+Jack Dorsey: We just could not find the right approach to grow it. And we just did some stupid things early on. Like we assumed that a bunch of people who would be sellers would also have this Square Wallet, so that it was a one binary that was both the seller app and also the wallet. Unfortunately, we ripped it out. 
+
+But, it continued to be this thing of like, we want to build daily utility for individuals as well, not just sellers.
+
+Brian Grassadonia: So, it was another two years of, of many different attempts of us trying to figure out products on the consumer side that we could build that would bridge both sides of the counter. Cash App was born out of, kind of, trying something entirely new. 
+
+It was maybe December of 2012. We wrote down 10 initiatives on the board. And then we just put people’s names next to these initiatives. And my name got put next to the “build a low-cost payment network” line item. 
+
+Jack Dorsey: After the Starbucks deal happened, we were looking at ways to minimize our cost on the networks. One exploration was using the debit card rails, effectively forcing a refund onto a debit card actually bypassed the interchange fee completely. 
+
+Brian Grassadonia: And then right around that time, this idea started to swirl around the company, and it was this idea of emailing money. 
+
+Jack Dorsey: What if you could send money as easy as sending an email? And the idea was, like, you put any amount in the subject line, it would look at an account that was linked to a debit card. It could take from the debit card. It could push the debit card. Extremely cheap to do both operations. 
+
+Brian Grassadonia: Somehow these two ideas got combined together. And that was the, kind of, setting that Cash App was born out of.
+
+Roelof Botha: So at the time that the Cash App idea was floating around, firstly, I was a little bit worried that it wasn’t obvious—why would it hit a nerve, given that person-to-person payments companies had predated Cash App’s launch. And then there’s this question about whether does a merchant-facing company also have a consumer-product payments company?
+
+Block’s expensive pivot: taking on both merchant and consumer payments
+If the company were to pursue Cash App in earnest, it would mean building out a new division within Square: a business unit focused on consumers.
+
+Developing a product for consumers would take time and resources and delay overall profitability. Would it divert focus from Square’s primary business, its hardware and software for merchants? 
+
+Companies typically pivot because they have no choice. But in this case Square’s initial product worked and it was thriving. Often people place a limit on their own potential by becoming risk averse when they initially succeed. They don’t push further. 
+
+And so Square faced a crucible decision: Do you risk taking the company in this brand new direction, potentially putting your core business in danger, and pursue Cash App? 
+
+Jack Dorsey: Nobody wanted us to work on Cash App because, again, we are for sellers, we’re helping them grow. Why are we doing this thing that is competing with PayPal or Venmo? Like, it’s a solved problem. We’re not gonna add anything new. 
+
+And we just didn’t believe that. Like, it felt really good. It felt interesting. It felt electric. And it was in those moments in our company’s history where you have to, as a lead, you kind of have to sacrifice some of your credibility.
+
+And I was willing to take that credibility hit and willing to protect this thing because I, I believed in it. I believed in Brian and the team he was assembling, and it was enough to give me confidence that we should continue to see this thing through, despite the fact that everyone wanted to kill it. 
+
+Roelof Botha: Cash App was given the green light. Brian and his team got to work. 
+
+Brian Grassadonia: We started to just build, I think we gave ourselves a week, to build an experience where anybody within the organization could send a payment to somebody else. I was empowered to, kind of, approach the work completely untethered from anything that we were doing at Square. It was a startup within our startup, but that’s a tired term. There’s a lot of products or a lot of businesses that are being built within companies, or you like to think about them like startups. But this truly was, it was truly firewalled. 
+
+Roelof Botha: Cash App launched in October 2013. It began to see adoption, and the Square team observed something interesting about how the product was being used.
+
+Jack Dorsey: We found that it wasn’t just about people sending money to one another. People were literally looking at this app as their bank account.
+
+It opened the door to us seeing a lot of folks who were challenged in just participating in the economy: could not get a card, could not get a savings account, you know, couldn’t get a, a checking account. They had a job, but they had no way to direct deposit it into an account that could actually use the money.
+
+Roelof Botha: In the U.S. approximately 6 million people are unbanked. Like the Square Reader, Cash App became a tool for economic empowerment. And this differentiated it from other peer-to-peer payments services. 
+
+Jack Dorsey: At the time it wasn’t on college campuses, like Venmo. It’s not in this millennial crowd like Venmo is. It’s with people who don’t have any other option for a bank account. And they’re actually, you know, asking their family or their friends for money and then using that money to send to other people. So they completely bypass the bank account need and, and just using Cash App all the time.
+
+Roelof Botha: Despite Cash App’s popularity with users and its alignment with Square’s purpose of economic empowerment, its existence was constantly threatened. 
+
+Brian Grassadonia: The organization, for many years, was trying to reject the organ. 
+
+Roelof Botha: So the early days of Cash App’s formation, initially we just had to figure out if we could actually make customers happy. Could this service grow? Could it be adopted? And can it show strong engagement? And it did, but the more it did, the more it added to the company’s losses. And, understandably, the company’s CFO and other executives are starting to worry, you know, we can’t just continue to fund something indefinitely. 
+
+Jack Dorsey: It’s losing us all this money. Like why are we doing this? 
+
+Brian Grassadonia: It started to create a culture war within the organization. Something that we really had to manage. There were millions of customers joining the network, but we hadn’t figured out a business model. So this was, you know, maybe 2016, I think we gave it nine months. And if we didn’t figure out a business model for Cash App within those nine months, we were gonna either divest it or shut it down. That was another, almost like a crucible moment within a crucible moment for Cash App. You know, I think that constraints can oftentimes really, really force clarity and force creative problem solving. And, we were able to invent a business model around Cash App.
+
+Roelof Botha: The team built out features such as Instant Deposit, which gave users the option of paying small fees to expedite deposits into their bank accounts. They launched the Cash Card, a debit card that charges withdrawal and interchange fees. They also introduced Cash Boost, which allows companies to advertise on Cash App and rewards customers when they spend money at those companies. 
+
+Today, these are just a few among many revenue-generating features. 
+
+Brian Grassadonia: We went from losing money on every single payment that was being sent, to making money on every single payment that was being sent, which created this amazing positive reinforcement for the business where we were able to finally reinvest money. It was a breakthrough moment for us. 
+
+Roelof Botha: They invented new ways of earning revenue for a service such as this that I’d never seen before. True, true innovation, but it was the constraint of needing to focus on eventually generating revenue and becoming a profitable unit within the business that enabled that innovation to take place.
+
+Taking bets isn’t about managing the odds
+If you go back to the creation of Cash App, maybe it was 50-50 that that idea would’ve succeeded. But today, half of Block’s revenue is Cash App. 
+
+And I find in companies, people are often scared to go out on a limb to recommend things that are maybe controversial. There’s this idea of the world being probabilistic in nature. And if you always make only safe decisions, you know, very high probability payoff decisions, you probably are not making the best long-term decisions because what about that decision, that’s maybe a 50-50 decision, but the upside of that decision is enormous? 
+
+Brian Grassadonia: Our culture was to do a lot of things and to have small teams of people focused on really big ideas. And Starbucks was one of them, and Square Wallet was one of them, and Cash App was one of them. 
+
+Alyssa Henry: Part of bets and risk taking is that you will have some that fail, but if you don’t take a swing, if you don’t make bets, you can guarantee that you’re never gonna have a bet that massively pays off.
+
+Connecting Block’s ecosystem through the acquisition of Afterpay
+Jack Dorsey: So when we started Square, we were starting with one product, and that product was this credit card reader that helped the seller make more sales. And then we added the point of sale, the cashier. And then we added Square loans. We kept adding tools for sellers. We added CRM and analytics and issuing cards and all these, all these things. And what we realized we were building is not just a single product, but an ecosystem of tools. 
+
+And then Cash did the same thing, we saw that same sort of build out of ecosystem for individuals as well. So they were using us for peer-to-peer, using us as their primary payment card, using us now to buy Bitcoin and to deposit money, all these things. 
+
+And then we asked the question, well, we have these two ecosystems. They’re both serving different audiences. Could we connect them? Because if we could connect them, it’s really powerful. None of our competitors are really doing that. 
+
+And, we did some smaller things and then we did one really big thing, which was Afterpay. Afterpay is a buy now, pay later product. What it does for sellers is it gives them a new tool to make more sales. And what it does for individuals is it gives them discovery of merchants around them or on the internet that they could pay in installments, so they could get their merchandise much faster than they otherwise could.
+
+Alyssa Henry: We, as buyers, all know the landscape is changing, and we were hearing from many sellers that they were interested in offering buy now, pay later to their customers. We were looking at it on the Square side, concurrently, there’s a small group within Cash App that was also starting to explore and consider buy now, pay later from a consumer perspective or consumer-lending perspective.
+
+Roelof Botha: Afterpay, based out of Australia, was one of the fastest growing buy now, pay later companies. In August of 2021, Block made another bold, forward-looking decision and agreed to acquire Afterpay for $29 billion. 
+
+Jack Dorsey: This represents this connection between these two at-scale, massive ecosystems. 
+
+Alyssa Henry: You’re creating this bridge between what had been previously with Square and Cash, I’d say pretty like, actually very, siloed, different businesses with no connections or communication between the two. We were just operating independently. By putting Afterpay in the middle, it starts to build this bridge and this two-way communication and, in order to make it successful, we have to bring these two businesses and our operating rhythms and portions of our culture closer together. And so, it’s been phenomenal. Brian and I have never worked so much together. It’s great. 
+
+Brian Grassadonia: The Afterpay team, it’s been a much more of an enterprise sales motion where they’re a really, really strong sales-led culture. And that has really, really helped us as we think about bringing these two ecosystems together. And finally, kind of, helping Cash App and Square build one network.
+
+Alyssa Henry: Lots more to go do. This is gonna be a multi-year integration, but excited about us seeing and ticking off the pieces of the deal thesis that we believed in.
+
+Jack Dorsey’s lessons learned from Block’s crucible moments
+Jack Dorsey: Looking back at all these moments I think the most important part is we built a company that is willing to face entirely new challenges. We’re willing to ask really tough questions of ourselves and do so with humility of not knowing what’s on the other side of them.
+
+There’s never one point, or a set of points, that you can point to and say that’s why we were successful. And we certainly talked about some of those things that look like that during this conversation. But all of this is very small things adding up together very quickly and compounding into where we are today.
+
+And that’s all the successes and all the mistakes and all the learnings we made. There’s a ton of mistakes that we made that, because we made them, has given us more success. And, while these moments were important, it’s everything in between them that really made us who we are and gave us the success that we did. And, I don’t think enough people talk about that. But when you really consider, and you go back and you reflect, that’s what matters the most. It’s just these little tiny things that add up quite quickly. And it’s, it’s moving so fast that you don’t even notice ‘em, and then you bucket them into this, this larger thing, so it’s easier to talk about. 
+
+I’m just proud that we built a company that continues to learn and is good at observing and, and asking those questions and being uncomfortable.

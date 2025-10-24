@@ -1,0 +1,330 @@
+Hosain Rahman: So, you guys want, like, the raw answer? Like, it doesn’t leave you. Guys like me don’t like to fail, man. 
+
+We invented three categories that now, like, billions of people use, that doesn’t happen without what we did. That was all us, right? Wireless speakers like this didn’t exist. So, you feel all those things viscerally. 
+
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host, Roelof Botha.
+
+So far in this series, we’ve taken a look at startups that successfully navigated crucible moments to become some of the most important companies of our time. Today’s episode is different. It’s about how failing to make the truly hard decisions at critical junctures can lead to your undoing.
+
+Today, we’ll be looking at Jawbone. You might remember Jawbone’s portable Bluetooth speaker, the Jambox. Back in 2010, they were everywhere. You’d see them on the train, at the beach, on dinner tables, at parties. Finally, wireless speakers you could just throw in your bag and take anywhere. I absolutely loved the product, and they were wildly popular.
+
+Jawbone got its start pioneering some of the first smart Bluetooth headsets for phones. And with the Jambox, the company’s valuation continued to skyrocket, while product flew off the shelves. 
+
+But the thrill of flight masked the danger ahead. Weak gross margins, product malfunctions, manufacturing shortages, inflated valuations, and fundraising challenges would ultimately melt Jawbone’s wings.
+
+From a nearly $4 billion valuation to liquidation, Jawbone was, at the time, among the largest implosions in Silicon Valley. Its spectacular growth and equally spectacular retreat provided indelible lessons for everyone involved, myself included.
+
+This story is more relevant today than ever. An era of low-cost capital and easy fundraising is now behind us. In the next decade, sound fundamentals and operating rigor will determine a business’s success. Jawbone’s story is a rich, cautionary tale. As we reflect with the founders on lessons learned, we hope a new generation of startups can take away valuable insights as they build the next great companies of tomorrow.
+
+Hosain Rahman: Hi, I’m Hosain Rahman, formerly CEO and co-founder of Jawbone.
+
+Stanford’s Florentine Renaissance and how Hosain and Alex met
+I was at Stanford, it was the mid-nineties and it was almost like the Florentine Renaissance. The internet browsers being created. Jerry Yang and David Filo were grad students when I showed up, just leaving to build Yahoo!. The Google guys were at Stanford; they were my TAs in computer science. So it was just this, like, incredible time. There was just such, you know, an optimism about what was possible with everything that was being built. And it was this brave new world. 
+
+Roelof Botha: It was at Stanford that Hosain met his future business partner, Alex Asseily. 
+
+Alex Asseily: Hi, my name is Alex Asseily. I was one of the founders of Jawbone. 
+
+My encounter with Hosain is pretty amusing. We met playing rugby at Stanford in our freshman year. And because both of us were quite tall we were both put in the second row of the scrum, which is sort of the least glamorous position. And added to that, we had to sort of hold each other by the waist. So, it set us up for being quite irritable and disliking each other.
+
+I think he thought I was just some English guy and I thought he was a shallow guy from LA. And then within the space of one conversation, he realized I was half Lebanese. I had some sensibilities to his Muslim upbringing. He had a much more expansive and sophisticated view of the world, which was something that I welcomed. And so we ended up hitting it off. And by the end of the evening, I think we were great friends. 
+
+Roelof Botha: Together they would form the company that would later become Jawbone, originally called Aliph, or AliphCom.
+
+Jawbone’s initial problem statement
+Hosain Rahman: In ‘99, my co-founder Alex and I were trying to solve this big problem around how do you talk to your phone in a way that would make it easier to use.
+
+Alex Asseily: Up until that point, if you wanted to speak to someone on the move, they would have to have a long boom. Otherwise, you’d just hear a bunch of background noise and the person’s voice would, in most cases, get lost.
+
+Hosain Rahman: And so, what we realized is that if we could actually clean up the inbound signal going into these speech recognition engines, that you would get a really amazing set of performance. 
+
+If we can control the experience and we can make something beautiful and something that would be appealing to people, it would be this wonderful vessel to get out and harness the power of this technological innovation that we had. And that was the dawn of the first Jawbone headset. And that’s when we teamed up with Yves Behar.
+
+Yves Behar: I’m Yves Behar. I’m the founder and CEO of Fuseproject, a design agency, and then, at Jawbone, I was the Chief Creative Officer from 2003 to 2017. 
+
+They had this incredible technology that was using bone conduction around the ear, and really taking out the surrounding noises. We saw ourselves as technologists and designers on the one hand. But we also saw ourselves, a little bit, as Robin Hoods of the tech space in the sense that we really felt strongly that a lot of people were excluded from technology, from the everyday tech that was supposed to make life easier.
+
+Hosain Rahman: At the time when we were doing this, the only products that had ever been, you know, kind of quote-unquote “designed” were really the Palm III and then the Apple iPod. Right? And those two products, in particular, had shown that when you approach, you know, building these consumer technology hardware products with a sense of craftsmanship and a love, and a focus on an attention to detail to delight these users, that there was a big reward that came with that. And you could capture people’s imaginations.
+
+Against all odds a hit emerges: the first smart bluetooth headset
+Roelof Botha: After difficult early years, toiling through a market meltdown, fundraising challenges, and a first version panned by Steve Jobs himself, the co-founders kept iterating. And in 2006 released the first wireless Jawbone headset. It was a breakthrough; the world’s first smart Bluetooth headset, with instantly lauded performance and design. 
+
+Hosain Rahman: Right out of the gate there’s magic. Like, you just freaking know it. 
+
+Alex Asseily: We thought it would make a big splash because we knew there was something there.
+
+Hosain Rahman: Within minutes of it launching at AT&T, we sold out. We had, sort of, almost solved a problem that they didn’t know that they had, and now they couldn’t live without that solution. We built a consumer technology product with five people and no money. And then sold out immediately. And all of a sudden we knew that we had a massive hit on our hands. 
+
+Roelof Botha: The proliferation of cell phones and new laws that banned the use of handheld devices while driving created an important “why now” for Jawbone. Demand exploded.
+
+Sequoia made its first investment in Jawbone in 2007, the same year the iPhone came out. At the time, Jawbone had the fastest revenue growth of any company that I’d ever seen.
+
+Alex and Hosain were a wonderful pair as founders go, with Alex being very methodical, disciplined, and detail-oriented, from an engineering point of view. And Hosain being an incredible visionary and an incredible storyteller.
+
+An abrupt halt–the global financial crisis
+But in 2008, Jawbone’s meteoric rise would come to an abrupt halt with a global financial crisis and ensuing recession.
+
+Hosain Rahman: The crash was wild because we had 2 million units, I want to say, open POs. Like, these are purchase orders that your Best Buys, and AT&Ts, and Verizons had given us. These are like hard orders that were non-cancelable, right? And it’s money. We probably had about 50 million, 60 million dollars worth of raw goods inventory in China. And all of a sudden, these non-cancelable orders, like, went to zero. 
+
+What do we do? We ended up, like, going into Costco, we ended up, you know, hand to hand combat to figure out how to burn all that inventory off. 
+
+This is the time that we said, “Okay, we’ve gotta move to a new neighborhood.”
+
+And I remember it distinctly, we were in a board meeting, and at the time we had, you know, two Sequoia partners who were helping us. Roelof was on the board. And, we had an observer in Gaurav Garg. And he said, “We gotta figure out a new neighborhood.” Right? To move into, ‘cause the neighborhood that we were living in that we thought was amazing, and it was at the time, is not as amazing anymore. And so, we just need to, like, figure out what that next thing looks like. 
+
+Roelof Botha: The company faced a crucible moment. The financial crisis had devastated companies across the globe, and Jawbone had hustled to stay intact.
+
+A new “why now”: the quest to liberate the docked iPhone
+What could they do to reignite growth? The team looked for a new “why now” to drive their next product.
+
+Hosain Rahman: All of our media became mobile: All of our music, all of our video, all of our podcasts. All of a sudden, it was all in your pocket, on-the-go all the time. And the consumption model and what you used to interact with all that media was totally different. Like, you remember we used to dock iPods, right? You used to, like, take your iPod, stick it in a dock, and that’s how you would, like, play speakers.
+
+Yves Behar: We really felt that we had mastered Bluetooth as a technology. We had sort of liberated the corded headset and we wanted to liberate the docked phone. 
+
+Roelof Botha: Seeking to liberate the docked phone and seize upon a new market opportunity, they hit upon an idea for an innovative product category: the wireless smart speaker.
+
+Alex Asseily: The sound effects we had created for the headset were the same, more or less, that we were going to add to the speaker. It was a kind of perfect confluence of signals at a perfect time. 
+
+Hosain Rahman: The risk in innovating a new product category is, like, there’s no precedent for what you’re doing.
+
+Roelof Botha: The cost of getting it wrong for a hardware product is far greater than it is for a software product, because you have to invest in tooling. You have to find contract manufacturing partners. You have to invest in purchasing inventory. You often have to enter long-term contract arrangements to be able to ensure that you have access to critical components, should supply grow. 
+
+Hosain Rahman: This was, like, a crazy controversial decision internally because we had folks in our team who had worked at Sony and said, “We’re gonna make a speaker? Are you out of your mind? Like, this market is so saturated and so crazy.” 
+
+Roelof Botha: We had concerns that it may be a treadmill business and it was hard for us to differentiate with our software longer term because we didn’t own the music service. The risk was that it was a bit of a standalone hardware product.
+
+Alex Asseily: I think internally we just knew it would be a success. I’ll never forget switching on the first prototype and being like, “Oh, that sounds good.” We just knew that people would love it.
+
+Designing a differentiated speaker: Jambox
+Yves Behar: We also came up with a name, Jambox. As designers, this was sort of a dream come true. 
+
+The focus was on great sound which meant that the grills were very, very opened, which let as much sound out as possible. We could create these beautiful, faceted textures on the front of the Jambox. We could really present the innovation in all of its facets through industrial design, through naming, through packaging, through go-to-market, through images, through photo shoots and lifestyle. 
+
+And we did everything differently from the way the industry presented speakers and docks at the time, which were static and dodgy. And we were sort of fun and expressive. And we drew on a lot of street culture. 
+
+Hosain Rahman: We said, “The revolution in media consumption and, and audio consumption is gonna be in the mobile phone.So, let’s go do this with our existing customer for Bluetooth headsets, which is the mobile operators.” 
+
+Roelof Botha: When the company started to sell its product, it was an instant hit. With the Jambox, Jawbone had released a second category-defining product. 
+
+Alex Asseily: And in a sense it became much more iconic, and much more synonymous with the Jawbone brand than the headset. Because, frankly, it’s cooler. Like, a speaker playing music is cooler than a mobile businessman doing a call in an airport.
+
+Hosain Rahman: And I didn’t realize just intuitively how much people love music. Right? We went from productivity and headsets to love, right? 
+
+And the energy around the first Jamboxes was crazy. We had every single artist in all kinds of genre of music–from hip hop, to country, to pop, say, “I love this thing.” 
+
+Jambox saved the company.
+
+Roelof Botha: The MP3 speaker dock business was a crowded market with high manufacturing expenses. But by transforming the technology into a smart wireless device, Jawbone had overcome the odds and created a whole new category that revived their sales.
+
+Hosain Rahman: For the longest time in Jambox, we had 80% market share, right? Until everybody started to kind of crowd in the space and started eroding the price points and the margins.
+
+Roelof Botha: In 2011, Bose released the SoundLink Mobile, and other competitors piled on. My concerns about the Jambox becoming a treadmill business were also coming true. Had we owned the music service, we could have created a stickiness that kept customers coming back for repeat business. Instead, we depended on constantly inventing new hardware hits.
+
+Jambox had indeed saved the company. But the team soon found themselves pursuing yet another breakthrough product.
+
+Their new inventions stem from an idea that went back to their very beginning: wearable technology that could help track your health and wellness. But this time, innovating another new product category would prove much more challenging.
+
+Introducing Jawbone’s third hardware product: the UP bracelet
+Hosain Rahman: One of the things that was really special about the Jawbone headsets is that we were using innovation on the sensor side, in terms of understanding when people were talking versus what was noise. 
+
+Well, it turns out those body-worn sensors, if you move them to other parts of your body, you could see all kinds of other information about yourselves. And using those same sensors, these accelerometers, putting them on the wrist, for example, all of a sudden could tell you all sorts of things about your movement, your efficiency of movement, how many calories you were burning, are you running, is your gait working?
+
+And it could also tell you a lot about your sleep–which was this whole magical, new, undiscovered area. 
+
+Roelof Botha: The product they designed, the UP Bracelet, was the first wrist-worn health and fitness tracker, monitoring a user’s steps, sleep, and more.
+
+Yves Behar: A lot of product development and a lot of resources internally went into developing the UP bracelet. It engaged technologists, hardware folks, it engaged software and it engaged the medical field, as well. It was really at the convergence of technology and health and lifestyle.
+
+Hosain Rahman: People thought I was really crazy. Like, they were really, like, “What are you talking about? Like, you’re gonna put sensors on the wrist and like, people are gonna see what? And how’s that gonna work?”
+
+Yves Behar: How do you place something in a bracelet that’s comfortable? Something that, you know, is not going to compete with a watch that you’ll be able to use at night. So it has to be soft, it has to be flexible, it has to move with you. All really tough challenges to reconcile with technology. I would say wearable technology is probably one of the hardest things to design. 
+
+Hosain Rahman: We were on the wrist before Fitbit, before Garmin, before Apple, before Nike. So there was a whole, how do you get people to change their behavior and do something completely new?
+
+I always used to use this metric of, like, are we building something that if you left it at your house, like your wallet, your keys, or your phone, you would go back for. And that’s the bar, right? Of like, would we be able to play a role in someone’s life that was so important around solving a thing that they cared so deeply about that they would go back and get it.
+
+Alex Asseily: The issue with UP is that we were flying blind. We just didn’t know what the dynamics of the market were. You could kind of predict what was going to happen with speakers, for example, or with headsets. It was, in theory, a much bigger market. Because guess what? Who doesn’t want to be healthier?
+
+Yves Behar: The expectations were very high. All eyes were on this small innovator. Pressure to have a great product at scale was certainly there.
+
+Roelof Botha: The company had two successive, massive hits. I mean, there are not many companies that built consumer electronics that tens of millions of people buy and love. That is a rare accomplishment. And so, it’s natural if you’re, you know, this is your third time at bat, the stakes are higher, the expectations are greater. 
+
+The market testing showed promising results, and we were excited for it. 
+
+Hosain Rahman: We pre-announced it and I did it on stage at TED Global. And they don’t typically do product announcements at TED. And the reception to what we did was crazy. And, again, it was one of those things we knew really quickly that everybody wanted it.
+
+Roelof Botha: UP was released in November 2011 and it sold out instantly.
+
+Yves Behar: It had an incredible amount of traction, sales were through the roof. It looked like we had another category-breaking success on our hands.
+
+From category-breaking hardware to breaking hardware
+Hosain Rahman: Then within a couple days, we started to hear reports of, like, it’s breaking. Or things weren’t working. 
+
+Roelof Botha: I experienced that myself with one of the early UP units that, after a couple of weeks, it wouldn’t recharge anymore–which was baffling. 
+
+Hosain Rahman: This is a crazy, part of this story. I had just joined Twitter and didn’t really know much about the platform, was on it. And I start to get, like, people attacking me, death threats, like mad, like, “My product’s not working, I’m gonna kill you. I’m gonna do this.” I was like, wow, this is a crazy, crazy place. 
+
+What we realized is that water was getting into the product and it was shorting out a few capacitors and the thing would basically break. Well, it turns out that when we did our waterproofing testing and water resistance testing, we were testing with pure H2O. Well, it turns out that, like, pure H2O doesn’t really exist in the world, in real life. Ever, anywhere, right?
+
+It’s mixed with oils from your skin, lotion, soap, right? Like, all this stuff changes the viscosity of water. And it was penetrating, at a molecular level, our seals. Like, our glue seals. 
+
+Yves Behar: Seeping into the product, damaging the processor or the battery. 
+
+Roelof Botha: Whenever you release a consumer product like this, you do a lot of testing.
+
+So we did all this mechanical testing on the UP bracelets to make sure that they wouldn’t break if you twisted them a thousand times and then you expose them to heat. And there are all these testing centers in America where you get these certifications to show that products meet certain criteria. And so we did all these tests and we were able to iron out all the what you might call infant mortality bugs in consumer electronics. 
+
+But what we didn’t test for is how the bracelet would survive over time. How it would hold up after weeks of use. Its midlife mortality, so to speak.
+
+Alex Asseily: People, like, fiddle with the thing, they put it on, they think it’s malleable, they think it’s plastic. But actually it’s elastic. So, they keep messing with it like it’s, like, a piece of jewelry or something. But it’s not, it’s got electronics in it. So there’s all these behaviors that we just didn’t understand.
+
+We had the capacity to do more rigorous testing. I think it’s a reasonable expectation of our customers that we should have done that testing.
+
+Roelof Botha: Obviously with the benefit of hindsight, we wish we had done multi-week testing of products, but it wasn’t the standard at the time. We had followed, you know, all the typical approaches to testing consumer electronics and maybe we should have thought out of the box.
+
+Remember, this was before direct-to-consumer ecommerce and Shopify, where now you can ease into selling a new product. 
+
+All at once, Jawbone needed to deliver large quantities of UP to big box retailers for Christmas inventory. Sometimes, first-to-industry companies learn things the brutally hard way.
+
+Hosain Rahman: I don’t even know what the financial implications really could be. How big of a hit is this? Is it tens of millions? Is it hundreds of millions of dollars? And I was really nervous, I was terrified.
+
+The UP recall & subsequent cash crunch
+Roelof Botha: We realized that we had a real crisis. And needless to say, this was a disaster. Jawbone had stumbled. Now they faced a crucible moment within a crucible moment. How would they survive?
+
+When a company faces a crucible moment like this, a true crisis, it’s an all hands on deck. And in a situation like this, you know, some people may be tempted to do a coverup. The coverup is always worse than the crime.
+
+We would have to do a recall, which meant that we would take back all these devices, we’d obviously have to refund customers. We’d have to eat the cost of having made all these devices, suffer enormous brand damage as a result of doing the recall.  But part of the judgment call was that not doing the recall might be worse brand damage anyway because then you completely destroy trust with your customers. 
+
+Hosain Rahman: We wrote a letter and, and apologized to everybody. I said, “Look, we were trying to push the envelope, trying to do something new. We think there’s a lot of value here, but, but this is what’s happening. There’s no risk to anybody physically. If people want to keep this thing, they can, they can keep using it. But if you want your money back, we’ll give it to you too, and you can keep using it anyways. And we’re gonna go back to the drawing board, fix this, and we’ll be back.” 
+
+Alex Asseily: I thought that the letter he wrote to customers and to our stakeholders was great. What was written there, it found the right combination of mea culpa, vision, action plan and so on. And I think people gave us another bite of the apple. 
+
+Yves Behar: Let’s take responsibility. Let’s not try to tell the public that they’re wrong. We need to, we need to do right by them.
+
+Hosain Rahman: Even the naysayers that we had in our investor base or our board and everybody was just like, “This is the right thing. Clearly this category matters. We know there’s a there there, people love this. Let’s go fix it.” 
+
+Roelof Botha: Despite the enormous recall, Jawbone pushed ahead with the next version of UP. They went back, fixed the issues, and released a more durable product in late 2012.
+
+It was just very difficult for us to have overcome the challenge of the recall. You know, I sometimes think about an equivalent for people where if you’ve had a really serious disease, maybe you had a very bad bout of pneumonia, you sort of deal with the lingering after effects for many years. It’s not as though you get healthy in a couple of weeks and it’s all back to normal. There’s sort of these long-term consequences that result from such an intense and serious illness. 
+
+And I feel the same is true for a company in this situation where an episode like this lingers and the damage lasts for a very long time.
+
+Alex Asseily: At the end of the day if someone believes in you and they open up your product two or three times and there’s a problem with it…it doesn’t work, or they have to send it back, it catches up with you, you know, it catches up.
+
+Risky fundraising deals
+Roelof Botha: In late 2012 and early 2013, Jawbone realized it had yet another massive problem on its hands. The recall had cost the company approximately $100 million. While orders for the re-released UP continued to roll in, the company faced a massive cash crunch. They didn’t have enough working capital to fulfill the orders piling up.
+
+Hosain Rahman: We had had this hole in our P&L, we hadn’t sort of really slowed down our R&D investment. We are back to 2 million units or so behind on open purchase orders. And how do we scale up? Now we need real big inventory dollars to do that.
+
+The supply chain in Asia doesn’t necessarily want to front us the money to go make that inventory investment. We’ve gotta manage the risk. So we think, “Hey, interesting, debt could be an alternative.” 
+
+Roelof Botha: Debt is dangerous. Like many other things, it’s a double-edged sword. And one of the things in general when you’re a startup company or a private company is hope for the best, plan for the worst. And raising debt is kind of, hoping for the best and planning for the best. 
+
+Jawbone raised short-term debt financing, intending to fund its inventory needs and get out of its cash crunch, after which it planned to raise an equity round at a higher valuation.
+
+The company then started pursuing a series of increasingly risky fundraising deals, some in the form of equity, some in the form of debt, each with their own challenges and dangers.
+
+Roelof Botha: We were at the mercy of new investors. We were struggling with wave after wave of struggling to raise money, or raising money in small increments, drips and drabs where we couldn’t secure a single substantial lead with favorable terms that would enable us to continue to scale the business.
+
+The higher the burn rates get, the more difficult it is to get a new investor to believe that the company can turn a corner and turn profitable.
+
+In 2014, they finally received two equity offers. One offered more money and a higher valuation, but it came with a series of conditions and the risk of losing the company if things went south. The other offered less money at a lower valuation, but came with cleaner terms. 
+
+A schism erupted between early investors on the board who advocated for a more focused, streamlined strategy, and newer investors, pressuring Jawbone to take the deal with the higher valuation and essentially hold a sprawling company together with duct tape.
+
+Hosain Rahman: We thought the larger offer would be a good way to give us a war chest of efficient dollars to get the revenue engine and that P&L hole that we had to get fixed against open orders. 
+
+Roelof Botha: I often chuckle when people talk about entrepreneurs as being risk takers, ‘cause I actually think the opposite is true. Entrepreneurs are risk mitigators, they identify the risks in the business and they work assiduously to figure out how they can minimize the impact of that on their success. And this felt to me as though we were amplifying the risk to the business by taking a very aggressive set of terms that really exposed us. And if anything goes bump in the night, we would be in trouble. 
+
+Hosain Rahman: So, after a lot of back and forth, and a lot of tension and a lot of differing views, we end up taking the larger offer. This might be a really efficient way to kind of get the business back on its feet, on a growth trajectory again. 
+
+So we go into the process, we go through all the diligence, we end up getting ready to close, and for a variety of reasons, the full amount of money that we were intending to raise was not available there.
+
+Roelof Botha: I do remember hearing that the financing had fallen through and I don’t think I was surprised.
+
+Throughout this turbulent period, the day-to-day functioning of the rest of the company suffered.
+
+Yves Behar: We had three different companies with different needs, sometimes different retail channels, different logistical needs, different engineering and team needs.
+
+And because we were constrained in our growth and hiring, we basically had teams rotating through these categories and, sort of, trying to fight fires in these completely different product lines. 
+
+The challenge really was on delivering durable, long-lasting products, quality products across these different categories that were quite different from one another. 
+
+Hosain Rahman: We ended up being late on products. We ended up having, you know, bugs, things weren’t working in the same way.
+
+Meanwhile, you know, market shares are eroding, things aren’t producing enough margin. And so we got into this spiral where, it almost became financially difficult to keep producing the products if they weren’t profitable.
+
+One difficult financing leads to another one, and you think you’re gonna then use that to get outta the hole and get to the next level.
+
+Alex Asseily: I felt conflicting emotions. 
+
+Roelof Botha: Alex had stepped away from daily operations in 2010 and was now living in London.
+
+Alex Asseily: I could have said like, “Listen, hey, I don’t care what happens. I just want us to remain friends.” I could have been a root. Did I really feel that way? It’s like all things being equal, certainly, yeah. 
+
+But what I was really feeling is like, “You’re not being collaborative with people trying to give you constructive criticism about how to fix this company. And your reaction is unreasonable. It’s understandable under the circumstances, but it is not reasonable given that you’re responsible for a two to three billion dollar company.”
+
+Lessons to be learned from Jawbone
+We were spending VC cash, developing high-tech, high-design products. And high-tech, high-design products need good margins. That’s how Apple does what it does. 
+
+Hosain Rahman: First time I met Steve Jobs, you know, it’s like, it’s meeting like the icon of, of a builder, right? It’s like Leonardo da Vinci of our time. And I remember one of the things that really struck me was, he was really focused on product costs, delivery costs, like, unit economics and gross margins.
+
+And I was surprised at the level at which he was, you know, really razor focused on it. ‘Cause I thought, you know, not having ever met him and, but seeing the products, I was like, he must be, like, an artist, like insane, like, thinker like why is he so bogged down in this, like, unit economics? I now understand it. Right? Like, viscerally.
+
+Alex Asseily: Whether you raised debt or whether you raised equity, it doesn’t really matter.
+
+What matters is the fact that you can never catch up because you’re constantly raising money to fill the cash gap. I think it became a runaway train. There was a failure at the board level of just saying, “This is going to end in tears” early enough.
+
+[29:20]
+
+Roelof Botha: There was one more contentious, massive debt round of 350 million dollars where things came to a head. 
+
+There was such disagreement that some of the board members decided to step off the board. It was better for us to resign from the board and let the founder-CEO decide how to proceed. Given my personal history and friendship with the founders, it was a very difficult decision.
+
+Soon, Fitbit took over as the leading player in the wearables market, and Jawbone became embroiled with them in a bitter trade secret dispute. Then, Apple debuted the Apple Watch. Not able to keep up with competitors, nor production costs, in early 2016, Jawbone stopped production. By 2017, they had liquidated.
+
+Alex Asseily: I respect him for this enormously. He called me up, 2017, and he just gave me a heads up. And he said, “I’m sorry it ended this way.”
+
+Hosain Rahman: Ostensibly, we died and people took write-downs and the media landscape was that “you failed.” And so that was a really weird experience. It sucked because I felt like I had let down a bunch of partners that had believed in me and stuck through really hard times.
+
+Yves Behar: It was a tough time, a sad time, and a lot of lessons learned from that.
+
+Roelof Botha: When I heard that Jawbone was liquidated, it obviously comes with a pang of regret, a very deep pang. I spent six years of my life working with the founders. They spent decades of their lives working on their company. And to have spent that much energy, to have built leading products that made millions of consumers happy, and to end up not being able to build a business that is self-sustaining is an incredible disappointment.
+
+Hosain Rahman: There’s a profound sense of loss.
+
+You feel like all the life force and all the life forces of the people that work for you, and the energy that these people put to build this stuff, and it didn’t work. And, for reasons that, you know, maybe you could have done better. And you’re the one that lives with the mistakes. Like, when you’re the leader of a company, you get outsized credit and outsized blame both ways, right? 
+
+So you guys want like the raw answer? Like, it doesn’t leave you. Guys like me don’t like to fail, man. 
+
+Roelof Botha: I’d say that as the financings unraveled, I really worried that the company was doomed. Not just because fundraising was difficult, but more importantly, that we weren’t willing to make the very hard decisions to just rebuild the company from scratch. Be willing to tear down a large organization that had been built for a different scale of business and be willing to go back to your roots. And we weren’t willing to do that. 
+
+I still think the biggest competition we had was the one that faced us in the mirror, and we were our own worst enemy. And I think that was really the death knell.
+
+Alex Asseily: It’s easy for me to look back with 20/20 hindsight and say, “Oh, what we should have done is this.” I think I was frustrated. And I think it came down to being too enamored by our ability to design fancy things, and not being able to actually follow through with reliable products with good margin. Reliable products with good margin. If you do not have good margins, you cannot build a business. It’s as simple as that. 
+
+Roelof Botha: You know, we’re in a business where we often get it wrong. A very high percentage of the companies we invest in don’t end up succeeding. And it’s really humbling to be in this business. 
+
+You know, we manage money for what we call great causes LPs, foundations, endowments, nonprofits. And they entrust us with their money. And I feel an intense fiduciary responsibility to look after that and to help them generate returns.
+
+I think it’s inevitable in our business, as a venture investor, on the heels of failure to fret and to become more risk averse. And I’ve reflected on that often. It plays out in, in many, many different dimensions how we cope with failure. That’s really the essence of it. 
+
+And one of the things I’ve learned as you look at sports psychology, some of the best athletes that we know have an incredible ability to reflect on a failed attempt, a shot that didn’t work, a serve that didn’t work, a kick that didn’t go through–but they don’t let it encumber them. So there’s this incredible ability to actually learn from what happened because if you just brush it off, then you’re not gonna get better.
+
+So you’ve gotta understand what went wrong before, but not have it debilitate you. You just let go, just forget about what happened. Lesson learned. Okay. Fresh, fresh eyes, new opportunity. And I think that same mindset helps investors, founders, product leaders succeed. 
+
+Jawbone’s story is not entirely over. The breakthrough research and development that came out of Jawbone while building UP, led to Hossain founding a new company called All.health.
+
+Hosain Rahman: When you have these, like, crazy levels of success, and I was getting accolades, young global leaders, like, every list, being invited to these things, everyone wants to hear what you say. You’re building products that people love. They stop you on the street. Like it was amazing. It was fun, it was rewarding. 
+
+But you also think that you can do no wrong, right? You think you start to maybe sometimes believe that you could be infallible, that you’re always gonna get it right. And the reality is like, no matter how successful people are, you don’t ever always get it right.
+
+I am ruthless with the entrepreneurs that I am friends with, that I advise or, or help or angel invest in. That like, don’t make those mistakes. ‘Cause I lived it, right?
+
+I lived the overvaluing of your company. The schism it creates. If you can’t catch up to it. If you have a low gross margin business that’s capital intensive, it’s the worst thing to do, right? To overextend your valuation and go higher than, than where you ought to be.
+
+I think the, you know, wisdom that you get when you fall down, as hard as we ended up doing is that you get better actually at having tough conversations.
+
+I certainly could have been better at like, really trying to step away and just being dispassionate and thinking, “Alright, let’s just look at it with a fresh set of eyes and space,” and, and how do you do that?
+
+It’s difficult, but that’s the advice I’d give myself. 

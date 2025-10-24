@@ -1,0 +1,346 @@
+David Vélez: It was our end of year celebration and I had to speak to the entire company. 
+
+Part of our culture was treating everybody like an owner and a partner, and that means being very transparent with our employees. The natural thing to do was to tell everybody, “Don’t worry, everything is fine. We’re all good. Let’s celebrate. Let’s have some drinks. We’re going to figure it out.” The reality is, we had no idea how we were going to figure this out.
+
+What was consistent with our values was to say, “This is real. We’re going to work really hard over the weekend and figure out what to do. But, right now, I don’t know how that we’re going to solve it.”
+
+Introduction
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha. 
+
+In 2013, David Vélez set out to upend the Brazilian banking system, where big banks charged among the highest fees and interest rates in the world. His mission was to democratize financial services for those with no good options.
+
+Nubank is the story of an underdog team determined to disrupt an oligopoly in a geography most would have bet against, by delivering on a consumer experience unimaginable to most Brazilians. 
+
+David and his co-founders faced crucible moments as they navigated a highly regulated industry, persevered as competitors conspired to shut them down, all while cultivating rabid customer love. 
+
+David Vélez: My name is David Vélez and I’m the founder and CEO of Nubank.
+
+I was born in Colombia and I lived in Colombia until I was 8. Colombia in the eighties and early nineties was going through a very tumultuous time, a lot of violence, drug cartels, and so, my family decided to leave the country and was lucky enough to end up in Costa Rica.
+
+My dad has 11 siblings and they’re all entrepreneurs. They all started their own business. So I grew up working with my dad in his factory. He had a button factory. I spent a couple of summers working there, saving a little bit of money. There was definitely an entrepreneurial ethos inside the family that supported being your own boss. There was this sense of freedom and autonomy that entrepreneurship and having your own business brought. I looked up to Stanford and Silicon Valley as the place where the big companies got started and where some of the best entrepreneurs operated. And so, my own dream was to try to make it somehow to Stanford. Nobody from my school in Costa Rica had ever gone to Stanford, but that was a dream of mine of trying to figure out how to end it up there and was lucky to go to Stanford and study engineering there.
+
+David Vélez: I did my undergraduate at Stanford, worked in finance in New York for a couple of years in financial services and private equity. And then, went back to business school at Stanford and I was ready to use my two years at business school to finally start a business. 
+
+I felt a bit disappointed that during undergrad and even after undergrad, I hadn’t decided to go on my own. And I wanted to use business school to do exactly that; have two years to focus on figuring out what I was going to do. 
+
+But a couple of weeks into the first quarter of business school, a friend of mine from my class told me that Sequoia was starting to look at Latin America and Doug Leone wanted to meet me.
+
+The cold call from Sequoia
+Doug Leone: We were looking for someone to help lead our efforts in Latin America. We had just expanded to India and China, and as we looked around the globe, and you think of the word BRIC, Brazil was a key part of that. 
+
+My name is Doug Leone. I am a partner at Sequoia Capital. 
+
+The natural place to look was at Harvard and Stanford, and so, I interviewed the second year students at Harvard and at Stanford. They were terrific young men and women, but I just couldn’t tell them apart. They, they looked like the same single type of person. And so, I, I had given up on that channel. 
+
+The following year, my now son-in-law, David George, said, there is a, a lion, a tiger who has just started at business school. And so, I got to David, I cold-called him, I invited him to Sequoia. 
+
+There are people you interview where you look at your watch, it’s 20 minutes, 30 minutes, and Mike Moritz, my partner, calls them half-pagers, meaning you have a half-pager of notes and that’s all you can come up with. 
+
+Well, the conversation with David ran way over. He was a great communicator. The experience he had. The investments he made and the investments he didn’t make. The ability to articulate the issue. The drive. He was not only a half-pager; he was a two-pager, a three-pager. 
+
+David Vélez: And as I was going down the stairs of the Sequoia office, by the time I get into my car, I already had an email from Michael Moritz telling me, “David, come back, I want to meet you.” 
+
+So, I went back and met Mike and I spent another hour with him and it was a phenomenal conversation. And then, ended up with an offer from Sequoia to join them as a part-time intern to help them figure out if we should open an office in Brazil and Sequoia Latin America.
+
+Digging into the market in Brazil
+Doug Leone: Basically, he worked full-time in business school and he worked full-time at Sequoia. We used to figure out when his classes were for the two days. Classes, he didn’t have classes, we would fly down to Brazil, fly right back. Time zones didn’t matter. I mean, he was working day and night. 
+
+And then, as soon as he graduated, we flew to Brazil and we opened a shared office. Think of a WeWork kind of office. And we started getting rolling. And I would fly to Brazil once, twice a month and we’d look at companies. And we made a couple investments, but through those travels, we learned there wasn’t a lot of original technology in Brazil. 
+
+Every tech company started with, “we are the so-and-so of Brazil,” you pick your favorite U.S. company. “We are the Uber of Brazil.” “We’re the Doordash of Brazil.” And so, it was a lot of ‘me too’ investing. And while we liked the founders, the vibrancy that we saw in Faria Lima Street, where lots of young people would meet with their laptops open, sharing ideas, we were questioning whether the market was going to be a thriving market.
+
+And we had a seminal trip where we invited another partner, Jim Goetz, to join us. We wanted a fresh pair of eyes. And at the end of that trip, it was fairly obvious, based on what we saw and on the conversation we had among us, that we probably were not going to open a Brazil office. We came back to Sequoia, we had the conversation, and now, we had to communicate to David Vélez.
+
+“This is not going to happen”
+David Vélez: It was a very tough moment. I remember it was, uh, it was right around my birthday in 2012, in October, that Doug was supposed to come and visit with a number of people of Sequoia. And he called me and said, “David, you know what? This is not going to happen. It doesn’t make sense to open a full office in Brazil. Why don’t you come back to Sequoia and let’s figure out what to do?” 
+
+And initially, it was a big shock because there was a big change of plans. I’ve been working for two years to set up this office in Brazil. It was going to be a great move for Brazil and for Latin America to have somebody like Sequoia investing in the region for an entire ecosystem, but the reality is that a lot of the startups that we were seeing at that moment, they were just not that interesting.
+
+It was a very sudden call from Doug who told me we have decided not to do it anymore.
+
+Doug Leone: I was very straight with him. No sugarcoating anything. He has a career, he’s a young man, a man we respect. And we told him, one, “we would hire you in California all day long. You want to come work in California, you have a job offer.” 
+
+David Vélez: The proposal was, “Why don’t you move back to California, David, and you help us do growth equity internationally? Maybe you’ll get to invest in Latin America, but also, you’ll look at Asia and other parts of the world.” But, already at that point, I, I was very clear that I did not want to invest anymore. And I did not want to be in California.
+
+Doug Leone: He told us “no” He believes in Latin America for the next 50 years. 
+
+David Vélez: That ended up being the window that created the opportunity for me to finally become an entrepreneur. It was a very honest point of view, which allowed me to not waste any time doing something that, ultimately, was not going to be successful. It made it easier for me to finally pursue what I really wanted to pursue, which was starting my own business from scratch.
+
+I spent about two months, this was the end of 2012, figuring out what to do. I was enamored with financial services. I had spent a lot of my career in financial services. And I had also felt the pain of financial services.
+
+When I moved to Brazil, I had to open up a single bank account and it was a horrible experience. I had to go to one of the biggest branches in Faria Lima, which is, like, the center of financial services in Latin America, and I was so surprised about how hard it was to get a simple bank account.
+
+I had to go into this banking branch that had bulletproof doors. There were a lot of armed guards that asked me to leave the branch and leave my backpack in a locker and then, walk back in and wait 45 minutes for a branch manager to throw a bunch of paperwork at me and then, start this process of five months trying to open up a simple bank account. 
+
+And there was so much anxiety and frustration and pure rage about how hard it was to get a simple bank account, to then pay some of the highest fees and interest rates in the world, that I didn’t understand how it was possible that Brazilians were putting up with this.
+
+How isn’t anybody competing with these big banks and offering better solutions? And I started talking to my friends in the space and my Brazilian friends, and said, “You know what? Yeah, these banks are horrible. But you know what? All the other banks are the same. There are no ideal alternatives. If you complain to your bank they’re going to say, ‘Well, where else are you going to go?’”
+
+And when you combined that consumer pain with everything that had I seen at Sequoia around smartphone penetration and Brazil becoming “the social media capital of the universe,” as the Wall Street Journal called it, there was an opportunity of reimagining a new financial services brand, and a new bank that was fully digital, that would pull the consumer in front and center and would create an incredible opportunity.
+
+So, after spending those two months digging in on this opportunity, I got really excited about doing this and decided that I was going to focus on this idea of Nubank, which was a consumer-obsessed, digitally native bank for Brazilians. 
+
+So, I remember going back to Sequoia with the idea, once I had it laid out. I had a deck, specifically telling the story that there was this opportunity to disrupt the single biggest industry in Latin America. So, this was as big as it gets in terms of market cap and, and market size. And so, this definitely got Sequoia’s attention because it was not just a ‘me too,’ it was fundamentally rethinking an entire industry. 
+
+But I remember a conversation with Roelof when I sell him on the story and also in very critical candid feedback, I remembered Roelof telling me, “Well, David, very interesting story. There could be a really opportunity, but you’re not Brazilian, you’re Colombian. You’re not native-speaking Portuguese. You have never worked for a Brazilian bank. You have never worked for a Brazilian credit card issuer and you want to do credit cards. You never done credit and you want to go do credit. You don’t have a local network of regulators. You want to build a technology company, but you’re not a computer scientist.”
+
+David vs Goliath
+Roelof Botha: I remember this conversation well: David was going up against five entrenched banks, some of the most powerful and influential companies in Brazil. These banks were operating essentially as an oligopoly and they would do everything in their power to stop a newcomer. 
+
+David’s mountain of obstacles was steep. The fact that he was an outsider would make the challenge even more daunting. 
+
+David Vélez: Once he gave me that list, I thought his conclusion was going to be, “Therefore, you should not do it.” And that was not it. His conclusion was, “Therefore, you got to go and find a team that is very complimentary to you in nature, and they’re going to be filling all of these different gaps. And your single most important job, right now, it’s going to be building that team.
+
+Doug Leone: Choosing the right team is a crucible moment because if you choose the right first people and they’re A plus people, they will bring like people along. If you bring people that… look, I don’t want to label people A, B, C, but, for the point, if you bring B people, you’re never going to recover from that. B people don’t bring A people. 
+
+You have to bring fire breathers. You have to continue to average up the quality and the skill set of the people through the first 50 or 100 hires. Because you know for sure when you go from 100 to 1,000 or 5,000, it is difficult to move the average up in the caliber of people. So, it is not just important, it is paramount that the first few hires are nothing short of excellent. 
+
+David Vélez: After that meeting, I was very laser-focused in finding two co-founders that were going to be filling the biggest gaps that I had as a founder, which was, first, I was an outsider. It is great to be an outsider, but to execute, I need an insider that understood the banks from inside out, that understood the regulators, that had the network that I didn’t have. 
+
+And then, the second big gap that I had was, I wanted to build a technology company, not a bank. This meant technology had to be at the forefront of our strategy. So, clearly, we needed very strong technologists.
+
+Building the team
+Roelof Botha: David set out to find a winning team of co-founders. But when he returned to Sequoia with his selections, both raised eyebrows. 
+
+David Vélez: So, both co-founders were contrarian in a number of different ways. 
+
+Cristina Junqueira: I was very young to begin with. I was 30 years old. I was barely out of business school. I knew nothing about the venture capital industry.
+
+I’m Cristina Junqueira, and I’m one of the co-founders and currently chief growth officer at Nubank.
+
+So, before meeting David, I had spent five years working for the largest incumbent bank here in Brazil. And most of the time, I was actually running the largest piece of their credit card business. And I remember being blown away by the fact that nobody even talked about competitors. And the customer’s perspective was actually very, very low in the hierarchy of, of priorities for them. 
+
+I remember spending the best part of my last year trying to change that from within. I worked for, for a long time in a project to design products that would actually be interesting to people so that we could have much more of a pull type of demand, in opposition of this push system. And, and after a year of work and, and getting very close to starting a pilot, that was completely shut down. So, I resigned. 
+
+Then, David and I met on a Thursday evening. He told me how he was thinking about the financial system, how he thought about technology and design and data dramatically changing how we do things… that, that just sounded like music to my ears.
+
+But I had no experience with tech companies whatsoever. I had never worked outside Brazil and I had just met David. So, he didn’t have a lot of references and, and he got some references on me by talking to some people that I had worked with. There were mixed reviews.
+
+Doug Leone: Cristina, who had worked on one of these big banks, truth be known, her references were mixed. And it was a tough call. It was a 55/45 call.
+
+David Vélez: So, there was a specific point of one of her former boss that said, “If Cristina was a state of matter between liquid, solid, and gas, she would be gas because she’s the type of people that expand completely inside a room and fills every single empty space.”
+
+Cristina Junqueira: I wouldn’t take no for an answer. I would challenge a lot what was being done in many different ways. 
+
+David Vélez: In a big company, that’s a negative because everybody feels threatened by that type of presence. People feel like, “Stick to your lane. Do your job. Don’t get into my turf.” And so, that was a net negative. 
+
+But as an entrepreneur, that was a huge positive because there was so much work that needed to be done, that we needed somebody that could expand and take a lot of space if that was possible. And Cris is an athlete. She’s a decathlete. She can do everything. She can do marketing, she can do consumer, she can do customer service, she can do product, she can do finance. Is one of these that you ask her what she can do, and she will expand to do it. 
+
+So, Cristina’s pick was contrarian in that sense. Ed was a contrarian pick in that he was not the traditional technology CTO or technology co-founder.
+
+Edward Wible: Of course, people looking at my CV and not seeing any tech operating experience on it were, were naturally skeptical, right? 
+
+My name is Edward Wible. I was a co-founder of Nubank. I was the CTO for a number of years, and today, I am a software engineer at Nubank.
+
+Doug Leone: Edward had been an associate at Francisco Partners, which is a tech private equity firm. It has the word tech in it, but associate in a private equity firm isn’t part of the spec. It was clear when I met him that he was very smart. But between very smart and lots of experience, there’s an abyss. 
+
+Edward Wible: Starting a startup is risky. Taking risky bets on unproven talent is even riskier. And the multiplication of these things, it just sounded imprudent, unwise, unadvisable, but I think that what David saw from the time we spent together was probably hunger, just like, extreme motivation to find a way to prove or to establish that that sort of a career was going to work for me. 
+
+To jump from a career like private equity to operating in a startup environment was not necessarily a long-term dream of mine, but it became increasingly clear as I was working in, in a private equity setting that I didn’t really want to be managing a diversified portfolio of bets. Like, I wanted to just completely fall in love with one of them, and I wanted it to be mine.
+
+David Vélez: Ed was a hacker. He loved to code. He loved technology. He had an incredible work ethic. And he’s the type of people that we call this at Nubank “a human learning machine.” If, on Friday, he doesn’t know how to do something, by Monday, he had just read 10 books and he had downloaded so much information that he will know how to do it.
+
+But I remember that Edward as a co-founder almost got fired during our first board meeting. The very first board meeting, after having raised the seed, we had a slide with the team and Ed appeared as co-founder with his resume and Doug immediately pushed back on that profile. And I had to say, “Oh, hey Doug, by the way, Doug, Ed is right here next to me. I don’t know if you knew that.” So, so, Ed always tells that he almost got fired in his first board meeting because he was not a traditional pick as a co-founder. 
+
+Edward Wible: For me, it sort of didn’t matter, right? Like, I was in it to prove, and to prove to myself more than anybody, that this could be my new career. So, the fact that somebody said something or other was, was very secondary.
+
+But I can only imagine how hard that would have been for David to maintain the conviction that he was making the right choice when a lot of people around him were saying how risky that must be. But he trusted me to execute on the plan we built together and really buy into what we needed to achieve.
+
+Doug Leone: The deal that we made with David and Edward, “Fine, we’d love to have you join us,” but we had a gentleman at Sequoia Capital called Bill Coughran. Bill had run engineering at Google for many years. And we agreed that we would have two-way, Bill and Edward, or four-way conversation, with David and I, and just have a look at the recommendation that Edward was making on how to build the platform. 
+
+David Vélez: Doug asked Bill Coughran to shadow Ed, to grill Ed, to ask a lot of questions on Ed along the path. And every time that Bill grilled Ed, Bill ended up being confident with some of the decisions that we were making. 
+
+Doug Leone: Everything Edward recommended was approved by Bill. Bill confirmed these are absolutely the right choices.
+
+And the more of these meetings we had, the more we felt confident about Edward, and quite frankly, the less we needed Bill Coughran, and the more we started being extremely confident on the choices that David can make. His sniffer was terrific. And so, the first two hires, which are critical in these companies, were A plus moves. There’s no other way to say it. They were terrific, terrific choices. 
+
+And that’s what David started to show us, and me, at Sequoia, that he had real talent for understanding what the company needs, finding people, and leaning the right way in choosing the right people.
+
+Roelof Botha: Ready to begin work on Nubank, the trio of founders settled into their first office.
+
+Edward Wible: It was a dingy house in a suburban neighborhood. And Cris found a way to actually let me live upstairs in the house. I definitely have memories of people arriving at the house and saying, “this isn’t what I expected. I thought you were going to be creating a bank that would be competing with the likes of the, the giant legendary banks in Brazil.” 
+
+We ended up with engineers who were not super preoccupied with perks and comforts and the bells and whistles. We got folks that were anxious to prove that there’s a better way to build systems. There’s a better way to make a bank. Like, this can’t be the best that we can do. 
+
+David Vélez: So, by around April and May in 2013, we had raised our seed round from Sequoia and Kaszek and Cristina, Edward, and then, a few early engineers were on board. And then, we had our specific goal of, we need to launch our first MVP, our first product, which is going to be a credit card fully managed by the smartphone app.
+
+Cristina Junqueira: There were many reasons why we decided to start with a credit card. The main one was actually because it was one of the few products that we could do without being a regulated entity. 
+
+Roelof Botha: Brazil had strict laws around foreign-backed companies providing banking services. Getting a bank license to offer checking and savings accounts was nearly impossible for a startup. Credit cards, which were unregulated, would be the company’s way in. Or so the team thought.
+
+A startup races for survival
+David Vélez: We set up a timeline of around 12 months to have the first products up and running, the first customers up and running. However, a couple of months into the entire process, a new regulation in financial services in Brazil came in that regulated issuing credit cards.
+
+Cristina Junqueira: They created this new framework called the payment institution. And now, credit card issuers would be payment institutions. And for that, they would need to be regulated. They would need to be authorized by the Central Bank of Brazil. 
+
+David Vélez: And the new regulation basically said that we had to be up and running by April 2014, and if we were not up and running by April 2014, we were going to first need to ask for a license to then start operating. And that meant effectively waiting two years to get that license. 
+
+That would have been the death because we were not going to be able to raise more capital. We only have the seed. The seed would have been exhausted and that effectively meant a life or death decision. Either we were operating four months earlier than we expected or we were done. 
+
+Roelof Botha: Crucible moments that bring these kinds of constraints can actually have benefits: They demand focus and creativity. They force you to operate at a higher level than you thought possible. 
+
+Doug Leone: When you’re given an impossible type of deadline, I have no doubt there are constant doubts in the ability to meet that deadline. But, first, it takes the courage to say that we can do it. It takes the foresight to come up with plans where you question everything and view everything from first principles. And you just go, go, go. 
+
+David Vélez: I don’t think anybody got terrified. I think everybody got crystallized. Everybody got motivated. Everybody got even more focused. There was no debate. It was easier to debate the initial timeline when we thought we had until fall 2014. Now there was no debate. We had to do it. 
+
+Cristina Junqueira: Every day counted. Every day counted. We couldn’t afford to miss a day here, a day there, because those things add up and they would certainly put us out of the safe zone in terms of the finish line. 
+
+David Vélez: We were always asking, “Why, why, why?” If somebody told us, “No, that cannot be doable,” or, “We cannot do it in two weeks,” we would ask, “Why?” five or six times until we found the real bottleneck. There was, on one end, the engineering team, all hands on deck, building the integrations and the system that we needed to build. Ed was leading a lot of the charge. He was working 20-hour days. He would take a couple of naps up in the second floor and then come back down with everybody else. 
+
+Edward Wible: In terms of technical decision making, the regulation helped a lot with prioritization and trade offs and just decision making. What is the absolute minimum that needs to work in order for us to claim active operations? Does it absolutely need to be in? And if not, it’s out. 
+
+So, some of the decisions became very simple, and maybe they weren’t the ones that I really wanted to pick, but it helped us to find that alignment and that clarity, and to galvanize the engineering team in getting people just really fired up about this sort of ‘do or die’ moment.
+
+David Vélez: Cris and I were not coding. So, we were trying to remove all the different bottlenecks. And the single biggest bottleneck was integration with Mastercard as a credit card issuer and Mastercard has timelines that are generally designed for larger organizations that have 12, 24 months to get something done. We didn’t have 12 or 24 months to get anything done. So, this meant that we had to go to Mastercard and every time they told us, “Well, it’s going to get 30 days to get back on you.” We said, “No, no, no, no, no. We need an answer in seven days.” 
+
+Just to give you a specific example, there was a specific process of approval where we needed to get a ’yes’ from Mastercard in about 15 days to be on track on our timeline. And 3 out of those 15 days was sending a signed paper via the mail to Mastercard’s headquarters in Belgium. So, we started realizing that it’s going to be faster for us to actually fly to Belgium and hand deliver the paperwork. That was going to save us 48 hours. 
+
+Cristina Junqueira: I’m like, “I’m taking this to Belgium. Like, I’ll get on a plane. I’ll show up there. And I’ll hand deliver the envelope that we’re going to send it. Like, what?” And the Mastercard guys were like, no, you’re not allowed to. 
+
+I’m like, “Are you telling me that you’re okay receiving a random FedEx guy with an envelope at your center? But if I show up there with the same envelope, you won’t take me?” They’re like, “Yes, that’s exactly what we’re saying.” Like, how? You know, how can that possibly be true? 
+
+David Vélez: They didn’t have a process to be able to process a actual piece of paper and anybody receiving that. So, ultimately, they said, “No, no, no, hold on. Don’t do that. It’s okay. Just send it via FedEx, and as soon as we receive it, there are a couple of things here that we can move so that we match your timeline.”
+
+Cristina Junqueira: Long story short, I didn’t go to Belgium, but this was the level of restlessness that we needed to take on to be able to get to that finish line. Every single day mattered and we were just willing to do anything and everything that that required, so, that was just the very first of many lessons on why it pays off for you to aim really high and be aggressive. But you know what? We got through it. We made it.
+
+Launching the purple card
+Roelof Botha: Just weeks before the new regulation would have forced Nubank to shutter, the company launched to the public. The first transactions with a Nubank credit card were made on April 1, 2014. But the purple card, designed to stand out in a sea of gray and silver ones, didn’t immediately catch on. 
+
+David Vélez: Initially, we actually were a little bit disappointed about the level of interest in the market. I remember that we expected that there was going to be a lot of interest among the university students community and we actually went to the universities and we talked to students and nobody had any interest in getting a new credit card.
+
+They all had the credit cards of their parents. And, “Why would I want a new credit card?” And, “Where are the miles?” And, “I already have miles.” So, they wanted rewards and our credit card had no rewards initially. So, in the first couple of months, there was not as much interest as we expected. But then, after a few months, there was one publication, a very niche online publication, that gave glowing reviews about the entire process of getting a card without fees, all in the smartphone, and that described the experience as being magical.
+
+And that day, we get around 5,000 customers. And then, the following day, we got, like 10,000 customers. And then, by the end of that month, we were getting 10, 20, 30, 40 thousand customers. Because we were getting so much interest. 
+
+Because we were getting so much interest, we had to create a waitlist because we didn’t have the team. We didn’t have the customer service to say ‘yes’ to everybody. And that wait list created even more interest. This very odd-looking purple credit card became this aspirational product that everybody wanted and not everybody could have. 
+
+So, we start growing from there to a hundred thousand, a million customers.
+
+We had always decided that the foundational value was going to be, we want a customer to love us fanatically. So, the entire experience, the customer service, everything was designed to get customers to love the product, which was insane considering the emotion that banks elicited in consumers in Brazil, at that moment, was hate or rage or anxiety or frustrations. So, it was the opposite emotion. We wanted consumers to love us fanatically. 
+
+Doug Leone: Let me tell you about the culture of Nubank. There was one month that we noticed that customers had become suddenly more profitable. And we went looking. Why did it become more profitable? And the reason they became more profitable is, we forgot to send them a letter that payment was due. So, a number of customers had missed their payments, thereby owing us more money. So, they became more profitable. So, what should we do? I can tell you, in most cases, the banks would say, “Wow, we should stop sending letters and make every customer more profitable.”
+
+At Nubank, we did the exact opposite. We sent a letter apologizing to the customers we had left out, apologizing that we had neglected to send them a letter reminding them, and we reversed their charges. I can tell you we are probably the only financial services company in the world that would have done that.
+
+I will also tell you that those customers that got that letter with an apologies of not getting the original letter, under which we were no obligation to send, and seeing the charges reverse, are probably customers for life. But that is the culture of Nubank. That is the culture of David Vélez, internally, externally, how we treat employees and how we treat customers. And that is a unique advantage for this company, and it shows you the character of the man.
+
+Another regulatory disaster
+Roelof Botha: Nubank’s customer loyalty would prove critical when, just a few years later, another regulatory disaster struck. This time, the proposed change was the result of lobbying efforts by established banks looking to smother the new competition. 
+
+Cristina Junqueira: In 2016, we had a pretty big scare with a potential regulatory change. 
+
+David Vélez: I remember on a Friday morning, I wake up and I realize that, suddenly, there was going to be a change in regulation, one more change in regulation. Where the credit card in Brazil, we had 27 days to pay the merchants. So, if somebody used the credit card to buy a TV, we, as a credit card issuer, have 27 days to pay that merchant for that TV.
+
+Edward Wible: This legal threat was something that would change paying the merchant 27 days later to paying the merchant one day later. 
+
+David Vélez: And when we made the calculations, that meant that we’re going to need billions of working capital overnight. 
+
+Cristina Junqueira: That was really a life or death moment for us. Sure, we were a little bit of a bigger company than we were in 2013 when we started from scratch, but we were still very much a startup. We were still printing losses, we were still living off of our own capital, far from being break-even. And it would certainly put us out of business or force us into flash selling the company to somebody else. 
+
+David Vélez: I remember it was our end-of-year celebration and I had to speak to the entire company. Part of our culture was around treating everybody like an owner and a partner, and that means being very transparent with our employees. So, in a way, this cultural value was being tested here. The natural thing to do was to tell everybody, “Don’t worry, everything is fine. We’re all good. Let’s celebrate. Let’s have some drinks. We’re going to figure it out.” The reality is, we had no idea how we were going to figure this out.
+
+What was consistent with our values was to say, “This is real. We’re going to work really hard over the weekend and figure out what to do. But right now, I don’t know how that we’re going to solve it.”
+
+Cristina Junqueira: Of course, after the first few minutes in which we freaked out, we came into problem-solving mode and we were working the regulators and working the press and talking to different stakeholders to educate people on the catastrophic effect that that regulation would mean if it were to take place. 
+
+David Vélez: We said, “Listen, this will end the little competition there is for these five big banks, because this will require so much capital for any entrant that is going to make it impossible for any startup to enter the space. This is going to be the end of competition in Brazil. This is going to be the end of Nubank. The five big banks that own 85% of the market, they’re going to just get stronger and stronger and stronger.”
+
+Cristina Junqueira: At some point, news broke out that Nubank could go out of business because until then, we were trying to work the press, work with the regulators, but, off the records, we didn’t want to scare people in such a way. But, at some point, somebody just broke that, and it was just all over the place that Nubank could go out of business.
+
+The dividends of customer love
+But what we saw was heartwarming. What we saw was, like, customers taking social media, taking the internet to stand by us and to, to ask for the executive branch and especially the Central Bank to not let that happen because this was the first competition that they had seen in years, in decades, in the financial system. And for the first time, they were being well-treated by a company and they absolutely did not want that to go away.
+
+David Vélez: Tens of thousands of consumers telling the Central Bank of Brazil, “You cannot do this change, you cannot end Nubank, you got to support competition.” Very organic, bottom up, grassroots mobilization of consumers saying, “Stop, don’t do this. This doesn’t make any sense.”
+
+Cristina Junqueira: It was, in a way, a beautiful moment of people coming together to stand by us. 
+
+David Vélez: By around noon of Monday, we get a call from the president of the Central Bank of Brazil telling us, “Just come over, let’s talk.” So, we go to the Central Bank and sit down with the president of the Central Bank. And he clearly sees us coming into the room with a lot of, like, challenge and preoccupation and concern in our faces.
+
+And the first thing he tells Cristina and I is, like, “Relax, this is not happening. We’re not making this change. This is not going to happen.” And we were like, “Whoa, amazing, great. We’re saved. All good.” And so, we were able to go back to the office and in a big all-hands, we tell the company, “Relax, the change is not going to happen.” And it was a great crucible moment because it was, once again, a moment of survival where this threat made us focus. This threat made us clarify what we needed to do. 
+
+We stayed true to our values. We treated our employees as partners, even though it was hard. And it was amazing to see these consumers, these millions of consumers becoming, ultimately, our biggest defenders. Doing something that was great for consumers meant our biggest defense against any unnatural changes in the market environment. So, it was a very foundational moment for all of us.
+
+Regulation as comparative advantage
+Roelof Botha: This moment marked a turning point in the company’s relationship with regulators. From inception, there had been a question of how Nubank would be viewed by the government. 
+
+Doug Leone: We did not know if regulators would view us as champions of consumers that can bring the price of banking services down, or, or enemies, the disruptors of the five or six large companies to which the regulators might have been tied. We were pleasantly surprised that it was the former. 
+
+From that point on, we embarked on a strategy to stay very close to regulators, to apprise them what we’re doing, because they seem to be huge fans of Nubank, mostly because we don’t want to get cross wired with them. There’s no reason why we should not work closely with regulators to make sure we do everything right and we can run as fast as possible and help consumers all over the world bring down the cost of banking.
+
+David Vélez: We wanted to be the kid in the front row of the class that has all the answers and that gets an A plus in every test. I think that’s very different from a lot of other startups in other spaces that are regulated, because a lot of entrepreneurs want to operate a business in a space that’s regulated doing everything possible without being regulated and almost going against the regulator.
+
+We took the opposite approach of that. We said, “We’re going to be regulated, but let’s excel at being regulated. Let’s see regulation as an area where we can develop comparative advantage.” 
+
+Roelof Botha: Working closely with regulators, in 2017, Nubank received its banking license, allowing the company to expand from credit cards to debit and savings accounts. 
+
+The scale and scope of their ambition continued to expand. Shortly after becoming a multi-product company, Nubank became a multinational one.
+
+David Vélez: Today, we have regulated licenses in Brazil, in Mexico, in Colombia. We maintain very good relationship with regulator that makes us influential since they know that we stand for consumers on one end and that we get A pluses on the other.
+
+They listen to us. They want to hear what we think. They want to hear what we expect. And it’s a situation of partnership where we are partner with a regulator and not a zero sum game. 
+
+Roelof Botha: After expanding to two international markets—Mexico in 2019 and Colombia in 2020—Nubank began to consider going public.
+
+Cristina Junqueira: We knew that becoming a public company was in our future because we certainly weren’t gonna sell the company to, to any other players. So, that was for sure. So, eventually, the only possible track was becoming public. 
+
+Doug Leone: We decided it was time to go public—one, to shore up the balance sheet and second, to make sure the world knew we were real, we were safe, we were a place you can park your money. 
+
+The IPO for us was a financing event and a branding event; branding to Wall Street and branding to our customer base. 
+
+IPO as customer event
+Cristina Junqueira: We also knew something else. We knew that this is always a very important moment in the life of a company. And we knew that we needed to do this our way, meaning we needed to bring our customers with us. We’ve always been such a customer-oriented company. We’ve always felt like customers were such an important piece of this. 
+
+They were the center of everything. They were the reason why we were doing this in the first place. So, it wouldn’t make sense for us to go public without having our customers play a role in it.
+
+Roelof Botha: Nubank decided to launch a directed share program called NuSócios. The program would allow existing customers to buy shares in the IPO, and also award shares to new customers who started banking with the company.
+
+Cristina Junqueira: So, we designed a program to allow many millions of customers to become our partners. We knew that this was going to bring some trade-offs, especially on the time side, because we needed to take the time to build the infrastructure that would allow for that. 
+
+Edward Wible: We had to make sure that the investments platform was ready to have customers, A, investing and B, investing in the Nubank IPO, on the platform, on the day, combined with all the other things that have to go right for the IPO.
+
+There’s no way to really get that dialed and experiment your way gradually into it. It’s sort of a big bang thing by nature. And that makes even good engineers nervous, right? Even confident engineers nervous.
+
+Roelof Botha: The company had planned to go public in September 2021. But due to the intricacies of the platform needed to support NuSócios, the company failed to meet this timeline. 
+
+Doug Leone: The September IPO started getting pushed out, first to October, then to November. And now, we’re in the month of December, and we were told the systems were in pretty good shape, but were they perfect? Well, we knew it would take another quarter to get them exactly to where we wanted.
+
+Edward Wible: I remember there being a sort of ‘go, no go’ moment when we were planning the IPO and negotiating around how many months can we afford to delay versus at what point has all the work that’s gone into the IPO sort of getting stale? And we’re sort of exiting the window that was planned for and everything because of systems. 
+
+Doug Leone: I was a proponent of pushing very hard, even at the expense of this program. I was willing to scrap the program to get the company public. The markets are fickle and they’re subject to overnight change. We’ve seen overnight change in the markets. We have lived through ’08. And so, I was eager to get the company public, not because I saw something happen in January, but I sensed that things could change at any time for whatever reason. 
+
+Cristina Junqueira: One of the things that we talked about was like, “Listen, the stars are aligned. The market is there. There’s a window. There’s no major political disruption in Latin America. We’re doing well. Investors are excited. Like, God knows when this is going to happen again.” So, we knew it was good timing and that we should take that opportunity because that window may not open again. 
+
+Roelof Botha: The team decided to move forward with the IPO just before the year’s end. But they refused to scrap the NuSócios program. They bet that their systems would work. 
+
+Edward Wible: I think that’s a common compromise is that you end up going to market with the product you have, maybe not the product you wish you had,  given other constraints. 
+
+Cristina Junqueira: We were just willing to do that because otherwise, it wouldn’t be the same. It wouldn’t be us. We wouldn’t be true to what we stand for. So, sure, it made a lot of people nervous. It made a lot of people really question our judgment, but we believe it was the right thing to do.
+
+Doug Leone: We decided the systems were good enough and we planted a stake in the ground that, one way or another, where we’re going to go public in 2021. And by the way, the program we installed for the stock buyers worked, and the systems didn’t crash. 
+
+We got right under the wire. We raised a few billion dollars, the IPO was well received, the stock ran up immediately after the IPO, and then the crash hit.
+
+Roelof Botha: Nubank went public on December 9, 2021. But the euphoria quickly wore off. In January, US stocks tumbled, plunging the economy into a bear market that would continue through October 2022. 
+
+Cristina Junqueira: The funny thing about the moment of our IPO is that I usually tell people that it was one of those Indiana Jones moments, in which, there’s this big door, like, closing, just sliding by right before it closes, and that was us. That was us becoming public at the end of 2021, because this big crash came and the window was closed.
+
+Edward Wible: We did get lucky in going out before and not after, and I think we got lucky in being well-funded and able to be on the front foot at a time when many other companies were distracted and stressed about financial concerns that they hadn’t managed to resolve before the markets fell apart.
+
+Doug Leone: The crash hit and thankfully, we were now credible. We had money in the bank, but then we had to deal with a stock price that every company had to deal with that went from a high level of 12 or 13 dollars a share to 3 to 4 dollars a share and what that does to morale and everything, it does affect the morale of people and we had to endure that, which we did in flying colors because while the stock was really at 3 or 4, we kept announcing one better quarter than the other. 
+
+And as I told to David, “It’s only a matter of time until Wall Street wakes up and says, look at this gem of a company. They’re beating earnings and they’re increasing guidance.” And so, let’s keep on doing what we do, and the stock will take care of itself.
+
+And so far, it has. The stock is close to 15 dollars a share. The market cap is about 70-75 billion dollars and I happen to think that the future, for years to come, is very bright for this company.
+
+Treat people like we would want to be treated
+David Vélez: Behind the entire product and strategy that we’ve executed lies actually a very simple insight, which is people want to have business with companies that treat them well, and we should treat people like we would want to be treated by others. And so, we just kind of executed that vision through the past 10 years.
+
+It’s been amazing to see the speed at which everything has happened. Putting us in a position today, a decade after, as the most valuable financial services company in Latin America. If anybody would have told me 10 years ago that we would have reached that level, I would have thought it was really impossible.
+
+Nubank began with a big vision and big purpose of challenging effectively the largest and most powerful companies in Latin America. It was a very low probability journey. We had to work over several years against a lot of skepticism and a lot of the negativity around what we were trying to do.
+
+But, as we think back again, over a decade on the big thesis of Nubank, this is a global thesis. This is not a Latin American thesis. This is not a Brazilian thesis. Financial services globally is the single biggest industry yet to be disrupted. Technology companies have only really been able to make a little dent in this market size that is over 6 trillion dollars in value. There are several billion consumers that haven’t been banked across the world.
+
+And another several billion customers that are completely overpaying in terms of fees and interest expense, and they’re just not being treated well by their banks. And so, while we feel very great about what we’ve done over the past decade, we are feel very humbled and energized and hungry around the next decade and taking this model really internationally and to many more countries.
+
+So, we are very excited about being able to take this journey and just feel that we’re just at the beginning. We’re really not at the end at all. We’re just at the beginning of this great opportunity that we have ahead.

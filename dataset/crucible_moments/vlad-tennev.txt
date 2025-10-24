@@ -1,0 +1,358 @@
+Vladimir Tenev:  The Fed went from cutting rates to zero and injecting a whole bunch of stimulus into the economy due to COVID to the fastest period of hiking rates in multiple decades. And so, we had this big problem, which was: what do you do when people don’t want to invest? And when all of these trends that helped grow our business tremendously during the pandemic now suddenly were, like, sharply reversing.
+
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha.
+
+Founded in 2013, Robinhood single-handedly transformed stock trading from a cumbersome, expensive process to a free, mobile-first experience geared toward a new generation. 
+
+Co-founders Vladimir Tenev and Baiju Bhatt set out to “democratize finance for all” and make stock trading accessible to anyone with a few taps on their smartphone.
+
+But their journey would entail harrowing challenges, many of which took place under the harsh glare of the public eye. From the meme-stock phenomenon and ensuing backlash to reinventing itself amid a market meltdown, Robinhood has had to prove itself again and again. 
+
+Yet today, Robinhood continues to redefine what it means to be an investor in the 21st century, shaking up the finance industry in ways no one could have anticipated just a decade ago.
+
+Vladimir Tenev: I’m Vladimir Tenev, Co-Founder and Chief Executive Officer at Robinhood. 
+
+My Co-Founder, Baiju, and I met at Stanford. And we were both in the physics department. We met actually doing summer research. So if you, if you think about the set of folks that go to Stanford and kind of narrow it down to those that choose to study physics, and then narrow it down even further to the ones that want to stick around on campus during the summer for basically no money and continue to study physics, you get to, like, a pretty committed and passionate and small group of people. 
+
+And I continued on to graduate school, intending to become a professor of mathematics. So I went down at UCLA, he was up in Marin County and my first month at grad school, which was his first month at, at his new job in finance, Lehman Brothers went under, and we had kind of the beginnings of the global financial crisis.
+
+And he calls me up when I’m in grad school, uh, one month, and basically he pitched me on creating an algorithmic trading firm ourselves.
+
+And at first, I thought it was kind of a crazy idea, but I wasn’t having an amazing time in, in grad school as well. And I generally, you know, like to try new things. Uh, the idea of, like, working with him again really appealed to me. And so, I decided to spend my summer kind of hacking on trading strategies with him in San Francisco. 
+
+And even though our first business didn’t really end up working, the idea of being an entrepreneur and having complete control over your destiny, and the only thing between you and kind of your ultimate success and failure is the quality of the code that you write and the business strategy—that really appealed to me. 
+
+I’d never been more passionate about anything professional. I was working basically all of my waking hours. When I wasn’t sleeping or eating, I would just, like, work.
+
+The kind of, like, act of entrepreneurship was so intoxicating to me that I couldn’t even imagine doing anything else.
+
+Robinhood’s Journey from Discontent to Disruption
+Roelof Botha: The pair worked on two trading companies, which they describe as “moderate failures.” But as they gained deeper insight into the financial industry, they began to notice glaring shortcomings.   
+
+Andrew Reed: It was a strange phenomenon. I mean, back then, people forget, but whenever we had a big financial transaction to do, we would log on to our desktops to do it.
+
+My name is Andrew Reed. I’m a Partner at Sequoia.
+
+You would hit some menu button, and you would descend into the scaffolding of some system that felt like it was built in the 1980s. The idea of paying bills or making investment decisions or making investment transactions on the phone seems natural and normal, and I think everyone feels that way. But 10 years ago, even, this was very strange.
+
+Micky Malka: Remember, nothing—nothing—had been started since E-Trade in 1998 in America. Nothing. So those interfaces that you even log in today, they still look very stale. They haven’t changed. 
+
+My name is Micky Malka. I’m the Founder of Ribbit Capital, and we’ve been a shareholder and partner to Robinhood since 2013.
+
+Roelof Botha: The founders also noticed the world changing in several profound ways that created an opportunity for an entirely new kind of financial services company.
+
+Vladimir Tenev: It was really three things. One, the rise of electronic trading and the complete change in the markets that kind of that revolution injected into finance. 
+
+It was the rise of mobile, which was like a tectonic shift, and new platforms became created that were built with mobile in mind. 
+
+And if you remember, after the global financial crisis, there was a ton of discontent and disillusionment, particularly among young people, of how the financial industry worked. And these millennials, they saw the global financial crisis, a lot of their relatives and friends lost their jobs. 
+
+In my case, my cohort had graduated from college. Some of them had jobs at Lehman Brothers and pretty much as soon as they came in, you saw these images of them taking their cardboard boxes out of the office in New York, and they had to find something else to do. And so, there was this distrust and discontent. Young people felt like the financial system didn’t work for them. 
+
+And that manifested in things like the Occupy Wall Street movement and large-scale global protests. And that also provided an opportunity for us to create a new brand because there was no affinity, no loyalty among young people to the established big legacy brands—the big financial companies. And by creating Robinhood, I think we kind of tapped into that nerve.
+
+The Innovations Driving Robinhood’s Accessibility
+Roelof Botha: Vlad and Baiju had a bold, potentially revolutionary idea: a mobile trading application with the power to democratize the financial industry. 
+
+But this posed challenges: they would need to change entrenched attitudes about finance products with wary consumers.
+
+The founders faced their first crucible moment: How do you create an application that can attract users who are inclined to dismiss your entire category? 
+
+Micky Malka: What Robinhood brought was a level of simplicity that took away the intimidation of those complex graphs and those complex Microsoft 1995 SQL kind of dashboards, into a very simple swipe, and gestures and very thoughtful UI.
+
+And that was what made it very non-intimidating for people to sign up.
+
+Roelof Botha: To reinvent trading for the mobile age, Vlad and Baiju designed Robinhood with the look and feel of a modern social media app. It was sleek, colorful and most importantly, easy to use.
+
+Andrew Reed: It felt super responsive, fast. The user experience was incredibly intuitive and you would submit a trade, and it would process quickly and your information would update immediately. And you could view your portfolio in real time. And to anybody who wanted to get started investing, it was night and day. 
+
+Roelof Botha: In addition to a frictionless, mobile-first design, Vlad and Baiju made another decision that would come to define the platform.
+
+Vladimir Tenev: It was important from the very beginning to us that Robinhood was commission-free. Because we wanted to give every possible chance for our product to succeed. And we knew that a $7 to $10 commission was actually a big barrier. And if you were someone that was starting with a hundred dollars, $7 to $10 is a significant percentage of the total amount you would be investing.
+
+And so, we thought that there was something very, very powerful, both about it being commission-free and the account minimums, which we lowered to zero as well. You know, a lot of brokers had $2,000 account minimums that you needed to put in before you even started investing.
+
+And we knew that if we were actually able to deliver this, we would open up the market to a lot more people and particularly young people without very much money to invest.
+
+Overcoming Skepticism: Robinhood’s Free Trading Model
+Roelof Botha: While Vlad and Baiju felt strongly about removing financial barriers to entry, many were skeptical about whether the company could build a business with this model. 
+
+Micky Malka: Robinhood, when they started, free trading had been tried many times before and had failed. 
+
+So people were skeptical, saying free trading doesn’t work.
+
+Vladimir Tenev: Our thesis was that brokerages have many ways of making money. They make money from margin lending. They make money from the unused cash balances that are sitting in customers’ accounts.
+
+There’s a revenue stream called Payment for Order Flow, where you get rebates from market makers. And if you look at the revenue that commissions comprised for a broker, it was less than 50%. The revenue from commissions ranged from somewhere around 10% to 30%. 
+
+So we knew it would be possible if we could sacrifice even up to 30% of the revenue, if we built the company using modern technology and made it operate much more efficiently than a typical legacy broker—if we didn’t need brick-and-mortar, if we didn’t need the headcount.
+
+So, I think, I think in that sense, that was the thinking of how we could build a sophisticated brokerage firm with the technology of a Silicon Valley engineering company.
+
+Clearing Regulatory Hurdles
+Roelof Botha: The founders felt they had a winning formula for attracting users, but they faced a specific hurdle they’d need to clear to get Robinhood off the ground. 
+
+Vladimir Tenev: The other confounding variable was that because we were a regulated entity, there’s restrictions on how much you can market, right?
+
+So, until you have the license, you can’t really market your product. The conventional wisdom of Silicon Valley at the time was that you would actually launch what’s called a minimal viable product, and you would try to get customer feedback, and ideally you would do that before putting in a huge capital expenditure to actually get the thing off the ground. 
+
+And so that, that just wasn’t possible, and we need to demonstrate to the regulators that we had at least a year of capital to operate with before we would even get the license. So we had this catch-22 situation where investors wanted to invest in a company that had some traction and was de-risked to some degree. But we had the regulated side of the business, and we needed the capital in order to get the license. We ended up having to, like, get super creative.
+
+Micky Malka: There were not many people doing financial services back then. FinTech was not a thing. And we heard that there were these two kids from Stanford doing this company around it.
+
+And I was having lunch at a sushi place here in downtown Palo Alto, and on the table next to me, Vlad is pitching to an angel investor. And I get to listen to the pitch while I’m having lunch with somebody else. I was paying more attention to his pitch than to our lunch.
+
+And so, I came back to the office and said, “We got to go meet these guys,” and that’s how we met them super early.
+
+What made Vlad and Baiju an attractive team to partner with was their love for the space. They truly went really deep in understanding how could they make this happen. They were not just building an app like some, “Hey, I’m going to build an app.” That was the era where people were just building apps for the sake of saying that they have a mobile app.
+
+Vladimir Tenev: We took all pitches. We pitched everyone we could find. We knocked on 75 doors—75 investors, probably much more than that. We scratched and clawed. We committed to not paying ourselves a salary until we got the approval because we wanted to demonstrate, “Hey, if this business doesn’t eat, we’re not going to eat either.”
+
+Robinhood’s Creative Approach to Early Interest
+Roelof Botha: Backed by VC financing and with its brokerage license in the works, Robinhood began to look for ways to generate interest with consumers. 
+
+Vladimir Tenev: We knew that there would be a significant period of time between when we actually got the license and we could onboard our first customers because there was, there was a lot that needed to be built, and the stakes were much higher for a financial product. You know, when you’re dealing with people’s money, you had to make sure things were much more buttoned up.
+
+We thought, if you have to wait for a product, you might as well, like, inject a little bit of creativity and delight into that experience.
+
+And there was a company shortly before we launched called Mailbox. And one thing they created was like this experience of being on a waitlist, and they had turned the experience of kind of waiting for this product into a product in and of itself. And so, we were inspired by that a little bit.
+
+We thought we would create an incentive for the most avid, most committed early adopters to share the product with their friends.
+
+From Waitlist to Viral Sensation
+Roelof Botha: The founders implemented a feature where referring friends to the waitlist allowed users to advance in the queue. It instantly caught people’s attention. 
+
+Vladimir Tenev: When the waitlist hit a few thousand people, which it did on day one, we thought that was just amazing. We didn’t anticipate getting to thousands of people on the waitlist very quickly at all. 
+
+It went viral on Reddit, and then it went to number one on Hacker News on a Saturday. 
+
+We had 50,000 signups in the first week. We had about a million people join within the first year of us announcing the product, which I think at the time was the largest pre-launch demand for a consumer finance product in history.
+
+Andrew Reed: That early waitlist viral moment of people telling their friends about Robinhood, signing up, inviting people, moving up the waitlist—to me, that was the first example, of many, of Robinhood crossing this threshold from financial services application to culturally relevant consumer application. And it also just spoke to the unique and compelling value proposition that Robinhood offered.
+
+Vladimir Tenev: We had iterated on a couple of projects as entrepreneurs before we, kind of like, were able to announce the full Robinhood product.
+
+And those projects had all failed. And no matter how many growth hacks we did or how we could market the product or what kind of referral mechanism we put in, we just had a hard time getting anyone to stick with the product. They didn’t have product-market fit, and the experience of launching Robinhood was qualitatively different.
+
+Converting Interest into Industry Change
+Roelof Botha: With the fervor around the waitlist, Robinhood had broken through the noise, but they still had to prove they could convert all the interest into real users. 
+
+Vladimir Tenev: There was still a little bit of skepticism, though. I mean, you hear a million people on a waitlist. I think the initial thought was that maybe very few of those people would convert to actual funded brokerage accounts with money in them. 
+
+Micky Malka: I remember I said, “Listen, I don’t believe in the waiting list. You’re probably going to have 10% convert. A great campaign is 3%. You’ll probably have 10% because people are really early adopters, but don’t expect this to be crazy.”
+
+And they looked at me and said, “I think you’re wrong. We think we’re going to convert 60, 70% of the waiting list.” And I said, “Listen, I want to be wrong, but I’ve never seen this.” And they did.
+
+Roelof Botha: Hundreds of thousands of people on the waitlist converted to users when Robinhood launched publicly in March 2015. The company had over $2 billion in transactions by the end of the year and kept growing exponentially from there. The momentum attracted new investing partners, including Sequoia. 
+
+Andrew Reed: It was only a few years into the company’s formation, and it was already incredibly obvious to anybody paying close enough attention that Robinhood was poised to upend this entire industry.
+
+Roelof Botha: Robinhood knew they were disrupting the brokerage industry, but what happened next caught them by surprise.
+
+Vladimir Tenev: A very strange thing happened, which was that basically all of the incumbent competitors, all of the big financial brokerage houses dropped commissions to zero, all at the same time, like, within weeks of each other. And I, I haven’t found an analog of this. I kind of say that, it would be like all the legacy car makers recognizing that electric vehicles are the future and, like, abandoning internal combustion engines within weeks of each other. 
+
+Andrew Reed: I remember that moment vividly because it was fall of 2019. I was on my honeymoon. 
+
+And my phone just started buzzing, and it was, like, it was almost as if it was in concert, right? It was Schwab, and TD and E-Trade were dropping commissions to zero. And it was just a very strange thing because it felt somehow like it was always going to happen but kind of hard to believe it would happen all at once. 
+
+Vladimir Tenev: The stock prices of some of these companies that were public, just getting decimated to the point where those companies couldn’t continue as standalone companies.
+
+They had to merge and be gobbled up by their larger competitors. 
+
+Andrew Reed: If you were cynical, you would say Robinhood’s value proposition went from better, faster, cheaper to better, faster. And in a vacuum, that would be a very frightening moment. At the same time, you know, for those of us who really signed up for the mission of Robinhood delivering value to customers, it was this moment of catharsis where it became clear in one immediate moment that the whole idea of the company had worked. 
+
+The incumbent companies actually didn’t need these commissions in the first place. This was money they were pulling out of consumers’ pockets because they had the luxury of doing so. And again, one small group of people in Palo Alto launched a product; five years later, it’s free for everybody, whether you sign up for Robinhood or not.
+
+Vladimir Tenev: There was heightened pressure. Like, it’s good for customers that this happened, but Robinhood also had to work even harder to distinguish ourselves in what was a very competitive marketplace. So I think there was this, this juxtaposition of facing the business reality with the other reality that we had kind of created a fundamental change and kind of created the new standard for, for how our entire industry operated.
+
+Scaling Amid Financial Chaos
+Roelof Botha: Robinhood continued to corner the commission-free trading category through 2019, but early 2020 ushered in a period of financial chaos. With stocks gyrating as the pandemic set in, trading volume exploded.  
+
+Vladimir Tenev: We were dealing with so much load and so much growth that things were cracking across the entire infrastructure landscape. I still remember the date, March 2nd of 2020. We had what was basically a full-day trading outage. Very painful for our customers. Painful for me as an engineer. Social media platforms, you know, Facebook, they have outages, and customers can’t log in—they’ve even had ones that are multiple days.
+
+But if you’re dealing with people’s money, particularly in, in a time like the pandemic, where the markets were moving up and down five-plus percent every single day, it’s heightened pressure. 
+
+Andrew Reed: That wasn’t because someone pushed a button on a server; it was because the load was absolutely insane.
+
+This wasn’t like a long-term impairment. Sequoia made a large $200 million investment into Robinhood that next week, just because it was clear to me that Robinhood was still the dominant force in this industry and would be for many years to come.
+
+Vladimir Tenev: And basically, what we had to do was we put all of our best people, you know, our best resources, on just making sure that we could scale our systems—uh, from clearing to trading to really everything. And we had to significantly slow down new product development just to make sure we could keep up with the growth.
+
+The Meme Stock Frenzy: A Historic Turning Point
+Roelof Botha: Robinhood was able to raise capital and stabilize its systems. But in early 2021, amid boredom-inducing pandemic lockdowns and massive fiscal stimulus, a new investing behavior emerged. Fueled by the scale and speed of the internet, consumers were gripped by a stock speculation craze that reverberated at an unprecedented pace. Robinhood would be thrust into the global spotlight in a way few companies ever are.
+
+Jason Warnick: In early 2021, there was what is referred to as the meme stock period where literally millions of retail investors primarily were seeking input from Reddit and a particular subreddit of WallStreetBets that encouraged everyone to buy, no matter the price—stocks like GameStop, AMC. There were a handful of others.
+
+My name is Jason Warnick, and I’m the Chief Financial Officer at Robinhood. 
+
+Vladimir Tenev: The meme stock phenomenon was pretty crazy. It came out of left field. I don’t think anyone was anticipating that even a week before it happened.
+
+I mean, there were a lot of people that were buying them just because of what was going on in social media. But there were a lot of people that cared very deeply about them too. And I think they viewed companies like GameStop and AMC as being unfairly treated during the pandemic. I mean, you can imagine these are brick-and-mortar legacy retailers. There was a lot of nostalgia value in them. And  the government had come in and shut everything down. There was some empathy for these companies.
+
+Jason Warnick: It started off as kind of an amusing headline. But really quickly, as we saw millions join the platform and demonstrate buying-only activity regardless of the price, we started to quickly realize this is an unusual moment. 
+
+Vladimir Tenev: What was on my mind was I just want to make sure that we’re doing everything we can to be up and reliable, and that we don’t have any infrastructure issues. And you know, the last thing that occurred to me was that we would have to shut down trading to comply with capital requirements and these sort of arcane rules—and that we would be kind of wrapped into some almost political debate around hedge funds colluding with the U.S. government to shut down trading.
+
+Andrew Reed: The stock market met the internet in a way that nobody could forecast, and it created this incredibly intense moment where Robinhood found itself at the epicenter of front-page news.
+
+Robinhood’s $3.7 Billion Crisis
+Roelof Botha: In the early morning hours of January 28th, 2021, the NSCC, an organization that oversees clearing, settlement and risk management for brokerages, demanded Robinhood post $3.7 billion in cash reserves to mitigate the risk of meme stock trading activity on its platform. It was an unprecedented number. 
+
+Vladimir Tenev: Basically, the way that these capital calls are delivered are through automated files that kind of get sent in the middle of the night. And there was a file that was sent, that was received by our Operations team, and it had a $3 billion collateral call on it. And up until that time, the total amount of capital that Robinhood had raised was in the hundreds of millions.
+
+Jason Warnick: The first I heard about this was from a phone call in the middle of the night. Most nights, my phone’s on mute, and so I, I’m really grateful that for whatever reason I had unmuted my phone and was awoken—it was probably 2:30 or so in the morning.
+
+Micky Malka: I remember getting a phone call from Vlad early in the morning. It had to be before five in the morning. An entrepreneur should always know who is the first person they call when the shit hits the fan.
+
+And that phone call is one of the most important phone calls that you gotta be able to do because that phone call is not about judging. It’s not about criticizing. It’s about having a mindset to enter into action.
+
+Jason Warnick: That set off really probably 3 to 5 days of just nonstop work and response from the team across the company.
+
+Andrew Reed: Obviously, this is full crisis mode, and you’re in absolute, like, problem-solving because, you know, this is something that has been foisted upon you from a rigid machine.
+
+Jason Warnick: We got on the phone as a leadership group and brought together experts in the area to first understand what was the request that we were receiving and decide on how to respond to the NSCC about this collateral call.
+
+Micky Malka: I told Vlad that number has no sense to your volume. And I said to him, “Listen, let’s divide and conquer. Have your team call them back and say you do not agree with the number. Don’t accept it because there’s no explanation.”
+
+I think the volume they did on the stocks that were considered GameStoppy stocks, like the meme stocks, was probably a few hundred million dollars that day—the previous day. So why would you have to post collateral for 10 times the trading volume?
+
+The collateral had no, no rational sense to any metric of any time in history asked by a regulator ever. I said, “Go and fight it. Don’t accept it.”
+
+Jason Warnick: While Robinhood, I think, got the lion’s share of the press, we were not alone in this. Other brokerages we were hearing were also experiencing this same level of collateral call.
+
+Andrew Reed: And then I remember seeing Vlad. And Vlad is—and was—one of the, you know, steadiest hands I’ve ever seen.
+
+Securing Capital: Robinhood’s Fight to Stabilize Amid Crisis
+Roelof Botha: Robinhood worked the phones with the NSCC, trying to lower the collateral requirements, while Micky, Andrew and others looked for emergency capital. 
+
+Vladimir Tenev: I think what ended up happening was the collateral requirements were subsequently lowered. I think the NSCC applied discretion. 
+
+Micky Malka: Vlad was saying, “Hey, they’re revisiting the number—it may not be three, it may be 1.2 or 1.5.” 
+
+And at the same time, I remember I called our bank CEO for Ribbit, which was Silicon Valley Bank, Greg Becker. I woke him up and said, “Greg, how many times have I asked you for a favor?” And he says, “This is the second time in 10 years. The first time was really expensive. What do you need?”
+
+I says, “We need to wire half a billion dollars of our money to Robinhood in the next four hours.” He says, “You what?” And to their credit, we worked for the next four hours, and by 9:30 in the morning, we had a green light to wire $500 million to Robinhood.
+
+We took that half a million to a billion two by 10-something in the morning. 
+
+Roelof Botha: But the team didn’t feel they were in the clear yet.
+
+Micky Malka: We just didn’t know what was gonna happen the next day or the day after—we just had no idea. And they wanted to sleep better at night because imagine you’re running on fumes, you’re opening millions of accounts, you’re serving millions of customers, meme stock mania, crypto mania, too many manias at the same time—something else could happen. Let’s have excess capital.
+
+Jason Warnick: We wanted to make sure we were in a position for that to never happen again. And that’s what really kicked off the fundraising that happened over the next few days.
+
+Vladimir Tenev: And we ended up raising a couple of billion dollars. I think it was between three and four billion at the end of the day, just so that we would have plenty of headroom and cushion to open it up in the future.
+
+A Turning Point in the GameStop Saga
+Roelof Botha: Robinhood managed to raise a $3.4 billion war chest in days, a multiple of what it had previously raised in its seven years of existence, but the public backlash was only beginning. 
+
+Vladimir Tenev: Ultimately, the collateral requirements were met. But, in order to comply with our clearinghouse deposit requirements, Robinhood Securities, which was the clearing firm that we created, had to restrict opening new positions in a whole bunch of stocks, including GameStop. 
+
+What everyone was worried about on the operations team was what’s going to happen the next day, or if, like, this trend of exponential growth continues and people keep piling in on a global level into a small handful of names—are those requirements going to get into the tens of billions? Hundreds of billions? And so, ultimately, it was kind of planning for the future that led to us to enact trading restrictions on these names.
+
+And that was very painful. It was very painful for us. I mean, no doubt it was painful for customers as well.
+
+Jason Warnick: When Robinhood took down the buy button on a handful of stocks, including GameStop, it elicited a really visceral reaction from our customers. 
+
+Andrew Reed: There was a feeling that every point that GameStop stock went up was, you know, hurting the man and helping this company that people felt love and nostalgia for. And there was a feeling that by restricting people from buying the stock, but allowing them to sell the stock, that this was unfairly depressing the price of GameStop or AMC. 
+
+Facing the Fallout: Public Outrage and Robinhood’s Crucial Test
+Roelof Botha: The restrictions on buying meme stocks sparked public outrage. A conspiracy theory took hold that Robinhood had been pressured by hedge funds who were shorting GameStop’s stock, a narrative that spread in the media and among some politicians. Vlad and other industry leaders even had to testify at a Congressional hearing to explain what had happened.  
+
+Micky Malka: You don’t study for this. You don’t read books about this. You are not prepared for something like this. You are not prepared for the pressure of Twitter hating you—Twitter having conspiracy theories, Reddit believing that you have an evil plan and you are Darth Vader. For threats, for death threats, for the worst of the worst—those things psychologically take a much bigger burden, and they take a long time to heal because you’re trying your best to serve your customers with a promise that you had when you started the company, which is democratize financial services for all.
+
+Jason Warnick: I think fundamentally they felt betrayed, and it was a horrible feeling to have as a leadership team, knowing that customers felt so betrayed. And it was an incredibly complicated storyline to articulate on “Why did Robinhood have to do that?”
+
+Andrew Reed: That was, like, an incredibly intense period. This was, like, much deeper than a PR crisis. There were challenges with trust from the user base, from the customers, from the community.
+
+Mickey Malka: I thought that this was not going to fall in the laps of Robinhood as their fault, but it did. And I missed the mark. The world, the congressmen, the senators, the media—everybody turned and point the finger to Robinhood as the blame of this.
+
+Andrew Reed: It was obviously an incredibly negative press cycle. They made movies about it. Navigating through that, I think, created a huge amount of loss of trust in the company by some of its core users.
+
+Vlad went on a big tour thereafter to, like, try to, like, really provide transparency to customers on exactly, “We got this deposit requirement, here’s what we had to do” to explain, you know, the company’s problem-solving in that incredibly challenging circumstance.
+
+Vladimir Tenev: Then there was this, this narrative of collusion with hedge funds that we had to make sure that we dispelled.
+
+So I was just, like, trying to put myself out there a lot more. And I’d always been a very heads-down person, like, focus on the work. I didn’t really do a ton of media or podcasts, but I think at that time it was clear that I needed to do more. And even though it was uncomfortable and it wasn’t the most fun topic, customers were just confused and the public was confused.
+
+Maybe they’d heard of Robinhood for the first time with GameStop and AMC and this controversy. So, um, I had to put myself out there a lot more and, you know, do a lot of uncomfortable conversations just to kind of clear the air about what had happened.
+
+Jason Warnick: It was a trying time. I was really pleased with the way the leadership team stuck together and responded. But it was exhausting, exciting, it was scary and it was super disappointing to have disappointed our customers that way. 
+
+Vladimir Tenev: We ended up pushing for industry changes, including lowering the settlement period that’s required of trades.
+
+And that, that ended up becoming law. And now, in terms of communicating with customers—both for me personally and the company—I think we’re much better at it. And we’re sort of more comfortable in, in our own skin as a public company and me as an individual.
+
+So even though it was painful, I think it was a very valuable process of maturation that it kicked off in us.
+
+Andrew Reed: If you actually, like, try to put that whole moment into a bubble—just the conspiracy theories and the outrage and Vlad going on a clubhouse with Elon Musk, raising $3 billion in a weekend—it almost sounds like out of a fever dream when you talk about it in hindsight.
+
+Micky Malka: When you’re facing the true first hurdle, or massive hurdle, you have two options. Most founders will either sink, and a very few will swim and thrive. And they had to do that. That’s why it’s such a crucial moment in their history.
+
+Challenges in a Changing Market
+Roelof Botha: A few months later, in July of 2021, Robinhood went public even as it continued working to rebuild user trust. But 2022, with rising inflation, rising interest rates and a market meltdown, would bring entirely new challenges. 
+
+Vladimir Tenev: The Fed went from cutting rates to zero and injecting a whole bunch of stimulus into the economy due to COVID to the fastest period of hiking rates in multiple decades. And what typically happens when rates go up is investing in stocks and other risk assets becomes less attractive because imagine if you can earn a 5% yield risk-free just by holding cash, the bar to, like, making a successful investment is much higher. So you tended to see a movement away from people opening up brokerage accounts and placing trades and investing towards different types of behaviors. Robinhood, basically since our founding, was focused on being the best place for people to get started investing. And so, we had this big problem, which was: what do you do when people don’t want to invest? And when all of these trends that helped grow our business tremendously during the pandemic now suddenly were, like, sharply reversing.
+
+Jason Warnick: 2022 was a hard time for the company. It was a slowdown. I think it was a crucible moment in 2022 because we had to adapt and respond to changing circumstances. And we had to embrace a new way of thinking. 
+
+Micky Malka: There is exhaustion, a fear of making decisions because you were being scrutinized for so long on everything that you did or say—or didn’t do or didn’t say. And they had to re-energize themselves, grow their own confidence again.
+
+Vladimir Tenev: I think it was a very useful exercise to kind of step back—almost like manufacturing an out-of-body experience. So if you were a third-party observer that was observing yourself in action, kind of running the company and making your decisions and doing the day-to-day, what would you say? And are there things that perhaps we’re holding onto as leaders?
+
+Robinhood’s Shift Toward Active Traders
+Roelof Botha: Trading activity declined sharply as inflation fears took over, and nearly half of Robinhood’s users left the platform from the frenzied peak of 2021. It was the kind of crucible moment that calls for reflection and re-invention.  
+
+Vladimir Tenev: One of the pieces of advice I remember is any company that successfully navigates a downturn does it by strengthening the core of the business. So you have to find—if you don’t know what the core of the business is—you have to find it, and then you have to strengthen it.
+
+And the observation that I made at that time was, the core of the business was active traders. So it wasn’t novices but it was actually folks that maybe had become more sophisticated, advanced users—trading things like options, advanced equities.
+
+The advanced active traders were the resilient piece of our business. And that’s because, you know, they’re sophisticated enough to have strategies to deploy when markets are moving sideways or even coming down. And so, they tend to be more resilient and they tend to, like, continue to trade even when markets are not going up.
+
+When we looked at our business in 2022, what we realized was the more active and sophisticated a customer was, the less happy they were with the service. And when we kind of, like, deeply understood this, we realized it was a five-alarm fire. I mean, if you think about any business, your most engaged, active customer should be the ones that are happier with the service.
+
+But in our case, we had kind of the opposite effect. We basically were not building for those customers. We were building for first-timers, but we had never, like, triangulated toward this important customer base.
+
+Jason Warnick: I think what we didn’t really realize was that by making Robinhood available to everyone, it would also become a platform that was desirable for more active and sophisticated traders.
+
+I mean, they too see the benefit of no trade commissions and access on the mobile phone, and I think one of our early missteps is our failure to really recognize active traders as an important constituent.
+
+Vladimir Tenev: And what happened was during a downturn, that ended up in us remobilizing the company—essentially refounding the company—towards active traders as, like, the core constituent.
+
+Serving a New Generation of Investors
+Roelof Botha: Along with prioritizing active traders, Robinhood also worked to diversify its product offerings beyond equities trading.
+
+Jason Warnick: Now, customers are engaging with us in a variety of ways that just wasn’t available before.
+
+There’s retirement accounts. We have approaching $10 billion of customers invested in retirement savings through us. We have high-yield cash suite balances where customers can earn industry-leading return for their uninvested cash. Securities lending, which is a great way for customers to augment the yield that they have on their investments.
+
+And so on. And as we continue to diversify the way that we serve our customers, this naturally leads to more revenue streams for the company and a stronger financial footing. And we’re, as of last quarter, now up to eight business lines that have revenue run rates that are over $100 million. That is a recipe for really strong financial positioning going forward.
+
+Micky Malka: As they normalized their operations, they sort of went in and talked about “How do we serve the millennials, our customers,” because guess what? The founders and the management team are millennials. That’s their age. 
+
+And they have to have retirement accounts for their kids and have all these products and care about high-yield interest, where before they didn’t because you were all in, all in on stocks every day. So, the evolution of the product stack is also the evolution of the team as they’ve aged in the middle pack of the millennials.
+
+So when they say they’re going to serve the millennials with all the financial products, they mean it because it’s them. They’re serving their own generation. 
+
+Andrew Reed: Fast forward to 2024 and, you know, the stock’s gone from $8 a share to $24 or wherever it is today. And it wasn’t the decisions of 2024 that have caused the stock to triple. It was the decisions of 2021, 2022, 2023—the hard work, the cultural resets, the trust-building, the focus on customers and on products.
+
+Vladimir Tenev: In 2022, when we were in the beginning of this strategic shift, it was a very harrowing experience, and yeah, it was it was definitely a different type of challenge if you have to, like, refocus your business, and move a lot of resources and focus on a new type of customer. There was a lot of uncertainty, and it took a lot of conviction and just a ton of hard work by a lot of amazing team members to successfully navigate that.
+
+Building a Legacy for Financial Empowerment
+Roelof Botha: The strategy worked. Robinhood has continued to set new revenue records in 2024, despite having fewer users trading than in the height of meme stock mania in 2021.
+
+Micky Malka: Robinhood today, compared to the first time I met them, it has the same core DNA. They truly still want to democratize financial services, with very big differences from back then. They’re understanding that this is a long-term game, not an overnight sprint.
+
+Robinhood’s legacy is not yet written. I think they have earned the right to keep playing. And I think the legacy will be written when the millennials retire, and we are still 25, 30 years away from that.
+
+Andrew Reed: I think Robinhood has positioned itself now as an extremely valuable company, not because of hype or a high multiple, but because of lots of profits and a quality long-term business.
+
+Vladimir Tenev: I’m reminded of, uh, the Winston Churchill quote: If you’re going through hell, keep going. I think a lot of navigating these things is to just put one foot in front of the other and keep going. And I think ultimately, nobody that’s been successful hasn’t gone through a bunch of challenges. Probably if you don’t, you’re not pushing hard enough and you’re not challenging yourself enough. 
+
+I think at the end of the day, despite all the change, what really matters to people is being in control of their finances, having the tools that allow them to make decisions.
+
+I think over the next few decades, it’s going to be clear to people that they can’t really rely on others. You can’t rely on your employer or really the government to, like, make sure your finances are in order and you’re secure. And what we can do is make sure we give people the best tools, and we can use technology to solve the problems of being in control and managing your finances.
+
+And we can do that not just with investing, but all aspects of it across the board—for taking on your first loan, building credit, retiring, building your wealth. And I think from the very beginning, the ethos of the company has been to deliver tools that were previously used only by the wealthy and make them available to mass-market consumers.
+
+And I think there’s a lot, there’s a lot that remains to be done across the board for helping people secure their financial futures.

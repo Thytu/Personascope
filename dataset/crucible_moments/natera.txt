@@ -1,0 +1,314 @@
+Matthew Rabinowitz: I think ever since I came to the States, I was kind of invincible. You know, I’d made money, lost money, relationships came and went, and no matter what happened, I was just riding the wave and nothing really broke me. And this just broke me. And I think the engineer in me sort of took over, and I thought, this is a problem that I have to, have to solve.
+
+Introduction
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical crossroads and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the Managing Partner of Sequoia Capital, Roelof Botha. 
+
+Today’s episode is about Natera, a global leader in women’s health, oncology and organ transplant rejection testing. To give you a sense of scale—40% of all pregnancies in the U.S. are tested using Natera’s technology to ensure the health of a child. And nearly half of oncologists in America have ordered Natera’s cancer screening test. 
+
+My connection to Natera began long before its inception. I met its co-founder, Matthew Rabinowitz, when I was a teenager in South Africa. We attended the same “academic vacation school,” which is a nice way of saying it was a nerd camp. Later, we both made the top 100 in the National Science Olympiad. But Matthew was the gold medalist.
+
+I reconnected with Matthew in 2002. After completing an undergraduate in physics, where he was the top student at Stanford, and then completing a PhD in electrical engineering, Matthew became a founder. But now, he was immersing himself in a brand new challenge: mastering biology and genetics. But there was no doubt in my mind that Matthew could learn anything he wanted.
+
+From its origins in IVF preimplantation testing to expanding into prenatal testing, cancer recurrence monitoring and organ transplant rejection testing, Natera is a company that has innovated again and again to change the management of disease worldwide. 
+
+To get there, however, the company grappled with crucible moments. Natera bet its future on developing unproven technology and defied skeptics as it expanded into new fields of testing and larger markets. This is the story of a mission-driven company that risked consequences at every turn, determined to help people live healthy lives.
+
+Founding Natera: From Personal Tragedy to Transforming Diagnostics
+Matthew Rabinowitz: Hi, my name is Matthew Rabinowitz, and I’m the Founder and Executive Chairman of Natera.
+
+You know, Natera was sparked by a combination of factors. I came from a good Jewish family of two doctors. And so, I was always surrounded by these kinds of, uh, you know, debates between different medical practices and different approaches.
+
+And I didn’t go the medical path. I studied electrical engineering and physics. But, um, in 2003, my sister had a kid with Down syndrome. The baby was born in one of the top hospitals in the country and they only found out when the kid was born that the kid had Down syndrome. And, uh, the child died after six days and it was horrific. 
+
+I couldn’t understand how, in the 21st century, you could have all this technology in your, you know, cell phones, in spaceships, in our laptops, and none of that technology had found its way into diagnostics. And, um, at that point, I thought, you know, that this is something that I really need to fix. And I need to understand what’s going on here and try to apply these technologies that I was aware of in the signal processing world to the world of genetics.
+
+Jonathan Sheena: I joined Matt around 2004. I was, at the time, finishing up a startup in the mobile space, and Matt was finishing working up on his previous startup as well. And I was tired of making phones beep and I wanted to do something with more social value.
+
+My name is Jonathan Sheena. I am a Co-Founder and a Board Member at Natera. 
+
+What was clear at the time, besides Matt’s personal story, was that genetics was in its infancy. The Human Genome Project had just completed, and it was abundantly clear that geneticists needed help understanding the masses of data that they were, they were starting to produce.
+
+Were we confident in making that shift from engineering to biology? For me, no, not at all. I was not confident at all. But talking to geneticists at Stanford, mostly you saw pretty quickly, everybody had the same book on their desk.
+
+It was Bioinformatics in Perl or Perl for Bioinformaticians, and it was very thin—it was really high-level, it was clunky, it was hard to use. All the tools were terrible. And as an engineer, it was really, really clear that I could be helpful there.
+
+Originally, when I joined the company, it was just some people around the table. And we’re still in this phase of figuring out what was the market that we were going to tackle? What was going to be effective? What could we build that would really make a difference? 
+
+Matthew Rabinowitz: Initially, we were looking at all sorts of problems of how you could take genetic data, and make it computable and combine the computable genetic data with phenotype or clinical data. And this was the sort of long term idea that you could have a kind of marketplace where we could build these better models to predict what drugs a patient should get for cancer, what, uh, mutated HIV viruses should be treated with in terms of cocktails of reverse transcriptase inhibitors and protease inhibitors. So we were looking at all sorts of problems.
+
+But at the same time, I think I couldn’t let go of that desire, you know, when the baby was born with Down syndrome and then there were so many complications—you know, at that point it was a real emotional inflection. So I think I couldn’t let go of that desire to solve that particular problem.
+
+Redefining IVF Testing
+Roelof Botha: Matthew and Jonathan began by looking at a subset of pregnancies with genetic data available and an immediate decision-making need: those having children via IVF. 
+
+Back in 2004, there were methods available to evaluate the health of an embryo prior to implantation, but they had limitations.
+
+Matthew Rabinowitz: The way people were going about the problem at that time was just so much, um, from my perspective, it was a much more blunt instrument. You know, they were trying to hybridize probes to chromosomes and look at them under a microscope and count how many fluorescent probes you could see. And then you could only see five chromosomes that way. And the companies were trying to convince doctors that you only needed to see five out of the 22 chromosomes. And, you know, that’s obviously not true. 
+
+There was so much, uh, snake oil in the IVF market that we actually sent a sample to, uh, one of these companies where we knew what the cells were, we knew the karyotypes, and they produced a whole bunch of bad results.
+
+It was just so amazing to me that doctors and labs were sending these samples to companies that just had these very sort of basic approaches to the problem. So you know, we came into this world thinking that we were going to do it a whole lot better, and that we had the capabilities to do it a whole lot better.
+
+Spectrum: Revolutionizing Genetic Testing for Embryo Health
+Roelof Botha: The team at Natera dove into researching a test that would eventually be called Spectrum, to allow for precise genetic testing of an embryo—no easy feat.
+
+Chitra Kotwaliwale: The challenge with any pre-implantation genetic test is that you have to assess the genetic health of the embryo, but the starting material is extremely small. You know, it’s often just a single cell.
+
+My name is Chitra Kotwaliwale. I’m the Senior Vice President of Portfolio Management and Operations at Natera. 
+
+So to be able to assess the genetic health of the embryo, starting with a single cell, is extremely technically challenging. You end up having very, very noisy data.
+
+Matthew Rabinowitz: I bought the, um, graduate textbook that you learn genetics with. And I spent two months just studying genetics from that textbook, and I remember turning to the chapter on meiosis and coming to understand the different mechanisms of that biological process, and seeing how much we understood about the pieces that went into that mechanism of meiosis. 
+
+And at that moment, I thought, wow, you know, there’s so much a priori modeling that we could bring to this problem of what information is coming from the parents contributing to the DNA of a child. I thought that could probably be structured as a kind of a Bayesian optimization framework. You know, if we use all of that modeling information, we could have a much more powerful test statistic to evaluate what’s in a child’s cell. 
+
+Jonathan Sheena: The idea is that if you’ve got this noisy data, which you’re getting from a single cell that you’re analyzing from an embryo biopsy, you can limit the space that you’re searching for, for answers because, you know upfront that this genetic makeup came from mom and dad, so if you know mom and dad, you’re not starting from the universe of all possible combinations of A’s, C’s, T’s and G  ’s. You’re starting from this basic premise that everything you’re looking at had to have come from mom and dad. So that helped dramatically improve the signal that you got out of this very noisy data, something that people hadn’t done before.
+
+Chitra Kotwaliwale: That was really the groundbreaking aspect of Spectrum: this whole idea that you can take a maternal genome and a paternal genome and build this probabilistic model of what the embryo genome is.
+
+And based on that, be able to tell whether that embryo has a chromosomal abnormality or has inherited mutations for a single gene disorder. 
+
+Matthew Rabinowitz: That was the nascent idea as I turned the pages. And that was the idea that we ended up pursuing with Spectrum.
+
+Proving the Concept
+Roelof Botha: While the team was excited about this breakthrough idea, at this point, it was just an idea.
+
+Jonathan Sheena: The technology at that point was unproven. Although we had some initial data that we use to demonstrate a proof of concept—and it, the proof of concept did work—whether that was going to actually work in a real-life scenario where you are biopsying an embryo, putting it in a tube, shipping it around the world on dry ice and then trying to produce a result in less than 48 hours. Whether that was all going to work together was very much TBD.
+
+When we went out to raise funding, there were plenty of skeptics. A, who were these non-geneticists in front of us talking about genetics? What did they know? There was a lot of discussion of IVF as a market; it wasn’t perceived to be that big. And, we were in Silicon Valley, which hadn’t done a lot of genetics investing at the time.
+
+Bringing Spectrum to Life
+Roelof Botha: At its outset, the company faced a defining crucible decision: Do you pursue an idea where the technology is unproven, the market has red flags and where your expertise raises eyebrows?
+
+Matthew Rabinowitz: I could say it was tough, uh, but the reality is, you know, I just had a mission. So you know, you don’t worry about not getting funding at the right time when you’ve got a mission—you just pursue the mission, any way you can. 
+
+Roelof Botha: The team dove into bringing Spectrum to life. 
+
+Matthew Rabinowitz: We, uh, actually applied for a bunch of NIH grants, and, uh, that’s an incredibly good process for a company to go through to sort of figure out the technology, with a level of rigor, so that these very experienced NIH review panels can give you the thumbs-up.
+
+A lot of the great IP that went into Natera—uh, then Gene Security Network in those early days—came from that process of applying for NIH grants. So that sort of got us going.
+
+And then, when it was time to raise money for Natera, I thought Roelof would be the ideal guy to partner with. I’d known him for a long time. We met as teenagers in South Africa, um, at a kind of nerd camp during the vacation. When other guys were starting to date girls, we were being lectured to by a bunch of college professors. And then we met in the States and, uh, he was courageous. He’d left this very well known family in South Africa and this career as an actual scientist and had come to forge his path in the U.S. as I had. And he was also very humble. And the first rule of being a VC is do no harm. And so, I thought that’s the kind of guy I’d really like to work with.
+
+And then, I particularly targeted Sequoia; they kind of invest like Santana plays the guitar—I mean, they are just so naturally and comfortably aware of where a company’s at. And I think they could see, at a certain point, that we were focusing on this problem in IVF because there had been this confluence and we were sort of organically driving in that direction, and that’s the time that they sort of pulled the trigger. 
+
+So I think the whole process of leading up to that investment—you know, the NIH grants, trying to make our story more rigorous on the technology and the business side—is an incredibly healthy process for a company to go through. And it’s not something that you can go through if you’re just taking angel investment. I often tell companies: you know, force yourself to get grants and to get venture capital investment because it brazens the company in a way that you can’t easily do otherwise.
+
+I do remember a moment when, uh, one of our senior statisticians came to me. And, uh, we were trying to do this modeling based on the idiosyncrasies of the noise that we were getting from these arrays and building in a detailed, functional model of the mechanism of meiosis to figure out what had come from the parents to make the DNA of the child. And there was all sorts of noisy processes that were generated from this array because we had to get this protocol running in one day that was supposed to run in three days.
+
+And, uh, I remember one of our really great statisticians came knocking on my door and he’d been looking at the data based on this latest test statistic that we were trying to get working. And he just said to me, “Dude, you know, come look at this, you’re going to shit yourself.” And, uh, at that moment I was, uh, I didn’t know whether it was good or bad news as he said that, but I saw a big smile, and I thought, okay, you know, this is actually working at last.
+
+Spectrum’s Launch
+Roelof Botha: In 2009, Natera launched the Spectrum test for public use.  
+
+Jonathan Sheena: So there were the technical moments when we knew that Spectrum worked. We had successful transfers that turned into successful implantations for IVF. But the real moments were the, the postcards and the emails that came back from, from the families thanking us for helping them grow their family or start their new family.
+
+Those went up on the wall. And those were the moments that, that I remember much more so than the technical successes.
+
+The unlock of Spectrum was a critical turning point in Natera’s story in that it demonstrated we could use statistical methods that hadn’t been applied to genetics before that was useful by both patients and physicians. It proved that we could fulfill the promise of our mission to not only to our, to our patients, but also to our employees.
+
+It was a, it was a great motivator internally.
+
+Spectrum’s Early Struggles: Navigating Market Challenges
+Roelof Botha: While Spectrum was a technical success, it struggled to become a commercial one. 
+
+Matthew Rabinowitz: We made this bet that if you could do a reliable screening across 24 chromosomes, and substantially improve implantation rates and let people who are going through IVF know what they had, whether their embryos were good euploid embryos, that this would be really valuable.
+
+And that didn’t really happen fast.
+
+Steve Chapman: I remember the third month I had been there, we were having a board meeting and there were some concerns expressed about the volume. 
+
+My name is Steve Chapman. I’m the CEO of Natera. So initially, when I joined the company in 2010, I was hired as, uh, Vice President of Commercial. And I think I was like the 20th employee. 
+
+I think the first month I was there, we did 100 tests per month. The second month I was there, we did like 105 tests. And then the third month, we did 90 tests and all the board members were concerned. They’re like, “Oh man, 90 tests, like, the volume is going down.” And, uh, I remember after the meeting, Jonathan Sheena, he pulled me aside. He’s like, “Look, man, don’t worry. You know, I’m sure everything’s gonna be fine.” And I went home that night; I remember I told my wife, I’m like, “There’s, there’s a good chance I’m getting fired.”
+
+Roelof Botha: The challenge was, at the time, the number of IVF cycles per year in the United States was around 150,000. And so, when you think about it from a market science point of view, given the price point that we had at the time, it just didn’t amount to a very big business. Even if we fully penetrated the market opportunity, it wasn’t, you know, the market wasn’t deep enough for us to build a very big business. So just to give you a sense, I think even today, the number of IVF cycles per annum in the United States has now grown to about 160,000, and the average price that you can get for diagnostic testing is maybe $4,000. So that’s a $600 million-ish total market available if every single person used a technology like ours. And obviously, in reality, the served market is much smaller.
+
+So it was very hard for us to see how you could build a multi-hundred-million-dollar a year business if you only address the IVF opportunity.
+
+Matthew Rabinowitz: I guess I had the exuberance of, uh, you know, a mission. And I thought that, uh, those concerns about the IVF market were secondary. They turned out to be right, actually. So the idea that you can create a new market is a very challenging idea. You know, venture capitalists tend to be very wary of that, and they’re right. You know, although a founder thinks that, you know, you’ve got this technology and it’s totally rational for everyone to use it, there are so many entrenched norms, uh, protocols, uh, insurance issues, uh, sort of, uh, marketing challenges, educational challenges. It’s not easy to totally create a new market—that can take years and years, unless you’re really lucky. So I think that the market played out well, but it didn’t play out nearly to the extent that I thought it would.
+
+Transforming Prenatal Testing for Natural Pregnancies
+Roelof Botha: Natera set its sights on its next act, to address a much larger market: natural pregnancies. If Natera could leverage its technology for more effective prenatal testing in all pregnancies, the size of the market could support a meaningful business.
+
+Jonathan Sheena: So shifting to natural pregnancies from IVF was something that was always in the back of our minds. We always knew that we wanted to be able to apply the same idea of cleaning up genetic signal from genetic noise to natural pregnancies. What we saw in natural pregnancies was that the technology that was being used up to roughly that time was very poor. 
+
+Steve Chapman: Prenatal testing has been around, you know, I think really in the 80s is when the initial biomarkers started to be used to screen women for their risk of chromosome aneuploidies or neural tube defects. Now those same techniques that were developed in the 80s were still being used in 2009-2010. Maybe they had changed a little bit; they were a little bit better than they were, but not by much. And so, about 20% of pregnancies that had a severe genetic abnormality would be missed using those previous techniques. But the worst problem was that 19 out of 20 women that were told that they were positive actually were fine. And so, there were a lot of people who would get an amniocentesis unnecessarily.
+
+Jonathan Sheena: For such an important test, for such an important screen for prenatal health, it was almost unconscionable that the world hadn’t applied the same kind of resources that we had applied to our iPhones and, and targeting better advertisements.
+
+Panorama: Unlocking Fetal Genetics Through Cell-Free DNA
+Roelof Botha: The team began to look at how the technology from Spectrum could pave the way for families to test unborn babies for genetic disorders as early as nine weeks into the pregnancy. This test would eventually be called Panorama. 
+
+Matthew Rabinowitz: When we started to do experimentation, we knew that there was a lot of signal that you could get from the cell-free DNA that had just been released from the placental cells or from the fetus that was floating around in the mother’s blood. And it became a very similar problem of trying to extract a really detailed model of the child from these fragments of cell-free DNA. 
+
+Roelof Botha: By taking a blood roll from the mother, we could find these little puzzle pieces—these fragments of the fetus’s DNA that has sort of accidentally ended up in the mother’s bloodstream. And then our technology helps you reassemble that puzzle to get a complete picture of the unborn child’s genetic profile, which is just staggering if you think about it. And so, that was a surprise. I mean, honestly, when we first made the investment, I don’t think any, I certainly didn’t anticipate that this type of technology would even be possible.
+
+Steve Chapman: You know, of course we weren’t the first company that were offering cell-free fetal DNA tests, or NIPT tests. The major difference with Natera’s test is that what you can do is you can actually separate informatically the maternal DNA, the paternal DNA and the fetal DNA. And that allows you to see a clear picture of what’s happening within the genetics of the fetus. So that allows us to more accurately identify chromosomal abnormalities, um, and also just biologically see things that others can’t see.
+
+The Emotional Catalyst: A Turning Point Toward Panorama
+Roelof Botha: Natera had reached another turning point. It needed to decide once again, whether or not to move forward with a first-of-its-kind diagnostics test. This time, however, there was much more at stake.
+
+Matthew Rabinowitz: What were the business risks? I mean, there were real business risks. You know, we had investors telling us that we had not done what we set out to do in IVF. We were going to be the world leaders in IVF, and at that point, we hadn’t established our leadership. There was still a lot of work to be done. And we had investors around the board table tell us, you know, “Do what you said you were going to do and don’t distract yourself. You’ve got all sorts of established competition.” And we were going up against really big, well-funded companies, with a different level of clinical trial rigor that was demanded.
+
+Yeah, there was a lot of good reasons to not do it. Um, this is, uh, this is something that I never talk about publicly, but, um, I’ll talk about it now. The decision to go into prenatal testing was completely personally driven. It was a totally emotional decision if I’m honest because, um, I spoke about what happened to my sister around 2003. Um, what I never talk about publicly is that I lost a child around 2009. And, um, it was not related to what happened to my sister. Um, we didn’t have a particular genetic susceptibility. It was just, you know, two events that struck in the same family by chance. 
+
+And, um, we were gonna have a little girl, and we found out late in the pregnancy that the child had a genetic condition. And, uh, we’d been fooled by the screening tests that didn’t detect this issue. Just because I was an information freak, and, you know, because of what had happened to my sister, um, I thought it was a good idea to have an amnio, just to be safe. And we found out from the amnio that there was this genetic issue. 
+
+And I think ever since I came to the States, I was kind of invincible. You know, I’d made money, lost money, relationships came and went, and no matter what happened, I was just riding the wave and nothing really broke me. And this just broke me. And I think the engineer in me sort of took over, and I thought, this is a problem that I have to, have to solve. 
+
+And we actually used a sample from that pregnancy, uh, to submit data to the NIH based on a bunch of the techniques that we were developing at Natera. And we asked the NIH to fund us to improve prenatal testing, uh, which, you know, we were pretty convinced that we could do. And we got that money from the NIH and then a bunch of subsequent grants and we, we raised additional venture capital. 
+
+So yeah, there was pros and cons to make this decision to get into prenatal testing. But at that time, around 2009-2010, when we focused on this product, um, it was an entirely emotional decision for me. It was just something that I had to do. 
+
+Steve Chapman: There was no question that we were going to move forward with Panorama if the technology could deliver the results that we had hoped it would deliver. 
+
+In fact, I think the company’s success was hinging on us developing a technology that worked and launching it successfully. I remember we had several clinical trials that were underway. But it was all coming down to the blinded performance of the technology in a prospective clinical trial. And so, the principal investigator called us and he said, “Hey, I’ve got the results, final results. Everything’s locked down. This is going for publication.” And he read off the, the final results. And we realized that we had hit the performance specs that we were hoping for. 
+
+And that was a real incredible moment because, at that time, we knew that we were going to be able to move the product forward.
+
+Overcoming Challenges to Redefine Prenatal Testing
+Roelof Botha: While Panorama represented a novel approach and a technical breakthrough, Natera’s long-entrenched competitors were also bringing their own versions of updated prenatal screening products to the market.  
+
+Jonathan Sheena: When we developed Panorama, we were actually the fourth to market. These three other companies were out there educating the market and they were also setting the story. They were setting what’s important; they were telling the market what was important and, and what wasn’t important in their own terms.
+
+Matthew Rabinowitz: And so, we were up against these big established players. We had Illumina, who was the gorilla of sequencing—they controlled all the sequencing technology pretty much at the time. We had Roche that, uh, had bought a company Ariosa, LabCorp that had partnered with the company Sequinom. 
+
+Steve Chapman: Most of the companies had launched in kind of 20-, uh, ’11, uh, 2012, and here we were in 2013, trying to get our test out the door. And many of them had big sales teams; they were already delivering volume.
+
+It was a challenging time because while there was excitement within the company at Natera about what we were doing, there was also a sense that we were missing our window and that we were slipping behind. And that we needed to get the test out the door, and if we didn’t, you know, we, we weren’t ever going to be able to catch up.
+
+Matthew Rabinowitz: I remember there was a moment where I was curled up in the corner of my living room in fetal position, literally shaking in the corner of the room because, you know, we had to raise venture capital. Um, you know, we needed, uh, more money to drive the technology, and we had just learned that Illumina, who was our main supplier, had just bought our main competitor, this company, Veronata. And I didn’t know, um, how we were going to survive. 
+
+Jonathan Sheena: We had to explain why this approach was better, we had to demonstrate it, we had to, uh, invest in studies that would demonstrate that. 
+
+Matthew Rabinowitz: I mean, it’s an incredibly complicated statistical problem and we figured out how you could use techniques like information filters, like hidden Markov models, to sift through all of the possible combinations of what’s going on in the DNA.
+
+When you find the right set of parameters—the right fetal fraction, the right noise figure, the right set of crossovers, the right assumptions about how many chromosomes came from each parent—everything just makes sense and you get this maximum likelihood peak.
+
+You just get this very high probability where the algorithm says, “Aha, I know what’s going on here. Everything is making sense.”
+
+Jonathan Sheena: That was the moment that I learned that having an incredibly strong commercial team out there in the field that was able to describe the science, that was able to convey the benefits, uh, was hugely important. Having all the great technology in the world didn’t matter if you couldn’t explain to your physician why it was.
+
+Matthew Rabinowitz: Explaining that we could see microdeletions, we could see abnormalities of the sex chromosomes, a whole range of things that in aggregate are much more prevalent than Down syndrome.
+
+What was really cool about the Panorama test, and microdeletions in particular, is it was the first time that I know of that you had brought deep learning neural networks to bear on a very large biotech or diagnostics problem.
+
+You can do this very early in pregnancy, and you can use this to detect all sorts of things that don’t match how the DNA should look. All sorts of abnormalities, which the other techniques just can’t see.
+
+Steve Chapman: We knew we had to do things differently than others. And so, not only was our technology different, but we also focused more on user experience. You know, if you order a pair of shoes online on Amazon, you push a button, you get all these pings on your cell phone. When your package arrives, you get a text message and that’s exciting. You know exactly where things are. 
+
+But something like the health of your baby, you get your blood drawn in this dark, dingy draw station. You send your tube in; you never hear back from the laboratory. You don’t know when it’s being billed; you don’t know how much you’re going to owe. And so, we wanted to change all that and really make lab testing and genetic testing feel like a consumer experience that you would expect, you know, in today’s world versus something that’s very outdated. 
+
+Matthew Rabinowitz: I think the main thing is that science doesn’t lie. You put your faith in the science, the faith that you are taking on a problem in a very different way to everybody else. And given that you have a better technology, there will be a path through. So we just kind of took a series of pragmatic steps.
+
+And, um, we started to see a sort of transition where the doctors understood the value of the technology and, and, you know, the, the momentum started to pick up. 
+
+Sarah Elliott: There was actually a distinct moment for me: um, I was at a birthday party for my son wearing my Natera jacket proudly. And over the course of that afternoon, three newly pregnant mothers approached me just gushing about their experience with Panorama. Um, the peace of mind it provided, the ease of use, um, how early in the pregnancy it could be used—uh, they couldn’t believe that Natera was right in our backyard here in San Carlos. Um, I mean, I felt like a celebrity.
+
+My name is Sarah Elliott, and I’m the Senior Director of the Executive Services Organization at Natera.
+
+Panorama was a critical chapter for Natera. It indisputably put us on the map. We were serving such a wide audience of people all of a sudden and really becoming a known name in the world of genetic testing.
+
+You know, as a company opened up to a much larger market, all of a sudden, rapid growth was really on our doorstep. And we all felt sort of the steady shift from the more startup atmosphere to a mid-size company. I was supporting Jonathan Sheena, and I just distinctly remember the onslaught of open positions, um, interviews and, you know, the challenge of finding top engineering talent locally to our home office. We were always on the hunt for more office space, more desks—I was literally stacking engineers on top of each other as new hires came on board each week. 
+
+Steve Chapman: There were a lot of things where, you know, I mean, there was a lot of work to build the capacity out, and, uh, we felt like for a long time we were drinking from a firehose.
+
+There was a period of time where every time you walked into the lab, it was either in it, there was a different floor that we had expanded to or a different building we had expanded to. I mean, it was just, you know, really rapidly growing. 
+
+One of the biggest decisions that we had to make when we launched Panorama was whether we just focus on the high-risk pregnancy segment or whether we made our test available to all pregnant women, regardless of their risk. At the time, many of the other companies were limiting their offering into the high-risk segment alone, and we made a decision and made it available for all women regardless of their prior risk. And that was really an important decision that we made. We weren’t just tapping into 15% of pregnancies—we were actually tapping into all pregnancies. 
+
+Chitra Kotwaliwale: I mean, the biggest milestone, I mean, one was that we’re now processing, you know, over a million samples a year. Like, we used to think a few hundred thousand samples was a great achievement, but now we’re, you know, routinely processing over a million samples for Panorama alone, and we have other genetic testing for women’s health, uh, markets such as carrier screening and so on. So that’s a, it’s, that’s a huge milestone. 
+
+Sarah Elliott: I think some of the biggest lessons from my perspective, really, it comes down to sheer grit and determination by every individual, um, on all of the teams, no matter your role across the company, every single person has a role. And you have to ride the highs and get ready to roll up your sleeves through the lows. You know, there’s so much that can go wrong; it’s really how prepared you are to react that is key during those times.
+
+Expanding Horizons: From Prenatal Testing to Oncology
+Roelof Botha: In July 2015, buoyed by the success of Panorama, Natera went public. Around this time, the company began looking at adjacent areas where their core technology could make an impact—one of those areas was oncology. 
+
+Matthew Rabinowitz: You know, we always had this mindset that we were going to transform healthcare, and we were going to have as much impact as we could possibly have, uh, by bringing these sort of signal processing techniques and apply that to diagnostics.
+
+So there was no way that we weren’t going to, you know, keep taking on bigger and bigger aspects of healthcare. There were some very practical considerations in the oncology world. We had built this massively multiplexed PCR protocol, and that lets you run samples in a single reaction volume without losing molecules.
+
+And when you’re dealing with oncology, every molecule matters. And so, we had to solve this problem of not splitting up the sample. And we had built this PCR technique where we could get all of these primers to work in a single reaction. 
+
+And we started to apply that to problems in oncology in a way that nobody had been able to do before us where you could run all of these primers in a single reaction, and we could also customize the assay for every single patient. So based on your particular tumor and the mutations that were unique to your cancer, we could build this personalized assay to target those molecules for you. 
+
+It was just an incredibly exciting moment when we saw how well this worked to detect these cancers early. We could pretty much see a single molecule that was coming from a tumor from a blood draw in the arm. And that’s like, um, the analogy that I use is, that’s like finding one blade of grass in a hundred thousand soccer fields—to be able to see that single molecule that carries the cancer mutations. With that capability, we thought that this would be transformative. 
+
+Roelof Botha: The base technology that we developed in the prenatal testing space translated into oncology. It turns out that most cancer types shed into the bloodstream. And so, in the same way that there’s free floating fetal DNA in the mother’s blood, for most cancer types, they shed fragments of the cancer DNA into your bloodstream. There’s a wonderful analogy of being able to take a non-invasive test, a blood draw from a cancer patient to see if the disease is still present. And so, there’s an enormous benefit from an R&D point of view that we believed that our core technology would translate.
+
+The High-Stakes Leap into Oncology
+Roelof Botha: While Natera’s technology held great promise in the field of oncology, pursuing cancer diagnostics in earnest would come with enormous risk. Building out an entirely new division would demand significant resources, and the women’s health division—while growing—was not yet profitable, putting Natera in a precarious position. 
+
+Matthew Rabinowitz: This one, we had a lot of criticism that I can remember like it was yesterday because it was a very stressful time at the company. We were growing our woman’s health business, and we were burning a lot of cash. 
+
+Steve Chapman: We were not profitable. We weren’t cash-flow break-even, um, we didn’t have full reimbursement for Panorama yet.
+
+Jonathan Sheena: Almost as complicated as genetically sequencing fetal and maternal cell-free DNA is getting reimbursed for it. 
+
+Matthew Rabinowitz: We had now offered our NIPT test to all pregnancies, but we weren’t getting the reimbursement in the low-risk pregnancies. We knew that the reimbursement was going to pick up, but it was going to take time and the market had to understand this and we had to explain this. And at the same time that we were explaining all of this, I was telling the market, “Guys, we’ve got this incredible performance in oncology, which we cannot ignore.”
+
+Roelof Botha: There were many investors who were skeptical of Natera’s approach, uh, and that they would not be able to simultaneously pull off building a profitable maternal health business and do the R&D work to eventually build an oncology business. 
+
+Chitra Kotwaliwale: The amount of effort and focus it would take—we would have to build out a sales team, we would have to, you know, dedicate R&D effort to continuously improve the test, scale the test, you know, build, build out marketing teams and so on. With that energy and that focus we would have to give to a different market, would that hinder the growth of women’s health market? 
+
+Roelof Botha: Public investors would repeatedly call me and implore me to convince the team to abandon this idea of building an oncology business. Some of them would write to the company, and try to explain and make the case that it was foolhardy to do so. 
+
+Steve Chapman: There were meetings where every analyst question was about what’s our plan: “When is the guideline coming out? When are we going to fix reimbursement? When are we going to reduce COGS?” And, um, there were several one-on-one investor meetings too where, where the people would get really frustrated. 
+
+Jonathan Sheena: There were plenty of people who said, “Don’t do it, it’s too hard. Oncology, the timelines are too long, the reimbursement is too complicated.” But when you come back to—if you’re producing something of enough value to a patient, and enough value to a payer and to a physician—the answer in the end was clear.
+
+Roelof Botha: The team made the crucible decision to move forward with the oncology business and to pursue a test called Signatera, which tests for cancer recurrence by using tumor and blood samples to detect small traces of cancer in the body.
+
+Sarah Elliott: The build-out that was necessary to accommodate the oncology business, uh, was really reminiscent of the build-out that occurred, uh, when Panorama was launching, just in terms of growing teams, growing infrastructure. 
+
+Matthew Rabinowitz: We had to convey that the work that we were doing in cancer was going to be rigorous enough to get through the FDA, that we were serious enough about this, that we were going to hire the experts that we needed and that we were going to forge the relationships with the leading centers that we needed.
+
+Jonathan Sheena: We adopted a mindset of growth. That said, there was an incredible amount of pressure to be profitable. We needed to develop that plan to become profitable and show that we were meeting those milestones along the way. So there was a lot of planning angst that went into deciding how much of our resources we devoted to cost-cutting projects, efficiency projects versus the next shiny new thing. 
+
+Chitra Kotwaliwale: Resource allocation was a constant challenge, so not only within women’s health did we have to make sure that we were allocating resources appropriately to projects that would drive profitability—you know, reduced our, reduce the cost of our test and also investing our resources in projects that were important for our long term growth initiatives—while also making sure that we’re investing appropriate amount of resources in Signatera. That was one of the biggest challenges. 
+
+Matthew Rabinowitz: There was a time when the stock dropped down to $7 a share, um, which was intense. 
+
+Steve Chapman: There was a long period of time where we weren’t profitable. We hadn’t seen a lot of the major reimbursement milestones that people were looking for. We were burning money; we had nothing to really show for oncology. Um, you know, we, we talked about this field and how exciting it was going to be, but no one cared about the talk—they wanted to see results. And, you know, as a result, I think the shares were down in the $6 to $8 range for probably three years, and or maybe more. People within the company were demotivated. I think there was a sense of, “Is the company going to make it?”
+
+Jonathan Sheena: It was certainly demotivating, it was demotivating to us, but just as much to employees who had come in recently off of the high of an IPO. And so, making sure that we were all focused on a mission that we all knew would yield in the long run was, uh, was, was what carried us through that. 
+
+Matthew Rabinowitz: We had to just kind of keep repeating that plan and flesh out that plan at a level that we absolutely believed it—however rough it was, we absolutely believed what we were saying. And, um, besides that, I mean, I, I think that you just have to believe in the mission. And when the share price was $7, um, you know, we did lose some people, unfortunately, and there was a lot of naysayers, unfortunately. But the core people who believed in that mission and lived for that mission weren’t affected—uh, you know, at least not affected enough to, to stop believing. 
+
+Chitra Kotwaliwale: The one thing I will tell you, which was extremely refreshing for me, from the perspective of, like, you know, working in corporate America, was that there was an incredible amount of, like, unified vision. You know, it wasn’t about making one business unit successful over another; everybody had that shared vision that the company had to become successful. And so, as a result, there was a very strong sense of collaboration across all of the different business units across all of the different teams. And that allowed us to find synergies across different projects, we could leverage our resources in a smart way, and also make really fast and good decisions because we were all extremely communicative and there was a really strong sense of collaboration across the company.
+
+And then the other thing I will say is that it’s a testament to our teams. Whenever we’re resource constrained—which is, which happens, I’m sure, it happens at every organization—instead of seeing that as an insurmountable challenge, like, “We just can’t move forward,” the teams at Natera are always finding sort of ways to get the work done with minimal resources. And that’s something that I’ve really come to appreciate, uh, of Natera, you know, in my last five years here is that anytime there’s a resource constraint problem, we’re always thinking about, “Okay, well, then how do we do it in a different way with fewer resources?” rather than saying, “It just can’t be done because we don’t have enough resources.”
+
+So while there was a lot of tension, I think it was the good kind of tension.  really, like, led to very strong bonds among the people who were at Natera at the time. 
+
+Sarah Elliott: The day we launched Signatera was huge. We weren’t just a women’s health company anymore. You know, personally, my mom had been in the Signatara clinical trial since diagnosis in 2016. I remember sitting down with Jonathan Sheena at that time. And, you know, I had, that wasn’t a great week in my life, and, um, he said, “Well, hey, we should get her on this clinical trial right away.” And, you know, I didn’t even know exactly what that meant, um, and looking back, it definitely changed the course of my mom’s care, um, and, you know, her ability to really get ahead of her diagnosis. Um, she’s now a seven-year survivor. 
+
+Chitra Kotwaliwale: I mean, the oncology division–it’s wild. I was reflecting on oncology and just Natera, and what’s wild is that in 2019, we were processing maybe a few thousand Signatera samples a year—maybe 5,000 or something. But just in the first quarter of 2024 alone, we processed over 100,000 samples, uh, of Signatera. So it’s not just that, you know, in five years, we’ve gone from processing a few thousand samples to 100,000 samples in a quarter, but, just you know, year after year, we’re doubling the volume. So I think that’s an amazing milestone for Signatera. It’s really quite incredible. 
+
+I mean minimal residual disease testing, recurrence monitoring for solid tumors is essentially a market that was developed by, by Natera. And now, it’s considered to be an, you know, a huge multi-billion-dollar market. So I think that’s, that’s a significant achievement for the oncology business unit.
+
+Matthew Rabinowitz: We’ve built this enormous database now of early cancer samples based on the rapid uptake of Signatera. Uh, we now have about, you know, 50% of oncologists in the United States using Signatera and we’ve got reimbursement for bladder cancer, colon cancer, breast cancer for all subtypes, ovarian cancer. IO monitoring for all solid tumor types.
+
+Natera’s Next Frontier: Innovation, Impact, and Resilience
+Roelof Botha: As Natera expanded its oncology division, the company turned the economics of Panorama profitable. Panorama is now the most widely used prenatal test in America. This year the company is on track to generate about $1.5 billion in revenue, and that seven dollar share price has risen to well over $100.
+
+Matthew Rabinowitz: What’s next for Natera? Um, yeah, I mean, I think that, uh, there’s another order of magnitude growth, uh, for Natera. There’s, there’s so much coming down the pike. So we’re about, you know, 55 to 60 percent of women’s health genetic testing in the United States. We are the leader in MRD oncology testing. We’ve transformed the way you manage cancer care. 
+
+Um, we can catch the recurrence of cancers like, um, breast, colon, lung, bladder cancer, a year roughly before you see clinical symptoms, um, which is transformative.
+
+We can continue to transform healthcare where we have these huge pools of data, and we can now curate these pools of data with large language models. Natera, and other projects where I’m involved, are going to be using these curation of clinical data to build models for patients. And you can model, with all of this AI technology now, people’s susceptibility to disease.
+
+Chitra Kotwaliwale: We’ve built many different markets, right? So in the women’s health market, you know, the non-invasive prenatal test, we are market leaders. Uh, oncology, we built that market and we are market leaders. Both are huge opportunities, not only for us, but for everybody else as well, right? So there are a lot of new players, both in women’s health as well as in, in oncology. 
+
+So what’s next for Natera is that we can’t slow down on our innovation. You know, the innovative and agile spirit that we had, you know, five or 10 years ago cannot go away—we have to maintain that in order to maintain our market leadership. So we’re not going to become a company that, you know, we’re successful, and then sort of plateaued because, you know, we stopped innovating.
+
+So what’s next for us is, you know, a lot of innovation. That’s what we can do, that’s what we work on every day. 
+
+Roelof Botha: The wonderful thing about Natera is the mission-orientation of the company. If you remember, the original investment memo I wrote was, you know, to help people have healthy babies. And if you go visit the Natera office, and you walk around the office, there are these walls where, um, we pin up the photographs of families that have sent in pictures of their children, and it’s moving. It’s, uh, it’s really moving to work with a company that has that kind of impact on people. 
+
+Jonathan Sheena: To people thinking about embarking, taking these kinds of risks, I would advise them not to be afraid of hard. Hard is, uh, is what creates value and creates a barrier to others. If you prove to yourself that the value is there, that people are willing to pay for it, um, then yeah, just because it’s hard doesn’t mean you shouldn’t go after it. 
+
+Matthew Rabinowitz: It’s like, uh, this quote from my mom where she would always say, “Bless the obstacle. Will is faith.” If you’ve got a better technological approach and you trust the science, uh, that sort of gives you the faith that you really can bless the obstacle and have that resilience and patience.
+
+And that was not so much a trick, as just a state of mind. Um, you put your faith in the science and you just plug away persistently, and patiently and bless the obstacle. Because if you’re persistent, and the science doesn’t lie, it’s very likely that you are going to find your path through. 

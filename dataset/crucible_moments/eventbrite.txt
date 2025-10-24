@@ -1,0 +1,228 @@
+Julia Hartz: One morning in March I woke up to a early morning text from our CFO, Lanny. And the text said something like, “It’s here.” There was just this little line headed in the wrong direction. This is the revenue line. And from that day—from that first text—it was a complete and utter free fall.
+
+Roelof Botha: Welcome to Crucible Moments, a podcast about the critical tests and inflection points that shaped some of the world’s most remarkable companies. I’m your host and the managing partner of Sequoia Capital, Roelof Botha. 
+
+Your life—or your company—will be disproportionately shaped by a few crucible moments. At Sequoia, we use this as a framework with our founders for navigating decisions: How to identify when you’re facing a crucible moment, and what principles should guide you along the way. 
+
+Today’s episode is about Eventbrite, an event management and ticketing marketplace founded by Julia Hartz, Kevin Hartz and Renaud Visage. 
+
+When Eventbrite first pitched Sequoia in 2008, we said “no” to the opportunity to invest. A year later, we said yes and I joined the board. 
+
+Today we will look at how Eventbrite took a gamble on expanding its user base via an acquisition, overhauled its pricing model to become profitable, and survived a global pandemic that shut down live events. You’ll hear about a takeover by hackers, a phoenix-rising-from-the-ashes rebirth, and the power of human connection that served as the company’s north star through it all.
+
+Julia Hartz: My name is Julia Hartz and I am the co-founder and CEO of Eventbrite. 
+
+Kevin Hartz: My name is Kevin Hartz and I’m the co-founder and Chairman of Eventbrite.
+
+Finding product-market fit
+Julia Hartz: Before Eventbrite took off in 2006, the options for someone who wanted to ticket any kind of event were very minimal. They were mostly offline methods, like collecting cash out the door, you know, using a PayPal button and tracking attendees on a spreadsheet. And Eventbrite was the perfect solution.
+
+Our mission was really underpinned by the innate need to connect in real life as part of the human experience.
+
+So we went out at the end of 2008. We had, you know, gone from zero to one. We had found product-market fit and we were bushy-tailed and bright-eyed and heading down to Sand Hill Road. And we pitched 27 VCs and we received 27 Nos. 
+
+Roelof Botha: When we first met Eventbrite, we felt there was a strong story, but not yet a great product. One of the challenges of building a startup is finding product-market fit and easy, scalable distribution. And when Eventbrite first pitched to Sequoia, it wasn’t clear to us that they had, in fact, found them. 
+
+Julia Hartz: Eventbrite was ticketing small events and many, many of them. But how quickly could we scale that? And so that’s the answer that we proved out in 2009. 
+
+In the recession, during an incredibly bleak year, and prior to us raising any capital, we saw one of the most explosive growth years of the company’s history. Because as people were laid off, they started to look at ways in which they could make money. And the opportunity to use Eventbrite as a platform to teach classes to other people about what you know, or to hold workshops, or to even learn a new skill, started to become a massive trend and propelled the company forward. 
+
+And at the end of that year, 2009, that’s when we turned the No from Sequoia into a Yes. 
+
+Roelof Botha: Initially, Kevin served as Eventbrite CEO and Julia was President. 
+
+Julia Hartz: In 2016, 10-years after founding the company, Kevin and I and the board started talking about, you know, what was next for the leadership of the company.
+
+Roelof Botha: We wanted to give Julia an opportunity to rise to the challenge. She was clearly a huge influence in the culture of the company and in holding things together. And we thought it’d be a wonderful opportunity for her to step into that leadership role.
+
+Waking up in “Tron”: the pressure to become profitable
+Julia Hartz: I became CEO April 21st, 2016. By the end of day one, I had realized that Kevin and I are incredibly different people, he had made it look so easy. And I felt like I had been living in Candy Land and woke up in Tron.
+
+Roelof Botha: That’s because she became CEO at a moment when Eventbrite was facing challenges. The company was post-product market fit, but not profitable. They were creating value for customers, but honestly not capturing enough of that as value for the business. 
+
+Companies often encounter this tricky dilemma: How much do you continue to invest in building more products, expanding your footprint in the quest to build a bigger business long term? Or how much should you focus on near-term profitability? 
+
+Up to this point, Eventbrite had focused primarily on growth. Julia stepped into the role of CEO and immediately was tested by a crucible moment. How do you transition Eventbrite to a path of sustainable profitability? 
+
+Julia Hartz: When I became CEO in 2016, Eventbrite’s revenue model was a per ticket transaction fee that was charged just for paid tickets. Free events, or free tickets, were free. Because we’d been so focused on democratization and enablement, we were almost a victim of our own success, which was we had the widest range of customer segments you could imagine. And the issue was that our one size fits all product and pricing was really, sort of, getting lost in the noise.
+
+Roelof Botha: So the beauty of the self-serve model is you have a broad audience you can serve. The downside of that is there are many different segments that end up using Eventbrite, and they all have different needs and they all have different willingness to pay, based on their alternatives. 
+
+Julia Hartz: And so Eventbrite was in peril of becoming a commodity or some sort of utility. It was time for us to become profitable.
+
+Analyzing the options: how to think about pricing models
+Roelof Botha: The decision at the heart of this crucible moment was how should Eventbrite change its pricing model to capture more value? 
+
+Julia Hartz: One of the risks that I think we had in changing the pricing model was tanking the business. You know, at the time there were enough bad examples of companies that had changed pricing and then had to roll it back.
+
+Roelof Botha: Whenever a company faces this challenge of changing its pricing, there’s a tremendous fear of what the price elasticity is and what are the substitutes that your customers have? It’s a real challenge and it truly is a crucible moment where you wonder whether what you have is good enough and will customers value it, will they pay a little bit more?
+
+And so it’s generally a stressful moment for a company to go through these pricing changes. And the company was very thoughtful as they went about this. We ran a lot of experiments. We did very careful analysis. We tried to understand the different segments, how we might price them differently, what the true price sensitivity was. And how people might react, and almost by definition, you’re gonna lose a little bit of business whenever you’re increasing your pricing. 
+
+And then the question is: Is it worth it? Do you lose 10% of your business but increase pricing by 30% and you’re better off as a company? And so these are the sort of things that people really wrestle with as they try to finalize the pricing change.
+
+Julia Hartz: We looked at a few different models. We looked at just a price hike on the ticketing fee. We looked at a collection of add-ons that you could sign up for if you wanted premium features. We looked at subscription models. 
+
+I spent a lot of time in one conference room that we had painted mustard yellow, and spent a ton of time staring at the screen with the three packages, and so many different incarnations of those packages. So when I visualize that moment, it’s really, it’s about that room. So much happened in that room, by the way. But it was about that, you know, really looking at where are our customers going to find the easiest, clearest path to engage with Eventbrite and find what they need, and would this actually function the way that we wanted it to, which would be a higher conversion of customers because it was very clear what you were getting. And opening up this conversation around what Eventbrite actually was beyond just a ticketing tool. So it was so much more than a pricing change. It was really an unveiling of the Eventbrite platform. 
+
+And I learned that for pricing, in particular, something that is highly sensitive and has risk attached, there needs to be one person in the room who’s yelling, “Go!” And that had to be me. I truly think that pricing in particular, given the risks that are associated, must be led by the CEO and the CEO alone. Because by the way, when something goes bad, it’s the CEO who’s apologizing and taking responsibility for it. Changing something that’s fundamental, like the way in which you interact with the cost of doing business is something that I think is, you know, again, only a CEO can really lead that change, and so you just need someone to say, “Let’s do it. Let’s go for it.”
+
+Roelof Botha: In October of 2017, Julia and the team landed on a three-tiered pricing model: An Essential Package that offered access to the base features of Eventbrite, a Professional Package that included more sophisticated promotional tools, and a Premium Package that was reserved for customers who had signed a contract.
+
+Julia Hartz: It took all hands on deck. As a transactional platform there’s not one part of Eventbrite that doesn’t touch the pricing service. 
+
+So first we had to rebuild that service and really modernize it. And then we needed to have every single development squad work within the construct of this project. It required a small tiger team internally whose sole job it was to make sure that this project didn’t get cannibalized by the thousand other things that we felt were urgent. 
+
+But we really understood that this would be the beginning of a new era for Eventbrite where we could differentiate to different customer segments. The value of what we’d built—we’d been building features for 10 years—this was something that was way overdue. 
+
+The growth that we saw in the company after shifting to the three-tier packaging model was very positive. Revenue per customer went up and total creator count increased in its momentum. We saw the majority of our customers decide to, you know, adopt the Professional Package. But we also saw some great growth in the Essentials Package, which had actually lowered the core ticketing fee and was a great way for people to kick the tires and try Eventbrite for, you know, their first event, and then unlock greater value over time.
+
+Why founders should be willing to change pricing “early and often”
+The biggest lesson I learned from changing the pricing model is to be willing to make these types of tectonic shifts early and often. We had waited too long to do this, and in the end it was the right thing for the business. It opened up all sorts of opportunities that we now have as a platform. And I think being afraid to break the model in some way held us back and probably delayed us by a couple of years. So there was just a lot of growing up that happened in that moment, and I wish we would’ve done it a couple years earlier.
+
+Expanding in a new vertical with a bold acquisition
+Roelof Botha: Prior to 2018, Eventbrite was used by all varieties of creators to host a myriad of different types of events: Literary, political, religious, professional, wellness, you name it. Eventbrite encountered another crucible moment as it looked to expand its services to cater in a more meaningful way to a specific genre of event, a genre that was gaining popularity on its platform.
+
+Julia Hartz: We had noticed we were starting to be used by more indie promoters, artists, music venues. Because Eventbrite is Switzerland; we are the front door and the operating system for a live experience. We are not trying to take a huge cut of your profit. We’re not producing the show. We don’t co-own the venue. And that really gave the independent music industry something to be able to rely on in building their independence. And so we realized that there was a purpose behind the growth in music that went beyond just a vertical, and we leaned in. 
+
+Roelof Botha: One of the beauties of music as a category is it has a very high frequency use. So when you think about Eventbrite as being a platform that serves both the creators and the attendees, there’s only so many conferences you might attend in a given year or workshops that you go to. But, especially for young people, the willingness to go to many music events gave us an unfair advantage at building a very large consumer audience. And so all else being equal, that actually made music a very interesting category. 
+
+We were seeing bottoms-up adoption with smaller venues using Eventbrite and as is inevitably the case, disruptive software companies often come from below. They initially offer a simpler product than incumbents, and they serve smaller and mid-size customers.
+
+And so slowly our business was inching up into larger and larger events, including larger music events. And we wondered whether we could be a much bigger player in the music space. And that led to this idea that maybe we should acquire Ticketfly. 
+
+Julia Hartz: We had always been, sort of, friendly competitors. You know, Kevin and I and the founders of Ticketfly—Dan Teree and Andrew Dreskin—had known each other for years. And it was great, friendly competition. And Pandora, which had acquired Ticketfly about 18-months prior, was starting to think about divesting in ticketing. 
+
+Roelof Botha: Should Eventbrite acquire Ticketfly to compete in the live music space? This was the crucible decision and it was hotly debated. 
+
+Julia Hartz: There were a lot of concerns in considering acquiring a company like Ticketfly. First and foremost, they are sales driven, so that would be a huge change for us to bring on that kind of capability at such scale. 
+
+Roelof Botha: The many software businesses today, they talk about product-led growth, and Eventbrite was really a classic example of that. The company had this organic growth. If you look at the company’s history, it spent very little money on sales and marketing because the product sold itself.
+
+There was this ability for users to promote Eventbrite to other users, and that’s how they kept on growing. It was this fabulous word-of-mouth effect. And Ticketfly was a sales-led organization—sales-driven organization—with very different customers, you know, at a different scale from the ones we’d served historically.
+
+And so you’re mixing this bottoms up product-led-growth motion business with a sales-led motion business. And would those two mesh? Would you get synergy from those? Or are those oil and water and they’re just gonna not mix at all. 
+
+Julia Hartz: It was a company that while subscale to Eventbrite in revenue was really successful and had a very loyal customer base. And so we would have to capture the credibility and hearts and minds of those customers. 
+
+Was there anyone who said, don’t acquire Ticketfly? I think I was probably the biggest objector to acquiring the company because of the risk that it would really impose and introduce. And at the time we were pre, pre-IPO. So we knew that once we had generated a certain scale, we would seek out an IPO. And so that was on my mind. And thinking about taking on a big acquisition seemed like it was a lot for one company to handle. 
+
+What changed my mind and made me decide to go for it was seeing the traction we were having in the market and knowing that we could leap forward about five squares in the game of market dominance. And really see that we could bring a better technology platform to bear for these customers and help them grow faster. 
+
+Roelof Botha: And with music, we had the sense that the needs were so specific. The ability to handle on-premise sales, you know, if somebody walks up to the venue and wants to buy a ticket on premise. They want to be able to sell food and bev. They wanna be able to sell merchandise at the concert. These were all capabilities that we would need if we were gonna serve the music industry. And by making an acquisition we could leapfrog and just get all that capability immediately and accelerate the business. We also felt a company like Ticketfly had very important relationships and existing contracts with sizable music venues, and that that would just enhance the scale of the business. So again, we had a certain fixed cost of operating the business, and so if we could add revenue, it would make our path to profitability that much faster. 
+
+We all voted in favor of the acquisition. I reluctantly said yes. I had many questions along the way because I was worried about the distraction and that it, it took us in a different strategic direction than we’d been in with our bottoms-up motion. But at the end of the day, I listened to the arguments and I was swayed by those arguments. And so, you know, it was my decision as much as it was anybody else’s decision. I think it was a mistake in retrospect for us to have made that acquisition.
+
+After the acquisition closes: the challenges of integrating a new team
+Julia Hartz: The challenges to integrate the two companies were vast. When you make an acquisition of that size and you’re looking at what it takes from a technical perspective, there’s the good, better, best scenario. And I think that if I had to do it all over again, I would’ve asked for the worst scenario. 
+
+We had decided that Eventbrite and Ticketfly would become one platform. As quickly as possible. And our dev team had collectively—together with TicketFly’s dev team—created a roadmap that was, I believe, about nine-months long to get the two databases integrated, the two platforms integrated, and then to be able to start moving customers over to Eventbrite. It took much longer.
+
+Roelof Botha: It was probably 6-12 months longer to integrate the platform than we had anticipated. And when that happens, you don’t benefit from the synergies that you modeled as part of the transaction. And so we didn’t fully benefit from that. We ended up with a higher churn of Ticketfly customers than we had anticipated.
+
+Julia Hartz: When, you know, there’s customer consternation in a highly competitive market, naturally you open up an opportunity for competitors to come in and poach those customers when they’re feeling uncertain about the future. And so on top of the challenge of, you know, customer migration and really forging this trust and credibility with customers, we also had to be mindful and very savvy about defending the business from competitors. 
+
+Roelof Botha: We had more management churn than we anticipated as well, so we didn’t retain as many of the key employees, and therefore didn’t retain the know-how and industry knowledge and connections that we were assuming we would get as part of the transaction. And then we ended up with this unfortunate breach. 
+
+Julia Hartz: In June of 2018, the Ticketfly platform was held hostage by a hacker. Meaning when you went to Ticketfly, any customer on the venue or the fan side, saw a picture that looked like the anonymous picture. The site had been taken over and it was just a complete moment of disruption.
+
+Kevin Hartz: There was an exposed vulnerability on Ticketfly that, in the changeover, was even more glaring and the business was hacked which sent, you know, the company into kind of a crisis mode for weeks. As we fought to help customers and, and get things back. 
+
+Julia Hartz: It was like, you know, everything that could go wrong went wrong. I mean, really understanding quickly the situation, getting outside help from those who deal in the dark web, and being able to ensure that customers’ data were not impacted or breached. And then gaining back control of the site. It was a no sleep moment for any of us.
+
+How to think about acquiring another company
+Roelof Botha: As an executive, when you walk into an acquisition scenario, I think you should assume it’s more likely to not work than to work. And you need to increase the burden of proof on why an acquisition is worth doing, especially as it starts to become a meaningful percentage of your own business.
+
+Julia Hartz: I learned a lot of lessons from the acquisition of Ticketfly. I think if I could do it all over again, I would probably have elongated that timeline and not forced it to have happened so quickly. And the second thing is actually that two different cultures can find common ground and come together. It’s not easy, and certainly there were a lot of moments of stress, but today some of the most incredible contributors at Eventbrite came from that acquisition. And I think that there’s something really lovely about that. The history and the depth of experience, the resilience. It wasn’t an easy time. It was really, really challenging. And I’m appreciative of those who’ve stuck with Eventbrite. 
+
+Roelof Botha: A year after acquiring Ticketfly and working through the challenges of integrating the businesses––and fending off hackers––Eventbrite went public on September 20th, 2018. 
+
+Julia Hartz: When we went public I was a mix of emotions. It was, like, by the time we got to the day I was so excited to be there and be intact. And then when I rang the bell at the New York Stock Exchange, I felt elated. I felt sentimental. We had our first 10 employees join us. Some of our earliest customers joined us. Our family, our friends. 
+
+And I’ll never forget the president of the New York Stock Exchange, Stacey, at the time said, “We looked through the archives and we haven’t seen this many women on the podium of an opening bell in any of the pictures that we can find.” And that was a bittersweet moment for me because that was just our team. And that’s exciting, but it’s also sad. And so it was wonderful to be with everybody and to have that moment and really feel the love. Roelof was there, of course. And, it was great. It was really wonderful. And it was very gratifying.
+
+Roelof Botha: The first year of being a public company was a challenge for Eventbrite. The digestion of the Ticketfly acquisition was difficult. And then we disappointed Wall Street in our first quarter. It’s one thing if you’ve had 10 quarters of performance track record with public investors and then you have a slip up. People might forgive you. But if you make a footfall early on in your life as a public company, public investors are gonna take a long time before they let you out of purgatory for an early slip up.
+
+“We started 2020 brimming with hope”
+So 2019 was a difficult year for the company, but we started 2020 brimming with hope. 
+
+Julia Hartz: In the latter part of 2019 we did a number of things operationally to make it very clear where we were investing in the company and to start to gain simplicity on where we were going to be investing in the company in 2020. 
+
+We had completed a research project looking at the biggest customer-value segments on the platform. We had been so focused on this certain music customer that we had really lost perspective as to who was driving the greatest value on the platform. 
+
+This research project revealed this horizontal segment of the frequent creator—a power user, if you will. And what we realized is that this user was using Eventbrite, even though the Eventbrite platform was a pretty crummy experience for somebody who was hosting frequent events. So we saw a high-value segment with a great opportunity to improve the product experience and the platform to meet their needs. We simplified our objectives for the year. We reduced some of the cost in the business, and we entered 2020 with a glint of optimism. 
+
+January was a banner month, February, another strong revenue month, and we were like, “Oh my God, we’re gonna beat our estimates on Wall Street. This is so exciting!” We knew it’d be a long climb out of the penalty box. But we were excited to be on the right track. 
+
+The lockdowns begin
+And then one morning in March, I woke up to an early morning text from our CFO, Lanny. And the text said something like, “It’s here.” I opened my laptop and there was just this little line headed in the wrong direction from the previous day. And that line went straight down over the next 14-days to negative territory. This is the revenue line. And from that day, from that first text, it was a complete and utter free fall. 
+
+Roelof Botha: Sequoia Capital published a memo in March called Coronavirus is the Black Swan of 2020. We had a view of what was around the corner with Covid and that it was likely much more dramatic, much more impactful than people realized. It turned out to be a crucible moment for many, including Eventbrite. Within two weeks, the company had lost 90% of its revenue. 
+
+Kevin Hartz: We honestly didn’t know if the company would survive this. It was so surreal and of such massive global impact to have a global pandemic just shutting down what is core to a business that you’ve worked for years and years and years, you know, and blood, sweat, and tears together on building.
+
+Roelof Botha: I’ll be honest, I thought that a decade’s worth of work was going up in smoke. This Black Swan had arrived and we didn’t know what was gonna happen next. 
+
+Kevin Hartz: But we were gonna fight to the death. 
+
+Julia Hartz: Sean Moriarty, who’s been a longtime board member—close to 15 years—and is our lead director today, said to me, “You ready to be a wartime leader?” 
+
+And I went home that day and I walked into our house and the home office had been converted by Kevin into a war room. And he had gotten all these gaming monitors and set them up on arms to create almost a full 360 screen. And in the middle of that were two chairs. It was the most romantic and thoughtful thing I could ever have imagined. I tear up just thinking about it. It was so symbolic to me of, you know, him saying nothing else matters. We’re co-founders. We’re gonna work together to get through this. 
+
+The first thing that I did was, I’m very operational and I thrive in chaos, but only if I’m organized, if that makes sense. So I made five lanes on the whiteboard: The first were Britelings. We needed to figure out how we were going to help our Britelings adjust to what was to come. The second were our creators, how we were gonna help and be a part of the hard message that their businesses were about to get decimated and what we were going to do to show up. The third was consumers on the other side of the marketplace. How were we gonna help them get refunds quickly, and what was our role in that as a platform? The fourth was investors. How were we going to message investors and really help ensure that not only were they in the know about what was happening with Eventbrite, but we also needed to raise money, quickly, in order to stay, you know, in our minds solvent through what was going to be a devastating chapter for the company. And the fifth was really around this extra special thing that we had going on, which was called advanced payouts. Half of the revenue that we had generated in that period of time had already been advanced to creators who were hosting events that weren’t going to happen. And so the quantum of that was double our balance sheet. So it was like an asteroid that was coming toward our planet, and we weren’t sure if we were going to be able to withstand the impact. Even if you have spent 14-years building something, it could truly be gone in 14-days.
+
+Finding opportunity in a crisis
+March 23rd, when I gathered our executive team on Zoom, and I asked them one question, which was: Given what we know about the business, what would we do if we could do it all over again? And I’m pretty sure everybody thought I had lost my marbles. There hadn’t been a lot of sleep. We’d been working 18 hour days, 7 days a week. It was really intense. I mean, the work was intense. Lot of hard conversations. 
+
+But what had ended up happening from asking that question is the team started to think about, well, what are all the things that we’ve known about this business over the last 18 months that we would do? We would focus on the frequent creator. We’d build a better product experience for them. We’d stabilize a platform for somebody who was using Eventbrite for frequent events. We would focus more on the core principle of self-service than human software. We’d strengthen the Eventbrite product experience for those who wanted to use Eventbrite without having to call us. You know? 
+
+And so we started writing it down and what that did was it took a conversation that would’ve been about scarcity, about where are we gonna cut to survive and it flipped it to abundance. What are the possibilities? What do we see? What would we do? And at the end of the conversation, I said to the team, “We’re gonna do it all over again.”
+
+So by late March of 2020, just a few weeks after the first day of Covid, you know, coming to try to kill our company, we had a plan. We had a strategy. We had figured out who we needed for that company. We had committed to taking a hundred million dollars out of the operating budget. And we were ready to make the really tough change that we needed to make.
+
+On April 8th of 2020, we announced our layoff. 
+
+Roelof Botha: As difficult as the layoff was, it allowed us to realign our cost structure and stretch whatever cash we had as far as possible. So the next thing we needed to do, especially because of the risk of chargebacks and liability around payments, was to ensure that our balance sheet was stronger.
+
+Now, the challenge at this point is our share prices dropped dramatically. The stock market was going through massive gyrations and public investors understandably had many questions about the future of our business. It would have been incredibly expensive and dilutive for us to raise equity capital in the midst of this crisis, and so we looked for alternatives to get debt financing.
+
+There’s a firm with whom we at Sequoia have had a long-term relationship called Francisco Partners. It’s a buy-out firm in San Francisco. The Francisco team trusted us and they helped bridge us at a time when we were in acute need. 
+
+Kevin Hartz: Julia and I and the rest of the team really breathed the sigh of relief when that money had been secured for the financing. But it was really then back to building the business, refocusing on product, yet getting back down to things. 
+
+Julia Hartz: So one of the tools that we knew we needed to build quickly was actually the ability to reverse our entire revenue generation machine. And we needed to help creators be able to issue refunds quickly and at scale.
+
+And so we built the mechanism to be able to bulk refund events and customers. And in addition to that, as we understood what was happening between the creator and the consumer and the relationship that they had and service of the community that they had built together, we realized that not all consumers wanted a refund.
+
+Consumers didn’t really feel right about asking for money back from creators when their doors were closed, and they’re a local small business that they care about. So we built the ability to offer a credit to future events, in addition to refunds. It was not in lieu of. You had a choice as a consumer, and that went a long way. I think that really helped stabilize trust and credibility, especially between the creator and the consumer, which was our number one goal in the very early days. 
+
+I would say by, like, May to June, we started to see the creator community really wake up to the fact that humans need to connect. And we all know this innately because we’re having the human experience together. But I think the energy around connecting in any way possible was an opportunity for event creators who had previously only hosted people in real life. And so what started to happen, creators started to take the same content that they had used for a live in-person event and started playing around with what that would mean virtually.
+
+And our product teams had thrown away the roadmap and were working primarily on how we can make creators’ lives easier through this moment in time, and building tools for them to survive this crisis. And so, seeing them start to host events online like a Daybreaker, who hosts early morning dance parties in non-traditional places, they started doing a Saturday version for everybody plus their kids. Which grew from what typically would’ve been 1,000 people in person to 110,000 people globally in tens of countries. It was just, it was incredible to see. 
+
+I remember in May and June, one of the things that I was really focused on was making sure that event creators were considered in the Small Business Act. And I did multiple laps around my living room, kind of wearing a path, talking to whoever I could talk to to really elevate the profile of the creator as a small business. We wanted to make sure that there was a handsome carve out for live event producers because they are the fabric of small business globally and in our country, particularly. 
+
+So I was really focused on making sure that there was a consideration specifically for the live events industry because they were the first to close and would be the last to open. And it was a very successful lobbying effort, and we were very proud to have a very small part, but a very persistent role in ensuring that there was a specific carve out for live events in that initial small business act. And then in some of the follow-up moves that the government did to support small businesses.
+
+What to learn from Eventbrite’s resiliency
+Roelof Botha: One of the things that people underestimate is the resiliency of the human spirit. Humans are wonderfully adaptable. And when you couple that with a moral compass like the one that Eventbrite has, and an obsession with serving customers, it’s a great recipe for you to be able to overcome these types of challenges. The company was always customer obsessed, and so part of that means that they’d built up an enormous amount of goodwill with their customers as well, and they truly had built a community. It wasn’t just a financial transaction between them and the customers. And the customers, in some sense, depended on Eventbrite as well.
+
+Many of them, their livelihood depends on Eventbrite and so that just creates a wonderful comradery and spirit of cooperation that enabled them to continue to serve their customers, listen to their needs, have the customers give us wonderful feedback to be able to adapt. And both just had such a wonderful spirit of endurance and that helped us see through a true crucible moment and crisis for the company. 
+
+Julia Hartz: I would say that this is one of those pretty unique moments where I’m not replaying it and thinking I would’ve done things differently because of where we are today. 
+
+I think that for me personally it meant a huge shift in my confidence. I never thought of myself as a wartime leader. A lot of my maternal and feminine instinct kicked in, and I wouldn’t have thought that would’ve been the case as in wartime. I mean, I had a lot of testosterone flowing too, but it was really the instinct that I would apply if anything were happening with my children. And that really helped me. And it made me gain more confidence in being a woman leader. And, you know, being one of the few female founder public company CEOs.
+
+Roelof Botha: It would’ve been very easy to give up. And Julia and Kevin and their team refused to give up. And they kept fighting. And they kept thinking and they kept coming up with new ideas to navigate through this crisis, to figure out how to get Eventbrite through it, and also to help their customers survive through this experience. So that’s one of the key takeaways. 
+
+The other one for me is how a crucible moment like this can often help you in a Phoenix moment experience a rebirth. You accumulate barnacles as a business. You accumulate little decisions. You decide to do this, you add this product feature. You start serving this customer. You open up this office, you hire this team. And you accumulate these things. And there’s not always a forcing function for you to revisit those assumptions because you don’t necessarily need to. And then you face a crisis moment like this and it strips you down all the way and you’re bare. And then you have to figure out how to rebuild. Like the Phoenix rises from the ashes, Eventbrite was able to really focus on its essence on the core strategy and the core customer it wants to serve. 
+
+And so one of the things I’ve been wondering about is to what extent can one mimic that experience? You don’t have to actually experience such a calamity for you to benefit from the clarity that it can bring in focusing on what’s most important for your business.
+
+Julia Hartz: I would say trust your fear instinct. Stare it right in the face and know that you have to get through it. You can’t go around it. You can’t go over it. You can’t go under it. Like any really challenging time in life, you know, whether you’re ending a relationship or a job or, you know, there’s no easy way. So the fear that you feel in your gut is actually a really helpful signal. That you’re gonna have to get pretty tough and go straight through it. Try to seek out the signal of what matters most. 
+
+We knew that we wanted to be around for event creators to be able to rebuild the entire live events economy, and so that’s what we focused on. Had I tried to sidestep some of the more painful moments of this journey, we probably wouldn’t be here today. 
+
+In my opinion about what the future of events will be, is really rooted in the innate human desire to connect. I think we’ve lived something that is quite phenomenal that underpins the importance of our mission of bringing the world together through live experiences. But also opens up the world of possibilities. While people connecting in real life is, I think, irreplaceable, I think the option to find people virtually, whether it be the metaverse or through online events, is going to be an exceptional growth path, particularly for people who are experienced creators. 
+
+And I think that understanding of the ephemeral nature of what we build, it changes you in a way that you appreciate the value of a business. You appreciate the value of a company so much more.

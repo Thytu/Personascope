@@ -1,0 +1,926 @@
+0 (0s):
+Welcome to the Huberman Lab podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Christophe Koch. Dr. Christophe Koch is a neuroscientist and investigator at the Allen Institute for Brain Science and a chief scientist at the Tiny Blue Dot Foundation. He's considered one of the great pioneers and luminaries of modern neuroscience. Christophe's research has spanned how we perceive the world around us, how different states of mind arise and shape our experience of life, and most notably, Consciousness.
+
+0 (40s):
+I joined the field of neuroscience way back in the 1990s, and even way back then, Christophe's name and his work was considered seminal for our understanding of brain and human experience. And over the subsequent 30 years, he has continued to do incredible groundbreaking work. Today we discuss Consciousness, what it is, literally at the level of quantifiable brain mechanisms, and how understanding Consciousness at that level can help you experience life more richly and allow you to place deeper meaning on everything from a typical morning to grief and loss to your greatest and most Awe inspiring moments. Christophe also explains how our individual experiences and memories place us each into a unique, what he calls Perception Box, which is what shapes your outlook on life, and in many cases, your quality of life, including your mental and physical health.
+
+0 (1m 26s):
+And he explains how you can change your Perception Box through what we call neuroplasticity, which is the modification of brain circuits. We also discuss what Flow States psychedelics, such as DMT and other psychedelics, Meditation, sleep, and dreaming, tell you about how your mind works and the nature of Consciousness. And we don't just discuss Consciousness at the level of individuals, we discuss the collective consciousness of humankind. So if you're somebody that's interested in the brain and mind, what it means to be human, how to evolve and improve your mind, today's discussion will address all of that. Oh, and we also discuss dogs, cats, Jennifer Aniston and the Meaning of Life. So get ready. This is a very special episode of the Huberman Lab podcast that I'm certain by time it finishes we'll have you thinking differently about your life.
+
+0 (2m 10s):
+And dare I say, with a bit more optimism. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public in keeping with that theme. Today's episode does include Sponsors. And now for my discussion with Dr. Christophe Koch, Dr. Christophe Koch, welcome.
+
+2 (2m 35s):
+Thank you for having me, Andrew. It's been a pleasure. It's been a more than a decade, 12 years since we last interacted.
+
+0 (2m 42s):
+Yeah. I've always enjoyed our interactions and one of the reasons is that you're always into something super interesting, big, big questions and evolving fast all the time, all at once. So I think most people have heard the word Consciousness. They perhaps have pondered Consciousness, but at least to my mind, it's not a very well-defined word. So when you talk about wanting to understand Consciousness or about a being, having Consciousness, or being in a moment of Consciousness versus say, a rock, which I'm presuming doesn't have Consciousness, what are we talking about?
+
+0 (3m 24s):
+And here we could be using biological language, psychological language, or philosophical language. Please include all of it much
+
+2 (3m 32s):
+Simpler. Do you hear me? Hmm? Do you hear me? Yes. Do you see me? Yes. The fact that you hear, not that you respond to my sound by moving your hand, the fact that you see not, not the, the fact that you can navigate around this room, but you actually have a picture in your head. The fact that you love the fact that you hate, the fact that you dream, that you imagine that you dread, those are all conscious experience. It's the stuff of life. Literally, if I give you a billion dollars, okay, that even for you is probably a meaningful amount of money, but it certainly is. Yeah. Okay. But there's a slight, you know, that there is this thing that I'm gonna remove all your conscious experiences. So you would still love and hate and drive cars and do everything else you do right now, but there would be no light there.
+
+2 (4m 17s):
+Would you? There wouldn't be any, Andrew, would you take that? No. That wager, well, the difference is between the, the, those two states is Consciousness. So without a dual maxist for yourself, In fact, tonight you're gonna go to bed, in particular, in the early nights, early stages of the night, you go into non-REM delta wave sleep, right? And you do not exist for yourself. If I wake you up, I said, Andrew, Andrew, something's happening. And I ask you, well, where did you come from? You say, I came from nowhere, which is different of course, later stage in the night, right? When, when you have rain, which is another conscious experience. So, but when you sleep, you do not exist for yourself. When you're on a anesthesia, you do not exist for yourself.
+
+2 (4m 57s):
+So you only exist for yourself because you are a conscious being. So it's in, in some sense, it's very simple to define
+
+0 (5m 5s):
+Historically, has it been defined as a simple just presence of self and perception of the outside world? The way you're describing it, I feel like Consciousness has been twisted and turned and, you know, weaved into balloon animal form over so many hundreds of years that people tend to argue about Consciousness, and then they start getting into discussions about free will versus no free will. But why, given the simplicity and the clarity of your explanation, have people struggled with this definition of Consciousness so much?
+
+2 (5m 37s):
+The study of Consciousness is really I modern phenomenon. It's really Rene de cards. So I, I, you know, Aristotle and Plato much is the foundational fathers philosophy that didn't really have opposition on the mind or on Consciousness. That's a, that's a modern thing. Where we have struggled is trying to put it in objective form so you don't access my Consciousness and I don't access your Consciousness. And this makes it different from anything else that we study different from a black hole, from a virus, from a brain. 'cause all those, I can study with what philosopher called third person properties, right? You can stick 'em in a magnet, you can point the telescope at it. We can agree on, you know, what's the wavelength, what's the waste?
+
+2 (6m 18s):
+What's the mass, what's the molecular constituency? We can't do that with Consciousness. I believe you're conscious. In fact, I ask you, how are you feeling today? You tell me, well, I'm a little bit depressed because what happened? Well, so I'm trying to get at your state of Consciousness, but ultimately it's always an inference, whether it's you or whether it's a baby, or whether it's an animal that can't directly talk, because the language is another way to infer. So that makes it more difficult. And the other part is people confound Consciousness with Consciousness of self. So most people, if you're asking what's Consciousness, they say, oh, it's a no, that I'm a man and I will die one day and I know what I had for breakfast. Those are all conscious expense, but they really pertain to self-consciousness.
+
+2 (6m 59s):
+But that's just one aspect. You can lose self-consciousness. Like I know you had Alex Holier, and I know from reading and listening to some of what he says. He says, when you are, when you know really climbing at an, at an at an expert level, you flow over the rock, you're sort of high. You, you, you, you totally lose a sense of self that that inner voice, that critic, that constantly speak to you is gone during those moments. This is blessed silence. But you're highly conscious because you're highly conscious of, you know, where you are and what's the next, you know, the next place you need to go to. So, and of course, doing psychedelic experience, doing states of flow during states of Meditation, you can lose yourself, but you're still conscious.
+
+2 (7m 39s):
+So let's not conform self-conscious, which is one aspect, a big aspect, particularly in adult people. Literally highly educated people with Consciousness to core. That's really a much broader set of the fact that you can feel your limbs, right? That's, that may not even relate to you. You just feel something there without assigning it. Well, that's my body. That is, again, it's, it's, it's another conscious experience.
+
+0 (8m 2s):
+The Liminal States between sleep and awake in both directions, falling asleep and waking up. Do you think they offer any windows into this deeper understanding of Consciousness? Or does one even need a deeper understanding of Consciousness? For instance, I'm a big fan of Yoga Nidra, which is I've described as nons, sleep deep rest. You deliberately lie down, do long exhale breathing to slow your heart rate down, bring down your levels of autonomic activation, more parasympathetic, et cetera. And the idea is you stay awake while deeply relaxing your body. A very atypical waking state that is more similar to rapid eye movement sleep. When brain is very active, body is paralyzed, as you know, you use the
+
+2 (8m 41s):
+Dreaming.
+
+0 (8m 42s):
+It's a state of mind where the, the instruction in the classic Yoga Nidra scripts, and this goes back thousands of years, is to move your mind from thinking and doing to being and feeling you're supposed to be in pure sensation. This is the idea. And as one does that 10, 20, 30 minutes, and you do it repeatedly over, you know your life as many days as you do. I've been doing it since 2017. I can feel my,
+
+2 (9m 11s):
+You do this
+
+0 (9m 11s):
+Every day, every day for 30 minutes. Yeah, I can feel myself falling asleep, but not quite falling asleep. So it's a little bit like lucid dreaming. But then as you remind yourself to bring your perception to your body surface or your heartbeat, your breathing, whatever it is, and stop making plans, you lose past and future and you become hyper present. But something about the, your sensation and perception merges with thinking. And you, it's
+
+2 (9m 43s):
+Like you, but Andrew, is Andrew still there?
+
+0 (9m 45s):
+You're definitely yes. I'm definitely still there. I'm definitely still there. You're not mind.
+
+2 (9m 49s):
+But if you don't mind, Wanda, in the past or
+
+0 (9m 51s):
+No, no in the future, and it becomes very easy to do this. So you actually feel as if you're falling a little bit. It's about like the vestibular system probably shuts off a little bit as you're going into this. And you, you feel as if you're falling into it. And the, the classic definition, and I've tried to translate this to physiology, but they talk about once you eliminate thinking and doing, and you are more, more in a being feeling state, what they called the energy body is more accessible, which is kind of the, it's almost like you're feeling things within your body and it's looping back on itself. Now, this all sounds very mystical, but what we're really talking about is more interoception feeling. You know, you moving your perceptual awareness as you know, to things from your skin inward.
+
+0 (10m 36s):
+It's a very unusual state. But yes, I'm still there in Yoga Nidra. I'm not someplace else. I'm actually more in my body than state. Well,
+
+2 (10m 46s):
+You could, well you could also be simply not there at all. Mm. Where Andrew isn't there, the, the south, the, the one that, that carries your trait and your personality, your memories, but you're still conscious.
+
+0 (10m 59s):
+That's interesting. 'cause it is very relaxing to emerge from this. I, it's a great tool for replenishing physical and mental energy. And I've tracked sleep while in this and, and there's some really nice brain imaging studies now of people doing Yoga Nidra or non also called nons, sleep. Deep rest and pockets of the brain go into
+
+2 (11m 17s):
+Regional sleep.
+
+0 (11m 18s):
+Regional sleep as opposed to what we normally see during sleep. So it's an interesting state. I'll send you a script to maybe give it a try and see if, if it means anything to you,
+
+2 (11m 26s):
+Would be, yeah, I'm interested in all these different states of Consciousness because it's all, I mean, it's dominated by everyday waking Consciousness, but as you said, that's all about doing, right? You walk, you are, you shop, you look around, you talk to people. But there are all these other states that don't involve the, the, the William James Times dreams of Consciousness, but they are, they're all conscious experience. And so the more we know about them and the physiological basis, the better we can describe and delit what Consciousness is and what is it not. So for instance, to your point, it's Consciousness is not primary doing. Of course we can do things right. We do it all the time. That's how we make a living. But Consciousness is really more about being, it's a State of Being. And by the way, that's also why computers, they can do everything we can do, but they can't be what we are conscious.
+
+2 (12m 11s):
+But
+
+0 (12m 11s):
+That's, please, please elaborate on that.
+
+2 (12m 13s):
+We confound Consciousness and behavior because we talk, we, we are speaking apes, right? But if you take that away, you are still highly conscious. If you don't move, if you meditate or sleep or you have a, you have a Mystical Experience, you're sitting or psychedelic experience, you're sitting lying, you're not moving anybody. Hardly any overt movement yet you're highly conscious, right? So behavior is not required for Consciousness. And Consciousness of course is not required for behavior. There are all sorts of unconscious, unconscious behaviors. And so we shouldn't confound the two. And this relates in interesting way to the confounding of, between intelligence and Consciousness. When people talk about artificial Consciousness and artificial artificial intelligence.
+
+2 (12m 58s):
+Intelligence ultimately is about planning to do something about behavior in the short term or in the long term. While Consciousness is a State of Being, being happy, being sad, being full of dread or seeing something, which is, which is really different.
+
+BetterHelp (13m 15s):
+I'd like to take a quick break and thank one of our Sponsors. BetterHelp BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing weekly therapy for well over 30 years, and I found it to be a very important component to my overall health. There are essentially three things that great therapy provides. First of all, great therapy provides good rapport with somebody that you can really trust and discuss any issues with. Second of all, it can provide support in the form of emotional guidance or directed guidance toward specific actions you want to take in your life. And third, expert therapy can provide you with useful insights, insights that can allow you to make changes to improve your life, not just at the emotional level, but also your relationship life, your professional life, and on and on. With BetterHelp, they make it very easy to find an expert therapist that can help provide these benefits that come through expert therapy. And it's carried out entirely online. So it's extremely convenient. No driving to the therapist's office, no looking for parking, et cetera. If you'd like to try BetterHelp, you can go to BetterHelp dot com slash huberman to get 10% off your first month. Again, that's BetterHelp dot com slash huberman.
+
+Our Place (14m 19s):
+Today's episode is also brought to us by Our Place. Our Place makes my favorite pots, pans and other cookware. Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of non-stick pans, as well as utensils, appliances, and countless other kitchen products. As I've discussed before in this podcast, these pfas or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to try and avoid them. This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all completely PFAS and toxin free. I especially love their titanium always Pan pro. It's the first non-stick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its non-stick effect over time. It's also beautiful to look at, I cook eggs in my titanium, always pan pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it puts a really nice sear on the meat, but again, nothing sticks to it. So it's really easy to clean and it's even dishwasher safe. I love it. And I basically use it constantly. Our Place now has a full line of titanium pro cookware that uses its first of its kind titanium non-stick technology. So if you're looking for non-toxic, long-lasting pots and pans, go to from Our Place dot com slash huberman and use the code huberman at checkout with a hundred day risk-free, trial, free shipping, and free returns. You can experience this terrific cookware with zero risk.
+
+0 (15m 55s):
+I'm curious about the stability of self-representation. You know, I, as you know, there are many conditions related to brain lesions, strokes, injuries, et cetera, where people will lose their memories of the past or the inability to form new memories emerges. But one of the things that seems so rigid is one's notion of self. Like a baby coming into the world very quickly learns that they have a name, they have a self, that self interacts with other things. And I'm not aware of any clinical conditions where people
+
+2 (16m 33s):
+Derealization
+
+0 (16m 35s):
+Lose themselves completely for long periods of time. Derealization,
+
+2 (16m 38s):
+Well, Derealization is one where you feel so a, you're perfectly right. The self is the basic kernel of our operating system, okay? And we, we, it's very difficult for us to lose because if we lose it, we would not be from an evolutionary point of view in a good shape, right? But then there are conditions where you feel, so for instance, in Derealization of psych, of psychiatric condition, which can by the way happens during psychedelics, you feel not you anymore, and you feel there's something off with the world. This is not the real world. There's something funny, the world, they still see and hear fine, but they, they all believe that this is in the real world and they try to wake up.
+
+2 (17m 20s):
+In fact, you probably remember year and a half ago, there was a spectacular case of the Alaska Airline pilot who asked to go onto the jump seat on a flight from Everett in Washington to I think Oregon or, or, or San Francisco. I've
+
+0 (17m 35s):
+Flown that from Everett Tiny airport. Yes.
+
+2 (17m 37s):
+Yeah. And then he, they said, of course, he's a colleague. He was a pilot in good standing into the flight. He stood up and tried to pull the two switches that would kill the fuel to the two engines. The pilots fought him and kicked him out of the cabin, and he was arrested. And In fact, the trial was three days ago what happened that for the first time ever, he took psychedelics three days earlier to wake for his best friend. And then he went into this episode of Derealization where he thought, okay, this is not the real world. This is a dream. I need to wake up. And if in my dream, if I crash the plane, then I will finally wake up in the real world. Whoa. So yes, it is very robust, but of course, so I call it, we always live within the conf.
+
+2 (18m 21s):
+We always live in the gravitational field of planet ego. It is always about me. It is always about me, me, me. And even if I don't think explicitly, there's things that I'm, you know, there, there processes monitoring my Consciousness to make sure this, that it's always, it's important for me. And it's very rare, but of course, that the, the self can also be highly dysfunctional, right? You can catastrophize, you can be highly anxious, you can think people insult you or they, they say bad things about you while In fact they don't at all. And so there are rare conditions of Selflessness when just like an astronaut that can become weightless. You get, you can become selfless.
+
+2 (19m 1s):
+Interesting. So during episodes, when you are, when you are experiencing a state of flow, I used to have this when I, when I wrote computer code, when I was, you know, way younger, you can totally get absorbed by it, right? Or you read a book or you read an engaging movie, or you play some sports or something, or you are Alex Rollup and climb, right? And Ali, these states are so addictive because it's such, you, you, you've just realized you spent the last 20 minutes in this heavenly state doing something, but the, again, the critic is gone. And of course, during high, during sometimes hero dose of psychedelics, you can also totally lose the self, the sense of self. And you realize how profound beautiful the world is without you, you know, the self being there and constantly interfering and relating it to how, what does it mean for me?
+
+2 (19m 43s):
+What does it give me?
+
+0 (19m 46s):
+It's incredible. We're definitely going to talk about psychedelics, and I've experienced some of this Loss of Self in, in psychedelics before. I'm also interested in more subtle shifts in self that are nonetheless, still profound. Perhaps the most dramatic shift in self I've ever experienced. That was pervasive after the, the kind of incident was, I have a colleague at Stanford, Jeremy Bason, he's a real pioneer in the, in the VR space. Very early on he started using VR and there's an experience you can have in his laboratory if you go there, which is, you put on the VR goggles. He had a big room for VR with padded walls, so no one runs into the walls.
+
+0 (20m 27s):
+And, and it's called, I, I think Walk of a thousand Cuts. It's very interesting. So obviously I'm white, you're white. So I don't know what it is to experience racism. I've never actually experienced racism just by virtue. When I grew up where I grew up and I'm white and I'm living in the United States, I'm sure there would be those that will argue. There are white people who have experienced racism. I haven't, and I certainly hadn't at the time of this VR experience. So in this experience, you put on the VR glasses, and if you're white, you look into a mirror in the VR and you see your face slowly contort to somebody who's black, okay?
+
+0 (21m 8s):
+And it's still you, but you're black. And then you go into the world in the VR space and you go to a job interview and you walk down the street. And it's very interesting. Now, the stimuli are designed to evoke a certain response, but as you walk down the street, for instance, you notice that white people look at you with like, in a certain glance, and, and they actually control pupil size in the, in these other subjects very well, very carefully. And then you go to the job interview and there's this experience where at the end of the job interview, there's someone else there and they shake the hand of the other person who is also not white, but isn't black. And so there's a number of subtle experiences. And then you catch on to what's happening, right?
+
+0 (21m 49s):
+You go, okay, this is, these are these little micro, not so micro experiences that have a, an emotional load. You come out of that VR experience, it's very interesting. And then you go back into life, back on campus and go into it. You never forget it. It's so interesting. Like I'd never have, I forgotten the experience. So when you walk down the street, now, I notice when people don't glance my way, if they glance my way, how they glance. And so I can't say what it is to be black. I've only ever lived in this body. I can't say what it is to be anything except myself. But it in a very brief, maybe 10 minute VR experience, completely transformed my understanding of what it is to be a different self, which I think is pretty interesting.
+
+0 (22m 31s):
+I don't think I've ever had a movie experience or a play or hearing a song that had quite as profound a shift internally. So clearly there was plasticity there. I just would love your thoughts on what, on, on the self as a, as a modifiable entity. Not just losing self, but as a, like how much can we actually change who we are at the level of perception and Consciousness?
+
+2 (22m 52s):
+So I would call it the Transformative Experience. It, we all know changing behavior is very difficult, but there, you're telling me within 10 minutes, because of this 10 or 50 minute VR experience, you now are much more hyper aware of this. So that's a rare experience and I think it would be useful for all of us to have those. So I work with somebody here in Santa Monica, Elizabeth, RK, we're not related, although we shared the last name. And she has this really interesting idea of what she calls perception box, that we all run around with a notion, with our own view of reality. You'll see how this relates, including most importantly, my notion of self. And it's not objective, it's all subjective.
+
+2 (23m 34s):
+It's just like a be thing. You know, the, the modern language would be be Paris, I various be Paris. How I expect myself to be and how I expect other people to, to respond to me.
+
+0 (23m 44s):
+Do you wanna explain Bei for people? Just briefly?
+
+2 (23m 47s):
+Okay. So Besian is a view of, of uncertainty in the world that there was sort of, there's this famous vicar, British vicar, Thomas Thomas base in the 17th century that's that started this, this called Bei. Whereby I look at something and I try to infer, well, what's the underlying reason for it? And I update my, based on certain observations that I make, I continuously have this running estimate. What I think is really going on. And also this also includes my assu, my base assumption about the world, including political assumption, including assumption. How will people react or what's the true motive of people? So the point that she's trying to make was this perception box.
+
+2 (24m 27s):
+It includes everything. So a benign, funny example is, do you remember, what was it called? Hashtag the dress.
+
+0 (24m 34s):
+Oh yeah.
+
+2 (24m 35s):
+Okay, so remember, so this was the, the dress that went viral in 2015 where it was a wedding dress where if you looked at it half the roughly, I can't remember the exact percentages. Half the people saw it unambiguously as gold and white. That's how I see it. There's no question. Same. Yeah, okay, same. But half of other people see it as blue and black. And again, they don't, it's not something guessing. Is it maybe one of the other, they just see it blue and black or, or, okay. So then people ask, well, is there anything real? What is the real color? Often people get asked, no, there is no real color. What there is are photons that are, you know, from the sun, that strike the, the two dimensional surface of the dress that get absorbed by, by my photoreceptor, that then get processed and they get evaluated in one way in our brain.
+
+2 (25m 21s):
+So we see it as, as white and gold and get evaluated differently in a different brain because we all have different prior, this has to do with whether we are evening persons or morning persons. But this also applies to things like nine 11 and October 7th. If I tell you this, nine 11, what do you think about it? Or October 7th, depending on whether you are a Israeli or a Palestinian, you have profoundly different views of it, right? So you look at a fact that's, that's supposedly objective, but depending what prior you bring to it, what your perception bar construct is, in what culture you grew up, you have radical different interpretation. And this also includes your sense of self. So I would say what you had with this conformative experience, you expanded the, your perception box that your perception of reality to now include the notion, ha, I get it now that other people, depending on their skin of their colors will be treated differently.
+
+2 (26m 14s):
+For me, that's invaluable and
+
+0 (26m 16s):
+Wish we all had that. Yeah. And I got to experience the emotional, you know, a sliver of what the emotional experience is like because it was an emotional response in Andrew, right? And in many ways it was far more informative than any documentary I've ever seen or any movie which had a profound effect on me while I watched them, but didn't change the way that I think about how I interact with others on a moment to moment basis. 'cause I don't consider myself racist, and I didn't then. And you notice in this VR experience, the way that this, I, I have a friend who's a psychologist who says, you know, the subtle informs the gross, the way these little, these little things change the way that you feel and then the way that you interact.
+
+0 (26m 59s):
+And then it starts to feedback on what the expectations of you are, whether or not you live into or combat those expectations. And what I realized is it's a hell of a lot of work. It's a, there's like this, there's like a, a burden of, of, of mental load that is, that was not familiar to me before in this
+
+2 (27m 16s):
+Implicit and explicit, yeah. So you have to think about it. Yeah. What does it mean? What does it mean for my behavior? What does it mean for other people's behavior? Yeah. So yeah, you can call the psychedelics. This is called the integration period. So I would say submit, you had a Transformative Experience. You had what philosophers called direct acquaintance now with some form of racism, right? Subtle racism, right? In this, in this VR. And now you're doing the explicit work of, of reformulating everything. You're changing literally your Beijing priors. So I imagine your top down, you know, from let's say prefrontal cortex back into what, whatever, you know, theory of mind, for instance, areas, right? You are changing your priors.
+
+0 (27m 55s):
+It was, it was really striking given how short the experience was and how first person it was, right? Obviously with VR it's not like watching a movie. You are the movie, you're in the movie, you're the first person actor in the movie.
+
+2 (28m 8s):
+So I think there are two ways to achieve transformative effect. One is the slow one by educating yourself, by reading books, by watching movies. But as you said, very often it doesn't really bite until you have a direct experience. You direct have acquaintance with it, then suddenly say, now I get it. And this is the character of any transformative experiences, including mystical experiences.
+
+0 (28m 30s):
+Recently I was at Esalen, this beautiful, yeah, place on the big sur coast that,
+
+2 (28m 36s):
+And it's just up here, right? 200 miles or three miles off
+
+0 (28m 38s):
+The coast, although they shut it down, the freeway fell out some years ago south of Celent. So you have to go up and around now from southern California where we are now, still an incredible place that's been very seminal in the mindfulness movement in the, and just a gorgeous place to visit for many reasons. But while I was there, I, I had an incredible experience that involved you, although you didn't realize it, and it wasn't a psychedelic experience, nor was it a dream. I went into the bookstore and I found a book of one of my favorite humans that I unfortunately never met, which is Dr. Oliver Sacks, who's now deceased, right? Great neurologist, writer. And it's a book of all his letters.
+
+0 (29m 18s):
+And there are a couple letters in there to you. Oh, that's fine. And I, I have a, a very close relationship with all things Oliver Sacks. I'm a collector of many of his things. So one of the most interesting things about him, and one of the things that he wrote to you about in this book, I don't know if you've seen this book, is he describes his efforts to understand Consciousness and the human brain better by literally taking some time, presumably without psychedelics, and imagine what it is to be a bat, to be, we know bats aren't completely blind, but to essentially navigate and sense the world without vision as the dominant sense to experience through sonar.
+
+0 (30m 4s):
+And he would spend time thinking about being a bat up in the corner of the room, or a cephalopod like an octopus or a cat. And you know, you read this and you go, okay, this guy's crazy, right? This guy must be crazy. But I realize now, based on everything you've said so far, that he was very far from crazy. He was hyper sane in this regard because as difficult as it is to lose oneself and to go into the mind of another human, the VR experience that I had clearly demonstrates to me that it's possible. And, and yet we have a very hard time imagining what is it's like to be non-human. And nowadays with the emergence of AI and fear about, you know, merging of, of humans and machines, I think it's gonna be ever more important that we understand what kind of flexibility we have in moving from human Consciousness to non-human Consciousness.
+
+0 (30m 57s):
+So I would love your thoughts or any stories you have about Oliver, I simply adore him through the writings of, of consumed. But I think this practice of pretending or trying to shift one's Consciousness to that of another animal is just profound. And I like to think it also can bring us closer to the animals that we curate as pets, dogs in particular. So I'd love your thoughts about this or Oliver or all of the above.
+
+2 (31m 23s):
+Yeah, he was a great friend. I visited him many times. I, I met him through Francis Creek and we had this shared interest in the brain and Consciousness and he, he was incredible. I mean, what made him so singular also in his interaction with patient was his empathy. So he could have deep empathy with patient and try to imagine himself, you know, these, these strange other worldly condition, right? Like the, the, the patient who from Mars or these, these other patient that he described that had very specific pathologies that were totally explainable as a rising out of brain lesions. Yeah. He was better at that than, and then most other people trying to imagine, what is it, for example, to lie, to live in the eternal present.
+
+2 (32m 7s):
+He had one patient that had this profound amnesia and, but he could still, he always lived back in the, I can't remember now, 20 years earlier. And the, in his entire world, his entire memory stopped 20 years earlier. And that's how he lived. And it looks crazy. But once you understand that, it makes perfect sense how, how he responded. So we each have a bespoke reality, right? So you have slightly different receptors, you may have different color receptors, you may have different taste receptors, you have a certainly different experience for me, right? You grew up in a, in a, in a different environment. So it's not easy to get into someone's else's head, although some people can do it. Actors, for example, can try to do it right.
+
+2 (32m 49s):
+The, the methods acting right where you to totally try to adopt the point of view of the, of the character you're trying to play. But of course that's much more difficult for other animals that have that share. Well, we may share a close evolutionary history like with all mammals, but that have very different, you know, that may have infrared sensors or they have a much, much more potent sense of smell and how do we that have a different motor system that hang from the ceiling, right? So how do we imagine doing that? But I think it is possible, it's challenging of, and of course it's this classical essay by Thomas Nigel, what is it like to be a bat, right? And he, his position this American philosopher says, well, we can never truly know what it is like to be a bat, but I think we can approximate it.
+
+2 (33m 32s):
+I can't really ever know what is it like to be Andrew Schuerman, right? But I cannot park, I can try to imagine it. And you know, this is what empathy is, right? Trying to feel like you and trying to realize that we are all conscious being we all, a book ended between two eternities. And so in sometimes we're very, very similar. And the the things that makes that the dividers are really tiny subsets of all the things that we share, including with cats and dogs and elephants and, and squids and everything else on the tree of life.
+
+0 (34m 2s):
+Before we talk about your experience with DMT and, and psychedelics more generally, I wonder to what extent, you know, changing our Consciousness is possible in a very directed way. So what I'm referring to here is, you know, for instance, a lot of therapies, whether or not it's a cognitive behavioral therapy or it's MDMA assisted psychotherapy for PTSD or whether or not it's just really trying to get more REM sleep each night so that you can unload the emotional weight of previous day experiences, which seems to be a hallmark of REM sleep. You know, many people accumulate experiences that they feel either define them or burden them.
+
+0 (34m 47s):
+This is very common In fact. And they would like to live the remaining portion of their life however long with, without the emotional load. They, they don't necessarily want to forget the experience, but they wanna remove the emotional load. And it seems like em, pathogens like MDMA in proper clinical settings can help do that. That proper cognitive behavioral therapy can help people really talk through and work through, maybe have a cathartic experience, but work but unload the emotional experience, the emotional component of the experience. So what I'm referring to here are things bad, but it could be positive things like the day that your child was born or something where you're trying to update your conscious experience of life going forward and in the present by way of very deliberate tailoring of, of your memories.
+
+0 (35m 35s):
+Do you think this is
+
+2 (35m 36s):
+Possible? Of course, course. Yeah. You just gave me an example. Your, your experience of VR and realizing what it is to have a black skin compared to a white skin, right? This was a clearly a beneficial experience that enables you to be more emphatic with, with, with, with other people, right? And try to better understand what they mean when they call, when they talk about explicit or implicit racism, right? And it changed your profoundly, and you're telling me this happened when? 2008,
+
+0 (36m 2s):
+This was probably 2017. Alright,
+
+2 (36m 5s):
+So, you know, so that's eight years ago, right? So clearly it lasted. So I think for most conditions we can certainly improve them. You have to believe that you can change, right? So if you are being told, oh, the story is, it's all the system, there's nothing you can do, it's just hopeless. You can just, you know, take this pill and suffer through to the end of your day. That, that I think highly counterproductive. No, you have to believe I'm an active agent of my own mind. I can shape my reality, I would call it my perception box with various, you know, ways either talk therapy or psychedelic therapy or some other therapy. It requires a lot of work. It doesn't come sort of for free, right? And I'm, at the end of the day, I'm still left, let's say with my traumatic memory.
+
+2 (36m 47s):
+But now I can realize, okay, I had this bad experience, but it doesn't have to define me. I can go on past it. And there are various ways we can talk about that this can be achieved. Absolutely. I do believe in the malleability of the human mind, even in older people in almost every condition you can, but maybe the, except for the most extreme, you can change your outlook on life if you really want to. That's one issue, right? It's a little bit of trying to, to convince somebody who's an alcoholic that they should stop drinking until they have the realization, okay, I don't want to land in the gutta anymore. I don't wanna wake up at, you know, 8:00 AM in the morning, drunk outside my, my house. I want to change. Then you can change.
+
+2 (37m 29s):
+And, you know, 2000 years of, of, of therapies of all sorts of things, you know, take alcoholic Anonymous, right? The first thing you do, you have to recognize that I am an alcoholic and then I can begin. If before I do that, there isn't really a hope. But once I do that, I can change. It may be difficult, it may be obvious, but you can change.
+
+AG1 (37m 50s):
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take. Things like magnesium, three eight theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime Sponsor, AG one just created a new product called A GZA nightly drink designed to help you get better sleep and have you wake up feeling super refreshed. Over the past few years, I've worked with the team at a G one to help create this new A GZ formula. It has the best sleep supporting compounds in exactly the right ratios, in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. A GZ is, to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way, and it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new A GZ formulation and to enjoy the benefits of better sleep. A GZ is available in chocolate, chocolate mint and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try a GZ, go to drink az.com/huberman to get a special offer. Again, that's drink az.com/huberman.
+
+Helix (39m 18s):
+Today's episode is also brought to us by Helix Sleep. Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on this and other podcast about the fact that getting a great night's sleep is the foundation of mental health, physical health and performance. Now, the mattress you sleep on makes a huge difference in the quality of sleep that you get each night. How soft it is or how firm it is all play into your comfort and need to be tailored to your unique sleep needs. If you go to the Helix website, you can take a brief two minute quiz and it'll ask you questions such as, do you sleep on your back, your side or your stomach? Do you tend to run hot or cold during the night? Things of that sort. Maybe you know the answers to those questions, maybe you don't. Either way, helix will match you to the ideal mattress for you. For me, that turned out to be the Dusk Mattress. I started sleeping on a dusk mattress about three and a half years ago, and it's been far and away the best sleep that I've ever had. If you'd like to try Helix Sleep, you can go to Helix Sleep dot com slash huberman, take that two minute sleep quiz and Helix will match you to a mattress that's customized to you. Right now, helix is giving up to 27% off all mattress orders. Again, that's Helix Sleep dot com slash huberman to get up to 27% off.
+
+0 (40m 26s):
+It's interesting that you bring up 12 step and, and AA in particular because the, the next step besides acknowledging the problem is, at least in AA, is to acknowledge a, an inability to solve it oneself and a giving over of some of the process of eliminating alcohol to another, what they refer to as Higher Power. Some people call this God, some people call it Jesus, some people, you know, but it's a, it, it's more or less a requirement of AA that you agree that you are can't do it alone and you can't do it just with other humans, but you need other humans.
+
+0 (41m 6s):
+They're necessary but not sufficient. The recognition of the problem, other humans in community are necessary, but not sufficient. But this, this kind of externalization, like you need help from outside the self. That's not from humans. Very interesting. They don't say you need to go get a dog. They don't say you need to commune with nature. They say you need to embrace a Higher Power. It's very interesting, given the effectiveness of AA is one of the most successful ways for people to continually avoid alcohol.
+
+2 (41m 34s):
+It's true. I I acknowledge that. I I personally wouldn't say it requires this divine intervention. 'cause I'm not sure there is such a divine entity that could intervene in this. But, but acknowledging and also acknowledging that it's, I can't do it by myself. I need, I would say at least I would need community, I would need help from others. Again, you have to acknowledge that,
+
+0 (41m 57s):
+Well, maybe it's the opening up of space that
+
+2 (42m 1s):
+The willingness. The
+
+0 (42m 2s):
+Willingness, yeah. And maybe it's, I couldn't do it by myself until now. And in order for there to be a different future in visualized maybe the, it is sort of creating of space. I mean, this is actually probably a good opportunity for us to talk a little bit about the neurobiology underlying Consciousness and then we'll get back to plasticity. You know, we're both neuroscientists and for many years, eighties and nineties and even prior, the emphasis was on brain areas, amygdala, fear, hippocampus, memory, prefrontal cortex, decision making, this kind of thing. And of course there's been this beautiful transition to a, a focus more on circuitry areas and networks activated more or less o over time.
+
+0 (42m 43s):
+Can we look to particular networks or network phenomena, circuit activation patterns and say that's the origin of Consciousness or is that no longer a, a meaningful pursuit?
+
+2 (42m 58s):
+Yes.
+
+0 (43m 1s):
+Why do I have a feeling you can answer that way? So a,
+
+2 (43m 4s):
+A, there are certain enabling conditions, okay? One enabling condition your heart has to beat because if your heart doesn't beat, it doesn't supply oxygen to your brain and you will lose Consciousness within eight to 10 seconds. Okay? Same thing in the brainstem. Your brainstem has to be active to per to perfuse, the rest of the, the full brain with no adrenaline and dopamine, all of that. But those don't provide the content you don't love or your hate or see with your, with your, with your brainstem, with your locus, for instance. Okay? So the circ the circuits that, that convey experience in us. I'm not saying it's the same in other species, particularly, you know, non mammals, but in US that grew up with a normal brain.
+
+2 (43m 44s):
+Again, I'm not talking about people who never ha you know, anencephalic individuals. That's very different. So I grew, for most of us, we grew up with a normal brain. And I think there the, the relevant circuits are the cortico salmo circuits. And we, we, we can, In fact, we can exploit this knowledge now to test whether someone is conscious. 'cause in principle. So what you can do, you can knock the brain using a technique called transcranial magnetic stimulation, right? And then you, you listen to its echo using a high density EEG net, okay? And you can see if you knock here or here depending where exactly you knock, you get these up and down states. And if they last for let's say 2, 3, 400 milliseconds and they occur different places, you, you can formally compute what's called brain complexity using leal Z complexity.
+
+2 (44m 33s):
+And you can show when everyone who's either awake like us or we asleep in a dream state or we on Ketamine where we dissociate it. In all those cases, the brain complexity is high above a threshold in however, when you are in a non REM speed, when you're in a state of deep sleep or you are anesthetized, or you're, or you are of course the most extreme case, your brain dead, then the brain complexity is very low. And in animals we've even done at the Allen Institute, we've done this experiment where we can systematically manipulate the cortico, thalamic, cortical circuits to really show it is this circuit that is really, that is the one that's critically involved in Consciousness.
+
+2 (45m 16s):
+In fact. So what what we discovered over the last 10 years is this very abrupt threshold and brain complexity defined using, using this technique where, so it's a, there's a thing called perturbation complex index. It's a single number, PCI, between zero and one. Zero means it's, there's no complexity. It's flat like in a dead brain, flat line. One is means every EG is totally electrode, is totally independent from anyone else. Never happens in, in a real brain. In real brain, typically wake brain, you get things between 0.65 and 0.8. Let's see, there's a sharp threshold 0.31, anyone that we've had, and now, now there are 300 people that have both patient and normal people that have been measured.
+
+2 (45m 59s):
+If you're above this threshold of 0.31, you're conscious. If you're below this threshold unconscious, that probably means as it's non-linear, just like Hodgkin Huxley, this is probably non-linear circuit mechanism that once the circuit is intact, it's, it's sufficient to sup to support Consciousness. Now you can ask, while this is all very nice, why is this relevant? Well, it is relevant in the following case, something that could happen to any of us. I step out here on onto the Pacific Coastal Highway, I get hit, hit by a car, okay, I'm now unconscious. I get to the ICU, whether that's a traumatic brain injury or cardiac arrest or hemorrhage, I'm unconscious. I'm like this, I might be aroused.
+
+2 (46m 41s):
+So, you know, my eyes are open. I'm now what's called, what used to be called vegetative state. What's now more often called behavioral unresponsive state. Okay? And there are thousands of these people worldwide because with proper care, with proper nursing care, you can stay in this state for weeks or months or in the case of Terry Shiva, 14 years. Okay? Furthermore, what happens after, typically in most cases, after four to five days, the doctors will talk with the, with their loved ones. Is this what he would've wanted? And 70 to 90% of the time they decide, no, this is not what you wanted. And you withdraw life sustaining therapy. But we now know that 25% of these, of these patients have what's called Covert Consciousness.
+
+2 (47m 25s):
+They're there, we know this because, for example, some of these patients you can, there was a big study last year in New England, journal of Medicine made a front page of the New York Times where you can show 25% of these patients can still voluntarily up and down regulate their motor cortex in response to a command. Cleanse your fist for 30 seconds, relax it, clench your fist for 30 seconds, relax it. So these people that otherwise, when you ask 'em, sir, can you hear me? Can you track the my finger? Can you, you pinch 'em very hard to see. Do they do a withdraw of limb reflex? Don't, they don't do any of that. So they have what's called a, a Glasgow Coma Scale, very low Glasgow Coma Scale.
+
+2 (48m 7s):
+Glaucoma and recovery, GSCR scale very low, but they still seem to be conscious. They either have high brain complexity or they can modulate the brain. So, so this is now a, the first time ever that we have a, a practical way in people that cannot respond that, that clinically behaviorally are considered unresponsive. First convince the family that although their loved one is un doesn't respond, doesn't mean that they're unconscious. And then try to see, well, okay, so this person is conscious, can we now give particular treatments to enable them to recover?
+
+2 (48m 48s):
+We also have some pilot data to show that those patient that are conscious compared to the patient that are truly unconscious in this behavioral wakefulness state that they have a better chance to recovery.
+
+0 (49m 0s):
+Incredible. This 0.31 you said is the, the threshold, it it, on the one hand, it seems so reductionist on the other hand, it, it makes total sense, right? I mean, you need enough coherent brain activity to be aware of self, be aware of what's going on around you, and respond to it below that, like in falling asleep or being asleep, you don't have that except in dreams, of course. And it sounds like a wonderful clinical tool because this is obviously many people's worst fear that somebody's in there, you take them off life support and they would've emerged. And you, you mentioned Terry sch Riva was the last vo. What, can you just remind people what what the outcome of that
+
+2 (49m 43s):
+Situation was? Yeah, so this was a case back in the 1998 or 2000 under President Bush. She, she had a cardiac arrest. Was was the heart was started up again. She was in the state for 14 years. And then there, there was this fight between her husband who said that she didn't want to be in this state, and her parents that were profoundly devoured that said, no, we want to keep you alive. I see. And went back and forth and finally the court allowed her withdrawal of life support. So she died after 14 years. And the, the, the analysis the postmortem showed in her case, the, the, her brain was totally shrunk in her case. You know, we didn't do this procedure then we didn't have it, but clearly it, it's, she was probably one of the 75% patients that are truly unconscious.
+
+2 (50m 31s):
+Yeah. So it's important to get this into the ICU. So In fact, I started a company called Intrinsic Powers because it's the intrinsic powers of the brain that mediate Consciousness. And we are now trying, we met with the FDA and they said, well you, this is all cool, but you need, really need to do a clinical trial. So we're trying to, to fundraise now. So if anyone in your, in the audience here is willing to, in invest in this to get this procedure into the ICU, so we can tell for sure is this patient conscious or they just non-responsive because those, so it pertains to what we said early on. The fact that you don't behave is not the same as the fact that you're unconscious. Those are two different things.
+
+0 (51m 11s):
+Very, very interesting and, and very important work. Has there ever been an example in the reverse direction where somebody was in one of these, what used to be called vegetative states, right? And then emerged after say a period of six months or a year and is living perfectly normally and the world saying, thank you so much for not taking me off life support.
+
+2 (51m 29s):
+Yes. So they're so, so a typically people don't, when they do recover, they typically don't have explicit memory. 'cause again, memory is something different than, than actually being, you know, conscious experience. Just like most of us don't remember our dreams we're clearly conscious, but, you know, we don't remember them. But there are, there's a study now systematically at Harvard that tries to explore that. And some people explicitly say that, In fact, there's one really interesting case where the person who then recovered a young guy who first said, first he was upset that they didn't follow his co his explicit instruction to terminate life. But then of course later on, now he's relatively normal. He was very happy that they saved him.
+
+2 (52m 11s):
+Yeah. So, so we can pull back, you know, particularly with modern technology, nine 11, et cetera, rescue helicopters, we can pull back people from the brink of death, but that may not be the same as, as, you know, having them actually conscious. So, so, so people are now the, the medical community now and beginning to recognize this idea of COVID Consciousness, which is something that was only really realized over the last 10 years.
+
+0 (52m 34s):
+Amazing. Well, I turned 50 in two weeks and I'm working on my will. Something I never thought I would do, but I, here I am doing it. So I'm gonna include a section on this 0.3 medical director, this 0.31 threshold, but also maybe perhaps pending new technologies. Yes,
+
+2 (52m 48s):
+That's a tubble because right,
+
+0 (52m 49s):
+You don't know what'll be available if you know
+
+2 (52m 50s):
+You don't know. Yes. Right. And the other thing is called this, this bias Disability Bias. So let's say you are, you, you look like a person who's highly active, right? So you probably cannot imagine being in a state where you can't move anymore.
+
+0 (53m 4s):
+I mean, I've thought about it, but not in a real way. I mean, I, I fear it. I wouldn't want that. I love being able to move and see. And among other things, those are, those are probably two of the most important things, movement and vision, right?
+
+2 (53m 17s):
+Oh, okay. But now you have to change your, prior, you've had this accident or whatever. Now you are in the state. This is a given. You're now in the state where you had a bad whatever car accident and you can't move anymore. Or you may not be able to see now what, what is it you want? And most people to those people that you can communicate, like they did a study in Israel with locked in p patient, right? So these are a patient that have a, a stroke, the level of the PAs where they're typically, most of their motor commands, they can't execute anymore except, you know, some, some neck and some vertical eye movements. And they ask them. So because they can communicate, and most of them, except the ones that have chronic pain, most of them want to continue to live.
+
+2 (54m 0s):
+Although before when you would've asked them, you would've said no, no way. And so it, it's, it's difficult with this medical directive because you don't know until you get there.
+
+0 (54m 9s):
+Well, I like the answer you just gave because it speaks to the, the durability of the human spirit. Yes.
+
+2 (54m 14s):
+The Resilience. Yeah.
+
+0 (54m 15s):
+The desire to keep going is, is pretty spectacular. Yes. And there are amazing examples. Like I was introduced some years ago to somebody from the special operations community who unfortunately stepped down on IED and lost use of, of his legs. And, but he's a phenomenal surfer. Like he, he literally drags him. Wow. And he won't let people carry his stuff down the close. Like he drags himself down to the waves and he gets down there and he can get up on, he has prosthetics that he can use, but for partial movement on land. But he basically is on his torso. And, and he's an athlete. He's in the, you know, paralympic athlete and serious athlete and super driven.
+
+0 (54m 55s):
+And when you first interact with him, you see the pictures of before and after and this kind of thing. You go, oh gosh, that'd be so, but he's living in the moment. I mean, I'm sure he has his struggles, surely, but he's living in the moment of what's possible. And, and at least in his words, the desire to persist and to continue to pursue goals is fundamental to not getting lost in, in the, what could have been it. He really exists. Of course, he was a former Navy seal, et cetera. So it's probably part and parcel with the psychology that got him there. But he exists in the what's possible, not what's impossible landscape. Most of the time it seems it's pretty spectacular. Yeah. The, the human will to continue to live the Resilience. I'm very struck by this brain area, the anterior mid cingulate cortex.
+
+0 (55m 39s):
+I don't know if you're familiar with it. Yes. I'm, but right. Joe Parsi laboratory stimulating, and people feel as if there's a challenge confronting them, and they're gonna lean into it. We've talked a lot about this on this podcast as a, as a key site for plasticity of all things. But, and the friction that's required, but also this element of the Will to Live, because it turns out anterior mid cingulate cortex is larger or more active in people that are the so-called super agers that maintain cognition so well,
+
+2 (56m 6s):
+There's also this phenomenon of a kinetic mut mutism that's also found in lesion, that area where people seem to have completely lost their will to do anything at all. They just sit there all day and they don't say anything. They've lost bulia. They've lost essentially their will to do or say anything. And if you inject them with dopamine or others, then sometimes they, they retrieve and you ask them, why was it I just had no desire.
+
+0 (56m 34s):
+And do we know what brain area is involved in this case?
+
+2 (56m 36s):
+Yeah, yeah. It's the, it's the single, it, it's the anterior, it's part of the anterior ulu. Okay.
+
+0 (56m 41s):
+So maybe it's the same structure. I mean, I find, I mean, the human Will to Live and to continue to evolve oneself may
+
+2 (56m 48s):
+Also have a physical substrate. Yeah.
+
+0 (56m 50s):
+I, I believe it does. I mean, I think cingulate cortex seems to be a, a key hub.
+
+2 (56m 54s):
+Well, so, so, so, so based on the study of your colleague Ju Zi, right. At Stanford, so we know if you go a little bit back into the posterior single, that's where you have the sense of self if you stimulate there, or in these people who have epileptic seizures in there, right? They have these weird dissociative states or where they, where they feel themselves floating or they can hear themselves have a conversation, but observing themselves having a conversation. So we know some of the self, you know, the sense of self here, and we also know doing Meditation and doing psilocybe in those areas are reduced. So yeah, there is a, there's a footprint for everything we experience. There is a footprint in, in the brain. That doesn't mean we can reduce it to the brain, not at all.
+
+2 (57m 35s):
+But there is a physical neuronal correlate of it. And Francis click, and I of course used to call this Neural Correlates of Consciousness and try to pursue it.
+
+0 (57m 44s):
+I'd like to go back into the perception box, because I'm really intrigued by this.
+
+2 (57m 48s):
+Well, you never left the perception box. Oh, okay.
+
+0 (57m 50s):
+Well, I, because it
+
+2 (57m 51s):
+Is your construction of reality.
+
+0 (57m 54s):
+People are getting a sense of how your brain works. And I love it. It's been a while since I've seen you as I forgot how much fun it was inside the context of the perception box. I'd like to explore something that's very relevant today. It's nine 11. Yesterday Charlie Kirk was killed, assassinated at, at a, a discussion on a campus. And there's a mix of responses to this out there. Some people are greatly saddened, others less. So there's a lot of discussion about morality, about words versus actions. Maybe we use this as a bit of a filter to understand something. Broadly speaking, I can imagine to two somewhat extreme ways to go through life.
+
+0 (58m 37s):
+One is with the philosophy, you know, live and let live, as long as somebody's not hurting somebody, let 'em do what they want. They want to change genders, let 'em change genders. They wanna vote Republican, let them vote Republican. They wanna, you know, as long as they're not harming anybody, right? So we have laws to protect people's wellbeing. The other extreme would be one of kind of moral judgment. Like, you know, people offended by someone else's choices or even beliefs. And even if they can't point to like the exact harm that's being done, they feel as if it's grading on them. Right? And then of course, we have a lot of questions about those two different people's histories, whether or not they see, you know, moral judgment in the context of who's getting more or less resources.
+
+0 (59m 27s):
+There's a bunch of evolutionary stuff we could weave in there. But let's just examine like two perception boxes. One of a live and let live type, and I'm not trying to politicize this at all. It could be right wing, left wing, middle, whatever, it doesn't matter. Let's aliens in outer space, a live and let live dominated perception box versus a moral judgment Perception Box. How given the reality of these perception boxes here on earth now, how is it that one can possibly establish a, a species cohabitating earth that's gonna go forward in any kind of different way without something fundamentally changing about a understanding that there are these perception boxes.
+
+0 (1h 0m 15s):
+B, how to change them. And then as you said before, that has to be a desire to change them. So, I mean, it feels a little bit like a stalemate, In fact, and I'm not trying to be pessimistic. I think I'm being realistic. As long as you have people who are living that live and others who are in a state of moral judgment. I just don't know how a hundred years from now, things are gonna look that much different. It'll be different conflicts. Oh,
+
+2 (1h 0m 36s):
+They could be worse, of course,
+
+0 (1h 0m 37s):
+Could be worse, could be worse, could be far worse. But I don't, I I can't imagine like, unless we let, like dog Consciousness play a, a key role or something. Well, we
+
+2 (1h 0m 47s):
+Could also have what, what some people in the Beijing community calls a Meta Prior. So you have your priors, right? So the priors are all the assumption that let you judge a fa a fact, supposedly fact. So, to stay with yesterday's examples, trying not to politicize it. But you may have read after the, the assassination was announced in the house of representative, the speaker called for 30 seconds of silence, which was fine. And then someone called for a prayer said, are allowed, and then all pandemonium broke out. Okay? So among the representatives, they, they, they screamed at each other, you know, it all, it took this one thing.
+
+2 (1h 1m 28s):
+And then suddenly, because they have radical different prayers, they just have, they're partly, you know, you are two, the the ones that you described. But what they should do is sort of have a Meta Prior, okay, wait a minute. We are now screaming at each other. But we all believe that shooting other people, that's what they all said, universal. This is bad. This is not good. No matter who did it for what reason, this is bad and evil. Maybe we should stop skimming at each other to change our higher own prior, because this isn't gonna end well if this just keeps on getting worse. And where is it gonna end? How is it gonna end? There has to be this, this insight. So it's a little bit, when we talk before about a, you know, and I'll call it anonymous, there has to be this in that, wait, we can't do this.
+
+2 (1h 2m 14s):
+There has to be a realization that there is a problem and we've gotta do things differently.
+
+0 (1h 2m 20s):
+Well, I think for many, many years, the Meta Prior was God and religion. People looked to texts that were, at least people agreed, were scripted by non human actors. Non-human actors. So the meta priors, maybe now people will look more to ai, I don't know, but I just feel like humans are not common well positioned. Yeah. Common are not well positioned to resolve certain kinds of things for ourselves. And if
+
+2 (1h 2m 49s):
+We lost this narrative, yeah. So we had more or less, I mean, in the fifties and 60, right? There was three TV channels and we had a common narrative. I totally agree with you. We lost that. And we are never gonna regain that. Right? Unless there's extreme political repression, you know, maybe in China, but not here. It's not gonna happen here. Right? So what do we do? Is, is this just getting worse every day with more and more violence and other things? Or is there gonna be some point in awakening a matter, you know, realization that we gotta change our prior fear?
+
+0 (1h 3m 18s):
+What do you think is the potential role for ai? I mean, is ai you said machines, you know, they don't do, right? They or they only do. They only do, excuse me. They only do, like with AA, first comes the acknowledgement that humans are not sufficient to resolve these issues on our own. I'm not saying where the answer should come from. I have my own ideas about that. But it seems like there needs to be the acknowledgement that we are, that we're, we're, we're limited in our ability to resolve this history demonstrates that yesterday, demonstrates that today demonstrates that, I mean, it's naive of anybody who's been alive for more than a few decades to think that in 30 years, suddenly everybody's gonna, you know, put down swords for plows shares.
+
+0 (1h 3m 59s):
+Right? Okay. But
+
+2 (1h 3m 59s):
+Humanity has bumbled through history for the last, you know, however long, you know, several million years and modern history since we can speak and have recorded thought at least 10,000 years. Right. So ultimately it somehow will make it through most likely
+
+0 (1h 4m 15s):
+On the whole, on the whole, but it, but it could, it could be much better, right?
+
+2 (1h 4m 20s):
+Individuals, empires, cble, and have, and of course, we are an empire like any other empire, you know? And yes, this, this western style liberal democracy, you know, you can be pessimistic about it. And you know, it's not just us. Of course, here it's the most because we have all these guns. But if you look at, you know, and you look at in Hungary, look in Germany, look at in France, right? They have these world, they now have these countrywide protests against everything.
+
+0 (1h 4m 49s):
+Against everything. Yeah.
+
+2 (1h 4m 52s):
+And then of course, England, right? And so, yeah. So we, we certainly, the western ideal western national states, liberalism, certainly in a crisis, what's gonna help. And adding AI, of course, just accelerates everything, right? We are going through this accelerant, this tremendous accelerant, right? Where AI is getting better literally every day. Right? I'm sure you use it just as much as I do. It's very powerful. It's getting ever more powerful. You throw that into the mix, while that's probably with unemployment, massive change, right? Most people don't like change, right? So,
+
+0 (1h 5m 28s):
+Well, yeah. I guess what I'm trying to get to here is you're, you're a really smart guy. You understand Consciousness, the Perception Box to me is a wonderful framework for people to understand differences of opinion and outlook that are based on history and perception, et cetera.
+
+2 (1h 5m 44s):
+But if it's all intellectual, it's like what you said, when you've really experienced what it is to have black skin, I mean, not fully, but to explain something of what is it like to walk around being black, right? You had to visit you, you told me yourself right? Early on that you said, well, you can't get that from reading. You really have to experience it. So people have to have this moment, this come to Jesus moment where they say, okay, shit, we can't go on like this anymore. They, we have to change our way of doing this.
+
+0 (1h 6m 13s):
+I
+
+2 (1h 6m 13s):
+Agree. And with Social Media, you know, all it takes is a small fraction of people that reignite this, right? That post something nasty, and then someone else posts, and then they all pile on and Yeah.
+
+0 (1h 6m 24s):
+We have a billion plus channels of information. Yes. Yes. It's amazing to see how quickly the theories about the motives of the shooter evolved into they micro sliced it into 15 different individuals. They hadn't even identified a potential suspect yet about why, why Charlie Kirk was, was killed. And it was incredible to just see how people assign themselves as, as authorities on this, on these key topics. But I would like to, to imagine that the possibility resides in human beings understanding enough about their Consciousness Yeah. And their, and their perception boxes to change, to understand that no one individual among us, or even small group of individuals among us, has all the knowledge that's necessary in order to get to this, you know, this meta understanding of what's best.
+
+0 (1h 7m 13s):
+And I like to think that AI might play a, a positive role there. That, but it would require an acknowledgement that we need to hand over some key decision making to machines, which is very complicated for people.
+
+2 (1h 7m 27s):
+So, which ai, the Chinese ai or the open ai, this is the problem, or, or Claude or tropic or gro or any of the other ones being developed once we've agreed on which, what is the, what, what is the function we're trying to maximize? Do, I mean, do you really believe that it's gonna be b because we haven't agreed, of course, on the optimal framework, right? Because they're Marxists, they're liberalists, they're mark people oriented, right? They all believe we should maximize different things. So we're just gonna give this to the AI and they're gonna figure it out somehow. Or do you think when they'll be our overloads, then they'll figure out, well, for the peace of all humanity, this is what we have to impose
+
+0 (1h 8m 8s):
+In the world that I grew up imagining and that I was told about, and that I'd like to participate in creating humans treated each other with more Compassion.
+
+2 (1h 8m 18s):
+Yeah. But look, I mean, I'm more with, with Steve Pinker here over the last several hundred years, a total amount of violence. I mean, so my forefathers, you know, being German here initiate World War ii, right? That led to killing in Europe, probably, I mean, 20 million Russians alone, you know, 6 million Jews in the Holocaust, many millions more through Germany. So, you know, that's, so I don't think in absolute terms, just in terms of number of people killed, we, it's nothing like world in World War I every day, 10,000 soldiers died every day for four years of the different size for essentially having accomplished nothing whatsoever, right?
+
+2 (1h 9m 1s):
+For one mile, going back and forth in the trench warfare in the, on the western front. So in terms of absolute numbers, this is, it's not about absolute numbers. It's now of course we have nuclear weapons and you know, we have other nasty things. But in terms of total people killed it, still have tiny fractions of what might happen and what has happened routinely over the last a hundred years.
+
+0 (1h 9m 25s):
+Well then perhaps a more tractable way to approach this in order to get improvement, despite the fact that yes, there's, there are fewer mass casualties overall. Is it possible to put two people with very different perception boxes into an experiment, not unlike the experiment that I described earlier, but let them swap perception boxes for a short while and, you know, we're scientists and just like, see what, see what happens.
+
+2 (1h 9m 53s):
+Yeah. So I, if I know where all your priors are in the brain, if I know the new substrate of all your basic beliefs, this is what priors are, right? It's just a fancy word. All your be beliefs of how you interpret humans' behavior and the light of culture and history and everything. If I knew them, yes, and maybe we could swap and suddenly we would understand each other's point of view much better. And maybe we are, you know, of the sort that you, that your expense has. But that's always on, you know, does that scale in modern Silicon Valley speak? Does that scale? Can we do this for 8 billion of us?
+
+0 (1h 10m 27s):
+Yeah, it's interesting. No, it, it's, I don't think you can scale it very easily or at all. It, it's interesting that you point out very correctly, that far fewer mass casualties than in World War I, world War II and violence in many places is going down, not up. That's not true all over the world, of course. But, you know, I have to kind of wonder if, because of Social Media and the internet, what has profoundly changed now is that things are caught on video. Everything from a couple getting caught cheating at a Coldplay concert where you have all the elements of drama, like the friend, the humiliation, the this, the, you know, the shaming, the okay, you have all of that, A woman being really brutally murdered on a subway, you know, and then people getting up, not even really realizing or perhaps realizing and just, you know, getting off the, the, the light rail anyway.
+
+0 (1h 11m 21s):
+Or Charlie Kirk getting shot and seeing it in real time. I mean, the JFK vi getting shot video was a guy in grainy. There's some elements, they're still analyzing that one. I mean, you have thousands of cameras on at the, the Kirk thing.
+
+2 (1h 11m 34s):
+Yeah. So the emotional impact is much, much bigger.
+
+0 (1h 11m 36s):
+Yeah. And I wonder where that will lead, if that will lead to more divergence of perception boxes or more convergence of perception boxes. I don't know. I don't know. Obviously this just happened as well, but this is a ongoing real life experiment Yes. Of so much being visible in real time. It's not a story about, it's a, you are, you're actually in the story, even if you weren't there.
+
+2 (1h 11m 57s):
+And this is totally new in human history. So we are going through this rapid period. Yeah. The, some people call it the accelerant, right? This rapid acceleration towards some distant point that we don't, that may not be that far away, that we don't yet realize. I doubt it's a singularity of kurtzweil, but
+
+0 (1h 12m 19s):
+Let's talk about the perception box elements that one is certain one can change, and the potential role of psychedelics in this. I was made aware recently that you took five MEO DMT. I've never taken five MEO DMT. I know some people that have, but could you, or would you describe that experience and what it revealed to you about the way that your brain and brains work generally with respect to Consciousness?
+
+2 (1h 12m 50s):
+Yeah, so it's a serotonergic tryptamine, very similar to psilocybin, or quite similar to DMT. So chemically, they're all very similar, but each one, of course, binds to slightly different, you know, they're 14 different serotonin receptors binds to different cells and different proportions of five MU. What's so unique about that, you inhale it, although they're now trying to deliver something that you can inject into your nose, but traditionally you, you inhale it and literally within free breath you do. And the third one, the visual field starts fracturing into a hexagonal.
+
+2 (1h 13m 36s):
+And I thought to myself, holy shit, what have I got myself into
+
+0 (1h 13m 39s):
+Layer five of visual cortex? That's a neuroscience joke, folks. Sorry,
+
+2 (1h 13m 44s):
+At that point you didn't, I wasn't, and you, you think you're gonna die. You said, shit, this was a mistake. I'm gonna die and you die. I died. And in a sense that myself was gone. Krista was gone. There was no voice, there was no body people who looked at me. So this was all done in fairly controlled circumstance. People who looked at me all just saw me sort of whining a little bit, and with eyes wide open, huge expanded pupils. But you don't see, you don't see, you don't hear, you get totally cut off from the world. When I say I, it wasn't Christophe it was conscious. There's no question, did it ever, I mean, whatever remain was man, woman, child, god, angel, demon.
+
+2 (1h 14m 29s):
+But it, it didn't experience anything except a point of overwhelming brightness. So there wasn't color, there wasn't left or right, because there was no space. Space had collapsed into this point. There was no stereo or texture. There was no pain, there was no pleasure, there was no sound, no smell, nothing. It was just this point of icy bright light and terror, ecstasy. That's it. Three things. Bright, light, terror, ecstasy for timeless. There was no time, there was no perception of time. Right? Right. So it wasn't too long or too short. It simply was, there was no space as set. There was no self. So all of that was, was gone except terror, ecstasy, light.
+
+2 (1h 15m 12s):
+And then after this timeless moment, they'd asked me to put on a piece of mu, I asked them to put on a piece of music, iPath minimalist. And so that last nine minutes, and I just heard, the first thing that became apparent was the, the ending of that two piece, two instrument piece. And then, you know, it, so it was 10 minutes. And then you rapidly come to, and I stripped, I went into fetus, I cried at all these other, you know, autonomic reaction, but was in an our remarkable, you go into the void and you come back, you can speak within an hour. You can speak about it if you wanted to, right? And, and there's no long lasting physiologic.
+
+2 (1h 15m 53s):
+I had my, my watch on highly registered, A difference, no big increase in blood pressure or, you know, heart rate. So there's still not a single day. This wasn't the first week of the pandemic. I think about it every day. I took such experiences. One was, the other one was, was very different. Every day I think about it. And what it taught me was two things. So a, a student of Consciousness, it taught me that mind doesn't depend on space, on time, and on self. And this is really something that, you know, the German idealist philosopher and manel can taught us continental idealism. That they're all categories. They're all categories that we need to perceive. We cannot, but put an object in a place we cannot, but assign a time to an event.
+
+2 (1h 16m 36s):
+And we cannot, but have a sense of self. But they're all optional. They're there most of the time, but not, not always, not in this case. And then the other gift I, I discovered four or six weeks later that I never thought about death again. You know, as you get older, this may happen with you maybe in a, in a slow way, that you lie wake at night, and you think about beyond death, you know, death being, being dead for a long time, for a very long time, for a very, very, very long time. And it's a little bit like getting to this, stepping to the abyss and looking down into this abyss at bottom earth, you get this existential vertigo. Never had that again since then. So I, so I don't want to die, but I, but I've lost the, the, I've lost the, in the fear of that.
+
+2 (1h 17m 21s):
+So both things are reported. I mean, everyone has a slightly different experience. In fact, there were two papers with me published about this, about what happens to the brain of these people. But very often it's sort of going to the void, having the, these feelings of terror and, and, and ecstasy or, or if you think about the etymology of the word, awful full of Awe. When you, for example, theologians talk about the, the, the mysterium tremendum, for example, this auto, the theologian, when you're in the presence of God, you have this, this is awful. The, the, the terror and the ecstasy. And that's what you, this is what you can experience.
+
+2 (1h 18m 0s):
+So it's, it's, I I'm never gonna do it again. Never, ever.
+
+0 (1h 18m 5s):
+No, you're done.
+
+2 (1h 18m 6s):
+It's been offered to me. Now, I'm, I, it's the, the, the toad. It's called the toad, because it comes ultimately from the glands of the original stuff comes from the gland of the sonoa desert. Toad has given me its gift, and I don't ever need to do this again. But it's, it's useful both as a student of Consciousness as being, as well as, as being a human.
+
+0 (1h 18m 28s):
+Incredible. It's hard for somebody who hasn't done it to conceptualize the, the statement. There's no christophe, there's no that you're not there. But the mind is still there. And I could understand how perhaps losing a sense of one's body, like I have a friend who recently did Ketamine assisted psychotherapy, and he described himself rising up and floating above his body, turning over and seeing himself from the outside. But then also realizing and seeing a lot of positive aspects of his life that he was unaware of prior to that than returning to his body and keeping those realizations and moving forward with a much greater sense of gratitude agency and all the things that therapy was designed to accomplish.
+
+0 (1h 19m 12s):
+Pretty spectacular. I realize Ketamine carries risks too, but dissociative anesthetic, a perception. Okay. But the way he described it, he was there the whole time observing his physical body. You are describing five MEO DMT experience as
+
+2 (1h 19m 30s):
+No
+
+0 (1h 19m 30s):
+Self, no self. Just an observation of the mind as an entity that didn't require space, time, Christophe or anything else, which is very hard for, for someone who hasn't done it to conceptualize
+
+2 (1h 19m 42s):
+Well, think about dreaming when you dream. Andrew, are you directing the show?
+
+0 (1h 19m 47s):
+No, I wish I've tried. Yeah.
+
+2 (1h 19m 50s):
+So things happen to you, but you don't have insights. It's a little bit like that. Things happen to you. You fly, you meet long lost lovers or friends or pets, but they, you know, the, the u is strangely muted. So it's a, it's a more extreme version of, of that. I, In fact, I think for mystical, this wasn't a Mystical Experience. For Mystical Experience. Most people report, they go hand in hand. In fact, I think they're probably necessary, but not sufficient. You have to lose the sense of self. You have to get off this planet ego and become selfless. And then this allows you to experience or the dose of perception, right? Foundational text for the age of acquire, sixties and seventies, right?
+
+2 (1h 20m 33s):
+Als Huxley was here in, in LA when he, you know, a British intellectual when he, when he took mezcal. He also talks about the, and this Loss of Self. So I think it's not untypical for these powerful experiences to lose your sense of self, to realize that, you know, it's fine. There's still mind there without being your mind.
+
+0 (1h 20m 55s):
+Did the experience, while it removed your, essentially your fear of death, did it change anything about your beliefs or ideas about what might happen after you die?
+
+2 (1h 21m 7s):
+So I had a separate experience two years later at midnight, past midnight on, on a beach in Brazil. So that was a more classical Mystical Experience. So there again, loss of Christophe, Loss of Self. And I, I don't want to talk about the details, it's still too, you know, I still have a processing and all every day, but I act, I became, Whatever remain of me became one with the universe and the, the, the title of my last book. Then I myself, the book, this is what it's then I myself, the world, suddenly the Ex, I know it sounds terrible, woo woo, but you feel you're one with the universe.
+
+2 (1h 21m 51s):
+And that Holy Maloney, it shifted my, you know, so at the time I was 65, you, you believe in what truly exists. What really exists is pretty established, but it completely shifted the tectonic planes of my metaphysics. So I'm now much more of an idealist who believe that ultimately what truly exist, Andrew, is not the physical, this atoms and matter and energy and information space and time. They exist in some sense, but they're ultimately the product of something phenomenal, something mental, because I felt I became part of this cosmic Consciousness, whatever, for some timeless moment.
+
+2 (1h 22m 33s):
+And so to directly answer your question, I now believe that when I die, Christoph will be gone. Christoph will never come again, right? Christoph, I mean, this person looks like this, talks with this funny accent, has these particular traits and behavior and memories that will be gone. But my, my, my conscious experience will go back to where it came from. This is where it came from. This ultimately this and, and au the German idealist for Shaha is this beautiful piece where he talks about, it's like, you know, you, there's this ocean and there this froth and for brief moment, you know, this little bubble that's part of this wave belief, oh, I'm an individual, I'm supreme. And then of course it lives for 60 or 80 years, and then it gets absorbed by the ocean again, becomes part of the o of the overall ocean.
+
+2 (1h 23m 18s):
+So that's, I think that's my, my current belief.
+
+0 (1h 23m 22s):
+Well, and we have strong reason to believe that the matter that is each of us gets reabsorbed into the earth. I mean, you don't need any mysticism to accept that we go into the, into the dirt and are, and then can be, we are recycled, can be reapplied to birds or trees or rocks or mold or whatever, right? And
+
+2 (1h 23m 41s):
+To everything. And, and so the, this belief in idealism is not totally woowoo. 'cause once again, so the, the, the standard metaphysical belief of scientist, and most philosophers, most people who think hard about it is, is not, you know, some sort of theolog belief in a supreme being, but what's known as Physicalism, you know, it used to be called materialism, now known as Physicalism, that ultimately what truly exists is, is this physical, right? Only physical has causal power, be it, you know, gravitational electricity, et cetera. But of course, now if you listen to foundational quantum mechanics, people, particularly with entanglement, right?
+
+2 (1h 24m 20s):
+They're, they're questioning whether it is true that an event truly exists without it being observed. Well, so this is not my grandfather's materialism or Ph Physicalism anymore because before we always believed, take my bike, I have a bike, okay? I don't have a car, I have a bike. We all, you don't know what the math of the bike is, but you believe it has a particular math. It weighs, let's say 20.1 pounds. Okay? Well, physicists would say in principle, I cannot make that assertion without there being Observer because there are no truly independent facts. Well, that gets us much closer to now we have, do we need an Observer? Does the Observer have to be conscious?
+
+2 (1h 25m 0s):
+How does Consciousness fit into, and In fact, it turns out materialism. A, AKA Physicalism has always been extremely uncomfortable with the existence of Consciousness to the extent that some of the best known living Ph no, he's, he passed away two years ago, Daniel, Dan, right? Questions, conscience doesn't really exist. Qu that's all vu. That's, you know, the trying to gaslight us. In fact, part of the major, part of the Anglo American philosophy establishment is time to gaslight us into believing conscience. You're just confused about it. Regular people are just confused about it. It doesn't really exist. There isn't any such thing as the quality of pain.
+
+2 (1h 25m 41s):
+There's behavioral disposition is that you chew, you avoid chewing on the other side. You know, if you have a toothache, but that badness, the badness, this god awfulness of a toothache that doesn't really exist. You're just confused about it. So they try to cancel Consciousness, but that hasn't succeeded. Here we are in 2025, and people still worry about how does Consciousness fit into the, the, the scientific world really, that has been spectacular, successful at describing the material world. I don't doubt that for one second. Like you, I'm still a scientist. I practice science every day. But, but there's always been this uneasy relationship between Consciousness and sort of classical, I mean, well not so called a classical and, and, and let's say physics and the allied sciences, because all of all the allied sciences, like physics, chemistry, biology, none of them talk about Consciousness, right?
+
+2 (1h 26m 30s):
+No textbook, except at the very end. They, they say, well, yeah, people claim they have Consciousness, Consciousness, but they don't know how to fit that in with receptors and with atoms and with nuclear energy, because it doesn't seem to fit into there. Except we find ourselves in a universe where we are conscious. Sorry, I, I, I,
+
+0 (1h 26m 48s):
+Please don't apologize. I am, I find
+
+2 (1h 26m 50s):
+This so strange.
+
+0 (1h 26m 50s):
+I'm, I'm delighting in what I'm learning from you. It's the reason you're here. I, I mean, I know you hear it a lot, but you know, you, you're truly one of the greats of our field of neuroscience and related fields, because you've always been willing to tackle these big problems. I love, and I will never forget the words spoken by you a moment ago that you, you know, they're trying to cancel Consciousness. Yes. And I'll just ask, so you can't cancel Consciousness except maybe briefly on DMT, although you're still at the mind. No, no. You can't even con no cancel
+
+2 (1h 27m 25s):
+Conscious. That's exactly the point. You
+
+0 (1h 27m 26s):
+Can't cancel Consciousness even on
+
+2 (1h 27m 28s):
+DMT. Well, I mean, you could look, if you lose c if someone hits me on the head, you cancel Consciousness, right? If you, we talked about before, if you choke me, you know, within eight seconds, I lose Consciousness. So it's, it's, it's fragile. But the point about many of these experiences, they're very, very different. Very extraordinary, you know, state of Consciousness, but which shows you that self isn't required in even space and time that we think is so essential is may not be required or is not required.
+
+LMNT (1h 27m 59s):
+I'd like to take a quick break and acknowledge one of our Sponsors. Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar. Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your Neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16 to 32 ounces of water when I first wake up in the morning. And I drink that basically first thing in the morning. I'll also drink element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes element has a bunch of great tasting flavors. I love the raspberry, I love the citrus flavor. Right now, element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon. Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drink element.com/huberman, spelled drink LMNT dot com slash huberman to claim a free element sample pack with a purchase of any element drink mix. Again, that's drink element.com/huberman to claim a free sample pack.
+
+0 (1h 29m 31s):
+Stepping to a, a slightly, slightly more, I guess, intuitive and concrete aspect of, of Consciousness and perception. I've, I'd like to talk for a little bit about Meditation and mindfulness, but not as woo concepts or even practices to reduce stress or, but rather as I look at Meditation as a perceptual exercise to try and access different understanding of one's experience that like, we can remove the word Meditation, which sounds like magic carpets, et cetera. And, and so
+
+2 (1h 30m 5s):
+Mindfulness, you mean being in the here now or non-judgmental?
+
+0 (1h 30m 8s):
+Let's just let, forgive me, let's remove mindfulness and let's just make, let's just say Meditation. Okay? So many years ago, I read the book by John Kain. Wherever you go, there you are. It's a beautiful book, both physically and what's written there that teaches you to sit down, pay attention to your breathing, redirect your focus, eat a single almond, focus on the experiences. A lot of it is about getting real very present to what's happening in, in your immediate world. In the case of eating the almond or within the confines of your skin, so-called interoception, okay? The, the non aficionado's extra reception's perception of the outside world, interoception perception of everything from your skin inward. Essentially in 2015 or so, I decided that for whatever reason, that I was old enough and experienced enough with life that I could create my own Meditation.
+
+0 (1h 30m 60s):
+Why not? Right? After all, I was born and raised in Silicon Valley, you're supposed to build things. Some people build unicorn companies. I just wanted to build a Meditation that based on my understanding of neuroscience and perception, might afford me some additional benefits. So I essentially designed, and I'm sure other people have done it, but a Meditation that the name doesn't matter, but that essentially consists of the following. I would sit or stand and close my eyes and just focus on everything from my skin inward, my breathing for maybe the three breath cycles, and just really focus on what's right here. Then I would open my eyes, I would look at my body from the outside, I look at my hand and focus my attention and look there and breathe for three cycles, you know, three breaths.
+
+0 (1h 31m 47s):
+Then I would focus my attention on something maybe eight to 10 feet away and do the same, and then to the most distant point I could. And then I would imagine myself, I would kinda go pale blue dot mentality, and I would think, oh, I'm right here in my room or on this cliff and we're on a, on a big rock spinning in space and, you know, and, and then I would go right back into my body. And so what I was doing was essentially just stepping through the different scales of space and time that one can experience easily. It's very unsophisticated in many ways. I, I called it for no other reason than I didn't have a better name Spacetime Bridging. I was just trying to step through each one.
+
+0 (1h 32m 27s):
+And I did this on purpose because, you know, I was, I've always been bothered by like bumper stickers and, and refrigerator magnets and, and the, the shit that people say when like, oh, you know, absence makes the heart grow fonder. And I, you say, well, out of sight, out of mind, and then you say, you know, this too shall pass. And it's like, no, you really need to feel your feelings, you know, like, I love the field of psychology, but it's filled with contradictions and the, the, the age old advice, the cliches and the truisms that are all true. The problem is they're all true. And I realized that different cliches, different life truths that are passed down exist in these different bins when we're really in our own experience and we're cathart or we're experiencing something.
+
+0 (1h 33m 11s):
+You don't just tell somebody like, this too shall pass unless they need to get outside themselves when you're just, you can't go through life just thinking, well, you know, these terrible things happen, but, you know, we're just a bunch of creatures running around this rock. It's amazing. We're even here. You hear this too, right? It's amazing. We're even here. You, you wouldn't seek to try and improve your life or the life of others around you if you just kind of go. And so I realize that a lot of what's probably contained in different philosophies and has been said far more eloquently than I ever could, was really just sort of perce different perceptual bins, right? And so I've been thinking about at some level, a few times throughout our conversation how, you know, solutions to problems seem to come from realizing the problem within the bin.
+
+0 (1h 33m 53s):
+It exists. Like whether or not to, they should pray in the, the house yesterday or the center or wherever, but also we have to get outside of our own experience. We, we really need some out outside read of ourselves and of others in order to make well-informed decisions. And that's because the brain has these sort, it's sort of attractor states, I think the best way I ever thought about, it's kinda like a, a ball bearing on a flat plate rolling around. It can go anywhere. You put a few divots or dimples in there and it can stop. You put a groove in and you know, there's some brain states where like you're a ball bearing down at the bottom of a trench and you're pissed, or you're happy or you're in ecstasy, and then you're back on the flat, you're the ball bearing back on the flat surface again. And so what I realized is that even with the awareness that the brain can adopt these different states, it's easy to drop into these states.
+
+0 (1h 34m 39s):
+So anyway, I, I started doing this practice just as a tool to help me better navigate life. That, yeah, I think it helps me, not always, I'm human and so I, I can't get outside myself super easily if I'm the ball bearing down at the trench at the bottom of the trench.
+
+2 (1h 34m 52s):
+No fentin creature can come outside of their perception box because you're always, your reality is always constructed by something, right? And computers won't be any different if they ever become a sentient.
+
+0 (1h 35m 4s):
+So this is where I th I was hoping AI would help me, like if I had a, a Digital Twin or a, or something in my phone that would have access to something about my brain states in bodily states that when it saw me going into the, the becoming the ball bearing in the trench, and we're not talking about a flow state for work or podcasting or something I enjoy, or cycling or swimming, but rather a state that might not be beneficial for me or for others, that it would let me know so I could be mindful of the transition state in
+
+2 (1h 35m 35s):
+Principle. Yeah. But of course, today's ai, they reinforce them, right? You know, if you read all these horror stories about people who fall in love with AI or those people that kill themselves because the AI didn't re they reinforce their worst tendency. Yeah. If you have a sufficient clever AI that accesses your mental state, which right now the only way you could do it by you talking to it, right? That's the only way in the far future it may be able to directly access your brain, but that's not gonna happen in the next 30 years, right? Given the slow progression of brain technology. So you have to talk to it. So that limits it. But then in principle, it could, if it knew enough, say, wait a minute, do you realize annu that you're getting in this state of anger gain or what, whatever the case may be.
+
+2 (1h 36m 18s):
+We do know, I mean, what we do know, there's this crisis. So we here@thetinyblue.foundation here in Santa Monica, we have this workshop coming up in two weeks. There's a whole bunch of experts on mental health and adolescence, right? You, you, you probably also know mental health is progress, particularly in young ones. It's gotten progressively worse over 70 years. I mean, this predates Social Media gets accelerated by Social Media, gets accelerated by the pandemic, but it's really bad right now. And part of the problem is they have very uncomfortable in their own body. They don't have this proper interoception. So thus doing some of the, these Meditation exercises that you, In fact, there are various therapies based on that where people anorexia a rosa is the worst is, is for some of the more extreme case, which is one of the most deadliest psychiatric diseases, right?
+
+2 (1h 37m 3s):
+Where, where significant number of patients kill themselves because they believe erroneously that their body is way too fat. Why? They're, In fact, you know, they look to us like, like victims of, of, of starvation, because they don't have a proper, they don't live inside their skin in a any real way. They haven't learned to pay attention to the interoceptive signal. So I think just doing a, a therapy based on being more body aware and realizing what stage come up and understanding, yeah, these are connected with certain emotion would really, and people are trying to do that. Of course, there are all sorts of therapies with young kids in school or outta school where they're trying to do exactly this.
+
+0 (1h 37m 42s):
+It sounds like a wonderful initiative. I I would definitely wanna learn more about this because, and I wasn't aware that adolescent mental health has been declining even prior to the advent of Social Media.
+
+2 (1h 37m 55s):
+I mean, there are many causes, and of course people fight like academics always do, but one of the big one is loss of autonomous play. When is the last time you heard someone said, oh yeah, I send my my kid outside. I haven't seen her for three hours, but you know, it's not dinner yet. Well, that's how I grew up, right? You, you send out the kids and they come back with it today. That's utterly impossible. I mean, you know, there are these cases where, where, where parents get arrested because their 12-year-old was walking to the store by themselves. Well, so if you don't give kids, you know, if there's constantly he helicopter parents and having a, oh my God, don't do this, don't do that. You know, this is not, this is not good for you. This is a big driver. Social Media is definitely a big driver, partly because of all these filters.
+
+2 (1h 38m 38s):
+So you always compare yourself, you know, that your friends put their pictures on also through filters, but that's very easy to forget. And you see these perfect pictures of everyone else, and you look at yourself, you, you, you know, you don't look anything like this. Oh my God, there's something wrong with my, with my body. And then of course, the pandemic has made it worse because people had to stay home. It's worldwide. I mean, it's certainly worldwide in all the advanced economies. So this is in Europe, in in, in Asia. The other big driver is, I think, although no one studies this probably for, well, I leave it to you family size. It used to be that people had 10 kids. Okay, well, it doesn't happen anymore. When, and I mean, our generation was more like two to four kids now.
+
+2 (1h 39m 20s):
+It's very common. Many families have no kids or one child in China, most extreme China, they three generation where they had single child. That means no siblings, no cousins, no nephews, no uncles, no aunts. You just know those from books, from abstract representation, but nothing in your experience. So this is the first in human history, and we don't really know what that does. What does it do when there aren't any siblings around to play or to interact with for good or for bad? Well, what does it do to the human psyche? No one does that research, but I think it's an extremely interesting question.
+
+0 (1h 39m 56s):
+Yeah. Somebody who has a very close relationship to his sibling, I, I can't even imagine life without a sibling. It just seems,
+
+2 (1h 40m 1s):
+Yeah, imagine zero sibling and that's the fact of life. Well, certainly in, in all the Asian, in many of the Asian countries, you know, in, in Korea, their birth rate now is oh 0.7. There was this recent New Yorker article where they described going to a school and there were like three or four kids in this entire immaculate school.
+
+0 (1h 40m 18s):
+Wow. Is it a cost of living issue that people are not,
+
+2 (1h 40m 23s):
+On the one hand, it's great because women, you know, women can decide not to have children of course. And so it, it gives them more freedom. So I think it's an allied good, but yeah, then healthcare is very expensive. Cost of school is very expensive. Your career will suffer, right? It's well known that a woman has a child. You know, a career will be set back for all those reasons now. And you could say we are 8 billion, right? We're not gonna die out anytime soon. But our all, so I'm not judging is good and bad, I'm just saying this is what it is. The modern family is much smaller than the family a hundred years ago. And that probably brings with it profound consequences that we are only now being very dimly aware of.
+
+2 (1h 41m 4s):
+Like the increase, I think it's one of the driver of the increase in, in mental health. They have increasing Mental Health Crisis. All sorts of studies show that when you survey first and second year, freshmen, some very large fraction, I don't remember the exact number anymore, 40 or 45% say of these freshmen say they don't interact with a single person a day because it's all virtual. They don't talk to anyone in person in the flesh, as it
+
+0 (1h 41m 31s):
+Were. Do they want to talk to other people?
+
+2 (1h 41m 33s):
+I dunno. Yeah, I dunno. But
+
+0 (1h 41m 35s):
+They're, you know, comfortable
+
+2 (1h 41m 36s):
+With
+
+0 (1h 41m 37s):
+That. Yeah. 'cause as you and I know there are some innate circuitries in the brain that more or less crave certain types of interactions, but the brain is also shaped along the contour of experience. And so you, if you make it to 19 or 20 and you've never really gone out on a date or done this autonomous play, the body might not want to do it. I mean, you know, it's sort of like one of the reasons I love dogs, this is, believe me, ah, dogs believe me, believe me as a, as a genuine transition, here I is. Because I think they can teach us a lot. Yes. And I think they can teach us a lot, not just about being friendly and not just about having fun and not being self-conscious, but I love looking at the different breeds of dogs. Actually, many years ago, a a fellow neuroscientist, my then girlfriend who I'm still friendly with, who's still a neuroscientist, that took me to a dog show.
+
+0 (1h 42m 24s):
+And she said, but we're not gonna go look at the dogs prancing around in the arena. The real action at the dog show is behind the scenes where you can go and meet all the different breeds. So we walk back behind the dog show. This was in the Bay Area. It was like a regional leading up to one of the Westminster things, I think it was some a KC thing. And you see the retrievers, you see the west highland terriers, you see the Karen Terriers, you see the Burmese mountain dogs, you see the English bulldogs, you know, sleeping like a xylophone, snoring. And you realize as a biologist, but even if you're not a biologist, that each of these lines has been selected for physical and behavioral traits.
+
+0 (1h 43m 7s):
+And that there's some very common kind of physical manifestations of each breed. For instance, some of the animals have, when they're awake, have a lot of spontaneous movement. The bulldog has very little spontaneous movement. It's very parasympathetic dominant. I mean, it, it's a very durable breed. The pain receptors have actually been bred out of its face over the years because they were originally used for bull baiting grab onto, and they would, they could, they, they would bite through their own jowls. It's a very cruel breed development. But you know, and they have, and it turns out that breeding out of the pain receptors is correlated with a, with a fibronectin mutation. So that's why they're droopy. And they have the short snout. So they have a, you know, they can grab onto the bull and they won't get shook off and anyway, and you get the whippets and the, and so we could go on, you know, to near infinitum here.
+
+0 (1h 43m 52s):
+But the, the amazing thing is you, you leave there and you start looking at people differently. You say, oh, you know, it's interesting. Some cultures, people move a lot. I just came from Italy. They're speaking a lot with their hands. A lot other people, you know, you, I've been to a lot of scientific meetings in certain parts of, of Europe and you know, places not to be named, but you fill in where people are very, you know, postures are perfect and hands move very little other places where people are gesticulating all the time and so on and, and on and on. But
+
+2 (1h 44m 20s):
+The question is said bread, or is that because of course people outbreed or is said just cultural variation case?
+
+0 (1h 44m 27s):
+I think it's both. I think it's both, certainly. But what was so, what's so interesting to me is that in observing different dogs, you sort of get, in my view, a a kind of a portal into different kind of levels of autonomic. What I think of a, kind of like the, the, the, the resting RP, you know, it's like when you id a car's idling at a certain rate, some dogs idle at a certain rate. Other dogs like the bulldog are very idle at a much lower frequency. And some people are like this, right? Some people just have a lot of spontaneous movement. Some people are very relaxed.
+
+2 (1h 44m 59s):
+Does that correlate with the, because in the human literature, there's this statistical claim that, you know, Longevity relates in inversely to rest, to resting rate heart in the sense that you have 2 billion heartbeats. And depending on your rate, there's some statistics, and that's, I know it's true across species, right? You have these small animals like birds or like mice that have very high resting rates. And then typically bigger animals have lower resting rate. Now I wonder how that is with among dog species.
+
+0 (1h 45m 31s):
+It's, it is very interesting. Dog Breeds, it certainly lifespan correlates inversely with body size in Dog Breeds largest variation in body size of any species, I believe. Yeah, the Chihuahuas and the Great Danes, I think it's an IGF one gene that drives the do the dosing of IGF one essentially dictates body size and the dogs, the genes at scale. It's a beautiful cover of science with a little tiny teacup chihuahua and the biggest great Dane that ever existed. And they map it to ig IGF one. Yeah. But there's an interesting case of spontaneous movement and Longevity. The, the great choreographer Twila Tharp, she was a, a ballerina, et cetera. She claims I, I love her. She has a wonderful book called the creative Habit.
+
+0 (1h 46m 11s):
+And she claims that as people get older, one of the reasons that they slow down so much is that she's not a neuroscientist, but she hypothesizes that they engage in a lot less spontaneous movement. There's their, not, not just physical exercise, but their, their bodies aren't as active. And her whole career has been made of understanding the relationship between mind and body. And she insists that once you stop moving less, even just about your day, your brain starts shutting down circuitry and then eventually you die. And she's very, very vigorous still in her eighties. It's a theory, but I feel like these things hold together. We can learn a lot from animals. This is the point, I suppose. Yeah.
+
+2 (1h 46m 51s):
+For humans, aging is also true for Cognitive Flexibility, or you certainly become less flexible. You become less willing to engage in new things as you, as you age.
+
+0 (1h 47m 0s):
+Right. Your perception box is full.
+
+2 (1h 47m 5s):
+Well, maybe your motivation, your curiosity becomes less and your motivation, I think that's a difference, right? You say, Hey, I've done this a hundred times. I don't need to do it a hundred first time. Yeah. I know what he's gonna say already ahead of time. Yes.
+
+0 (1h 47m 17s):
+Cynicism is the death of of, of all people. I really believe that Cynicism is the thing that shuts us down. Like the worst thing that could happen. Truly, the, the very worst thing that could happen as a consequence of what we observed yesterday would be that people start to just become cynical. Like, we'll never make it out of this trap. That would be the worst outcome, right? Because we, we still need people, especially young people, but we need all people to believe that we can overcome these fundamental and we can make a difference, fundamental aspects of our wiring
+
+2 (1h 47m 45s):
+And incorrect. That's essential also for any sort of therapy, a willingness to believe that you can make, that this therapy can make a difference.
+
+0 (1h 47m 53s):
+So how do we instill that in? Well,
+
+2 (1h 47m 55s):
+I mean, in a sense that's a placebo effect, right? This is what the placebo effect tells us, that if you have someone in a white code that says, doctor Soandso, that has a stethoscope and that has a particular pill, this has all been studied, right? Can make a difference. And then you read about it that this pill, you read about it or your friends tell me, yeah, this pill will work, wonder. And so therefore it does work wonder, right? So that's essentially the, your belief that's find its substrate somewhere in the brain. Do you know this interesting study? Another colleague of yours, both his neuro anesthesiologist at Stanford Med School
+
+0 (1h 48m 33s):
+Tell me,
+
+2 (1h 48m 34s):
+Came out a couple of years ago with, with Ketamine. So he looked at, he looked at a subset of patients that had to go, this was I think nature medicine that had to go to surgery, but they, that, that were depressed. So they went to surgery because of hernia or whatever the surgery. But then you looked over many years only at people who were depressed on the Med Es score, you know, the standard scale, how you evaluate how clinic clinical personnel evaluates depression. And then he split them into two group. Both would get Ketamine therapy, but during anesthesia, during full level surgical anesthesia that they needed to do their surgery. Okay? That was, that was in addition to.
+
+2 (1h 49m 14s):
+And so half the people, everyone got the treatment. Everyone talked six hours with, with therapist and psychotherapist and with him, he held, he said, I held the hand of every one of these 40 patients doing anesthesia. 'cause I was the attendant. And so the good news is the people, an anesthesia who got the Ketamine still got the typical drop, you know, that looks like this. A quick drop in the first couple of days, and then it stabilizes. The interesting news is the people on the other arm that didn't get Ketamine also had this, In fact, what predicted how the drop was, whether you believe the extent to which you believe you got the Ketamine. So it's a beautiful example of if you believe something, it is more likely to lead to, to therapeutic benefits.
+
+2 (1h 49m 60s):
+And so Cynicism works directly against that. Because if I say, ah, whatever, it's just another pill, it's not gonna do anything, then it's much less likely to actually work.
+
+0 (1h 50m 8s):
+Well, this incredible, I wasn't aware of that study. I'll definitely look at the study. It, you know, one of the reasons I am troubled by what I would refer to as kind of the, the lack of Heroes nowadays, even Heroes from the past, is that it breeds such Cynicism. Yep. You know, when I was growing up, I was told that George Washington never told a lie. I was told that Martin Luther King was a, a flawless human being, or at least his flaws were not made apparent to me. And so I focused on what he accomplished. Well, I think nowadays there's a tendency to look into the past, the present, and to find flaws in people.
+
+0 (1h 50m 55s):
+And as a consequence, we don't really have true Heroes. I mean, there's some people who do spectacular things. Alex Holl being a good example and leads a very, very good and honest life, loves his wife and kids, et cetera. But there, those examples are rare. You know, the typically the, the idea is to either expect,
+
+2 (1h 51m 14s):
+Look for flaws,
+
+0 (1h 51m 15s):
+Perfection, or to look for flaws and to puncture whatever else they happen to accomplish. Now, there are true criminals and people that really screw up, but, but this notion of, of embracing human nature as, as sometimes including flaws has, has been pretty extreme. And you know, so much so that even on, I don't know what the situation is at Stanford, but many a buildings and statues, et cetera, have been taken down and renamed because there was a, a darker portion of somebody's history that didn't match with their incredible accomplishments. So e essentially we've been, we've been fertilizing Cynicism, and I worry very much about that because the brain is plastic at every age, especially when people are young.
+
+0 (1h 51m 56s):
+So if you wire Cynicism in deeply into these circuits, yes. You go through life as a cynical person, you become scrooge,
+
+2 (1h 52m 2s):
+And I think you are right. You, you and you are right to worry. We judge everything by our standards. And of course the future will judge us for doing atrocious things to animal, to the environment, you know? But we don't worry about that. We just judge people back because they said something or they've written a book or they advocated for this particular position that now is untenable. Yeah, I think it I agree with you. It's terrible.
+
+0 (1h 52m 24s):
+Yeah. Or they made mistakes in, in, in domains of their life. Don't we all?
+
+2 (1h 52m 28s):
+Yeah, sure. Don't we all, but that's never acknowledged. Yeah. Current activists are perfect and they take the, the right to judge everyone in the past by their criteria. Yeah. It's what you said, this, this, this other perception box, this other mindset. If you don't measure up to my moral standard, I'm not gonna talk to you.
+
+0 (1h 52m 46s):
+So on, we have this, these two ends of the, of the continuum, I would say you framed it up, curiosity versus Cynicism. Curiosity is pro plasticity. You evolve your Consciousness and
+
+2 (1h 52m 59s):
+It's beneficial for you and for the society. Yeah.
+
+0 (1h 53m 3s):
+And Cynicism, it's the opposite. Shuts the the perception box.
+
+2 (1h 53m 6s):
+Yeah. Closes it and, and, and, and makes you not believe in the possibility of life, including changing your own, your own faults. Because yeah, it's all cynical. Nothing works. Anyhow, the doctors just kind of sell me another therapy so they can make money. Yeah. Then it's not gonna help you if you, if that's really what you believe. Yeah. It's really, it's very bad Cynicism. So the, in some sense, I agree with you, it's the worst sin to not believe in humans anymore, and the possibility of the human spirit to get out of bad situations like the one we may be currently in. Yeah.
+
+0 (1h 53m 39s):
+I mean, Deaths of Despair are one of the primary causes of death in people younger than 30. I heard a, a, a hearing with the previous NIH director right before the, the administrations changed. And it was incredible to see all these quite well-meaning on both sides of the political aisle. But let's be honest, old people talking about,
+
+2 (1h 53m 59s):
+Oh, those the fighting
+
+0 (1h 54m 0s):
+Works. Yeah. Al they're, they're old and, and and, and they're old. And, and they were focusing so much on all the incredible benefits that research have, have provided for the treatment of diseases that people experience as they get older. You know, life lifespans have gotten longer and, and quality of life has actually gotten much higher for people in, I'm in this age bracket now in the 50 and up bracket, but then the previous director of the NIH bertozzi, I think her, her last name was Caroline Bertozzi, forgive me if I'm getting the first name wrong. In any case, she said quite aptly, she said, we can't forget that for people 40 and younger, they have a, a lot of potential life ahead of them, but Deaths of Despair are killing them at rates that are far greater than at any time in, in history.
+
+0 (1h 54m 49s):
+They're very ill despite not being physically ill. And you know, that was a shock to me and I really appreciated that she stood up and said that because of course she's a member of the other cohort. And it made me realize that taking care of that problem is perhaps
+
+2 (1h 55m 6s):
+What's more important. Because more important also ask, they're the ones that formed, you know, the future society, the future lawyers and politicians and business people. Right. And of course they have a much longer portion of life left to live than the old folks.
+
+0 (1h 55m 20s):
+Yes. I think we need to reduce Cynicism and increase curiosity. Yes. That
+
+2 (1h 55m 24s):
+Yeah. And Compassion with everyone. Yeah. So this, I mean, you are again, just alluding to the, to the Mental Health Crisis. Yes. A lot of this is mental health. They're physically are fine, but they are super anxious, lonely, you know, people had drink less, have less sex, they live longer with their parents. They're much more anxious than any previous generation, although we are so much richer, we are so much better off. But they have, they feel, they feel worse. And people say, well, isn't it horrible? Well, how was it in 1918 after World War I, right? After the previous generation has slaughtered itself? How was it growing up under the shadow of nuclear ation? Right? Cold war.
+
+2 (1h 56m 5s):
+So today, this isn't a particular unique point in that, that there have always been troubles, there have always been wars, there have always people that suffered. But what's so different is, is this the Cynicism and the belief, well, it's part of the system's, nothing we can do about it. And so you wonder where this culture is in its natural evolution.
+
+0 (1h 56m 23s):
+Well, I won't suggest that people all run out and do psychedelics because that would be irresponsible. People with a predisposition to psychosis would be, or bipolar conditions would put themselves at risk. But I am gonna put a flag in the ground for trying to encourage curiosity and, and limit Cynicism, especially for the next generation. I mean, part of the reason for having this podcast is so that people can access people like you think about these issues, think about where they've been kind of pigeonholed into a particular way of thinking and, and realize, wait, I'm a conscious being. I can actually make choices. It takes work. As you pointed out, we can't, no one can be lazy about this, but I don't actually believe that the younger generation is lazy.
+
+0 (1h 57m 5s):
+They're anterior, mid cingulate cortices. They're not lazy. Are are, they're firing like crazy. It's just, they need to know which direction to put it. And I feel like growing up I was told, Hey, listen, pick a vocation that you like and that maybe you can make a living doing it and just go for it. And it was just all in. There wasn't this idea of how it might turn out because he kinda understood, oh, you work hard, things work out more or less. I want to ask you two more questions that are going to seem very at odds with one another, but they're just two independent questions. The first question is about Jennifer Aniston, and the second question is about the Meaning of Life. So first, we're in Los Angeles, a lot of actors here, Jennifer Aniston is a very famous actor and you know, a thing or two about Jennifer Aniston and brains and Neurons and firing of Neurons.
+
+0 (1h 57m 55s):
+So maybe you could share that, that discovery with us. I think it's a fascinating and important one for people to know about.
+
+2 (1h 58m 1s):
+Yeah, so this was 20 years ago, roughly when I was a professor here at Caltech. And I worked with a group of a neurosurgeon called ISAC Fried at UCLA epileptic unit, so here to monitor people's brain for epileptic seizure. And in some of these patients, they put in electrodes to listen to individual Neurons. So you can hear the, you know, the staccato sound that Neurons make when they communicate with each other using action potential. And so this afforded us a very unique window into actually listening to a human brain. When humans do what they do on the ward, they watch movies or, you know, they're bored. They have to wait, they have to be on a ward in this state where their brain is monitored for a couple of days until they have seizures to help the, the, the neurologist pinpoint exactly where the seizure originates.
+
+2 (1h 58m 51s):
+So this is done for, to help these patients. And so the Rodrigo Ro was a post-doc at the time in my lab. And Gabrielle Carman, who's now at Harvard, he was a student in my lab, they recorded from these nuances and they found this nuances at first with great difficulty believing that they exist. So they showed people, so in a, in a mouse lab or in a monkey lab, we would've shown random dots or something or bath, bananas, banana or banana. But you know, a human, particularly in this part of the brain, hippocampus am amygdala like, and cortic don't much care about that. So we showed them things that people care about, buildings, famous building people, actors. And then we found there was a Bill Clinton cell, and there was famously a Jennifer Aniston cell.
+
+2 (1h 59m 34s):
+And then, so there's a cell that respondent primary, so you only have a limited amount of time. It's important to note. So we cannot show 'em all possible images of all possible actors and all, it's simply not possible. You show 'em a hundred to 200 images, each image you wanna show three or four times randomly shuffled. So turned out there were some cells that respondent uniquely to specific individual like Jennifer Anderson. Not interestingly, there were, she was married at the time to, oh, I don't know this stuff. Brad, Brad Pitt. Thank you. So she, the new one didn't fire to Brad Pitt and Jennifer Ansen, but fire specifically to different pictures of, of Jennifer Anderson, some other selves fired to other people, including sometimes their name.
+
+2 (2h 0m 18s):
+Okay. So, so it turns out that, that, if you are familiar with people like Donald Trump, okay, our president, for better or worse, we all have nuance. That's a claim ultimately that their nuance in the brain that respond relatively specifically when I tell you Donald Trump, when I just mentioned him, or when you dream of Trump or imagine him or see him on a, on a, on a podcast, there will be specific cells because it makes sense, because these people like your family, your friends, the, the people you work with, they're so important. Your brain is decided to wire up Neurons that respond to these specific images. And of course we find something like that in deep neural networks.
+
+2 (2h 0m 59s):
+The, it's less, it's been difficult to find these in other animals, partly because the animals don't have this repertoire of knowing 10, you know, thousands or tens of thousands of different people. Right. You and I can recognize probably instantaneously 10,000 different people. It's something unique to the human species. Yeah. So it's now sort of star, part of, of textbook knowledge, including the name Jennifer Anderson. What's really funny, I had a postdoc Lee at Murrick, she's now Professor Tel Aviv. She, part-time, she interviewed people to, to, to make some living for, she interviewed living people for living. And she talked to, to Jennifer Aniston about this. She had no idea Jennifer Anon that these Neurons were there.
+
+2 (2h 1m 43s):
+It was very interesting.
+
+0 (2h 1m 45s):
+Very cool. And as you describe all this, people's Jennifer Aniston cells are firing. Yes.
+
+2 (2h 1m 50s):
+That's the idea.
+
+0 (2h 1m 51s):
+Specifically and Donald Trump cells. Yes, yes, yes. I have to say, I went to the US Open recently, the Men's final, the US Open. It was spectacular. And Donald Trump was there, so he was some distance away, but I get to see him and it's very interesting when you see somebody that you've only seen represented on a screen in real life, he looks exactly the way he does on the screen, mind you. But it, it was so interesting to, to just realize that that real and, and virtual worlds collide in those moments and probably reinforce our maps. Yes. Like we're bringing all these priors to our understanding of the person. The, the, the difference in priors was read out in the, in the stadium when his name was read out by either it was, it was, it was totally bipolar distribution.
+
+0 (2h 2m 36s):
+One group booed, the other group cheered. It was just like, there was nothing in the, there were probably some silent folks, but it was just like very, I mean, as a, if you could record from every person, like you would record from a bunch of Neurons, it was actually a very interesting kind of emergent phenomenon. But anyway, I'm digressing a bit. Jennifer Aniston sells. Thank you for making so,
+
+2 (2h 2m 55s):
+So, so interesting. People had difficulty believing that because it was generally a assumed that what's called the Grandmother Hypothesis, just a term that the field came up with for various historical reason. The idea that nuance in your brain that represent your grandmother is obviously ridiculous. But it turned out no, if you grew, if your grandmother's an important person for you, you probably very likely will have onset fire in response to grandma.
+
+0 (2h 3m 20s):
+You're extremely well read and you, and you read from different areas of science and philosophy and et cetera. I know a number of people, including myself, are probably curious to do their own exploration. I've never done this before on the podcast, but I'm very curious to know if you had one or two, maybe three books that you think would be a very informative for
+
+2 (2h 3m 40s):
+People. Marcius Confession,
+
+0 (2h 3m 42s):
+Marcus Aurelius confession
+
+2 (2h 3m 43s):
+2000 years ago was written probably for himself, not for posterity. The emperor, you know, second century emperor, one of the more particular in times of crisis, you know, teaches you about mindfulness in a very different, in this Roman context and about being, you know, the only thing you can control is how you respond to events. Again, sort of this, it's, I can control my emotional response to it. Really wonderful book that I've given to my kids and I've given to friends and to other people. Confessions of Marcus Aelius.
+
+0 (2h 4m 21s):
+Great. And we'll direct people to the many books you've written. I haven't read the most recent one, but I about mystical experiences. But I absolutely will. Of course, I've read your other books. This is not the Lex Friedman podcast. Lex is a good buddy of mine. But in kind of Lex Friedman ish context, I am very curious about how somebody who thinks about Consciousness, who is a neuroscientist, who thinks about these related fields and of course has his own life experience, including psychedelics, thinks about the so-called Meaning of Life. I can think of two extremes to just kind of frame this up. One extreme that some people will embrace is, look, you know, we're here to just collect experiences and make sense of them and try and do our best not to harm anyone along the way and do some good and build some things.
+
+0 (2h 5m 10s):
+The other might be something more aspirational about knowledge and things that are pervasive through time. I'm wondering how, for you, you think about your own purpose in being here and what you're doing and what you plan to do next. 'cause clearly you're not slowing at all. It's remarkable. You're vigorous doubled since the last time I saw you. Maybe it's the yellow hoodie. Those that are just listening to watching Christoph has never shied away from making a statement bold, bright colors. He's a, he's a, he's a bright light. What's your philosophy on how to approach your own life? And then if you're willing, maybe give a a, a sliver of advice or suggestion to those that are who ponder their own Meaning of Life?
+
+0 (2h 5m 57s):
+I think most people do. I certainly do.
+
+2 (2h 5m 60s):
+I do. Yeah. I, I find myself, we find ourselves in a universe that's strangely, strangely conducive to life and to conscious life that you could say we live in a universe that's conducive to Consciousness. You know, some version of the anthropic principle. We don't know why. We also live in a universe that I think is ultimately, fundamentally phenomenal mental, the mental evolves on its own laws that I don't have access to. I'm part of it. I will return to this mental, that's as far as I've gotten. I don't know, is there some sort of, you know, do you know what's the Christian thing de you know, so he was a Jesuit and a paleontologist and he had this point, OMI god, this hypothesis of 0.0 Omega God, the Thai universe is evolving.
+
+2 (2h 6m 47s):
+So he was the first to talk about this new sphere, which in he talks about that over the next hundred years there will spread this sort of conscious type of atmosphere that you can think of like the, the internet across the planet. And we're all striving, all of creations striving towards the point of maximal Consciousness, which he believes will be in the fullness of time, the emergent with God. I don't, I'm not sure about that. All I know that ultimately what truly exists is this mental, and we are part of that, and we will be going back to that. But I don't claim to understand the enhanced laws of this mental, but upon that, like you, I question, I'm curious and I know I will, I will not find any final answers and that's okay.
+
+2 (2h 7m 32s):
+I will, you should just strive never cease to stop. Never stop striving to try to understand the world and leave the place, the world a better place than you found it.
+
+0 (2h 7m 43s):
+I love it. Well, thank you for that and thank you for coming here today and sitting down with me. It's such a pleasure. That was
+
+2 (2h 7m 49s):
+Great fun.
+
+0 (2h 7m 50s):
+Yeah, it was great fun to talk to a fellow neuroscientist and, and, and one who is a, has accomplished, but also as generous with knowledge as you are. You know, your, your career, and I'll send people to a link about this. It's, it's really a spectacular example of being curiosity driven and in many cases very, very brave. I mean, I could've given an entire podcast about how brave it was to start talking about Consciousness then to move into building things at the Allen Brain Institute and on and on. I knew before we sat down that we were gonna have a great conversation because of what you bring. But I know I shared and everybody's thoughts that you've given us a ton of wisdom.
+
+0 (2h 8m 33s):
+You know, some people when they speak, very little happens, but a lot of words are shared when you speak. Everything really counts and transforms my way of thinking. And I know that the listeners as well, they're gonna think really deeply and hopefully we can eradicate some of the Cynicism Yes. And promote more curiosity and and expand our perception boxes because I think mental health depends on it in many ways. Not just the future
+
+2 (2h 8m 57s):
+Of our society,
+
+0 (2h 8m 58s):
+The future of our society. And I really appreciate your willingness to throw yourself into these arenas. Please come back again and thank
+
+2 (2h 9m 6s):
+You for having me.
+
+0 (2h 9m 7s):
+Thank you. It's been a pleasure. Thank you for joining me for today's discussion with Dr. Christophe Koch. To learn more about his work and to find links to his many excellent books, please see the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple and on both Spotify and Apple. You can leave us up to a five star review and you can now leave us comments at both Spotify and Apple. Please also check out the Sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube.
+
+0 (2h 9m 53s):
+I do read all the comments for those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols and Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at Protocols Book dot com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols and Operating Manual for the Human Body.
+
+0 (2h 10m 34s):
+And if you're not already following me on Social Media, I am Huberman Lab on all Social Media platforms. So that's Instagram X Threads, Facebook and LinkedIn. And on all those platforms, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all Social Media platforms. And if you haven't already subscribed to our Neural Network Newsletter, the Neural Network Newsletter is a zero cost monthly newsletter. That includes podcast summaries as well as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training.
+
+0 (2h 11m 18s):
+All of that is available completely zero cost. You simply go to Huberman Lab dot com, go to the menu tab in the top right corner, scroll down to newsletter, and enter your email. And I should emphasize that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Christophe Koch. And last but certainly not least, thank you for your interest in science.

@@ -1,0 +1,1307 @@
+0 (0s):
+Welcome to the Huberman Lab podcast where we discuss science and science based tools for everyday life. I'm Andrew Huberman and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Michael Snyder. Dr. Michael Snyder is a professor of Genetics at Stanford University School of Medicine. His laboratory focuses on how different people respond differently to different types of food and health interventions. And his overall goal is to figure out how different genes and proteins that different people express impact people's Immune System function, reaction to different foods and diets, blood sugar regulation, Immune System, and Longevity.
+
+0 (41s):
+Today's episode could basically be summarized as, as you suspected, not everybody responds the same way to the same behavioral drug supplement or other treatment designed to improve Health Span and lifespan. For instance, the Snyder laboratory published a paper earlier this year showing that different people spike insulin in response to different types of carbohydrates. Things like the glycemic index, which we may be familiar with because they are essentially a readout of how much a given food impacts blood sugar. Depends on who you are. They identified so-called potato spikers. They literally refer to them as potato spikers in this paper versus grape spikers, people whose insulin spikes in response to potatoes but not grapes and vice versa.
+
+0 (1m 23s):
+And while this might seem kind of silly or trivial or micro slicing, the identification of these different subtypes of people in the general population who respond differently to different types of foods is extremely important because I think most all of us are getting a little bit tired of all these discussions about carbohydrates are good, carbohydrates are bad, these carbohydrates are good, these carbohydrates are bad, and on and on. Turns out it depends on which genes and which proteins you make. In other words, Individual Variability matters. And we talk about that Individual Variability in the context of nutrition. Also in the context of Fiber, it turns out that Fiber is something that people generally believe is good for your health. I certainly believe that. Well, different types of fibers impact people differently.
+
+0 (2m 4s):
+Some people experience systemic Inflammation of their brain and body when they eat certain types of fibers that's bad. Other people experience systematic decreases in Inflammation when they eat certain types of fibers. The key is to identify which category you're in and therefore, which fibers to eat. And as it turns out, different foods have different fiber types, so it's tractable. There are things you can do about it. We also talk about GLP one drugs and how those impact Longevity. This is something that's very controversial and very timely right now, and we discuss how different psychological interventions, yep. The Snyder lab has even looked at how different psychological interventions impact the genes you make and the proteins you make and their effect on Health Span and lifespan.
+
+0 (2m 45s):
+So today's discussion is sure to change your mind about a lot of things related to nutrition and fitness and medicine. However, I promise that thanks to Dr. Michael Snyder, it will not confuse you. In fact, it will clarify many things that perhaps before the episode were confusing to you and many other people. Dr. Schneider's laboratory is recognized for doing extremely rigorous analysis of the genes and proteins that can explain Individual Variability and what people should do or not do in order to maximize their health and Longevity. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public in keeping with that theme.
+
+0 (3m 28s):
+Today's episode does include Sponsors. And now for my discussion with Dr. Michael Snyder, Dr. Michael Snyder. Welcome,
+
+2 (3m 36s):
+Great to be here.
+
+0 (3m 37s):
+I'd like to start by talking about Glucose regulation and food and Food Choice exercise, sleep and how they all interact. But I wanna make it very simple to start, how is it that what we eat impacts our Glucose response? And maybe you could tell us a little bit about what a healthy Glucose response looks like. Because by most people's view, any inflection in blood Glucose is a quote unquote spike. But what are the sorts of spikes that matter for health? And what are the sorts of spikes in blood Glucose or what are called Glucose excursions that you know, you go, okay, well that's a normal response to eating some food.
+
+0 (4m 18s):
+And then it goes back down to baseline. I think this is especially important nowadays with all the interest in metabolic health in how particular types of foods like processed foods are indeed far worse for us and on and on. So if you could just give us your view and understanding of Glucose excursions, what they mean when they're good, when they're bad.
+
+2 (4m 39s):
+Well, I would say that, you know, high, long prolonged spikes is obviously pretty bad. But certain things like if you eat a grape grapes pretty loaded with sugar, but it's a pretty transient spike, it'll go up. And so that would be a transit one actually, when you do strength training, for example, for exercise, you break down glucagon, which is a, you know, it's a polymer of sugar that you break down, gives you energy that's important for when you're doing exercise and training. And that will give a Glucose spike. I get a Glucose spike every morning when I wait train. So that would be a normal healthy one. But it's transient. It goes away pretty quickly.
+
+2 (5m 20s):
+What's
+
+0 (5m 20s):
+Quickly,
+
+2 (5m 21s):
+Within 30 minutes, maybe most 60 minutes. Now I'm a special case. I'm a type two diabetic, so my spikes go higher and longer than most people. So yeah, mine are not good spikes, but we can get into that. So what is a good spike? Well, the calibration people mostly use as time and range. It's a simple metric, meaning if you're a healthy person, your Glucose is normally for most people around 90. And if you're off, you will go higher than that. For most people, you want to keep your Glucose between 70 and one 40 if you're healthy.
+
+2 (6m 2s):
+For diabetics, they say try and keep it between 70 and 180. And that is what people try to do. And, and most healthy people, it's pretty easy. And I think one of the things we've done, you've heard about continuous Glucose monitors these devices and I'm wearing one and I, some of your staff I know are wearing them as well, and they're over the counter. Now. You put these on your arm and they measure your Glucose every five minutes so you can see exactly what's going on. And so we put them on so-called normal people, pre-diabetics and some diabetics that was already well known. Diabetics will spike their Glucose through the roof too high for too long. And then the people, Devi, especially type ones control mechanisms for, for releasing insulin and controlling all of that.
+
+2 (6m 47s):
+But for the average person that wasn't so well known at the time we were doing this and it was a bit of a surprise to see that a lot of people, some were, did a very good Glucose Control, but some pre-diabetics were what we call moderate spikers. We came up named Glucco types as it's a way of quantifying this and, and then some people were spiking just as bad as diabetics and had no idea. And so it was a way of revealing what was going on. So it's recommended that you try to stay in this 71 40, but it is a bit arbitrary, but it's not a bad rule of thumb to to work by for the average person. But again, some people have very, very good Glucose controls. Some are moderate spikers and some are severe.
+
+2 (7m 29s):
+And it's pretty clear that excessive spiking, especially in diabetics, is associated with cardiovascular disease and other things. There's some pretty strong papers out there on that. So you do want to keep it under control. And there's a very strong correlation between this time and range measurement I mentioned and something called Hemoglobin A one C. That's a measure of your steady state Glucose. And so if you have high Hemoglobin A one C, that's typically how we classify people for diabetes and pre-diabetes, if you're over six five or over, you're classified as diabetic. If you're five seven to six four, you're pre-diabetic and if you're under that, you're, you're so-called normal.
+
+2 (8m 10s):
+And this time and range will actually correlate very, very well with that. So it is an, it's a surrogate measure for that, but it's actually pretty cool because it's, you can precisely see what's going on in real time, unlike a Hemoglobin A one C measurement, which you get periodically. So if you wanna dig into that further, I would say that, you know, what's cool about these CGMs is that you wear them like I'm wearing one now, you can wear them the for about 14 days, depends on the particular device. And you see exactly what foods do what to you. And we're all different. So some people spiked to bananas, some to potatoes, some to pasta, some to white bread, some to brown bread.
+
+2 (8m 51s):
+And so this was shown by Aaron Siegel's lab at the Weisman. And our lab had found something similar and it's very personal. And so we've been spending a lot of time trying to dig into what's behind that.
+
+0 (9m 2s):
+So different people, Glucose spike to different foods. It's hard to predict on the basis of something like a chart of glycemic index, for instance. So if I understand correctly, and I have glanced at those papers, you know, I might be able to eat mango with nothing else and my blood Glucose doesn't go out of range, or at least not for very long. Whereas somebody else might have a, a very big and prolonged spike in blood Glucose to mango, but maybe there are things they can eat that I can't eat like, I don't know, sourdough bread or something. By the way, I can eat sourdough bread just by way of example.
+
+2 (9m 39s):
+A hundred percent. Yeah.
+
+0 (9m 40s):
+And so, and so really the only way to know as you're pointing out is, is to measure, i, I wanna talk a lot about measurement today. Alright, for those that are just listening, not watching, Mike is wearing many Sensors. How many Sensors? You have got four watches
+
+2 (9m 52s):
+Of, I have my four watches of my ring. And even my hearing aids are Sensors, believe it or not. So okay,
+
+0 (9m 57s):
+We're
+
+2 (9m 57s):
+Gonna get, they're for a hearing, but
+
+0 (9m 59s):
+We're gonna get into all of that. Alright. But maybe we could talk a little bit about some of the subjective experience of blood Glucose excursions, both healthy and unhealthy. Okay. Most people are familiar with eating a big meal. Like the, you know, the cliche is the, you know, the Thanksgiving meal after which you're, you're tired, where you stuffed yourself with protein and carbohydrates and dessert, et cetera. Maybe some alcohol too in some cases. But I think people are also familiar with, you know, eating a certain food. Like for me lately, I'll have my bowl of oatmeal with some berries and my protein drink after I train. And I'm noticing with each successive year, I'm getting really sleepy after I eat this.
+
+0 (10m 42s):
+And I've swapped out the, the oatmeal for a different carbohydrate recently just with some white rice. And I feel fine. Right. And I, I don't think this is my imagination. I mean, in one case I want take a nap afterwards. In the other case I'm good to keep going and I generally have a lot of energy. So Right. Is what I just described, atypical. What are some subjective effects of high, high Glucose Spikes?
+
+2 (11m 4s):
+Yeah, well, certainly Sleepiness is one. I can put myself to sleep with a piece of pizza. I'm diabetic, I'm a unusual diabetic. We can talk about that too. And yeah, if I eat pizza, my Glucose goes through the roof and I will get sleepy.
+
+0 (11m 20s):
+So, so does that mean that you eat and you feel sleepier? There's a, a period after you eat? Because this is what I experienced where I feel very energized for a short while and then it's almost like my vision gets a little blurry and I feel kind of like, you know, like I just want to curl up and take a nap even if I slept great the night before. Is that a blood Glucose response?
+
+2 (11m 40s):
+I believe so. I mean there are multiple things that affect Sleepiness and you probably know this better than me since you've covered sleep more. But yeah, like trytophan, things like this can help induce sleep as well. But certainly Glucose, these large Glucose Spikes, I can say personally make me very, very sleepy. Hmm. And alcohol can make a lot of people sleepy too. But you're right, there can be a lag because that first little shot of Glucose can be a stimulant, but very soon that shot can go very, very large of Glucose. And at least for me, it makes me very, very sleepy. So I think it's very normal.
+
+AG1 (12m 18s):
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium, three innate theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime Sponsor, AG one just created a new product called A GZA nightly drink designed to help you get better sleep and have you wake up feeling super refreshed. Over the past few years, I've worked with the team at AG One to help create this new A GZ formula. It has the best sleep supporting compounds in exactly the right ratios, in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. A GZ is, to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way, and it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new A GZ formulation and to enjoy the benefits of better sleep. A GZ is available in chocolate, chocolate mint and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be I think, chocolate mint, but I really like them all. If you'd like to try az, go to drink az.com/huberman to get a special offer. Again, that's drink AG gz.com/huberman.
+
+Wealthfront (13m 47s):
+Today's episode is also brought to us by Wealthfront. I've been using Wealthfront for my savings and my investing for nearly a decade and I absolutely love it. At the start of every year, I set new goals and one of my goals for 2025 is to focus on saving money. Since I have Wealthfront, I'll keep that savings in my Wealthfront cash account where I'm able to earn 4% annual percentage yield to my deposits. And you can as well of Wealthfront, you can earn 4% APY on your cash from partner banks until you're ready to either spend that money or invest it of Wealthfront. You also get free instant withdrawals to eligible accounts every day, even on weekends and holidays. The 4% APY is not a promotional rate and there's no limit to what you can deposit and earn. And you can even get protection for up to $8 million through FDIC insurance provided through Wealthfronts partner banks. Wealthfront gives you free instant withdrawals where it takes just minutes to transfer your money to eligible external accounts. It also takes just minutes to transfer your cash from the cash account to any of wealth front's. Automated investment accounts. When you're ready to invest, there are already a million people using Wealthfront to save more, earn more, and build long-term wealth. Earn 4% APY on your cash today. If you'd like to try Wealthfront, go to Wealthfront dot com slash huberman to receive a free $50 bonus with a $500 deposit into your first cash account. That's Wealthfront dot com slash huberman to get started. Now this has been a paid testimonial of Wealthfront. Wealthfront brokerage isn't a bank, the APY is subject to change for more information. See the episode description?
+
+0 (15m 17s):
+Yeah. There was this idea that if something is rather high on the glycemic index, meaning it spikes your blood sugar robustly, that by combining that food with another food or let's say some Fiber. Yeah. You know, as opposed to fruit juice, you know, eating the whole fruit, which of course includes the Fiber at least in a different form or adding some fat, you know, so I've tried doing this, you know, adding a bit more fat to that meal, but you know, in some cases it still happens. It doesn't matter if you try and blunt the blood Glucose response with with fat or with Fiber, you just find that you get that kind of like buzz and then crash. Right? And it's not the kind of crash where you, you can't do anything. It's, it's actually more sinister than that.
+
+0 (15m 58s):
+It's, it's more of a like a brain fog that then transitions into the desire to take a late morning nap. Which if you slept well the night before, you really shouldn't be feeling
+
+2 (16m 7s):
+Well. You can mitigate that of course by doing a walk and try and burn off a little bit of that Glucose. We can get into that.
+
+0 (16m 13s):
+Tell us about walks. 'cause we, we've talked a little bit about those on this podcast before, but what is the effect of a short walk and does it need to be a brisk walk or,
+
+2 (16m 20s):
+Yeah, I think brisk walks seem to be better. There's day, there's studies from, from other people on that, that a brisk walk for 15 minutes or 20 minutes after you eat will help suppress those Glucose Spikes. And so, and yeah, so there In fact some of these companies that have set up around personalized management of Glucose, I'm involved with one called January AI and there's others out there too. They actually recommend that if you eat something that spikes your Glucose, you should take a a brisk walk and that will suppress your spike and they connect, they'll actually teach you that and you can see it personally. And so one thing we've done, for example, most people spike to white rice, believe it or not, it's high glycemic index, but glycemic is more personal than people give credit for anyway.
+
+2 (17m 11s):
+You will spike your Glucose, but if you take a brisk 20 minute walk, you can just see that spike is much, much less.
+
+0 (17m 17s):
+And is that simply due to the low level mu muscle contractions associated with walking are just pulling, they're just acting as a Glucose scavenger?
+
+2 (17m 26s):
+That's what I assumed, yes. That you're burning it off. Did
+
+0 (17m 29s):
+You see this study out of, I forget the university in Texas, I think it might have been University of Houston, where they looked at people doing what they called Soleus pushups. Did you see this study?
+
+2 (17m 39s):
+No, I haven't seen it. This
+
+0 (17m 40s):
+Is wild. So they, they basically had someone subjects, there was more than one subject of course sit in a chair and essentially do the equivalent of, of what gym goers would call a seated calf raise. They called it a calf pushup. But okay. That all that nomenclature is kind of silly. What, what it really is, is keeping your toes on the floor and lifting your heels. It's like being like a knee balancer. Oh, okay. In class, what we're all told we interesting shouldn't do it. It turns out the Soleus, even though it's only 1% of the total body musculature acts as more of a Glucose sponge than other muscles in the body. Which sort of makes sense given the the walking.
+
+2 (18m 17s):
+Okay. Yeah. Thing we've been talking about.
+
+0 (18m 18s):
+Yeah. And now people had to continue doing this, but it was pretty effective. Now I'm, I would prefer to see people go out and take a walk after they eat. But not all of us can get up and, and walk after a meal. Yeah. If you're on a plane, sure you can, you know, you don't wanna fill the aisle 'cause people need to go to the bathroom. You know, it gets, it gets impractical. So it's kind of interesting to think about just like what requirements are for low level muscular contraction. Okay. And I, and I would always wanna see people exercising more as opposed to less. But you could imagine, given the number of devices that you're wearing that after you eat a meal, that you would have just a low level muscle stimulator just stimulating your, your Soleus or something like that. Just scavenge people you mean? You
+
+2 (18m 58s):
+Mean electric or a Yeah, physical one. Yeah, electric. Yeah. Maybe. You know, I think there's a lot of benefits as you know, from exercise per se. Sure. You make all these things called exer kinds that have a lot of benefits in general. So I, I think exercise probably broader than simply
+
+0 (19m 14s):
+Injecting itself.
+
+2 (19m 15s):
+Yeah, I I do too. So, but anyway, maybe what you say would be helpful for people. You know what I do and I, and there are others who do this too. You've heard of this phrase Exercise Snacks, especially for people who sit all day, the idea of getting up and used to be well get up and walk, you know, some brief walk, but now there's some ideas, well maybe get up and do more than walk, maybe do some of the things. I hadn't heard the one you said, but maybe that's a better thing to do. Or
+
+0 (19m 43s):
+Air squats or something of
+
+2 (19m 44s):
+That sort thing. Yeah, exactly. So we have people doing some squats now running a study like that and see what it does to their VO two max and overall, you know, health measurement. So, so I'm a big believer. Yeah. Sitting for eight hours is probably not good for you. In fact there are plenty of studies that show that and these breaks are, are good for you. Even walking's better than nothing. Do
+
+0 (20m 6s):
+You use a standing desk or a treadmill under your desk?
+
+2 (20m 9s):
+I don't do the treadmill. I have tried the standing one. I find I don't concentrate as well when I'm talking with people. So I have to confess, I do, I prefer to sit so I can be a little more engaged. I do have a lot of meetings, so for me that seems to be more effective. But it does mean I need to get up and take these breaks and so I, I haven't, but for other people I know they like standing desk. I've, I've heard for some people though, or it may not be overall as effective. So I don't know.
+
+0 (20m 39s):
+Interesting. Yeah. Yeah, I think the Exercise Snacks are a terrific thing that, you know, air squats or even just pacing these kinds of things. Yeah. I think we underestimate the, the extent to which our evolutionary history drove a lot more movement every day than we currently.
+
+2 (20m 54s):
+There's no why we sat eight hours a day in, in ancient times. Yes. Right. I a hundred percent agree. Yeah. Yeah. People had to be active. They had to be active to get, gather their food and deal with the elements. Yeah.
+
+0 (21m 6s):
+So these Glucose excursions, if they're brief, not a problem. But if people are finding that certain foods or food combinations are making them feel sleepy afterwards, I do think that the Glucose monitors are, are useful for parsing which foods are are doing. What I, I'd like to talk a little bit about Meal Timing and food timing. Okay, sure. For many years, just by virtue of preference, I will hydrate and I make sure to get electrolytes, water and caffeine in the morning. Okay. And I try to exercise in the morning. If I don't, I'll do it in the afternoon, but generally in the morning and my first meal always lands somewhere around 11:00 AM Okay. Or so, yeah. Roughly plus or minus an hour.
+
+0 (21m 47s):
+Is there any evidence that introducing a period of fasting at one point in the day versus say later in the day, like having breakfast, lunch and an early dinner versus lunch, an afternoon snack and a typical dinner of, you know, between you know, six 30 and 8:30 PM I think it's pretty typical, at least for Americans is better or worse for Glucose control. Yeah. In general health, I know you, your lab's been focused on, I guess it's called intermittent fasting, but this time restricted feeding, right? We're not talking about weight loss now I'm just talking about Glucose Control.
+
+2 (22m 23s):
+There's a lot to unpack there. So we have some studies where we put CGMs on people, smart watches, we track their activity, they did food logging and exercise logging as well. Track them in incredible detail. And they were also very well phenotyped for their Glucose Dysregulation. And we should probably talk about that a little bit about muscle and resistance, beta cell defects, things like that. So we were trying to relate what was their, the what the Glucose Dysregulation of phenotype with their lifestyle and not just their lifestyle, what they did, but when they did it. And what we found is that, first of all, some simple things already known is that if you have your bigger meal first thing in the morning, you generally have lower Glucose and, and don't and not later at night.
+
+2 (23m 14s):
+So people had their biggest meal or their biggest energy consumption later in the day is dinner. Which is awkward socially. 'cause that's what most of us have our big meal or many of us do. Those folks will have a higher Glucose and starchy vegetables is well known. Those folks have higher Glucose. But interesting fruits, people ate a lot of fruits as their major source of carbs had lower. That's because of the Fiber that's in there that helps them. Turns out most people don't get enough sleep. And so those who slept longer actually had lower Glucose. But some of the things we could tease out were when should you exercise? If you look at the party line out there from various studies, well you should exercise in the afternoon to get your best benefit.
+
+2 (23m 55s):
+But we found that that depends on the form of dysregulation you have. If your muscle and resistant, you actually get better benefit by exercising in the morning for Glucose the next day if you're
+
+0 (24m 8s):
+Muscle Insulin Resistance. Right.
+
+2 (24m 10s):
+Okay. So to unpack that a little bit, so you, you probably know that, you know, we, you eat something, you get Glucose if it's sugary and your insulin obviously, you know, helps control that, stimulate your cells to take that up. And if you're insulin resistant, especially muscle insulin muscle is a major consumer of Glucose means you're not taking up your Glucose. Right? So you're insulin resistant and you're don't take up Glucose and you wind up with high Glucose Spikes. But there are other forms of diabetes. So if to break this down or Glucose Dysregulation, there are people who don't make insulin early in life that would, we called type one, you can still become insulin deficient in making insulin later in life for type two.
+
+2 (24m 54s):
+But you can also have what are called beta cell defects. So insulin's produced by your pancreas, your beta cells, and I myself entitled to diabetic. I have a beta cell defect. Took me a while to figure that out. Meaning I make them some fine, my cells respond, but I don't release it from the pancreas. And then there's things called hepatic insulin resistant. So your liver is insulin resistant and other forms as well, fat insulin resistance as well. So we've now gotten into dividing up diabetes. So in, you know, basically classically people will group people into type one, which is 10% of people are type two, which is the other 90% of diabetics.
+
+2 (25m 34s):
+Well it turns out that's a really broad category that can easily be subdivided into what we call Sub Phenotypes. These different forms of Glucose Dysregulation. And we think that's a big deal because it affects the drugs you take. So for example, I am a beta cell defect and I didn't respond. I, I went through exercise, used to be a runner and I shifted to weight training about, it'll almost be nine years soon with the idea of building muscle mass, which failed miserably. My Glucose was gradually going up. So I shifted to weight training. I gained 10 pounds of muscle mass, I do whole body MRI 20 of them last eight or nine years.
+
+2 (26m 16s):
+And I basically did gain 10 pounds of muscle mass that had no effect on my, my Glucose Control. And the reason for that was that I'm not muscle and resistant. I'm a beta cell defect so I can gain as much muscle I want. It's not gonna help me release insulin from my pancreas. So knowing your Sub phenotype is a big deal, but then I respond to certain drug rep that actually promotes that release. So knowing your Sub phenotype determines your drugs. But it also turns out this whole lifestyle thing I mentioned earlier is a big deal and coming back to some of the food stuff. So we found that if you're basically in insulin resistant mu and resistant, you will spike to potatoes and pasta, but not if you're insulin sensitive.
+
+2 (27m 3s):
+And if you have beta cell defect, you also spike the potatoes. So you actually, you can Sub phenotype people according to what their Glucose Dysregulation is and that affects how you react to foods. And so then the obvious thing to do is modify your eating behavior on those foods so that you can basically live a healthier life is the idea. And so how are you gonna Sub phenotype? Well the way we do it now is super expensive. It's, you know, we do these gold standard tests, take several hours, hundreds if not thousands of dollars, depends how you do it. We believe it or not, can do it just from a simple Glucose curve.
+
+2 (27m 45s):
+So you may or not realize that when you put one of these Glucose monitors on you, you and you drink a shot of Glucose, you'll have a curve. And that shape is different for different people. And that depends on their Sub phenotype. Hmm. So meaning if you're muscle and are resistant, you'll have a certain shape and if your beta cell's a different shape and if you're a combination of things. And there are other factors by the way that play in here like your Microbiome. So the guts in your, the microbes in your gut all play in this. And so they basically affect the shape of your curve. And now we're not there yet, but we're good for some of these like for muscle and are resistant, we can quite accurately predict whether muscle and are resistant just from the shape of that Glucose curve, which you can get now from an over the counter purchase at, at a drug store.
+
+0 (28m 34s):
+Super interesting. There's a a, as you mentioned, a, a ton to unpack there. I just wanna make sure I understand. Sure. A couple of the points you made before we go forward, you said that vast number of of papers that have explored ideal Exercise Timing right point to the afternoon is the best time. Right. I've seen those papers also and my takeaway from those, the kind of gestalt of of, of those papers in my view is that if you're interested in performance, that the afternoon is better because your body's warm body temperature tends to be appropriate for performance. Whereas although some people wake up ready to go first thing in the morning, most people don't feel as energized first thing in the morning.
+
+0 (29m 15s):
+Some do, but most don't. But if I understand correctly, for many people in particular people with Muscle Insulin Resistance, doing Resistance Training would be preferable to doing cardiovascular training for blood Glucose regulation and doing that Resistance Training early in the day. It sounded like you were going to tell us that it sets a a kind of a, a trend toward better Glucose regulation throughout the day. But I don't don't want to lead the witness here. I wanna make sure that that that's true before we conclude that.
+
+2 (29m 46s):
+Well we haven't taken apart for that particular study the difference between Resistance Training and, and okay. It's more a general activity measurement. So if people are more active in the morning, if they're muscle and resistant will benefit, have better Glucose levels the next day. So we haven't yet done results, but I'm very interested in this. In fact, we have a separate study around high intensity training running versus long distance running and can, happy to talk about that that, but that's still in progress. So I, I wouldn't say we've totally done what you've gotten at, but we would like to dissect the Resistance Training versus a aerobic or endurance type of training.
+
+2 (30m 27s):
+I mean the bottom line is of course exercising any time is better than not exercising at all. Sure. So I, I think we'd all agree with that. But we do think you get better Glucose benefits if you are muscle and resistant to in the morning. And I also do believe that, yeah, building your muscle mass will help with actually reducing Muscle Insulin Resistance.
+
+0 (30m 48s):
+Thank you for that clarification. You mentioned different types of diabetes. So general categories are type one diabetes. These people don't make insulin, they need to inject insulin or, or or deliver insulin through a time release mechanism or something of that sort. Right. Type two diabetes I understand to be insulin insensitivity, which is bad, you want your cells to be sensitive to insulin so it insulin can bring the Glucose into those cells so they can use them, right. You're now subdividing this type two diabetes, the insulin insensitivity into muscle insulin insensitive as well as other tissues being insensitive. What percentage?
+
+2 (31m 26s):
+But it's more than that. Meaning there's a beta cell defect where you don't release insulin from your pancreas. That's has nothing to do with insulin resistance. That's more a mechanistic thing. Now why that that defect exists isn't so clear. Mike is kind of interesting, although we still don't fully understand it. But then there's also incretin defects. So incretin or these GLP that everybody's heard about, ozempic is a mimic of those and RO and things like that. And so there are people with defects that way. So we're all different and we can now subtype that we can say this person's got mostly an incretin defect, this one's muscle and resistant, there's a beta cell defect.
+
+2 (32m 10s):
+And so, and some people are combinations of those. It's not pure one or the other. So we think actually the subtyping is a big deal because again, it determines your lifestyle choices you might make to better control your Glucose and of course drug responses as well. So we think that's important.
+
+0 (32m 31s):
+We know that many, many people in the United States and elsewhere sadly are overweight or just clinically overweight. And I think it's about 30% of people in the United States are clinically obese. When you talk about type two diabetes and these different Sub Phenotypes as you're referring to them, right. What percentage of people in the United States do you think are type two diabetic that have some sort of either insulin insensitivity and that's the, the reason versus, you know, they're making plenty of insulin but they can't release it. I mean what, what sorts of numbers are we talking about here?
+
+0 (33m 12s):
+Because I think for listeners they're probably thinking like, okay, like I, as long as I don't eat too much sugar, I feel fine. Does that mean that they don't have type two diabetes people who perhaps are of a healthy weight? Does that mean they don't have type two diabetes or any of these insulin management problems? It sounds like we don't know the real numbers but if you were to guesstimate what the percentages are of people out there who have some issue with insulin management at a physiological level.
+
+2 (33m 39s):
+Well if you include beta cell defects as part of insulin management, then the number is probably very high.
+
+0 (33m 45s):
+Like,
+
+2 (33m 45s):
+But I honestly don't know the answer. I don't think we fully know the answer 'cause people haven't done the Sub phenotyping like I've described, we don't know how many people have incretin defects. We are getting there with insulin resistance and such. But I don't think we're fully there. But I want to correct something that you said. I mean it's very much the case when you see someone who's thin, you can't assume they're not diabetic. This is very common, especially in South Asians to see in diabetics. And I'm a good example. No one would call me overweight by any definition. You know, I'm a diabetic and I have a beta cell defect and I used to think a lot of people who are thin diabetics probably have beta cell defects.
+
+2 (34m 27s):
+But it's not that simple. It's some do and some don't. Some, some are ins insulin resistant. And so, and then there are other people, believe it or not, who are very obese by any clinical measure what have you. And they have very good Glucose Control. So there are a lot of things we don't fully understand and a lot of it probably does, it fits in this idea that this is not a simple process. We have many organ systems involved in Glucose Control, your liver, your pancreas, your muscles we mentioned, but even your brain is a major Glucose consumer. And so we have all these different organ systems and then on top of that we have all these different biochemical pathways that are engaged as well. We mentioned the insulin one, but there's incretin which are these GLP things that promote insulin re release.
+
+2 (35m 14s):
+But they probably have other effects as well. I don't fully understand, I don't think everyone does all the effects of Incretins. They're these, the receptors are all over the place. And In fact some of these drugs you may have heard are actually now being touted as maybe anti Longevity drugs that because they seem to improve Cognition and stuff. Now whether that's tied to weight and things like that is less clear
+
+0 (35m 36s):
+As anti Longevity drugs or as Longevity drugs
+
+2 (35m 38s):
+As Longevity drugs. Alright, got it. Thank you for that correction. Yeah,
+
+0 (35m 41s):
+Yeah. Actually just for fun. Yeah, let's explore for a moment some of the things that we've heard these GLP one drugs are effective for.
+
+2 (35m 50s):
+Yeah.
+
+0 (35m 51s):
+Certainly for diabetics to better type two diabetics to better control their blood Glucose.
+
+2 (35m 59s):
+Yeah. If I can intersect there. Yeah. I am a type two diabetic and they were great for me. I, my Hemoglobin A one C got to eight four, which you know, it's not the highest but it's pretty high. And I went on the GLP and I went down to five seven
+
+0 (36m 13s):
+Just like that pretty
+
+2 (36m 14s):
+Fast. Yeah.
+
+0 (36m 15s):
+Independent of weight loss.
+
+2 (36m 16s):
+No, it, well initially yes, it's a little complicated. I went on a, a lower dose thing called Farxiga and that one dropped me down to about the six four or six five level. And I didn't lose too much weight. I did lose some and then I went on manjaro because I had some nausea effects. That is a common side effect. They were modest but they were there and I went and so I shifted majaro, which is a more potent version and that dropped me down to five seven and I did lose weight. I went from 1 44 to what I'm now 1 28, which I didn't like, to be honest. And it, but I can tell you my, I mentioned I do whole Body MRIs. I've done 20 as say over the last almost nine years.
+
+2 (36m 59s):
+And I could just see my fat evaporated once I went on these. I, I'm the coldest guy in the room now. But
+
+0 (37m 5s):
+You maintain muscle mass because you do Resistance Training
+
+2 (37m 8s):
+Mostly. Yeah. How many
+
+0 (37m 9s):
+Days per week are you
+
+2 (37m 10s):
+Doing it? I do it every day. So, but I have light days 'cause you know, you can't strain yourself hard every day. Oh, that's a problem. So I have light days with more reps and then heavier days for more of the strange stuff. And I have a specialty day where I do like snatches and things to build my core, this sort of thing. And so combination of, of those things. And so I do it every day and the goal was to keep my muscle mass up and I mostly did it 'cause I do get measured a lot, although it plummeted when I got in a bike accident and hurt my shoulder and then certain exercise couldn't do. And so those things as you might imagine diminished. So I did lose some muscle as a consequence of that.
+
+2 (37m 50s):
+I have mostly built my strength back up, not entirely back to where it was. So I, it's still there, but yeah, it, it's not a hundred percent. And then there's a question of how much strength versus muscle mass is important. I don't have, maybe you know the answer to that, I don't know. But anyway, I, I do try to keep it up. It's down a bit in terms of muscle mass and, and a touch and strength as well. I do my, again, my Hemoglobin A one C isn't too bad, but I don't like losing that much. I'll be honest with you. I, I thought I looked a little gaunt. So actually him now backing off on the monira, I don't do it every week like you're supposed to.
+
+2 (38m 31s):
+I'm on the lowest dose. So I'm a great responder there. And by the way, when you get him into these drug response, it turns out a Metformin non-responder. I did try that early on.
+
+0 (38m 40s):
+Oh, this is interesting. So just to remind people, Metformin and then the poor man's version of it is Berberine, which is sold as a supplement. They basically do the same thing. They lower blood Glucose. In fact, I will tell anyone that decides to take Metformin or Berberine that if you don't consume enough starchy carbohydrates with it, it can give you a brutal headache because you become hypoglycemic. Oh, I didn't know that. Oh, it's, it's really rough. Years ago I used to take a little bit of Berberine. I used to do these cheat days. Okay. As many years ago I would eat really clean all week and then I would like a Saturday I would just go for it. Like anything you wanted.
+
+0 (39m 19s):
+And I felt lousy. You'd have these energy, you know, peaks and valleys and then you just felt like by the end of the day you're just like, I'm done with food for the next 10 years. And of course you fast the next day you feel fine and you go right back to it. But it wasn't healthy. But taking Berberine, it was remarkable because it would allow me and other people that recommended it to me that you could just eat like an entire box of donuts and feel fine because it would blunt your blood Glucose response. However, if you don't have enough Glucose in your system, you gotta, you become hypoglycemic and, and you, you get, you get these brutal Headaches. So anyway, that's a little, and
+
+2 (39m 57s):
+This is becoming a big deal now, right? Hypoglycemia is now being recognized as a big concern actually. So, and people are picking up a lot of this with the CGMs.
+
+0 (40m 7s):
+Interesting. So, and this is because people are taking manjaro and taking other things that are dropping their blood Glucose.
+
+2 (40m 11s):
+Yeah. And just, it's probably been out there more than people realize in the first place that, and now with the CGMs people realize, well if you, we talked about these Glucose Spikes. Well it's very common if you get a really giant spike, you make a lot of insulin. So the consequences then you come down on the other side and you actually get too low Glucose from those spikes. So, so people are recognizing that and that can, people are now concerned about that certainly leads to fatigue.
+
+0 (40m 37s):
+Yeah. Glucose troughs are definitely bad. I, right. I don't do any sort of cheat day anymore. I, I actually just a few years ago I just quit eating bad food. Yeah. I don't eat on, well that's
+
+2 (40m 47s):
+Kind best. Right.
+
+0 (40m 48s):
+You know, or or I aim for, you know, 90% of my food intake to come from, you know, whole unprocessed foods Yeah. Al process and then occasionally a slice of pizza or a bowl of ice cream or something. No big deal. Right. Especially if you're exercising regularly. But so to go back to these, these drugs, these, these GLP one Agonists was basically what they are. Right. And we had a guest on here, Zachary Knight, who's at UCSF, Howard Hughes investigator who kinda shocked me by telling me that these drugs all increased levels of GLP one in the blood and brain by about thousand fold, that any less doesn't really have an effect on appetite, doesn't have an effect on the various things they're designed to to do.
+
+0 (41m 33s):
+So these are massive super physiological increases in GLP one that people are achieving with these drugs. I know nowadays some people are starting to get them from compounding pharmacies and microdosing them Right. To great effect actually. Okay. The big pharma companies don't like this because it's sold at a fraction of the price and you can get away with very low doses. This
+
+2 (41m 52s):
+Is what I wanna do, by the way. Yeah.
+
+0 (41m 53s):
+And no nausea. Right. And oftentimes they're combined with some other things that, off the top of my head I can't remember, but Oh right. Some of these more experimental peptides like SS 31, which are designed to improve mitochondria and people are getting really spectacular effects from the microdosing of compounded compound pharmacy, GLP one Agonists. But even those are probably boosting GLP one several hundred fold. So none of this is like natural right. For, for the body. And yet there are other positive effects like I've heard of reduced craving of alcohol. What are some others that you've heard of?
+
+2 (42m 31s):
+Cognition is a big one and it's certainly something people worry about a lot as they get older. It's almost becoming the number one thing people worry about as they get older getting dementia related conditions. So, and there's, you know, we'd like to see more studies out there, but there's some evidence that it may improve Cognition. Now how much of that is intertwined with weight loss and things like that I don't think has been totally de convoluted. So I think we need to sort all that out, but yeah. But people are now, you know, you may know the people used talking about Metformin, this diabetes drug as potentially the Longevity drug that this may be the way to live a lot longer healthier.
+
+2 (43m 13s):
+And the side effects are not high as far as we know if, if at all for most people. And now a lot of people are very interested in these GLP as possible Longevity drugs and there are trials underway to look at this sort of stuff. So we'll, we'll see, you know, what ways they improve people.
+
+0 (43m 31s):
+I, I will say, as long as we're on this topic, you are a perfect example of a very diligent patient. Meaning you're taking these GLP one drugs, you're, as you mentioned, aiming for taking lower dosages, maybe even quote unquote microdosing. Yeah, I'd
+
+2 (43m 49s):
+Like
+
+0 (43m 49s):
+To. Yeah. But you're also Resistance Training daily, alternating heavy and light days. You do your Exercise Snacks, you, you, you know, you're getting brisk walks after you eat. I mean, I think it's important to point out that you're doing all the things that help maintain muscle mass Cognition, et cetera, while taking these GLP ones. Many people won't. Yeah. Or just unless they're highly motivated to, they just, they want a drug that's gonna melt the fat away and they are unwilling or uninterested to do the, the exercise piece. What, if any data from your genomics data and, and these large scale studies that you're doing, point to the fact that the combination of augmenting GLP one with these drugs and exercise is, is beneficial?
+
+0 (44m 36s):
+Is it all just about maintaining muscle mass?
+
+2 (44m 39s):
+Good question. I don't know, but it's pretty clear that people do do strength training. Again, larger studies would be nice, but it's pretty clear they can reduce their muscle mass loss. That that's clear. And, and it's definitely been the case for me. I mentioned my bike accident. I went from pretty good about maintaining muscle mass and I did lose some when I lost some of that. So I can tell you personally had an effect don't
+
+0 (45m 2s):
+Cycle. I tell my friends, we, I know so many people who have been on a bicycle. You're traveling next to these 3000 pound vehicles moving much faster than you. People are texting. I I say this out of love for the audience and for and for you, even though we, we just met we're colleagues at Stanford all these years. And, and I have to say everyone I know who cycles regularly gets hit by a car eventually I knows three Stanford faculty that are dead. Oh right. But then again, I lived in the area for a long time. Yeah. Right back on Woodside Road, you know, cars just, just taken out or, or had to dodge a car and, and ran to a tree. So dead brain damage injured.
+
+0 (45m 42s):
+What do I have to do to convince you to run instead of Cycling? Well,
+
+2 (45m 44s):
+I do have a theory that you're, you know, your Cycling versus your health, there's an inverse relationship or it's a constant, I should say, meaning I'll probably get killed by a car possibly someday, but I'll say healthy in the meantime because it is my form of aerobic exercise. We
+
+0 (45m 59s):
+Need you around Snyder. But I say this, I don't know why anyone would, would do this instead of swimming
+
+2 (46m 5s):
+Or, but I don't up those, but I don't go up those mountain things where there's no even bike paths that they haven't allowed to. It's not
+
+0 (46m 11s):
+The cyclist is the cars I
+
+2 (46m 12s):
+Worry about. Yeah, correct. But there's no room in some of those places to go. So I mostly, I mean, I, I do it to go to lab and back and I do it. It's also a form of mental release for me at the end. I do, I love what I do, but I do work long hours and I, it's just a great release to get that bike ride home at the end of the day.
+
+0 (46m 32s):
+Do you wear a helmet?
+
+2 (46m 33s):
+Oh, of course. Yeah. And that's turned out to be pretty critical when I've had my a I've had more than one accident to say, but, but never, no cars run into me. I'm thankful for, but I, I hit a rock and got knocked out once so I, or something like that, I, I don't know. I woke up briefly in a, in a ambulance and then more I telling you,
+
+0 (46m 54s):
+Emergency Stanford professors, this is the way Stanford professors get taken out. Yeah.
+
+2 (46m 58s):
+Well, but I'll I'll say healthy in the meantime and, and I like to think I'm pretty healthy now minus my diabetes. And you
+
+0 (47m 5s):
+Seem very robust. I mean, I I hope you don't mind me sharing that you are about to hit 70 soon. Yeah. And you are clearly cognitively whip smart and, and fast and physically you seem very robust. And you mentioned getting these whole Body MRIs Yeah. And the fat just kind of disappearing as you were doing these GLP one Agonists. Right. And weight training. I wanna make sure I continue to, you know, hammer on the
+
+2 (47m 31s):
+Fact that you're vague on the weight train. I'm glad you're doing that. Yeah. 'cause I think it's
+
+0 (47m 34s):
+Huge. Yeah. It's, it's not just about taking a drug and you can do a lot with just lifestyle and we will talk more about that, but I have a question about subcutaneous versus visceral fat. Yeah. You know, we hear that fat around the viscera around our organs is the one to really worry about. And anytime I hear something like that, I think, okay, that sounds like a reason to not lose fat elsewhere. But, you know, what do we know about the, the health risks of intra visceral fat versus subcutaneous fat?
+
+2 (48m 2s):
+Yeah, I'm not an expert here, but it does seem pretty clear that obviously fat around your organs isn't good. Fatty liver being a good example. And by the way, when I went on GLP, I, I had a little bit of fatty liver just disappeared. So I think a lot of people are thinking this way that your pancreas is, and beta cells in particular are very subject to stress and fat does put stress on your organs, no question. And so it may be one of the reasons, you know, your pancreas, your beta cell in particular is very sensitive to fat is because it does cause stress. We know fat's very associated with Inflammation. So obesity, DA good example more BUR, higher BMI.
+
+2 (48m 47s):
+Again, not perfect correlation, but higher Inflammation. And so all that does tie together and, and your Immune System is tied in this in ways I would say we don't fully understand. But in general, the party line is a visceral fat is worse and I think it's because of putting stress on your organ systems. Yeah. Say versus subcutaneous.
+
+David Protein (49m 10s):
+I'd like to take a quick break and acknowledge one of our Sponsors, David. David makes a protein bar, unlike any other, it has 28 grams of protein, only 150 calories and zero grams of sugar. That's right. 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David. Protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough. But then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious. In fact, the toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day. And it allows me to do so without ingesting too many calories. I'll eat a David Protein bar most afternoons as a snack and I always keep one with me when I'm out of the house or traveling. They're incredibly delicious and given that they have 28 grams of protein, they're really satisfying for having just 150 calories. If you'd like to try David, you can go to david protein.com/huberman. Again, that's david protein.com/huberman.
+
+Eight Sleep (50m 24s):
+Today's episode is also brought to us by Eight Sleep. Eight Sleep Makes Smart Mattress covers with cooling, heating and sleep tracking capacity. One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night, according to your unique needs. Eight Sleep has just launched their latest model. The POD five and the POD five has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring and it makes other shifts to optimize your sleep. The base on the pod five also has an integrated speaker that syncs to the Eight Sleep app and can play audio to support relaxation and recovery. The audio catalog includes several NSDR non-LEP deep rest scripts that I worked on with Eight Sleep to record. If you're not familiar, NSDR involves listening to an audio script that walks you through a deep body relaxation combined with some very simple breathing exercises. It's an extremely powerful tool that anyone can benefit from the first time and every time. If you'd like to try Eight Sleep, go to Eight Sleep dot com slash huberman to get up to $350 off the new pod. Five Eight Sleep ships to many countries worldwide, including Mexico and the Uua E. Again, that's Eight Sleep dot com slash huberman to save up to $350.
+
+0 (51m 58s):
+I'd like to talk a little bit about Meal Timing and sleep. I do my best to eat my last bite of food at least a couple of hours before I go to sleep. Doesn't always happen. What do we know about how evening and nighttime meals impact sleep and next day, Glucose levels and regulation.
+
+2 (52m 18s):
+Well, the party line is that you should not eat three hours before sleeping. And I believe that, and that's true from the studies we've run, that people who do have a gap, and actually people who walk after dinner have lower Glucose the next day. And if you go into the evening with a high Glucose spike in general, that correlates with por sleep. So I, I think it's more complicated than that. I think the, again, the party line will be, well, your Glucose is kind of high at night and gradually goes down during the day. Don't spike in the morning. You gotta cortisol spike as you probably know when you wake up.
+
+2 (52m 58s):
+And that's normal and that's healthy, helps energize you for the day. And, and cortisol and Glucose are related, but when you actually look at people's Glucose patterns, it's much more complicated than that. And I think a lot of that has to do with what their Sub phenotype is. This is what, we don't fully understand this. We're trying to sort this out. And what you did the day, and especially the evening before, eating that big piece of pizza and then go falling right asleep probably is not a great thing for you. You, you'll go to bed with a high Glucose spike for many, many people. Again, let's have perfect Glucose Control. So, you know, I, I think getting your Glucose under control, it is a bit of a problem for me. We tend to eat late in my household just because both my wife and I work kinda late.
+
+2 (53m 44s):
+And so we tend to eat a little bit later, but I definitely do better if I can try and eat earlier. And then I definitely don't snack before bedtime, that sort of thing. And these days I try not to make my biggest meal, my dinner, which again, can lead you into sleep with that. And we always take a walk, we have dogs and walk our dog after dinner. It's become a routine. You mentioned earlier about behavior and I think the key for good behavior is to get into these Routines where you can just get into that. And I think it really makes a difference. So, yeah. Always. And as I'm sure you know, going to bed people, we had found that in some of our studies as well, going to bed the exact same time, those folks have lower Glucose than those who have highly variable sleep timing.
+
+2 (54m 33s):
+Now that's not so great for me because I travel a fair amount. Yeah, likewise. But I, but I try when I'm not traveling to keep constant hours, at least that part I'm, I'm okay at. But yeah,
+
+0 (54m 43s):
+I think we forget sometimes the number of interesting things that happen in sleep. And one of the most interesting papers, to me anyway, in the last few years was a paper that I saw where they essentially had people breathe into a tube while they were sleeping Okay. And evaluated the different types of metabolism that were occurring during sleep. And it turns out that as we go from light sleep to deep sleep and then more rapid eye movement, sleep as the night progresses, the brain and body transition through essentially every form of metabolism, Glucose, metabolism, ketogenic metabolism, a mixture of the two. And it seems like sleep is this, we don't know if it's a, like a test run or if it's a reboot or we don't know what to call it.
+
+0 (55m 25s):
+Right. But it's just very clear that during sleep there's a lot of metabolism happening. So when you tell me that getting to bed at roughly the same time or the same time every night improves blood Glucose regulation, my first thought is, oh, well that makes sense. Because if you go to bed at the same time, then you're eating at roughly the same time. You're exercising at roughly the same time. But it could also be the case that in sleep we're getting a, a, a, a tuning up of the, of the metabolic processes for the brain and and body. Is there any evidence that that supports that?
+
+2 (55m 53s):
+Yeah, again, I don't know from the metabolism standpoint. I, I like to say the things we do the most, we understand the least nutrition. Right. How does exactly does that work on all your different organs? Sleep? You know, I do like the idea of sleep. You may know you're, you would know this better than me, but your spinal fluid and such a, you know, expands and contracts, the idea of emptying out the garbage, so to speak.
+
+0 (56m 19s):
+Yeah. It literally rinses out your, your
+
+2 (56m 20s):
+System. Yeah. And I, I like that concept, I think, and, and you know, to what extent that is beneficial, I'm sure it is, I don't know, and all the other facts, but even people argue what's better for you rem versus deep sleep. Even some of that is debated by experts in the field. Again, I'm not a sleep expert. I have a tendency to move into fields I know nothing about. So because I'm so naive, I hope to learn something, especially these areas that aren't so well understood. So it's an area we're gonna be studying a lot more around the Glucose Control, but there's no question, if you look at some people, they're spiking really bizarrely. And, and I have mixed days myself. I'm trying to sort that out somewhere.
+
+2 (57m 1s):
+I do hit the party line, higher Glucose gradually go down by the morning, but then I have nights where I'm quite irregular and I want to correlate that with what's going on. And it's not just me. It's true of a lot of people. And I don't think that's sorted out in my mind. And I think metabolism in general, at some point we can talk about the micro sampling stuff, but we found that we had 32 people drink this ensure shake while they were fasted. And they all reacted very differently to it. This is during the day now, not, not sleep. And for some people it was pro-inflammatory for those anti-inflammatory. So interesting. I assume a lot of this got set early in life because your whole Microbiome, so backing up a little bit, just so people realize that, you know, you have a lot of microbes, you In fact, more microbes in you than our human cells, and they're critical for digesting your food and all this.
+
+2 (57m 53s):
+And, and they're, they heavily, heavily interact with your Immune System. 70% of your immune cells are in your gut. So you have this whole interplay between your Immune System and your gut. And obviously then the food you eat, which it goes through your small intestine first and the small molecules like Glucose get absorbed, but then all the fibers, the big molecules go into your, your, your culinary, your large intestine where they basically, you know, are interacting with these immune cells. So I think a lot, and a lot of that gets probably set early in life. In fact, people have shown your Microbiome gets set in your first three years of life. So I think that interplay all gets established and, and then you are reacting to some of that your food later in life.
+
+2 (58m 38s):
+That's least the postulate, not that you can't modify it. In fact, you know, switching from carnivore to veggie diets and or Mediterranean type diets, which are sort of healthier, like fish heavy veggie diets, I think are helpful for people. But I do think some of this gets set early and I think getting that set right, i, I think we probably need to as a society, get that all set a lot earlier, probably now too. And I, and it's estimated some work from Justin Sonenberg that, you know, native populations, these aboriginal, they have three times the number of microbes that say people in the us.
+
+2 (59m 20s):
+So we just don't have the same community that is probably handling diverse foods and, and probably making essential ingredients for our health that we're now missing. So we probably need to restore that in some fashion. Otherwise, this obesity and diabetes trend, it's just gonna continue.
+
+0 (59m 40s):
+I totally agree. I think the gut Microbiome is, without question one of the more fascinating aspects of our biology. And in no small part because of the way that it interacts with the brain by The Vagus Nerve. You know, everyone's obsessed these days with The Vagus Nerve as a calming pathway, but it's a, got a bunch of different avenues within it and, and it is the major route by which your gut communicates with your brain. Right. And I, I do want to just say one thing in fairness to an observation, I completely agree with you that many people who've been eating certainly standard American diet, sad to think that anyone still does that anymore because it's such a terrible diet.
+
+0 (1h 0m 22s):
+I think everyone agrees on that, a lot of processed foods. But you mentioned switching carnivore for more Mediterranean or plant-based. I have seen that work for many people. I will just also mention in fairness, there, there, and this relates to the gut Microbiome, there do seem to be some people who, despite their best effort to eat Fiber, fruits, vegetables, fish, so-called Mediterranean diet, that for whatever reason they have persistent autoimmune issues. And I have observed over and over again that if they switch to an elimination diet that's largely just meat, believe it or not, and nothing else, they seem to resolve those autoimmune issues.
+
+0 (1h 1m 5s):
+Now, I personally don't follow that diet. I don't think it's the mo the healthiest diet out there. It's very hard to, to stick to. But in my mind, it seems like the data are pointing to the idea that there are diverse microbiomes out there set up early in life. And probably Genetics play a role also. You're a professor of Genetics, so hopefully that's not too, too heretical an idea,
+
+2 (1h 1m 26s):
+By the way, some of this has been broken down of, of say, how much is your Microbiome for general Glucose levels Yeah. Versus Genetics. And I think for the general Microbiome, it's about 20 some, 20 to 30% depends on the cohort that was studied. There's some work from, from the Weisman, and then for Genetics it may be about 20% as well. So,
+
+0 (1h 1m 48s):
+So 20% of your Microbiome is determined by your Genetics?
+
+2 (1h 1m 52s):
+No, the other way around, sorry, of your Glucose levels. Mm, 20%, 20, 30% is determined by your Microbiome and about 20% by your Genetics
+
+0 (1h 2m 1s):
+Glucose and the rest by lifestyle. Yeah. Okay. By the way, that's very, that's a useful set of metrics. Yeah. Yeah. I mean I, I just have to believe based on the observation of people who are really careful, really care about their health, they're not doing standard American diet and they've tried vegan, they've tried vegetarian, they've tried omnivore without many processed foods, and then they try ketogenic diet and they feel better and then they go full just meat and their issues disappear. Yeah. And you, you kind of have to acknowledge that, right. I'm not saying you have to, but I'm gonna acknowledge it. I will also say that most people seem to do well on an omnivorous diet. I think 90% of people in the world are probably omnivores.
+
+0 (1h 2m 42s):
+Yeah, yeah. And I, I find it so interesting that as we support the gut Microbiome, our health generally improves. That just seems to be the case. I'd like to talk for a moment about Fiber. Sure. Because I think there's general agreement in the medical community that Fiber is important, reduces risk of cancer, improves digestion, adds bulk to food, reduces Inflammation, which is on and on and on. But then again, our colleague Justin Sonenberg and Christopher Gardner, yeah. Both of whom have been on this podcast before, did this really nice study of comparing increasing Fiber in the diet versus increasing intake of low sugar fermented foods.
+
+0 (1h 3m 24s):
+And it's very clear that the increase in low sugar, fermented foods supported proliferation of the healthy gut microbiota reduced the inflammatone. Whereas increasing Fiber allowed some people to reduce Inflammation. Other people's levels of Inflammation went up. And so this brings us to this question of, when we talk about Fiber as a general category, maybe that's too broad. It
+
+2 (1h 3m 48s):
+Is. Could
+
+0 (1h 3m 49s):
+You tell us about the two major types of Fiber, which foods tend to deliver one or the other type of Fiber, and if indeed there are differences in which Fiber are best for different people? Right.
+
+2 (1h 4m 3s):
+So as you're alluding to, Fiber is very heterogeneous, very different. And we even break it down further than that. You're probably thinking of, you know, soluble versus insoluble or resistant starch for starch. But I look at Fiber as like just a giant community of different substrates, if you will, sir. We have long chain short chains, hydrophobic, hydrophilic, positive, negative. It's like saying all animals are the same, humans are the same as cockroaches, the same as
+
+0 (1h 4m 31s):
+Cats. A dog, you can't, you just can't lump that
+
+2 (1h 4m 33s):
+Broadly. You can't. And their effects are very, very broad. Yeah. And so we've started tearing this apart. I was a chemistry undergrad by training, so I guess that's where I'm coming at this. So we just started and being somewhat practical too, we started putting people on, we took two common Fiber. So Raven, Ilan and inulin, which are these two just commonly use Raven Islands and S Huss and associative MEUs and inulin and these chicory pea Fiber things. And
+
+0 (1h 5m 2s):
+Could you, before we dive into this, what are some foods that one type of fibers is more abundant in versus the other type of Fiber?
+
+2 (1h 5m 8s):
+Well, Metamucil is a good example for the, the rabbits. Island land would be a that and rabbits island land's kind of interesting as the name sounds. The chemist that has a ose and, and it does have some Glucose, but it has Polyphenols in it too. And I don't know if you probably have covered this on your show. No, not yet.
+
+0 (1h 5m 29s):
+But they're super important.
+
+2 (1h 5m 30s):
+They are, they're, they're, and they're being, especially in the last H say, you know, six, 10 years being more and more appreciative for all their positive effects as antioxidants, anti-inflammatories. So anyway, they're part of a Rabbi Eyeland. This inulin is a Glucose polymer, but they're short chain and long chain that has different properties as well too. That's in various certain fruits and certain other things. And when we went into this, if you read the literature, you would say, well, there'd be some studies said, well, inulin lowers your Glucose and others say no, has no effect. And some saying it lowers your Cholesterol and others it doesn't.
+
+2 (1h 6m 11s):
+Same with the rabbis eyeland, it was all over the map, although there might have been more of a consensus at about this rabbit of xylan lowering Cholesterol. So we just did it, we took 18 people, I know it doesn't sound like very many, but they did a, what's called a crossover, a study where they went on increasing doses where they took either 10 for the first 10 grams a day for the first week as a supplement, 20 to the next week, 30 to the next week, and then did a wash out and then switch to the other one. So they're, they're randomized. They might do a raven island the first period and then inulin the second, then a mixed Fiber, which the party line would say is, is supposed to be the best for you. So we put, and then we do what we're known for these deep measurements, these deep omic, we measures many molecules of people's blood and as well as clinical measures.
+
+2 (1h 6m 56s):
+And so what we discovered is that as a general rule, Arab Ilan did reduce Cholesterol and actually quite substantially it went down about 25%. So
+
+0 (1h 7m 7s):
+This is in Metamucil, but what other, what sorts of foods contain high amounts of, of this compound?
+
+2 (1h 7m 13s):
+Most do actually. Oh, okay.
+
+0 (1h 7m 15s):
+It's very So broccoli.
+
+2 (1h 7m 16s):
+Yeah, broccoli, yeah.
+
+0 (1h 7m 18s):
+Kale, lettuce. Cabbage. Yep. Okay. Okay. So this is like the, when we think of Fiber, we can,
+
+2 (1h 7m 22s):
+But they have, but they have other things as well. So these are generally mixtures. Like apple Fiber will have three major types of Fiber. It's back to this heterogeneity of fibers. So we're now getting into others like beta glucans, another Fiber resistant starch is yet another one. So there's a whole series of these fibers out there, yet they're not studied for their individual effects. And it may be the case, of course the complex mixture is a big deal as well, meaning getting the right combination. But we're starting with individual fibers trying to see what their effects are. And then we will do combination. So we're just finishing up a study where same thing, instead of two fibers, we added two more beta-glucan resistant starch.
+
+2 (1h 8m 5s):
+And we're trying to see their effects of supplements. And the idea ultimately is, is I think people do supplements. That's why we're doing supplements. Not that I'm a big fan, I'd rather they eat, you know, healthier unprocessed food or both. Or both. But yeah, most people don't get enough. You probably know that it's recommended women have at least 25 grams of Fiber day men 35. And a number of the people get is something like 12 to 15. Wow. They're off by a factor of two in their amount of Fiber they consume. So, you know, minimally supplements could help bring that up. Anyway, I mentioned that rozzy as a general lowered most people's Cholesterol, and by the way, neither affected Glucose.
+
+2 (1h 8m 50s):
+So we think other things are important for that. And, but if you look at individuals, we did see some people where Ozzy had zero effect, meaning their Cholesterol stayed flat. Even when of 'em, they went to the higher dose of 30 grams per day, yet their inulin promoted their decrease in in Cholesterol. So what's going on? Well, we don't know, but to me it's logical that your Microbiome, maybe it's your immune, maybe it's other parameters that are playing into this. So this is why ultimately what I wanna do is just get your Microbiome, do a blood draw and say, aha, here's the foods that will be healthy for you. And here's the ones that won't.
+
+2 (1h 9m 30s):
+I think this is very personalized and complex. It comes back to what you were saying before about meats and things having different effects on people. And you probably know a lot of people with bipolar. Now the, the solution for a lot of people is a ketogenic diet. Right. Which, and it seems to really work. There's studies out there where it's been very transformative,
+
+0 (1h 9m 50s):
+Which is remarkable. I mean, if we really just take a step back, it's like forever, you know, bipolar depression was one of the most difficult things to treat. And it turns out the ketogenic diet can be very effective in some people, in some cases curing people. Not every person. But that's a remarkable breakthrough.
+
+2 (1h 10m 10s):
+I agree.
+
+0 (1h 10m 10s):
+You know, and, and as you said earlier, I think it's such a key thing for people to keep in mind. We understand the least about the things we do the most. Yeah. So you can imagine for many years people are eating like every, everyone eats sooner or later. And some of these people are dealing with serious mental health issues and the foods they were eating very well were exacerbating their symptoms. Yeah. It's just wild to think about. But then when we, we talk about, and I've heard you say, you know, food is medicine. I think most people don't think of Food As Medicine. I think most people think as food as something they need that they crave, that they enjoy. And that eventually becomes problematic for them.
+
+0 (1h 10m 51s):
+You know, I don't think people really understand the extent to which what they put in their mouth can support them. That it really can be health promoting. Yeah. Right. I think it's because we are so calorie oriented, like oh, you know, it's all a battle between what you take in versus what you burn. Yeah. But you really view Food As Medicine. Oh
+
+2 (1h 11m 8s):
+Yeah. Because I think we are, I mean the way I look at it, we're homeostatic systems. We're very and complex ones at that, right? We have all these organs, all these biochemical pathways and you know, the one, we also understand Lisa's people's behavior that came up earlier and I'm sure it'll come up again. And you have to tune all this stuff to keep it right. And in general, most people do pretty well. But I think we could all improve that, I'm sure. And that is the goal. It's to keep this, you know, your car, right? You want, if you want it to run forever, you want to keep all the systems working right. And in balance, you don't let things get off too far. And I think there's a tendency, and I think there's a problem with medicine Today.
+
+2 (1h 11m 51s):
+We wait till things are broken and then try and fix it. And so obviously what you want to do is have people as well tuned cars for their entire life and then, you know, pass away then that's how it should work. And so I think that's what we want to do, keep people tuned. And so we probably don't get off to a good start early in life when we start people with all these not so good diets. Like all the success of processed food and sugar and losing our Microbiome diversity. I think we really want to keep our car off and running right from the get go. It's, you know, it's a little bit late for some of us 'cause we're probably a little bit hardwired.
+
+2 (1h 12m 35s):
+Although I think we can tune that. I try to do that as best I can, I guess. Seem to
+
+0 (1h 12m 39s):
+Be doing a good job. Yeah.
+
+2 (1h 12m 40s):
+Well anyway, we'll do it the best we can. So when
+
+0 (1h 12m 43s):
+I travel, I will occasionally take a probiotic. Okay. In addition to all the other things I'm doing to support my gut Microbiome, I do take a supplement to support gut Microbiome. I also try and eat lots of fruits and vegetables. I will say I'm very intrigued by the, these Fiber data. Okay. The different types of Fiber data. Yeah. I'm intrigued because I noticed that some vegetable foods just don't agree with me. Even if I'm careful to chew them properly and do all that. And I find that over time I've just oriented towards eating the same, you know, six to eight vegetables. But I'm tempted to do the following experiment. Tell me if this is a good experiment. Snyder, if I'd be, get a shot at a sabbatical in your lab, keep eating the same thing I'm eating, exercise the same, do do things the the way I'm, I'm doing them now.
+
+0 (1h 13m 27s):
+But try a supplement, like you said, Metamucil, which is one particular type of Fiber. Right. And do the before and after LDL Cholesterol, a OB blood Glucose regulation with a continuous Glucose monitor, then stop, do a washout, swap that out for increasing like inulin Fiber through some other source. So, so in other words add, add in a, a pure Fiber source right on top of an existing diet and see how that impacts blood metrics and subjective wellbeing.
+
+2 (1h 14m 1s):
+Yeah, I think that would be good. I'd love to know your Microbiome and, and these are the sorts of things we're trying to sort out. Now. I don't have an answer, but I imagine the microbes you have in you, they have certain hydro laces that break down these fibers. And everybody's Microbiome is very, very different. So we, we have communities of microbes and, and every person's community is different. And so they, we have these enzymes, hydro lycees, that do break down these fibers. And my guess is that we already know that yours is gonna be different from mine. And so it may be if you eat a certain Fiber, you're not as prepared to handle it as the next person. So this is why we need to collect the right data.
+
+2 (1h 14m 43s):
+And it may be at the end, well you need to add the right probiotic, the right microbe to go with that Fiber to better get the tuning you're looking for. And in the long run, if you probably want permanent as you know, incubation of this, this probiotic into your gut, you match off that a community, because they're all interdependent. They get personalized again early. And so you basically form your own personal guild. And so one problem with Probiotics is that they, you know, they don't stick that well. A lot of them wash out. Although what a prolonged use can can help colonize some of that may be possible.
+
+2 (1h 15m 25s):
+And
+
+0 (1h 15m 25s):
+They're cumbersome, they're expensive. They require refrigeration. Yeah. Most of them.
+
+2 (1h 15m 30s):
+Yeah, that's right.
+
+0 (1h 15m 31s):
+I personally feel fortunate that I don't have what I would consider chronic gut issues. I just avoid certain foods. Yeah.
+
+2 (1h 15m 38s):
+But are you avoiding it because you're getting Inflammation? You said some don't agree with you. Is that because of gas or is that because of Yeah. Inflammation.
+
+0 (1h 15m 46s):
+It's more of an inflammatory response. Yeah. Like you just kind of feel like you don't feel well. Right. And you feel kinda like overtaken by some Right. Process, which that's what I'm like, you know, this is a poor men's right. I extract to, you know, Inflammation.
+
+2 (1h 15m 60s):
+But if you can figure out which Fiber might be inducing that specifically, maybe you can avoid those foods with those fibers. Yeah. I dunno. And again, Fiber seems to be very personalized. So I think it is something you can try. It's a pretty easy experiment to do. I think most people like the idea of fibers. Again, we like to do individual fibers. 'cause ultimately I wanna understand the effect of every Fiber and make combinations that would be personalized for people. But you know, if you were to get apple Fiber, oatmeal is, yes, it's got a lot of metamucil and, and the Zain, but it has other things in there too. And it's probably true that the combinatorics are important and we'll get there at some point with the combinatorics.
+
+2 (1h 16m 48s):
+I mean I, I guess I'm a, you know, I am a big data guy. I like the idea with 8 billion people on the planet. If we even got 1% of those doing food logging with sugar monitors and things like that, we'd have a lot of combinatorics all figured out.
+
+0 (1h 17m 4s):
+Well, you've got a hundred people in your lab, you're running clinical trials all the time. Right. Your human subject requirements are, are big. I maybe we'll provide a link to where people can participate in some of these studies.
+
+2 (1h 17m 16s):
+Yeah. We have studies running all the time.
+
+0 (1h 17m 18s):
+Yeah. I, 'cause I know a number of people will be interested to do that and great. We're gonna talk more about Sensors and All right. Air Quality. We've got a bit more to cover in each domain, but I think it's really important, and thank you for breaking up this broad category that we've all heard about Fiber into meaningful categories and just even people's understanding that different people react differently to different fibers. Yeah. Is really important. A family member of mine was told that they needed to take Metamucil to get more Fiber, had zero impact on their LDL zero impact on other important markers. I might suggest to them that they consider taking a different Fiber supplement and effort to control
+
+2 (1h 17m 60s):
+Maybe for them. And yulin will be the trick.
+
+0 (1h 18m 2s):
+Great. I I, this is the first I heard of it. Well, when I was listening to one of your talks, it's a good thing you have a hundred people in your lab, by the way, folks having a hundred person lab is exceedingly rare. And,
+
+2 (1h 18m 17s):
+Well, we're a little smaller now, but Yeah, we're still, yeah. Well
+
+0 (1h 18m 20s):
+It's very impressive. A good bunch. Yeah. You're, you're vigor is undeniable and, and
+
+2 (1h 18m 25s):
+I'm, I'm just lucky to have amazing people in my lab. I consider myself very fortunate.
+
+0 (1h 18m 29s):
+Well, I will say not just because you're sitting here, I'm not just saying it to be kind. Many people in your lab have reached out for reasons related to collaborations, et cetera. And everyone in your lab speaks extremely highly of you and working with you, which is not always the case in large laboratories or small ones. But they, they adore you.
+
+Function Health (1h 18m 48s):
+I'd like to take a quick break and acknowledge one of our Sponsors function. Last year I became a function member after searching for the most comprehensive approach to lab testing function. Provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins such as BPA exposure from harmful plastics and tests for PFASs or forever chemicals function. Not only provides testing of over a hundred Biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with function, I learned that I had elevated levels of mercury in my blood function. Not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I've been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification, I should say, by taking a second function test. That approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function, simplicity and at the level of cost it is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try function, you can go to Function Health dot com slash huberman function currently has a wait list of over 250,000 people. But they're offering early access to huberman podcast listeners. Again, that's Function Health dot com slash huberman. To get early access to function, I'd like to talk about Organ Aging and organ health.
+
+0 (1h 20m 39s):
+Okay. As a separable set of features from general aging and general health. I think you are one of the first people that I ever heard say, listen, our organs don't all age at the same rate. Just like most people eventually die because some organ goes first and then it cascades into other things. We need to start thinking about organ health in the same way we think about organ disease. We need to start thinking about organ age as an independent things like maybe my liver is much older than my heart at a genetic level, at a functional level. What are your thoughts on this? And how can we start to parse organ age?
+
+0 (1h 21m 19s):
+So I'd like you to comment on that. And also perhaps this idea that we just age linearly is not correct. That maybe that there are some cliffs that come at, come about at, at in particular phases of life. Right. Can you talk about these things?
+
+2 (1h 21m 35s):
+Yeah. Let me tell you a little how we got into this. So we set up, it comes from my philosophy that I think, you know, medicine is broken. We tend to do sick care rather than healthcare. So we started, when I moved to Stanford now 16 years ago, this idea, maybe we should, first of all, you don't measure people very much when they're healthy. You don't measure them very often. So just, you know, started with me. But the goal was to do a bigger group, which we did profiling people, collecting as much data as possible while they're healthy. So we, you know, people would get blood, their Microbiome all urine. And we would take these and do what's called omics measurement.
+
+2 (1h 22m 16s):
+We'd make as many measurements from their blood as possible on top of deep clinical measurements using all these new tools. And we would do it every three months. And, and we do it while they're healthy. If they got ill, like from a, a Viral Infection, things like that, we would take more samples to be able to, to collect more carefully to see what was going on when they first got ill. And so we've been running this study on me now for about 15 and a half years. And for this group of people about almost 12 and a half years. So we've been profiling this group of people. Some have dropped off by now 'cause it takes a lot of energy to be part of one, these, that particular study.
+
+2 (1h 22m 58s):
+But anyway, others have come in. And so yeah, we've been running this for some time. And the idea is to see what a healthy profile looks like. How does it change over time, which we interpret as aging, you know, what happens when people first get ill. And we are very enamored by these technologies. In fact, we invented some of them, our lab did for these omics technologies, like something called RNA-Seq where we can measure all your, your transcripts and we have ways of following all your proteins with protein chips and things like that. So, so our lab did invent a lot of these. So they're called the omics technologies. So it's ways of collecting big data from your, again, your blood, your urine, and even your Microbiome.
+
+2 (1h 23m 40s):
+And so we basically sequenced people's genome, made all these measurements and, and followed them over time. Oh, I was gonna say, we, we were also curious whether we could use some of these technologies like genome sequencing and you know, this, this method for measuring transcripts, RE sequencing things for better, you know, maybe managing people's health. And then we brought in the Wearables when they were first fitness trackers, we thought, well maybe they're a little more interesting than just fitness trackers. So we put 'em on for health monitoring and, and I can tell when we started, it was a bit controversial at the time. A lot of the physicians are not like a sequencing the Genomes of healthy people. This shows when we, it was right after genome sequencing was first coming out and, you know, they were worried we were gonna turn everybody into hyper contract.
+
+2 (1h 24m 28s):
+It's gonna cost millions of dollars. And most people have warmed up to it now. Not a hundred percent. A lot of people still don't like that. They still don't like the Wearables triple. We'll talk about that. But anyway, we did show that a lot of people learned some pretty important things from their genome. One young guy turned out, he had a mutational heart gene and his father died. Right? Right around the time we sequenced his genome, his father died of a heart problem. And sure enough he has a heart defect that was uncovered by genome sequence. So we had examples like that. And then same with the Wearables, uncovered things. All kinds of things popped up. Actually 49 people had what we would call major health discovery just in the first three and a half years of running the study.
+
+2 (1h 25m 9s):
+And some were with the
+
+0 (1h 25m 9s):
+Wearables,
+
+2 (1h 25m 10s):
+With all kinds of things. It, that was the thing. It was no one technology. What we're doing is we're getting a much more complete picture of people's health. We, and we discovered these things then before they have symptoms. So we're profiling people while they're healthy and we're, we're looking for things that might be off. And so the way I like the analogy I like to use is that if your health is a thousand piece jigsaw puzzle, the way when we, you go to a physician's office Today, we would say they measure five or six of those thousand pieces. They just don't get a very good picture. We're trying to measure five or 600 pieces, get a much clearer picture. And so 49 people, we uncovered something.
+
+2 (1h 25m 50s):
+Presymptomatically caught someone with early lymphoma, two people with pre-cancer, several, two people with serious heart issues. One from the genome sequencing. One from the Wearables. So this
+
+0 (1h 26m 0s):
+Is part of a study. Has this been commercialized? Well, like, well like if I want to, if I want to RN aeq or, or deep seq or this is by the way, just nomenclature if I want to look at mutations I might have or how healthy or how sick different organs or cells of mine are, what's available to me nowadays.
+
+2 (1h 26m 22s):
+Yeah. So we spun off a medical version of the Ciis QBI that does whole body MRI, which most people will tell you that. Most physicians will tell you you should not do that.
+
+0 (1h 26m 31s):
+Oh, let's pause there for a second. 'cause I, I will say I've done a p novo scan. Yeah. They're not a Sponsor of the podcast. Yeah. But I did P novo scan. Yeah. And what'd
+
+2 (1h 26m 41s):
+You think?
+
+0 (1h 26m 42s):
+I thought it was great. I watched the first segment of a documentary on Netflix while my body got scanned. I'm not claustrophobic. So going into the tube was no big deal. I got to see, thankfully, I, you know, I think you're allowed one white spot on the brain per decade of life. I'm approaching 50 in a few months. I've got, so up to five would be okay. I've got one little one, which is good because I did some high impact sports early in my life and some martial arts where I got hit in the head. And I don't recommend doing that folks. So I was a little worried about that. Okay. I learned that my intravitreal fat is very low. So I that was great.
+
+0 (1h 27m 22s):
+Relieved to, to see that. Yeah. And you know, for the most part, it, it provided a, a useful baseline. A good friend of mine since childhood, who's a chair of neurosurgery, not at Stanford, but at a nearby university, told me that it is not uncommon for him, like on a monthly basis, someone will reach out saying, Hey, I went in for a whole body MRI and discovered that I've got a tumor on my optic chiasm, or I've got a SM glioma. And you said physicians don't like that. People are getting these whole Body MRIs. I'll set him out as an example of a physician who appreciates that people are doing this.
+
+0 (1h 28m 5s):
+I love that. He's a surgeon. Surgeons like to cut. He's a, he's, he's perhaps one of the finest neurosurgeons in the world. I, I think all the neurosurgeons that I've spoken to, I admire him tremendously. So, but I agree that many physicians don't like the idea of people getting scanned because that means they get calls of concerned, quote unquote hypochondriacs. But in my mind, that speaks to the deficits of the medical community, not to the deficits of, of, of these scanning technologies. Right. I mean, a
+
+2 (1h 28m 36s):
+Hundred percent
+
+0 (1h 28m 37s):
+Agree. I mean, I mean, I mean it's kind of, if you step back from em, it's kind of crazy, right? Like doctors, it's just, I mean from a purely, just like if we just made it completely a emotional, it's more business for them. If somebody has problems so that doesn't square with their response. There's something about people advocating for their own health exploration, controlling their own health exploration. That really seems to vex a lot of doctors. They don't like it. Yeah. And it doesn't make any sense to me. Like, like wouldn't you want your patients to be health-minded?
+
+2 (1h 29m 9s):
+I think it's part of the broken healthcare system. Right. They have 15 minutes to spend with you. Yeah. So when people show up with their, I mean the number one concern about whole Body MRIs is they'll find Nodules. Right. If you go high enough resolution, you're guaranteed to find Nodules. Yeah. Men in the prostate, women their ovaries, if you go high enough resolution a hundred percent of the time, then people show up and say, well, I got these Nodules and you know,
+
+0 (1h 29m 33s):
+Nodules are cell growth and they can be benign cell growth. Yeah.
+
+2 (1h 29m 36s):
+Or they're just not even growing. They're just there. They may have showed up early in life. And I, I mentioned I've had 20 of these things and I have nine Nodules. And, and, and the point is, it's not whether you have Nodules or not, do you have any growing Nodules? Right, right. And that's the key. And if you've never done a baseline, you'll never know if they're growing. So I'm happy to say none of my nine Nodules that have been spotted are growing, relieved to hear that. And I know that, so, and you probably have seen a similar situation, but a friend of mine, you know, woke up one day and couldn't move his arm. And so they rushed him the emergency room, they did, they scanned the relevant area. They saw he had a tumor on his spine.
+
+2 (1h 30m 15s):
+So they took it out and things seemed fine and they did a whole body MRI followup later and they found three more Nodules. So the question is, were they there to begin with or had his tumor metastasized? No way to know. They had no baseline. So I think having these baselines is super important for everyone.
+
+0 (1h 30m 37s):
+I think people bulk at the cost. So it's about, as I recall, it's about $2,000 to get one of these whole body scans. I think we can assume that the cost is going to come down just as everything holds genome sequencing is, is gonna come down. Maybe even insurance would cover it at some point. I mean, it's so trivially easy to do once you have, you know, a place that will do it. That if the cost were to come down, I think you'd save tons and tons of lives. I, I see it as a boon to the medical industry, not just for making money, but for improving people's health. Right. I mean, as you said, when you go to the doctor, they measure, they like, like give you ther they put a thermometer in your mouth. They take your Blood Pressure, take your height, take your weight, ask you a few questions, ask you if anything's changed.
+
+0 (1h 31m 22s):
+And then you're like, it's almost like better off just like calling 'em up on the phone at this point. You can do all of that stuff at home.
+
+2 (1h 31m 30s):
+You can. And In fact, we should be doing that stuff at home anyway. We can talk about that later. But yeah, what QBI does is they do whole body MRI and they've designed ways that they can do it in about 40 minutes, 35 to 40 minutes. So it saves a lot of time. And then they also do some, a medical version of what I was telling you before. They don't do, for example, the transcript on the RN Aeq stuff. Some of that because they have set it up in a way that it's actionable information. Hmm. Because they, you can then take the data to your physician who will know what to do with it. Great. And so, and yeah, it turns out, just like you're saying, just from the first a hundred plus people, they discovered early ovarian cancer.
+
+2 (1h 32m 13s):
+All presymptomatically, just like in our study, the 49 people who, who found their things pre, they found, you know, cardiovascular conditions are pretty serious. They found even early pancreatic cancer, which is almost never found early. And so they discovered these things and sometimes it was by the longitudinal measurements, they saw things shift. Sometimes it, what we call multivariate, they'd see several things shifting. We discovered that in as well. But we might see one thing off and you'd say, well, I, I don't know. But when you see three things all going in the same direction, you, you worry about that. And a good example is if you go to physician today and your Glucose is high and it's not only been low and it might spike up, they'll say, well, you know, have you, were you ill yesterday?
+
+2 (1h 33m 1s):
+Or something like that. Oh, that explains it. Let's ignore it. Come back in two years. Right. And that's just not enough. And yeah. And that might have been a clue for something big. And we've seen that in our study. We'll see somebody who shifted off their liver enzymes and and they'll come to me and say, Mike, I'm still in the normal range even, you know, they're, they're, and this is why we're big on baselines. That's a big theme in our work. No way. Your Healthy Baseline is like the MRIs and they'll be running in the low end of a normal range for their liver enzyme and suddenly it'll double but still be in the normal range. And they'll call me up and say, Hey, what's going on here? I say, I don't know. Why didn't you go get another measurement?
+
+2 (1h 33m 42s):
+Sure enough. Then they shift it out of normal. So I think the trajectories of these measurements is key. I think knowing how you're progressing is a big deal. And that's how wey, just like your car, if you see something going off, you wanna see it when you catch the first symptoms. Not once your car is broken down on the side of the road, the engine's blown up or something. So I think that's how we have to shift medicine.
+
+0 (1h 34m 6s):
+Amen. To that a thousand times over. Let's talk about some of the Sensors you're wearing. Sure. And, and what people can monitor now. Yeah. You talked about continuous Glucose monitors and that's non-invasive. I mean, you, you don't even feel it going in. It's just basically a right sticker thing. But what are some of the other things most people are familiar now with sleep tracking. Right. And of course that's pulling heart rate data and a few other things. But yeah, walk us through what's possible now with non-invasive trackers and maybe just yeah, let us know which particular ones you're wearing. This, this isn't a, a, you know, like a promotion of, of particular products.
+
+0 (1h 34m 48s):
+No, I'm just very curious. Right. You're armed to the teeth with Sensors here. So Yeah. What do you, what do you got?
+
+2 (1h 34m 53s):
+I'm, I'm a big measurement guy,
+
+0 (1h 34m 54s):
+Obviously. Obviously. Yeah. Well you're sta you're Stanford faculty after all.
+
+2 (1h 34m 58s):
+So, all right, so I have my, this is my Fitbit. This is my Apple watch. And then I happen to have a company that's called synomics that has two different, this is a new one they have out that and then the older one. And so they all measure heart rate, heart rate variability and reasonably accurate meaning, you know, not that far off. And so again, for the listeners resting heart rate, everybody knows and, but heart rate variability is an important measurement. More and more appreciated these days when you're ill, your variability drops. And both those are fairly accurate these days for most devices. Oh, and I have a ring. This one happens to be a circle. I used to wear an ora ring and
+
+0 (1h 35m 39s):
+It's not an ora ring. Which, which one is
+
+2 (1h 35m 41s):
+That? It's called circle. They have, they're different parameters. So there's no right or wrong to this. You have to, same thing, you have to match it to your lifestyle. Some, you know, you charge 'em while you're in the shower, they're charged for five days and others you have to charge for an hour, hour and a half to keep it going. So you have to find the one that works best for you. I do think wearing 'em overnight, it's a great time for health monitoring. So I'm a big fan of that. Anyway. They measure that. Some measure blood oxygen, some of that's accurate. So it's not accurate. Depends on the device. Some measure skin temperature. Again, some of that's accurate. Some it's not. Depends on the device. They also measure something called Galvan stress response.
+
+2 (1h 36m 23s):
+Some do that's conductance on your skin. And that is not something we normally measure in a doctor's office, but it turns out has value for hydration. Because when you have drier, like when you're diabetic, you'll have drier skin. And I should have figured this out earlier when I first became diabetic, I got itchy 'cause my skin got dry. Anyway, you can measure that with your smart watch and get that in real time.
+
+0 (1h 36m 47s):
+The galvanic skin response.
+
+2 (1h 36m 48s):
+Yeah. And also it's a measure of stress. When you're stressed, you sweat more. And so you can pick that up as well with this, with these devices. So there's a fair number of things. And then some of them you can measure, you know, an EKG and sleep of course super important. Their accuracy for the stages is still questionable. It depends on the device. They're getting better though.
+
+0 (1h 37m 10s):
+I use an Eight Sleep and I will look, I, I'm now in the habit of only looking at the data every few days. Okay. Because I'm doing an experiment on myself where I measure my subjective feelings of rest and, and alertness and energy and compare it to the data. And the only way to do that properly is to not glance at the data first thing in the morning. Okay. Right. Because it just biases how you feel. Right. Our, our colleague Ali Crum at Stanford has done some nice experiments where they tell people after a, a genuinely poor night's sleep, they got a great sleep where they tell people after a great night's sleep, they got poor sleep and they, they show them a sleep score and they give them some data and it's false data basically.
+
+0 (1h 37m 51s):
+And people's levels of alertness, wellbeing, et cetera, are strongly biased by what they are told their sleep was like as opposed to what it was actually like. This is a big deal. Right. And I think speaks to all the beautiful studies that Ali's done 'cause she finds stuff like this all the time. Right, right. In nutrition and wellbeing and these Mindset Effects are really powerful. So I look at my sleep data maybe once every two or three days. Right. And I'm constantly striving to get more REM sleep. By the way, warming your sleeping environment in the last two hours of sleep will dramatically increase the amount of REM sleep you get. I learned that trick from Matt Walker and it works spectacularly well.
+
+2 (1h 38m 31s):
+I'll have to give it a
+
+0 (1h 38m 32s):
+Try. Yeah. Matt taught me that trick and I'm getting close to two and a half hours of REM sleep now. Wow. And I only sleep about six and a half, seven hours to feel rested. Nice. So it's pretty spectacular. And I think Matt,
+
+2 (1h 38m 43s):
+I gotta, I gotta try it. I
+
+0 (1h 38m 44s):
+Thank Matt for that tip.
+
+2 (1h 38m 45s):
+It's one of my biggest weaknesses. I don't sleep that well.
+
+0 (1h 38m 47s):
+Yeah. So cools bed in the beginning. Right? I do do that at the night. And then the opposite toward morning. Interesting. So Matt taught me that trick and it's like, whoa. It's
+
+2 (1h 38m 56s):
+Completely, that is so
+
+0 (1h 38m 56s):
+Cool. I, I now emerge from sleep feeling so much better. Right. Unless I was having a disturbing dream, in which case you gotta like go think about something else.
+
+Eight Sleep (1h 39m 4s):
+But in any case, the sleep trackers right on the Eight Sleep because the tracker is, is stationary, it's the, it's fixed to the mattress. My understanding is that it's more accurate than if the tracker is on a limb where you could be moving because that will disrupt sleep stage measurement. But I don't know if that's actually true or not. I dunno, I haven't measured it and I haven't looked at the data on that. Okay. Yeah. So what about HRV? We're hearing more and more that HRV is perhaps even more interesting than resting heart rate. I think It probably Is.
+
+0 (1h 39m 39s):
+What are some things that we can do to improve our HRV? What should our HRV be? How much control do we have over HRV range? This kind of thing.
+
+2 (1h 39m 48s):
+Well, exercise is supposed to be one of the best ways to do this. Again, I'm not a cardiologist, I'm not an expert there. I don't know for sure, but I know personally keeping my stress down and sleeping better seems to help. But I've noticed that that makes sense recently. Yeah. You know, one of these AI programs again, happens to come from January. They take all your data, bring it in, and they were like looking at this and my HRV, believe it or not, went up like 28% or some incredible number. Yeah. And I was trying to figure out what it was due to. And I, I think I'm sleeping better actually.
+
+0 (1h 40m 24s):
+Are you a meditator?
+
+2 (1h 40m 25s):
+No. I used to and I need, I know I need to make more time in some sense. Maybe my bike ride is the equivalent of that at the end of the day. And, and on the weekends I try and do a little bit gardening at that's my form. Fun. I am a big believer you need some form of calmness. And I used to meditate for like five minutes after exercise. I need to get back to that for sure.
+
+0 (1h 40m 48s):
+There's some interesting data on, just maybe give this a try as an experiment periodically throughout the day. Just do a deliberate to lungs empty exhale, which, which activates the vagal pathway right to the sino atrial notes, slows your heart rate down. There's evidence that will improve your HRV both in waking and sleep safe. Is that right? Yeah. Just try it out, see what
+
+2 (1h 41m 9s):
+You think. So one minute every day or
+
+0 (1h 41m 10s):
+No, no, no. Just periodically throughout the day. Just remember to, to dump all your air as the free divers would say. Just,
+
+2 (1h 41m 17s):
+Yeah.
+
+0 (1h 41m 17s):
+Really Long Exhales.
+
+2 (1h 41m 19s):
+I haven't tried the breathing stuff.
+
+0 (1h 41m 20s):
+Yeah. Slow. That'll slow your heart
+
+2 (1h 41m 21s):
+Rate. Lot of people are saying that's
+
+0 (1h 41m 22s):
+Really good. You just intersperse it so there's no breath work. Right. You don't have to set aside time. Yeah. I'll ask you something different related to stress. I, it goes back to a, some sleep data. You seem to love your work. Like you're ha Oh, I love it. Before we, we came in here, you're like, I love my job. You know, you know, there are really interesting data out of the sleep lab at Stanford that show that positive next day anticipation is one of the strongest determinants of sleep quality.
+
+2 (1h 41m 48s):
+I didn't know that. Yeah.
+
+0 (1h 41m 49s):
+And that, it really does seem to be that if you are excited about your life, you can get by with less sleep because the amount of quality sleep you get is higher. Okay. So maybe you don't need to meditate, you just need to continue to do what you love
+
+2 (1h 42m 0s):
+Maybe. Yeah. No, I do love what I do and for me, there's no better rush than a great result. I'm an academic at heart. We spin off the companies to try to get, I think the things we're doing, you know, I hope out to a broader group of people, which, you know, I, it also is a way of showing the stuff really works and that it's not all BS that you're doing in a lab. So I, I do love what I do and I don't know, I'm, I'm very fortunate I have amazing people in my lab, as I mentioned before, who they come up with a lot of the ideas. I, I view us as a team that try to push forward on these various things. I try to create an open environment where people aren't afraid to share ideas and, and, and push things forward.
+
+2 (1h 42m 47s):
+Yeah. Anyway, I realize we got away from the a Organ Aging part. Yeah. Let's, if you wanna go
+
+0 (1h 42m 51s):
+Back to that, let's, let's go back to that and then I, I would like to also get back to psychological factors in mental health
+
+2 (1h 42m 56s):
+On the aging. I mentioned how we're doing all these measurements and tracking people over time. And we've now been doing this for over 12 years on this 109. Some have dropped off as say new ones have popped on. And what we discovered by just looking at the healthy time points is that people, you know, they do change over time even in the healthy times. But they're all changing differently. Meaning we look at the biochemical pathway. Some will have their top biochemical path, dilated cardiomyopathy, pathway changing and or sorry, that was dilated. Sorry. That was hypertrophic cardio myopathy signaling pathway shifted.
+
+2 (1h 43m 38s):
+Other people, it's metabolic. Some are immune. We call these Ageotypes aging pathways. And I kind of like that a little bit better than Organ Aging because some of the things you pick up are like oxidative stress, which go across lots of organs or you know, the, you know, inflammatory Inflammation that's kind of cross organ as well. So we call these Ageotypes aging patterns that we see and it turns out everybody's different. So some people will be the cardio, some people be the metabolic, some are liver, some are kidney based on the markers we see in the blood. And some are immune and some are all, all the above are parts thereof.
+
+2 (1h 44m 18s):
+So we're all different. And what's cool about it is it's actionable information. Meaning we metabolic age when you, you actually see that, they'll see how they're shifting. And again, have another company involved in this. They do this micro sampling, I'm sure we'll get into where they're measure your metabolic patterns. And by the way, we think your metabolism is the best way to see the shifts of all the different proteome is good too. And my, my colleague Tony v chorus. He basically has looked at this Organ Aging stuff as well from the proteomic stand from proteomics, meaning group of proteins. He's, he's followed this. And, and same thing, you can follow this, these Ageotypes, if you will, these aging patterns.
+
+2 (1h 45m 3s):
+And the information's totally actionable. You can see, as I say, for the metabolic age, or some of the folks seeing this, they lost weight or they exercised and they improved their patterns. Now, I'm not saying they got younger, but they did improve their age of types. And so I think the information is very actionable.
+
+Iollo (1h 45m 20s):
+And so a again, and this is one where we commercialize because I want to, it's a very simple task. You can get these little drops of blood mailed in and they'll profile 650 metabolites. And, and the information is actionable. They make recommendations. And it's not just exercise more, eat better, but very, very specific. What, What is the name of this company? It's called I-O-I-O-L-L-O. And, and this is now commercially available. It's so if I want, so if I wanna figure out my age type, did I get that right? Right. My age type, I can do that by sending in a few drops of blood. Correct. And it will tell me They'll send you a kit. It's a very special kit. 'cause not any, like, putting things on cellulose is not the best way to save your blood anyway. It's a special kit. You mail it in. Yeah, no, with something called metabolomics and mass spectrometry, you can profile, it's a targeted assay, 650 metabolites. And they cover all these areas and many there. Most of it's in the scientific literature, it's just not in the clinical labs, like things around your kidney function, your heart, things like this. And they give you these profiles and they say, these are normal, these are going off. And then they can even predict your, again, biological age. So you may know your biological age is not necessarily as your chronological age or age in years. And if that goes, if things are off and maybe a not so good direction, you can actually take action. You can say, well, alright, my, my inflammation's fine. My, but my heart age is off. And they can give you very specific recommendations to do around that. Or if it's kidney, again, same thing. Maybe eat more of certain things and avoid other things. Cool. I'm gonna, I'm gonna try it.
+
+0 (1h 47m 0s):
+So let's talk about biological age, because I think the first time I heard about concept of measuring one's biological age versus chronological age was from David Sinclair when he was referencing Horvath clocks. That was some years ago. And then of course Brian Johnson likes to boast his biological age. He has a biological age competition, I think online with some folks. And then there are also folks like my friend Peter Atia, who will be very direct in telling you that he doesn't think much of biological age when it's a number to assess whole body age.
+
+0 (1h 47m 41s):
+He's like, I won't use the words that he uses, but he doesn't think it's worth anything at all, frankly, as a measure. But here you're talking about something distinctly different. You're talking about the progression of aging of different organs or different organ systems.
+
+2 (1h 47m 56s):
+I think the horror math clocks are correct, meaning they do measure biological age, but the problem is it's not actionable. What do you do? Your methylation pattern that that's a modification of DNA has shifted and it gives you an overall value. But what do you do with that? You, you don't know. You wouldn't. Yeah. And they can predict something called Grimm age these days. Your time to death, your mortality. Oh, nice. Same thing. I mean, what are you gonna do with that? What's special about the Ageotypes is that they're breaking it down. And so they say, all right, your immune age is off. You can do X your other, you know, your oxidative stress is off, you do y So it's basically actionable information.
+
+2 (1h 48m 41s):
+So I think it makes all the difference. And it, conceptually, it makes a lot of sense too. It's like your car, I know I keep coming back to that analogy, but your car gets older, but certain parts wear out first. You don't re, well, maybe some people do, they replace their whole car, but generally you would fix the parts that are wearing and ideally you'd catch it before they break. And I think that's how we think of Ageotypes. You can go in
+
+Iollo (1h 49m 5s):
+and so I mentioned this company earlier, Iola, what they do is they're tracking your Ageotypes. 'cause they're doing these deep metabolic a profiles and they actually make, they use ai, they pull in things and make very specific recommendations. And then you can some, you know, they'll tell you exact foods to eat and things like that. And 95% of people improve their markers. Again, I'm not gonna say they're getting younger, but at least they're improving their metabolic markers in the right direction. And so it, it's actionable information and it makes a lot of sense.
+
+0 (1h 49m 42s):
+How powerful a role do Genetics play in determining potential lifespan? Shortly before starting this discussion, I looked at the chart of longest living humans. They're all deceased now, but I think the record is 122 years and some change.
+
+2 (1h 50m 1s):
+And some people think, think that was, think she may have cheated, but it's not clear.
+
+0 (1h 50m 4s):
+Oh really? That was a, a French woman.
+
+2 (1h 50m 6s):
+Yeah, that's right.
+
+0 (1h 50m 7s):
+120 plus or minus five years seems to be Yeah, that's right. What people consider a, you know, a spectacularly long life.
+
+2 (1h 50m 15s):
+Yeah, that's right. Yeah. And that does seem to be the cap. And so, you know, most of our research is built around extending Health Span. It is the case that for lifespan in general, it's estimated to be about 16% of your lifespans due to Genetics. 1 6, 1 6,
+
+0 (1h 50m 34s):
+That's
+
+2 (1h 50m 34s):
+It. Yeah. And now there's a big error bar on that that comes from twin studies and family studies. So although it's thought that for people live to be a hundred or older, then it might be higher. Some people have said 60%. So to live, to be really long, you may need good genes in general, but there's still a lot there. Right. There's another 40% that pseudo lifestyle. But for the average person, it's only one six. So your lifestyle is by far your biggest factor. And you look at people in these Blue Zones, these areas where people, there's an enrichment for people have to be a hundred or more, they have several things in common. One is they tend to eat a, a diet with not much ultra processed foods or processed foods in general.
+
+2 (1h 51m 19s):
+And generally they tend to be towards the Mediterranean vegan kind of diet.
+
+0 (1h 51m 25s):
+They eat animal proteins as I understand, but it's more fish and chicken. Yeah,
+
+2 (1h 51m 29s):
+That's correct.
+
+0 (1h 51m 30s):
+And less, less red meat, less, yeah. Yeah. And they're eating a lot of vegetables.
+
+2 (1h 51m 33s):
+Yes, for sure. And getting Fiber through that as well. And then they tend to have, they're fairly active, meaning, but their form of activity can vary. And they have really good social networks, so either through family or through community networks. And so that's pretty clear. My prediction is they probably sleep pretty well too. I, I don't know if that's been as well measured as a, as the other parameters. So, so I think you do need all of those things if you want to live a long, healthy life and, and, and that, you know, that weight may vary from one person to the next. And I, I, I think that's the kind of thing we want to look at.
+
+2 (1h 52m 14s):
+Again, I view people as a combination of things. They are Genetics, they're Epigenetics. You know, I don't, I don't know if I told you all the details of when I became diabetic. It was predicted from my genome. Otu Butte actually predicted this from something called polygenic risk score. These ways of analyzing Genomes. And I'm at the extreme end. It doesn't work for most people by the way, but I'm at the extreme end that worked for me. So he predicted I was high risk for diabetes, but it didn't become diabetic until after a Viral Infection. It's very strong correlation. And because I measure myself a lot, I figured this out as respiratory syncytial virus, which actually, you know, it's not that common adults, it's more common now.
+
+2 (1h 52m 57s):
+But anyway, I was literally in bed, which is a little unusual for me. I, and I got a very high temperature and I wound up several weeks later becoming diabetic. It's very fascinating because we actually looked at the modification of my DNA, it's called DNA methylation. It actually shifted in something like a hundred metabolic genes in the, in their control regions called the promoters. And so it's it, the thought is that I was genetically at risk and then in combination with this Viral Infection, environmental, that's what triggered my diabetes. Now, I don't think that's true of most people we're tracking people I may have mentioned.
+
+2 (1h 53m 37s):
+And the first part of study we saw nine people become diabetic as we've been tracking them. And seven gradually became diabetic as though it was, you know, accumulation of something. But two people, one of which was me. Something triggered it, meaning it kind of got there and stayed. It wasn't just a transient spike. And so how often this, you get these gene epi, they're called epigenetic modifications happening is not so clear. But it's now the case. You may know with COVID, two to 4% of people are becoming diabetic after a COVID infection. So it's not unreasonable to think that they're having epigenetic changes like me that hasn't been measured.
+
+2 (1h 54m 19s):
+That's something we'd like to pursue. But the effects of these viral infections and stuff, you may know a lot of people get something called chronic fatigue syndrome after some adverse say pathogen. It's not always clear what's causing it. It seems to be different for different people. But the idea, these intense stresses, maybe from a Viral Infection or other pathogen triggering some long-term chronic effects is maybe more common than people realize for autoimmune disease, for chronic fatigue syndrome, in my case for diabetes, maybe as I say, more prevalent than people realize.
+
+0 (1h 54m 56s):
+It's so interesting to think about Viral Infection setting off a bunch of things that are acute, like rise in temperature, GI tract disruption, et cetera. But then, as you said, longer term changes in genes related to metabolism, Inflammation and other pathways. Setting a predisposition, a genetic predisposition in motion, kinda like flicking the domino that was already kind of tilted. Yeah. And
+
+2 (1h 55m 23s):
+Once again, that homeostatic system concept that you're, yeah, maybe if your Genetics is a little bit weaker, we've noticed, yeah. That, you know, we found a new, if you will, set of genes involved in ALS and that those genes tend to be under expressed in, in, you know, call it IPS derived motor neurons, the relevant cell types for ALS patients. So it may be that, you know, if your Genetics is a little weaker in some areas than others and other things could trigger that sort of thing. So I like that general concept that we're, and in some cases maybe that's beneficial.
+
+2 (1h 56m 2s):
+I'm not saying getting ALS is beneficial, but maybe we're at tuned certain ways because in ancient times we had to deal with things like TB and stuff and the idea that you would be, well the classic is sickle cell, right? Folks with sickle cell mutations might be more resistance to malaria. So, so maybe some of this tuning helps you in some ways, but is adverse in other ways or more makes you more susceptible, let's put it that way.
+
+0 (1h 56m 29s):
+Yeah. I've heard, you know, here and there about data linking herpes virus to Alzheimer's for instance. And you could imagine how it might not be directly related to the, the symptoms or the pathology of, of herpes virus, but that something about the neural Inflammation caused on the trigeminal nerve, which is where the herpes virus lives. That's why people get cold sores. This is HSV one, right. Which is very common, right. I think. And most people just combat it and they don't get cold sore. Sure. But that's something about the, the Inflammation of that trigeminal nerve pathways, maybe it breaches the blood brain barrier in certain people and then it sets off a cascade that we eventually call Alzheimer's.
+
+0 (1h 57m 16s):
+Right. So these, these, these correlations, 'cause that's really all that they are. Correct. And the, these multifactorial, I think that the way you described it earlier is, is the best way, you know, if you have a a thousand piece jigsaw puzzle, you want to know which pieces are, you know, slightly out of alignment or missing entirely, but what we call diseases like Alzheimer's or autism or diabetes, it presumably are different combinations of puzzle pieces missing. I think so, and I think until now medicine and the general public has been trained to think of diseases like those puzzle pieces are missing.
+
+0 (1h 57m 60s):
+And that's what we call Alzheimer's, that's what we call autism, that's what we call diabetes. And what I'm realizing in talking to you today is that that's far too simplistic.
+
+2 (1h 58m 11s):
+Yeah. I mean there are cases,
+
+0 (1h 58m 12s):
+But they can't be that, it can't be that simple.
+
+2 (1h 58m 14s):
+Yeah, I That's correct. A good example would be Huntington's, right? Where you have an expansion of a specific genetic locus, there are elements that shift there and that's highly associated with Huntington's. Those would be single condition things that trigger it. And that does happen. But that's not most disease. That's more the exception on the rule. And by the way, even in those cases, there are people that escape it.
+
+0 (1h 58m 39s):
+Oh, you have Escapers.
+
+2 (1h 58m 40s):
+Yeah. Who have somehow escaped that, not always understood. Although they may hold clues to perhaps how others could be helped.
+
+0 (1h 58m 50s):
+You mentioned ALS, we've not covered ALS on this podcast before, but just very briefly, my understanding is a few years ago there was a lot of interest in SOD and superoxide di mutase, an enzyme right. Being involved in the degeneration of motor neurons, which is why ALS used to be called Lou Gehrig's disease, right? But ALS people, Stephen Hawkin had ALS. Right? Absolutely. What is the role of, of Super di Mutase and it, is there anything protective in terms of behavior supplementation, drugs that people can take to protect themselves against neurodegeneration of motor neurons or central neurons? You know, we talk a lot about what to do once it started, but there's not a lot of discussion about how to protect your neurons just as a general theme.
+
+0 (1h 59m 33s):
+Like protect the health of your neurons, right. By doing or taking X.
+
+2 (1h 59m 37s):
+Right. Well, first of all, I'm not an ALS expert. Those where my Genetics came in, we came up with new ways of analyzing Genomes and we applied it to ALS for reasons we thought might work here. I just had, you know, an amazing postdoc, Ong and, and a great collaborator, a Jonathan Cooper knock who basically sort of said, Mike, this is a great problem to apply these new methods we had for analyzing. So there were seven genes known and we wound up finding 690 genes just, and that that's true with these new AI methods we have for analyzing Genomes. And it explains a lot more what's called the Heritability of the disease. And, and then yeah.
+
+2 (2h 0m 17s):
+And that, that's how I got into it. But I mean, there still is no cure for ALS and how to modify lifestyle, I don't know. But I do know I'm on sabbatical, uc, Irvine right now, and there's, you know, people who are trying to take this sort of thing on will, we'll see how well it works. It is clear there is a study that if you over exercise that's worse for you for ALS. But whether that helps you predict, I don't know. So I I think it's still yeah. Not very much known there, at least not to me. You may know more than I do.
+
+0 (2h 0m 53s):
+No, I, I, you know, I'm very interested in what one can do to protect against neuro degeneration. Yeah. The one that I'm very intrigued by, and here I am not promoting this specifically for everybody, but years ago, and this is purely anecdotal, but years ago I was in the office of Richard Axel at Columbia, a Nobel Prize winner for discovering the molecular basis of whole faction, et cetera. And I observed what many people had told me I would observe, which is that he chewed no fewer than like six pieces of Nicorette in a 90 minute meeting. And I asked him, I said, what's the deal? And he said, well, I used to smoke but I don't smoke because it causes cancer, but I like the Nicotine for the cognitive stimulation.
+
+0 (2h 1m 36s):
+And he looked at me and he said, and it's protective against Parkinson's and Alzheimer's. I said, really? And he goes, yeah, read up about it. I said, and indeed I went and looked and, and it does seem to be neuroprotective now, it also raises Blood Pressure. It's highly habit forming slash addictive. Most people I know that take two milligrams of a, of a Nico Nicotine gum or a pouch suddenly are taking 4, 6, 8, then they're taking a canister every two days. Wow. Like it's very habit forming very fast. Wow. So it's not something I recommend, but I'm very intrigued by the idea of this substance Nicotine, when it's not smoked vaped, you know, dipped or snuffed that it might actually be neuroprotective Richard's a molecular biologist by training. He's not somebody who just says stuff when it comes to science.
+
+0 (2h 2m 20s):
+Sometimes he just says stuff. He's kind of an outra known to be kind of an outrageous guy. But the data are kind of interesting, like in rodent studies that Nicotine can be protective in the face of a, of a, a bunch of different insults to dopamine neurons like a com, a combined low grade head injury with something else like hypoglycemia. Right. The, the two hip model, right. That it's not a head injury that would kill neurons. It's not hypoglycemia that would kill neurons. But when they, they, when they coincide the so-called two hip model, right? Then you start losing neurons and in some cases, like Nicotine can be protected, this kind of thing. Okay. So I'm intrigued by things that one could potentially do to protect neurons.
+
+0 (2h 3m 1s):
+Yeah. Aside from wearing a bike helmet. Yeah. Which I'm relieved to hear that you do. Okay. In any case room for further Yeah.
+
+2 (2h 3m 8s):
+Some motor neurons for ALS versus
+
+0 (2h 3m 10s):
+Right motor neurons.
+
+2 (2h 3m 11s):
+So I don't know how similarly different Yeah, yeah,
+
+0 (2h 3m 14s):
+Yeah. It's super interesting. I don't think anyone wants to lose their motor dopamine or any other neurons. Yeah, for sure. So it's, it's, you know, with rare exception we don't replace them. So I think that's gonna be a really important area going forward. Agree. Right now it's mostly the don'ts. Don't get a head injury if you do, don't get a second one. Quit the sport. People always say, I, you know, I, I play rugby and I got a really bad concussion, what should I do? And I go find a new sport and they never like that answer. But you know,
+
+2 (2h 3m 44s):
+Back to behavioral modification.
+
+0 (2h 3m 45s):
+Yeah, exactly. It's mostly don't, I'd like to talk about some things that might seem a little bit more in the esoteric realm. Okay. Let's start with low esoteric, but still in the kind of area that now people are talking about, which used to be considered kind of woo, which is Air Quality. Yeah. Everyone agrees pollution is bad. What people don't agree upon so much is how much otherwise like permissible air, like not during a fire or living in a city versus a suburb versus in a rural area, Pesticides, et cetera. You know how Air Quality impacts our health.
+
+0 (2h 4m 26s):
+You've got a device on the table that literally is measuring How's our Air Quality in here by the
+
+2 (2h 4m 30s):
+Way? You're good. You're at PM 2.5 at 3:00 PM 10 of four. Okay.
+
+0 (2h 4m 36s):
+Yeah. Which is very low, by the way. Yeah. We've turned off the AC for, for recording purposes. I see. Afterwards we tend to ventilate the
+
+2 (2h 4m 43s):
+Yeah, it was one earlier. So
+
+0 (2h 4m 45s):
+Yeah, so it's let in, but we had fires here in LA not long ago. Right. How
+
+2 (2h 4m 49s):
+Probably would've gotten to 200 maybe more.
+
+0 (2h 4m 51s):
+I mean that it was dreadful. Yeah. It was really bad probably. Yeah. And a lot of people and animals are still suffering symptoms, you know, so, so what's the logic behind this device and, and what's, I mean, I imagine you brought it here for a reason.
+
+2 (2h 5m 6s):
+Well, no, I bring it all the time. It's, it's always next to me.
+
+0 (2h 5m 9s):
+Oh, you carry this everywhere? Oh yeah.
+
+2 (2h 5m 10s):
+I've been doing this for eight or 10 years now.
+
+0 (2h 5m 12s):
+And if a restaurant or another space doesn't have good Air Quality, you, you just leave. Is
+
+2 (2h 5m 18s):
+That No.
+
+0 (2h 5m 20s):
+Probably You inform them and then leave.
+
+2 (2h 5m 23s):
+People ask, and I, I'm always honest, I tell them what it is. I hasn't been so bad. Where it will get bad is during the fire, but there a few times, so I'm doing it backing up a little bit. It's a very under-explored area and that's kind of again, the academic side of me. I want to understand how does your environment impact your health? And it's not just air, but I, that's the area we decide to start in and you know, what are you breathing right now? You have no idea. Right. And so that's the principle. I'm a sort of big data guy, as you can tell. I do all these measurements on the inside. What about the outside? And we know from plenty of work, from others, you mentioned, you know, particulates in the air.
+
+2 (2h 6m 7s):
+This is where the PM 2.5 that's thought to be. The stuff that penetrates your lungs and causes all kinds of problems
+
+0 (2h 6m 14s):
+Goes from the lungs into the bloodstream and can cross the blood-brain barrier.
+
+2 (2h 6m 17s):
+Yeah. And it's, yeah, not good. Yeah. So anyway, the, and these days, as you know, plastics and Microplastics have, have erupted as a, as a pretty big health concern, but nobody's a hundred percent sure what it means. But they do know now that when you dissect people's brains of folks who have died and you'll see Microplastics that they're everywhere. And so what is it doing to your health? I don't think we fully know, but we're starting by just trying to measure this stuff. So we've decided to start with airborne, but you could argue, you know, what are you drinking? What's in your food? That's all very relevant by the way.
+
+2 (2h 6m 57s):
+But we'll start with the air. And, and so what we're doing here, it's not just measuring P 2.5 and PM 10. It's basically it, there's, it's, it's sucking up air. There's a pump in here and underneath the intake valve there's a filter that captures all the particulates like pollen, bacteria, fungi. And under that there's a chemical absorbable, it's called zeolite captures both hydrophobic hydrophilic positive, negative and then not in real time, but offline will measure all the biologicals like the fungi, the pollen, the whatever that's captured on the fielder.
+
+2 (2h 7m 37s):
+And we'll measure the chemicals using something called mass spectrometry, the things that have an airport that measures, you know, bombs and things like that. So we're trying to measure that in real time to see what's going on. And then we try and correlate what's outside with what's inside. 'cause we'll measure your blood as well with these deep profiles. And so what we've discovered is, first of all they're, you know, you'll be getting exposed to, we, we, for me, I'll do one of these during the week one on the weekend. So it's not, we don't do it every five minutes kind of thing 'cause you have to collect enough sample. But we will basically determine, you know, what kind of exposure you're getting and, and if you're at high risk for certain things, you may wanna know this like asthma or Allergies, what are you exposed?
+
+2 (2h 8m 24s):
+And there, I can give you an example. I used to have moderate Allergies. Now they're pretty mild, but 'cause Allergies can fluctuate a bit and they would come every spring. I just assumed it was pollen. But what is pollen in the end? But I assumed it was pine. But when we did the correlation, well turns out it correlates better with eucalyptus and then it's like duh, I should have realized this. But I don't get them on the northeast where there's no eucalyptus. And so in the end it makes a lot of sense. So that one has an effect my lifestyle, meaning I still have a big eucalyptus tree out back that I have not chopped down.
+
+2 (2h 9m 7s):
+Mind you, it's on Stanford land, so I can't do that anyway. But yeah, at least I know what's going on. But then like on the chemical side, which is very interesting, we discover there's D everywhere, even in my office DEET Stanford D Yeah, the
+
+0 (2h 9m 25s):
+Insect repellent. Yep. The carcinogenic insect repellent.
+
+2 (2h 9m 28s):
+Yes.
+
+0 (2h 9m 29s):
+I used it years ago when I was a camp counselor. And then one day someone said, someone on the maintenance staff said, take some de put it into a Ziploc bag and put that Ziploc bag into a glass jar. Okay. And I was like, okay. And I did that and within a few hours the plastic bag was completely disintegrated.
+
+2 (2h 9m 50s):
+Ouch.
+
+0 (2h 9m 51s):
+And I was slathering that stuff on my skin way back when. Yeah. And I lived with mosquito bites for the rest of the summer. I'm like, I'm not putting this stuff on my skin.
+
+2 (2h 9m 58s):
+Yeah, of course I had to worry about getting West Nile or something else.
+
+0 (2h 10m 2s):
+Not in Yosemite. Yeah. You had to worry about getting Giardia. Yeah. Okay. But that's a different issue. Yeah, yeah, yeah. From the water. Yeah.
+
+2 (2h 10m 8s):
+Interesting. Anyway, we did, but and and same with Pesticides or most places and carcinogens of course are everywhere, but their types vary and the amounts vary a lot. So like when I was, when I'm in uc, Davis giving talks or something, I get a pesticide exposure. Yeah. It's rural area. 'cause all the fields are out there. Yeah. And same with when I was in Fresno. So you can see these correlations and, and so that's what we're doing. We'll measure what's where and then we'll measure how does that relate to what's going on inside. So we can see what microbes are outside relating to Inflammation markers like cytokines, things like that on the inside.
+
+2 (2h 10m 49s):
+And same with some of the chemical markers, like your Glucose levels. And right now that's mostly been built those models around me. But we're trying to run this study with a lot of people so we can first of all even break it down further, what's the difference between your kitchen and your living room and outside your house? And same thing, how does that relate to some of the levels of key markers? Your metabolites, your, your inflammatory markers. So, so we wanna correlate that. We know studies from others have shown right Pesticides correlate with Parkinson's and things like this. So we want to see what's going on there.
+
+2 (2h 11m 29s):
+I can tell you some fun stuff that we just made. Again, these are all correlations. Now we do something called mediation analysis. Again, let you get a little better about causality. Not proof in many cases, but a better idea. Anyway, here's a fun thing we discovered, we found a correlation between something called purine, which is used to be common in paints. And it's in other places too. They recently don't put it in paints, but purine exposures are associated with lack of fungi. Meaning I'll have more bacterial plant or other exposure. So my house was painted by a green guy, no purine in the paint's there. So I get a fungal exposure when I'm at home.
+
+2 (2h 12m 11s):
+And so is that good or bad? I don't know. But imagine I was a very allergic to black Mold. Well maybe I do want purine in my plate.
+
+0 (2h 12m 19s):
+I know a lot of people who struggle with Mold.
+
+2 (2h 12m 21s):
+We can make that association with the Allergies. Of course. Anyway, you get the idea. We're trying to correlate what's going on on the outside with the inside. Well in that case with, with other outside things, but later with the inside. So yeah, where measurements will make these things that'll lead to hypotheses that we could then probably test by either mouse models or in humans who live in certain places who wind up sort of testing whether they're trying to or not. Imagine you live near, you know, obviously you live near certain areas. You'll see if you live near, you know, mines, you'll see autoimmune disease, things like that. So we can try and make these associations and then you correlate with similar people who aren't living their minds to, you know, try to test that.
+
+0 (2h 13m 11s):
+I love that you're linking outside environment with internal, you know,
+
+2 (2h 13m 16s):
+Internal. Yeah. I feel like it's a totally unexplored area and a pretty important one.
+
+0 (2h 13m 19s):
+Yeah. Yeah. And I think the fires in LA Yeah. Among other things have sensitized people to this notion of Air Quality. Right. In a real way it's a shame it took that, but it does seem to be a theme that's persisting. People are starting to think about like, yeah, how, how clean or dirty is my air? And I think the, the interest and emphasis on Microplastics recently right. Is interesting. I did an episode about Microplastics. We had shaana swan on the podcast. I mean I think it's been known for a long time that these Microplastics, BPAs and phthalates so-called forever chemicals have been an issue. I think that people are now just shocked to learn how many of these things we've accumulated and maintained in our body.
+
+2 (2h 13m 59s):
+And they're all over our body too.
+
+0 (2h 14m 0s):
+Yeah. And the health effects are still unclear. Right? I it, I mean it's really unclear.
+
+2 (2h 14m 4s):
+They've been talked about endocrine disruptors and things like this. Yeah, yeah.
+
+0 (2h 14m 8s):
+I mean, I filter my water and I try not to drink out of plastic disposable bottles. Yeah, that seems to be an important one. And, but you know, there was a recent study
+
+2 (2h 14m 18s):
+I've only recently switched. I should have done it, you know.
+
+0 (2h 14m 20s):
+Yeah. We should have done it years ago. Right. There's a recent study showing that actually the glass bottles contain more Microplastics than plastic bottles because of the what's on the lines, the underside of the caps. I see. But what's less discussed around that study is that that was focused on the glass and plastic cap configuration in Europe. It's different here. So it's, it's like it really needs to be explored. I think simple ways to measure one's own environment using Sensors like the one that you have here for the air as well as for for water is gonna be really, really important. Yeah. So I, I'm grateful that you're commercializing so many of these things. I, I can tell you are a, a data guy, but the fact that you translate things into real world tools is so valuable.
+
+0 (2h 15m 3s):
+Speaking of which, I'm gonna be very direct about this, to Stanford faculty talking about measuring lots of Biomarkers from a single drop of blood screams of theranos, let's just call it what it is and not dance around it, which was a spectacular failure that involved, apparently at least the courts decided. It seems there was a lot of corruption and lying and stuff there. However, that was some years ago and you were not involved with that. And so the, the technology has now evolved to the point where my understanding is that you are able to measure lots of Biomarkers from a single drop of blood. Right?
+
+2 (2h 15m 43s):
+Thousands.
+
+0 (2h 15m 44s):
+Thousands. So that's exciting because no one likes to get their blood drawn I guess if there might be a subset of people. But so tell us about that. Like what, what is that pursuit called? What, what are you measuring? Why are you measuring it? And, and maybe underscore the, the real value of like single drop of blood analysis.
+
+2 (2h 16m 4s):
+First of all, we don't get measured very often when we're healthy. This idea that we mostly practice sick care, not healthcare. And why do you go to physician all the time when you're healthy to get measured? I think that's a barrier to getting measured. So can we come up with more, you know, facile ways of measuring people? The Wearables are obviously one and they're perfect because they're, you know, passive monitoring and continuous. So you're really collecting a lot of data just in the background. I mean the inconvenience is wearing 'em charging these things, but we don't measure what's on the inside. And I think that still has value. And the idea about trying to set up home tests for this sort of thing I think is powerful.
+
+2 (2h 16m 48s):
+So that was the motivation. That was the motivation for Theranos I think too. And our, you know, shtick if you will, was to try and do this, but we're not trying to measure the exact clinical values because some of that is hard. How do you measure LDL droplets in micros samples? It's probably doable, but it's a lot trickier. We were just trying to, it fits with our idea of doing deep data profiles on little drops of blood. And the key is to find a format that would keep the, the analytes as we call them. The molecules stable. And so we, Tesla, we spent seven years actually trying different things, finding formats that the old format was to do use paper actually cellulose to collect those stuff.
+
+2 (2h 17m 34s):
+And that doesn't work very well. The, the analytes oxidize, it's a mess. And so ultimately we test a lot of things out there. We were trying to invent a few of our own. And the net result was we, we did settle on some that were out there, tested them, they're being used in a more limited fashion. Then we showed you could actually do the kinds of things we do the metabolomics, it's called lipidomics and proteomics. And, and again, with certain configurations, the proteins turn, most of 'em are quite stable, not a hundred percent, but most are we can measure all those metabolites. Same thing. Most are lipids, some are, some aren't. So we figured out which ones are, which ones aren't.
+
+2 (2h 18m 14s):
+And then we basically did just that. We, we showed you could do this, did fun experiments. Like my case, we, we took a sample every hour for seven straight days to try and correlate around the clock. Well, at night when I was sleeping, no, but although when I did wake up, I would take a sample. Wow. Sometimes. Yeah, well it's just a drop. Yeah. Not so great for sleep disruption I suppose. But anyway, the, and the idea there was a correlate, you know, what's going on with and, and I was wearing a CGM and a smart watch, like a follow activity, doing food logging, all that sort of stuff. And then in the end we're trying to correlate basically people's activities and physiology, people's biochemistry and physiology with their activities and, and heart rate and things like that.
+
+2 (2h 19m 3s):
+And, and so we found literally thousands of correlations. It's pretty cool. A lot of which is known right after your, your, your insulin goes up after your Glucose. But we can precisely measure, we, for me it's 10 minutes, we know exactly the magnitude with certain kinds of food and that sort of thing. And we also discovered, and I don't know if this will go anywhere, but we're we're pursuing it alpha lin, which is involved in Parkinson's and dementia actually showed an interesting pattern. It seemed to fluctuate with stress. Actually
+
+0 (2h 19m 36s):
+Goes up with stress.
+
+2 (2h 19m 37s):
+Yeah, well that's what we're trying to figure out, what kinds of stress. So I don't think we have that sorted out yet. Yeah. So anyway, I'll leave it at that 'cause we don't have it all sorted, but, so that's the thing we're trying to measure that see exactly what it correlates with and then maybe that's a useful assay for trying to manage that and therefore push off dementia. That's the hypothesis. No guarantee. That's right. But these are the kinds of observations we make that I'd like to see if they, they turn into real world value that we could then help, you know, maybe have, get out there to help people in some fashion or record. Very cool.
+
+2 (2h 20m 17s):
+So this is the kind of stuff we do it and these are what you're calling Observational Trials. Take deep data measurements on people to better see what's going on, make hypotheses and then yeah. Ideally roll it out into the real world.
+
+0 (2h 20m 33s):
+I love it. Well let's go further into what most people consider kind of esoteric, at least in this half of the world, but it's not really esoteric at all, has tremendous precedent, which is Acupuncture.
+
+2 (2h 20m 46s):
+Okay.
+
+0 (2h 20m 47s):
+I think for people who know Acupuncture makes perfect sense as something that would be a valuable tool. Right. Thousands of years of data and, and practice less known about mechanism. But fu MA's lab at Harvard in recent years has been studying how different needle configurations impact different organs that's in mouse models, but you know, different inflammatory molecules or anti-inflammatory molecules. So there's some mechanistic data starting to come out. You have an interesting story about Acupuncture and, and perhaps what it can offer or, or not offer in terms of, of health support.
+
+2 (2h 21m 25s):
+I'm down on sabbatical at uc Irvine with Chita Mallek who runs an integrative health institute where they bring in nutrition, exercise and things like Acupuncture to try to better manage people's health and lives. And it's been very fascinating for me because they're doing it on the clinical side. I'm kind of a big data measurement guy and, and so I wanna see what's going on, if there's ways that makes sense to collaborate. And as you point out, acupuncturist has been around for 3000 years or some incredible number. There must be something to it, right. People use it a lot for pain and apparently for fertility and other things as well.
+
+0 (2h 22m 4s):
+Yeah. It's shown to be effective in a number of domains. And I've had quote unquote standard MDs including our director of pain medicine, Sean Mackey on this podcast. Yeah. Who's like, yep, there is evidence Acupuncture can work
+
+2 (2h 22m 14s):
+And there are plenty of people swear by it. And, and she uses it for Blood Pressure. Okay. For Blood Pressure management. So I run a little high on the Blood Pressure. Not nobody's overly panicked, but you know, I tend to be in the high one thirties. But I guess 'cause I was getting a very large grain out, I was in the low one forties and so I, I measured myself right before Acupuncture, you know, very specific time of day with my moderate home and yeah, I was running one 40 over the low eighties, something like 82, 83 did you know, five measurements. So did the Acupuncture, which is designed for Blood Pressure and diabetes and maybe I can go off the GLP if all this works.
+
+2 (2h 22m 60s):
+But anyway, the next day I measured at the exact same time and son of a gun was 25 points lower is the high teens like one 18 kind. Wow. It was unbelievable. I can show you the data and, and the other went to like 72 right? Some the diastolic. So I just, with one treatment that was electroactive puncture I should say. So they zap you and they Yeah. Had 30 some points and and they've added a few more since you do it every week for eight weeks. So I've now done four of these things and I can tell you that my Blood Pressure stayed low. It's running in this one high, one teens, maybe one 20, which is pretty good, roughly where you wanna be.
+
+2 (2h 23m 45s):
+And the other is always around maybe 74. So it's like, it was never running like that before. I can show you my data. That's great. It's pretty incredible. So it does seem to be working now how long does it last? I'm only halfway through my treatments. I don't know, but I will track all this stuff, right? So I'm a responder, no question to this treatment.
+
+0 (2h 24m 7s):
+I love hearing it. I haven't done Acupuncture in years, so it's, and I've noticed So you
+
+2 (2h 24m 10s):
+Have done it.
+
+0 (2h 24m 10s):
+Yeah, years ago when I was a postdoc, a stressful time in my life. And then a junior professor, also stressful time in my life, you know, a lot of uncertainty, writing grants and things of that sort. My sister suggested I go see a acupuncturist and I got a lot out of it in terms of stress reduction. We'll put it a link to it in the show note captions, but I'll also send you these papers from Fu MA's lab that I mentioned a few, yeah. Months ago. First of all, not that this means everything but published as articles and letters in nature, which has a very high bar for, you know, for sure not most papers get rejected obviously, as you know. And what they found is interesting that the, the, the combination of needle placements turns out to be vitally important.
+
+0 (2h 24m 53s):
+So in this one paper that Sufu has, he shows that, for instance, if the, if the needles are inserted into like the, the equivalent of like the palm area and the foot area and some flank area, you get an increase in inflammatory cytokines. Whereas if you change that combination, you get a decrease in inflammatory cytokines. But what's really beautiful about these papers is he maps it to specific output from the spleen regulated by The Vagus Nerve regulated by the, these receptors at the level of the skin. So mechanistically it all makes sense. It's just that these thousands of years of, of, of charts and data that have been collected in humans, you know, clinical practice has never been parsed mechanistically.
+
+0 (2h 25m 35s):
+Right? So I'm 100% a believer that there's a mechanistic basis that it's not just all placebo, right? Some of it might be placebo, right? Much like some of the GLP appetite suppression might be be placebo, but a lot of it probably isn't. So in any case, I, I'm a, I'm a fan of the rigorous exploration of things that have been thought to work for many, many years. And it's always gratifying when you see ah, like here's a mechanism that makes sense.
+
+2 (2h 25m 60s):
+Yeah, it really does work. I mean, I go into the stuff completely open, it may not work. And I don't know, I didn't even, she said, oh, 'cause first of all she said well just try Acupuncture. I wasn't even sure what kind she was gonna try. So in the end she said, ah, yeah, we'll do Blood Pressure and diabetes. Now they've added on some stress points as well. And I don't consider myself, I'm probably in a high stress job, but I don't consider myself a very stressful person.
+
+0 (2h 26m 26s):
+You don't seem
+
+2 (2h 26m 26s):
+Stressed. Yeah, I, I think I generally handle alright. But anyway, they're putting all these things on me and I didn't know I was gonna, you know, 24 hours later, is it gonna work or I don't know. But the data, I mean that was a pretty big jump. Right.
+
+0 (2h 26m 41s):
+Speaking of fun and things that are at least on the face of 'em kind of out there. I have one final question, which is, my understanding is a few years ago your laboratory was involved in looking at big data sets, genomics, proteomics, et cetera, from people who had attended a Tony Robbins event. I don't know what the control condition was, and I only know this because I believe it was a postdoc or a student in your lab had reached out about some protocols that we had going in my lab in collaboration with the psychiatry department. Could you describe the contour of this study and Yeah, and I realize it's not published yet, but if there were any preliminary findings that you could share with us, I think that would be interesting.
+
+0 (2h 27m 27s):
+I, I'm interested generally in Immersive Events and psychological health and there are interesting data comparing attendance of these events. But, which by the way, I have no financial relationship to never met Tony in person or, or anything like that with prescription antidepressant treatments. And they actually measure up pretty well in terms of, I forget how long term the study was. So I'm generally an open person when it comes to ideas. What was the study and what did you find
+
+2 (2h 27m 53s):
+Maybe to put it in context? So this all started when a postdoc joined my lab was very interested in mental health and knowing that we're good at measurements and the idea, and, and I thought about a lot and I realized that we don't measure mental health very well, right? Surveys are still the gold standards for most things. And so how do you know if you're getting better, you do more surveys. That whole concept is very unsatisfying to me. So we thought with the Wearables, right, there's gotta be a lot of physiology around this thing, this, this biochemistry. We do a lot of micro sampling mentioned earlier where you can now profile deeply. So we thought we could bring this kind of stuff maybe.
+
+2 (2h 28m 33s):
+And we're still, it is an, it's a growing area in the lab. I'm very interested in this because I've, I feel like there's a lot going on in the mental health space. It's just unexplored. And the biggest problem is we just don't have good Biomarkers for the meetings I've been at for this stuff that keeps popping up. Number one, we don't have good Biomarkers. So we think the digital meaning from the Wearables, the, the micro sampling could ultimately prove to give us good Biomarkers. We're already seeing some evidence of that now. So we ran several studies. We did one with Byron Katie, who runs one of these immersive programs. Yeah. And I don't know anything about this stuff. And so I basically said, all right, if we're gonna do this, let's bring in first we run a colleague, George Slavic, who you may or may not know, he's, he's basically an adverse childhood but knows a lot more than I do about the childhood.
+
+2 (2h 29m 25s):
+And I've met, met him and he is a very, very bright guy. So he, you know, we came up with some surveys 'cause we have to compare up against something. We put smart watches. The one on Byron Katie didn't quite work out, but we did do blood sampling and stuff for her and, and even Microbiome for people before and after. And that case it went out for way. And then we, so we ran that study and then shortly thereafter we ran a, a pilot one with Tony Robbins where we had a smallish number of people who did the Tony Robbins and we profiled them, you know, before, right before, immediately after. And then at that point, I think that study was done out for several months.
+
+2 (2h 30m 9s):
+And then I'll tell you about the large one in a minute. And so we had them do these surveys and things and, and I went in, I have no idea if this stuff works or not. And son of a gun, these people really did improve by these questionnaires, by the standards in the field. Basically they improved their markers,
+
+0 (2h 30m 29s):
+Their mental health,
+
+2 (2h 30m 30s):
+Improve their mental health Yeah. By the surveys. So that first, and, and that was true for the Byron Katie one, it was true for the Tony Robbins one and the Byron Katie one. We now have some of the omics data back and they're, they do seem to improve in their inflammatory markers as well. Wow. So we have some data there that's not yet published
+
+0 (2h 30m 48s):
+Her stuff for people that aren't familiar, and I'm, I'm, this is a very top contour thing is a lot of reframing as I understand. Yeah. Through language testing, assumptions, counter, you know, challenging internal beliefs, external beliefs. Right. I, I'm, I'm, again, I'm just scratching the surface and I'm probably getting some of it wrong, but just for those that don't know who Byron Katie is, whereas Tony Robbins, I think more people are familiar with. Those are very Immersive Events. There's a lot of high energy activity. Also some breath work stuff done, some almost,
+
+2 (2h 31m 20s):
+Its must be very intense. I've never done it
+
+0 (2h 31m 22s):
+Myself. Almost like h self hypnosis type stuff where people direct themselves down a, a memory. That's very painful memory. That's very positive. A lot of somatic stuff. I mean, you know, there's a wide palate there. But anyway, that hopefully that gives a little more context for
+
+2 (2h 31m 38s):
+People. Right. So anyway, we did see a positive result on the pilot study and that was 20, I don't know, 27 people. I may have the number wrong, but it's a small number. And then we now have done a, a, a follow up and, well, I should say actually for the first one actually went out even further. Now they have some additional data points, but in the follow up there, we did a much bigger one at 600, almost 700 people who went through Tony Robbins. And then we had another set of people who didn't do Tony Robbins. We also profiled. And same thing, they say they wore smart watches. We had to scramble to get the IRB approval.
+
+2 (2h 32m 18s):
+It's always a rate limiting step. So we didn't get as many Wearables on folks ahead of time. But we do do the micro sampling. We did do all the surveys and we have a, a battery of wellness surveys. It wouldn't be official depression scores and things, but they're things about, you know, are, are you depressed and anxiety and burnout and all kinds of stuff. So we, we, it's a series of questionnaires. They, they did it before, they did immediately after one month, three months, six months, one year. And it's a pretty sizable study now. Like say it's almost 700 people who did it, 700 people who were controls. But I will say the caveats are not randomly assigned because there are people who did it, did it, signed up for it, and the people who didn't do it well, they did it separate.
+
+2 (2h 33m 2s):
+So that's the only caveat that I see. But the bottom line is the ones who did do it, once again, they improved in all like virtually all these things. Anxiety, significantly depression significantly. Yeah. And we have just put together paper on the psychological part now and then on the, we're still doing omic stuff. So we actually did the micro sampling I mentioned earlier where they gave samples before for not everybody, not everybody signed up for that, but it's like 130, 140 people who did the micro sampling before the, you know, immediately after each of those same time points. And so we will see that data is still coming in and hopefully we'll know in a few months, but at least on the survey stuff, these people did all improve.
+
+2 (2h 33m 53s):
+And that control group, which was separate, did not, and it is significant. So I'm sure we'll put the paper up on either bio archive, which is this preprint thing or can even send you a copy. I'll see if my person who's been running that's up for that. So anyway, yeah, it does work. It's pretty amazing actually. So again, people lot, not everybody's in the so-called depressed state or whatever, it's, it kind of worked out half and half and their values all improved. Not again, not a hundred percent, but pretty darn most of them. It sort of surprise me and we didn't, obviously in the control group, we didn't see anything.
+
+2 (2h 34m 39s):
+So it looks pretty good.
+
+0 (2h 34m 41s):
+Wow. Well I love how you are willing to explore these sorts of things.
+
+2 (2h 34m 47s):
+Yeah, people are have asked me, Mike, what the hell are you doing here? And I said, I don't know, I'll just let, but let's take it like thousands of people do this stuff. Yeah. Shouldn't somebody look at this? I know. I think the answer is yes.
+
+0 (2h 34m 58s):
+I know people who I would characterize as highly motivated, generally toward their health and careers, et cetera, relationships who had pain points of struggle in one or several domains of life, or just we're in a kind of a like, you know, aimless part of life or struggling with something who went and did these, one of these immersive seminars and and reported, and it does seem from the outside as well, to be positively transformed, right? They continue to do the work on their own. That's
+
+2 (2h 35m 37s):
+Correct. Yeah.
+
+0 (2h 35m 38s):
+You know, they continue to do practices that, that they learned there on their own. Right. Seems to be an important component. But you know, I think what's exciting about these, these kinds of experiments and conversations to me is that whereas five years ago, certainly 10 years ago, any discussion about, let's just think about some of the themes that we've touched on, right? Breath, work Long, Exhales, slow, your heart rate. We know that it's the respiratory sin. I say RHYTHMIA increases HRV, we know that, right? I asked you about meditation, you don't meditate, but, but exercise.
+
+2 (2h 36m 12s):
+Well I I used to, yeah, but, and I'd like to get back to it. It's,
+
+0 (2h 36m 15s):
+And certainly there are data to support it. Yeah, absolutely. Yeah. Resistance Training. You know, when I was, I'm about to turn 50, as I mentioned, when I was in high school, the only people who did weightlifting were bodybuilders, people going off to the military or preseason football players. They told us it would turn to fat if we stopped and we shouldn't weight train. Right? We know that's completely false. Everyone should wait train women should wait train men should wait train. Especially as you get old, right? Yeah. Byron, Katie, Tony Robbins have entered the conversation, their work that is Acupuncture. You're parsing diabetes into these subcategories or Phenotypes. We're now, we're no longer talking about talking about Fiber as a single thing.
+
+0 (2h 36m 57s):
+You've now divided that into separable actionable paths for, you know, addressing one's health, improving one's health. And so, you know, this really just brings me to what I've, you know, been thinking more and more as I've read your work and, and certainly after today's conversation, which is that I'm so grateful that somebody like you who is into big data, you like numbers, you like statistics, you like proteomics, genomics, RNA-Seq, you know, I mean this is serious science that you're willing to look at what's out there, what people are doing, what they're willing to do, and ask what are the things to avoid, what are the things to do more of? And really customizing it for people's needs.
+
+0 (2h 37m 40s):
+I think it's truly important slash heroic work because it really would take somebody in your position, you know, at least until very recently you were chair of the Department of Genetics, but you're professor of Genetics trained at Caltech and all these places to really embrace, you know, the, these different directions in health with serious mechanistic reductionist approaches. But then be able to step back and say, here's what I do. Here's what people are doing. Here's what seems to help, here's what we don't know. And there seems to be basically no limit to what you're willing to explore using these highly rigorous tools. So I just want to really extend my gratitude and I know the gratitude that people who've listened to this and have watched this are, are surely feeling because things have been very siloed up until recently.
+
+0 (2h 38m 26s):
+And you're one of the people I really see as, as putting sand and hopefully concrete between those silos because this notion of health and health practice is really just one thing. And, and we, we need to be less siloed. So thank you for doing that.
+
+2 (2h 38m 40s):
+Oh sure. I think you bring up a good point. I think we're trained to be siloed. That's part of the problem as you go through graduate school and things like that, even medicine, right? You have people trained in very specific areas so they never look at the hole yet we know again that we are homeostatic systems that involves all these different things and you'll never solve it. Like I, I like to say when I got, 'cause everybody on my father's side has died of heart problems. And I used to have high Cholesterol until I went on satin. I'm on PCSK nine inhibitors and they're amazing. And you know, my heart guy would tell me, well you need to raise your sentence.
+
+2 (2h 39m 21s):
+He didn't think it was low enough. He'd said, well when I do that, my Glucose goes up. And that's very textbook by the way. And I, and I finally called him, I said, look, your job has stopped me from getting a heart attack, but you don't care if I have all these other complications. Right? And I would say the same to the diabetes people. I'd say, well, you know, you're trying to control my Glucose, but you some of these other things and I just don't think that's the right way. You wanna look at people, we need to bring in all the data, all these things. We've touched on these points about Genetics and Epigenetics and lifestyle. And I think the whole, you know, communication side, the whole socialization, very understudied also like it from the academic side.
+
+2 (2h 40m 2s):
+'cause when you go into these areas where you don't know anything, you're even, when you stumble around, you're gonna learn something. So that's kind of how I view our work in mental health. And now socialization, I hope so. I just hope that we can learn some kind of cool stuff that will be useful. And then I think now we're in an, an amazing position, right? Where we the tools with ai, 'cause no one person can do this, right? You don't want a doctor who doesn't use ai. Now you want someone who can pull in all that information and this is what the companies are really good at. Again, it's one of the reasons we spin these things off. Like January AI has this, they call it mirror that builds kind of like, it'll take all your data, your genomics data, all your reports, all these various things and runs an AI engine.
+
+2 (2h 40m 46s):
+Obviously trained in a certain fashion and gives you back a incredibly long report. But although you do get a summary so you can decipher it and then it pulls all the stuff together to make insights. And so for example, I didn't realize I knew my CD eight T cells. Again, this gets a little specialized, but they were low, which I did see on the report. But it has this whole zinc recommendation thing. And I don't know if that's right, but I'm gonna look into it more. It can make suggestions that no doctor's gonna figure out with all this stuff. So you do need these new systems and that is the future. We're all gonna have our own personalized systems pulling data. I mentioned earlier about IOO, same thing about your metabolic profile.
+
+2 (2h 41m 29s):
+Pull other information to give you recommendations. That's gonna be true. Again, those are specific examples for me, but I think that's your, every one of your doctors of the future is gonna have to do this stuff. Otherwise you're not gonna get full value out of all these measurements which we should be doing that will better improve our health.
+
+0 (2h 41m 48s):
+I love it. It's a, it's a beautiful vision. And I can see a day not too far from now, where if somebody has a whole body, skin dataset, some blood tests, maybe they have some tracking data, they just upload it to a website and their physician runs it through AI and makes of it what they can, it certainly won't be everything that's possible, but that's certainly better than not taking those data into account. Correct. And of course physicians can also still choose to ignore it all. Most of them do now by being totally unaware that it exists or saying, oh yeah, you said your heart rate variability was reduced for a week, but what does that mean to me? It could be any number of things, right? But now that they can start to make sense of it if they choose to, right? I think it's important.
+
+0 (2h 42m 29s):
+Important. 'cause after all, people can't forget the physicians work for you, not the other way around. So
+
+2 (2h 42m 36s):
+A hundred percent agree. Yeah.
+
+0 (2h 42m 37s):
+Well thanks so much for the work that you're doing. I've been told, and I strongly believe that in the world of science there are map makers and there are explorers. And the explorers are the ones that really make the discoveries that matter. And you're clearly an explorer and I'm grateful for the work you're doing. I'm also grateful that you took the time to come talk to us today. So I'd love to get updates in the, in the not too distant future. Meanwhile, I'll see you back at the farm.
+
+2 (2h 43m 4s):
+Thanks so much for having me here. It's been a blast.
+
+0 (2h 43m 7s):
+Thank you for joining me for today's discussion with Dr. Michael Snyder. To learn more about his research and to find links to the various things discussed during today's episode, please see the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. Another terrific zero-cost way to support us is to click the follow button on Apple or Spotify podcasts or both. And on YouTube, apple and Spotify. You can leave us comments. So if you have comments for me about today's episode or you have guests or topics you'd like me to consider for the Huberman Lab episode, please put those in the comment section on YouTube, apple or Spotify. I do read all the comments. Please also check out the Sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast.
+
+0 (2h 43m 48s):
+And I should mention that I only work with Sponsors whose products I absolutely love and personally use. And if you're not already following me on Social Media, I'm Huberman Lab on all Social Media platforms. So that's Instagram X, formerly known as Twitter, LinkedIn, Facebook, and Threads. And on all those platforms, I discuss science and science related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. Again, that's Huberman Lab on all Social Media platforms. And if you haven't already subscribed to our Neural Network Newsletter, the Neural Network Newsletter is a zero cost monthly newsletter that includes protocols, brief one to three page PDFs that explain the critical to-dos to, for instance, improve your Resistance Training, your strength.
+
+0 (2h 44m 30s):
+That is your cardiovascular fitness, nutrition, dopamine regulation, how to optimize your sleep learning plasticity and on and on. Again, all available completely zero cost, all in the form of brief one to three page PDFs. To sign up, you simply go to Huberman Lab dot com, go to the top right corner menu, scroll down a newsletter and enter your email. And I should mention that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Michael Snyder. And last but certainly not least, thank you for your interest in science.
