@@ -50,3 +50,17 @@ LIWC is closed sources, some solution:
 ### Wed, Oct 22nd
 
 Started to work on prompt-based feature generation
+
+### Thu, Oct 23rd
+
+What helped at lot:
+* Shuffling the batches before train/test split (daahhhh)
+* Scoring features individually instead of all at once, reduced average standard variance by 45% (~1.4 -> ~0.8)
+* Increasing nb of evaluations per model from 3 to 10 -> Led to way lower std var, thus increasing number of selected features (~ +100%)
+
+TODO:
+* Check increase nb of segments per batch (currently at ~80 words/batch)
+* Before generating feature, let the agent think (do it in two steps like for General Social Agent)
+* Before scoring feature, let the agent think (do it in two steps like for General Social Agent)
+* Check increase dataset (currently at ~50k words)
+* Try removing filter_features_candidates_against_bank and see if the nb of feat w/ std < 1 increases
