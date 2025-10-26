@@ -14,7 +14,6 @@ if SECRET_OPENROUTER_API_KEY.get_secret_value() is None:
 
 
 MODELS_TO_ANALYZE = [
-    # "openai/gpt-4o",
 
     # Mini / Flash
     # "google/gemini-2.5-flash-lite-preview-06-17",
@@ -22,6 +21,7 @@ MODELS_TO_ANALYZE = [
     # "openai/gpt-5-mini",
 
     # "anthropic/claude-sonnet-4.5",
+    # "openai/gpt-4o",
     # "openai/gpt-4.1",
     # "openai/gpt-5",
     # "google/gemini-2.5-pro",
@@ -31,4 +31,4 @@ NUM_RUBRICS_PER_MODEL = 3
 NUM_EVALUATIONS_PER_MODEL = 10
 MAX_STD_DEVIATION = 2
 
-SEMAPHORE_MAX_CONCURRENCY = 500
+SEMAPHORE_MAX_CONCURRENCY = 250

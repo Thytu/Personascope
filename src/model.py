@@ -24,12 +24,9 @@ Follow these principles:
 
 
 RUBRIC_EVALUATION_SYSTEM_PROMPT = """
-You are an Social Science researcher scoring a set of subjective style/persona features to conversational text.
+You are an Social Science researcher scoring a subjective style/personality feature to conversational text.
 
-Your job: score each feature provided 0-10, cite evidence spans, and return the output in the required format.
-You are evaluating style/tone only (not factual correctness or task quality).
-
-Make sure to score each single feature provided without omitting any. Do not skip any feature.
+Your job: score the feature provided 0-10, cite evidence spans, and return the output in the required format.
 """.strip()
 
 
@@ -57,6 +54,14 @@ Guidelines:
 - Preserve the original Candidate text (name and descriptions) for any kept feature.
 
 Output: A list of Feature objects. If no Candidates remain after deduplication, return an empty list.
+""".strip()
+
+
+FEATURE_MATCH_SYSTEM_PROMPT = """
+You are a Social Science researcher. Given a conversation transcript and a target feature (name, descriptions, min/max anchors), analyze how much the conversation aligns with that feature.
+
+Return a deep analysis explaining evidence for alignment or misalignment, contradictions, and uncertainty with the conversation and the feature.
+This is a preparatory step; do NOT produce the final feature score here.
 """.strip()
 
 openrouter_client = AsyncOpenAI(
@@ -105,6 +110,14 @@ def __log_retried_error(retry_state: RetryCallState) -> None:
     # print(f"An error occurred (at attempt {retry_state.outcome.attempt_number}): {retry_state.outcome.exception()}")
 
 
+def await_time_limit(time_limit):
+    def fn(func):
+        async def wrapper(*args, **kwargs):
+            return await asyncio.wait_for(func(*args, **kwargs), time_limit)
+        return wrapper
+    return fn
+
+
 # NOTE: To improve reliability, we should:
 # - Add a retry per operation to handle errors
 # - Have the first output in freeform text invinting the model to think and write down its thoughts (like a scratchpad)
@@ -146,29 +159,68 @@ async def generate_features(conversation: str, model: str, n_rubrics: int) -> Li
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(2), reraise=True, sleep=asyncio.sleep, before_sleep=__log_retried_error)
 async def __evaluate_single_feature_score(conversation: str, feature: Feature, model: str) -> FeatureEvaluation:
     async with _api_semaphore:
-        response = await openrouter_client.responses.parse(
-            model=model,
-            temperature=1.0,
-            input=[
-                {
-                    "role": "system",
-                    "content": RUBRIC_EVALUATION_SYSTEM_PROMPT
-                },
-                {
-                    "role": "user",
-                    "content": f"Conversation:\n```\n{conversation}\n```\nFeature:\n```\n{feature}\n```"
-                }
-            ],
-            text_format=FeatureEvaluation,
-            timeout=60.0,
-        )
 
-    output = response.output_parsed
+        # Step 1: Analyze match strength between the conversation and the feature axis
+        async with asyncio.timeout(60):
+            match_response = await openrouter_client.responses.create(
+                model=model,
+                temperature=0.7,
+                input=[
+                    {
+                        "role": "system",
+                        "content": FEATURE_MATCH_SYSTEM_PROMPT
+                    },
+                    {
+                        "role": "user",
+                        "content": (
+                            "Conversation:\n```\n"
+                            f"{conversation}\n"
+                            "```\n\n"
+                            "Target feature (with min/max anchors):\n```\n"
+                            f"{feature}\n"
+                            "```"
+                        )
+                    }
+                ],
+                timeout=60.0,
+            )
 
-    if output is None:
+        # Step 2: Produce the final feature score using the prior analysis as context
+        async with asyncio.timeout(60):
+            scoring_response = await openrouter_client.responses.parse(
+                model=model,
+                temperature=1.0,
+                input=[
+                    {
+                        "role": "system",
+                        "content": RUBRIC_EVALUATION_SYSTEM_PROMPT
+                    },
+                    {
+                        "role": "user",
+                        "content": (
+                            "Conversation:\n```\n"
+                            f"{conversation}\n"
+                            "```\n\n"
+                            "Feature:\n```\n"
+                            f"{feature}\n"
+                            "```\n\n"
+                            "Prior analysis of the conversation and the feature (to inform your scoring):\n```\n"
+                            f"{match_response.output_text}\n"
+                            "```\n\n"
+                            "Using the prior analysis as a guide (you may disagree with justification), now provide the final score and explanation for this feature."
+                        )
+                    }
+                ],
+                text_format=FeatureEvaluation,
+                timeout=60.0,
+            )
+
+    final_output = scoring_response.output_parsed
+
+    if final_output is None:
         raise ValueError(f"No output from model {model} for feature {feature.name}")
 
-    return output
+    return final_output
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_fixed(2), reraise=True, sleep=asyncio.sleep, before_sleep=__log_retried_error)
@@ -178,20 +230,14 @@ async def __evaluate_features_scores(conversation: str, features: List[Feature],
         for _feature in features
     ]
 
-    # pbar = tqdm(total=len(tasks), desc="Scoring features", leave=False)
     outputs: List[FeatureEvaluation] = []
 
-    try:
-        for future in asyncio.as_completed(tasks, timeout=len(tasks) * 60.0):
-            try:
-                result = await future
-                outputs.append(result)
-            except Exception as _error:
-                print(f"Error while evaluating feature scores: {_error}")
-            # finally:
-            #     pbar.update(1)
-    except asyncio.TimeoutError:
-        print(f"Timeout while evaluating feature scores for conversation, evaluating {len(outputs)} features out of {len(tasks)}")
+    for future in asyncio.as_completed(tasks):
+        try:
+            result = await future
+            outputs.append(result)
+        except Exception as _error:
+            print(f"Error while evaluating feature scores: {_error=}, {type(_error)=}")
 
     return outputs
 

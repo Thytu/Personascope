@@ -28,6 +28,7 @@ async def main():
 
     validation_set.extend(train_set)
     validation_set.extend(test_set)
+    print(f"Number of words in dataset: {sum(len(segment.split()) for batch in validation_set for segment in batch)}")
 
     features_bank = json.load(open("output/features_bank.json"))
     features_bank = [Feature.model_validate(_feature) for _feature in features_bank]
@@ -40,6 +41,7 @@ async def main():
 
     validation_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
     _print_stats_features_evaluation(validation_stats)
+
 
 if __name__ == "__main__":
     asyncio.run(main())
