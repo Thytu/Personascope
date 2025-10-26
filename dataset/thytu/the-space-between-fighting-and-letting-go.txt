@@ -1,0 +1,64 @@
+Intro
+It’s easy to share wins, motivational quotes, or shitposts. Today, I want to do something much harder: talk about failure.
+
+In a world full of polished success stories, fake growth hacks, and algorithm-chasing content, I thought sharing something raw and real might be more valuable. Not a launch post. Not a victory lap. Just a brutally honest check-in.
+
+Solight, my startup, isn’t going well. And I don’t know if I should keep going.
+
+I’ll share what we tried, what worked, what didn’t, what I learned, and where I’m at mentally now. I’m also hoping that writing this helps me find clarity, because right now, I’m stuck between fighting harder or letting go.
+
+If this resonates with you, if you’ve ever built something that didn’t go as planned, I’d love to hear your story. DM me on X, or shoot me an email.
+
+Where It All Started
+After two intense years at a fast growing startup (from pre-seed to Series A), I was done building someone else’s dream. I quit, joined Entrepreneurs First, and went all-in on trying to build something of my own.
+
+The beginning was chaotic. Multiple ideas. Three co-founders. A lot of dead ends. Nothing felt right. It wasn’t until I left the country and started searching outside the program that I found the one co-founder I could actually build with.
+
+We originally started with an adtech idea, good enough to get us through EF’s Investment Committee and secure a $250k pre-seed investment. Sequoia Arc even reached out to my former boss trying to get an intro to me (I declined). A scout from a16z asked to invest. It sounds like a dream start, right?
+
+But deep down, we knew it wasn’t “the one.” So we did something most would consider insane (or stupid): we pivoted hard the moment we landed in San Francisco. While the rest of the EF teams were pitching their products and running GTM sprints, we were back at zero, asking: “What do we actually want to build?”
+
+That’s when we revisited a side project I had launched a few weeks earlier: Agentarium. A few researchers had reached out about it, and it got us thinking: what if LLMs could simulate human behavior? What if we could predict how people would interact with software just from model outputs?
+
+It was exciting, but still early. It’s one thing to correlate national survey data with GPT outputs. It’s another to reliably predict the usage of millions of user on a website using LLMs. The research wasn’t ready, and we didn’t have a viable GTM. But that was the seed of something.
+
+We started looking for a path that could connect this long-term vision to something real, now. The hard part was being able to mimic specific users, if we could remove this part, that would simplify our life and GTM. That’s how we landed on automating Quality Assurance using AI agents. You have the same product, just minus the per-user simulation part.
+
+We believed, and still believe, that QA is the real bottleneck to software velocity today. Not code generation. Not model accuracy. But QA. While developers can ship 10x more code thanks to AI, QA teams just get 10x more work. The bottleneck has moved from code to product.
+
+Solight’s mission became to remove that bottleneck.
+
+We set out to build a product for product managers, the ones who ultimately decide whether a feature ships, so they could automate the painful, repetitive job of checking whether things still work. No more brittle test cases. No more manual checks. Just fast, autonomous testing powered by agents that behave like real users.
+
+That’s the vision: a world where testing becomes invisible. Where confidence is continuous. Where shipping doesn’t slow down because QA can’t keep up.
+
+The Now
+We went all in. From the moment we landed in SF to coming back to Paris months later, it was non-stop: 6AM to 10PM, every day of the week. We shipped fast, iterated faster, talked to users, built features, and rewrote the same flows countless times.
+
+We made progress. Our tech impressed people. Some customers gave great feedback. But every win felt offset by another blocker. Slow sales cycles. Non-committal users. Infrastructure pains. And of course: fundraising.
+
+After months of grinding, I can simply say: I thought we’d be further by now.
+
+Our seed round went as bad as it can go. People who promised to help ghosted me. The hype died down. The traction wasn’t enough. And now, I’m staring at the reality: the company might not make it.
+
+I always dreamed of being a founder, even as a kid, I just didn’t have the word for it. But now I wonder: when do you actually become one? Is it when you incorporate? Raise money? Hit PMF? IPO? Can I even consider myself a founder if I couldn’t raise a seed round? The work and intensity were real. The results weren’t.
+
+After coming back from a well-needed week off, I plotted the usage of our product, and saw something that would make me cry. Not a single usage, not one of our five active design partners used the product, no one. In the early days this could have been simply explained by the product not being in a working state yet. But now, that shows something deeper, people aren’t dying to use our product.
+That’s how I realized that our ICP was wrong. In theory, PMs love the idea of our product. In practice, they don’t want to spend time figuring out how to make it work. If it works out-of-the-box, great. If it doesn’t, they move on. This taught me to constantly question the fundamentals: your ICP, your PMF, your assumptions. The market doesn’t care about your vision if it doesn’t align with their reality.
+
+Shifting our ICP to software engineers makes sense. They already write tests. They understand how things break. But that also means entering a crowded, hyper-competitive space with tools like Cypress, Playwright, and newer AI-based ones like Spur or Ranger.
+
+To make things harder, my co-founder said he wouldn’t continue if it means starting over with a new ICP and product. I understand, and I don’t blame him, I actually thank him for being so honest toward me. But that leaves me with a tough question, what to do next?
+
+So now I’m standing at a crossroads. There’s a voice in my head that says: “You’ve come this far. Don’t quit now.” But there’s another voice that asks: “What are you still holding on to? Is it hope, or just ego?”
+
+If I continue, I’ll have to rebuild most of the product, start from a clean slate, and most importantly, find a new co-founder. Here`s where an uncomfortable learning comes: prestige networks matter more than we like to admit. I used to think hustle could compensate for not having the Stanford or MIT badge. Skills-wise, I don’t think I envy anything from those schools, but network-wise, having a bunch of cracked friends ready to conquer the world sure helps a lot. Those warm intros, those “I know a guy” moments, the casual coffee chats that turn into investment conversations.
+
+Through all of this, I’ve learned that I’m stronger than I thought. That I can lead, build, sell, and survive in conditions far rougher than I imagined, and I’m proud of it. But this removes nothing from the current difficulty of the situation.
+
+My theoretical net worth has never been higher. My actual liquidity has never been lower. I used to travel the world. Now I can barely pay rent. I can’t imagine myself working for someone else’s dream, but I am not sure I have the strength to resume the journey by myself.
+
+The Ask
+If you’ve been in this place this weird, in-between state where persistence and surrender feel like two sides of the same coin, I’d love to hear from you. DM me. Email me. Whoever you are, I’m all ears, let’s talk.
+
+Because if there’s one thing I know for sure, it’s this: we cannot brute-force life, but we sure can learn from each other.

@@ -1,0 +1,131 @@
+Introduction
+Every morning, I have to step over this same homeless person to get into my Waymo
+
+Those are my exact words, and I realize today, how well they describe San Francisco. It’s a troubling mix of richness, innovation, but also ugly despair. And despite all, I’ve never felt more right at home, than in SF.
+
+I target this blog post to Europeans, who, like me, might be dreaming of San Francisco, wondering what life is like over there, asking themselves if it’s the right place to be, worth crossing the Atlantic Ocean, or even if it’s like they heard it was.
+
+Forewords
+This is my opinion and my opinion only, based on only four months in SF. Everything here is subjective; I can be wrong, right, in the middle, or even orthogonal, I don’t care, it’s just my opinion and it’s up to you to make your own. I also reserve the right to change my opinion on SF as time goes.
+
+I had such terrible expectations before coming to SF. Between what I heard about Tenderloin, South Market, or more broadly on how SF can be, I expected to be stabbed or shot before I got back to France. But things are actually not that bad!
+
+While there are legitimate concerns about drug addicts and their unpredictable behavior, I feel more in danger in the north of Paris than in SF. Things are ugly, but not that dangerous, at least as long as you use common sense and avoid some areas at night. The ugly part is centralized in a few areas (Tenderloin & 6th Ave.), so as long as you don’t go there, you should be safe :D (don’t FA, don’t FO)
+
+And to be fair, most streets are pretty clean, actually, on average, streets are cleaner in SF than in Paris.
+
+Now, don’t get me wrong, the situation is still pretty bad. I’ve never seen so many homeless people in a developed country as in SF. You see people lying on the floor, some with open wounds, and others going crazy. I wouldn’t be surprised if among all those people I saw, a couple were dead without me even knowing. The mere fact that I’m wondering says a lot about the situation…
+
+To give you some context, here is a heatmap showing the crime rate per areas in downtown. I also added the airbnb I stayed at and the office I went to.
+Living
+Cost of living
+Unfortunately, it’s as bad as you heard. Airbnbs are crazy expensive; for two people, aim at least $3k monthly if you’re lucky, and more realistically around $4.5k. Price of food is twice as much as in Paris, and groceries are not even worth it. In France, if you want to save some money, you cook yourself some meals; here, what’s the point? An avocado is $3.50, grapes are $15/kg and that’s without taxes. You’d better spend a couple more bucks and not have to spend time cooking or buying groceries.
+
+The only things cheaper than in France are Ubers, roughly 50% cheaper. Count roughly $1/minute, $8 to go to work, $30 to go to the airport, and $35 to go hiking outside of the city. Walking became an active choice; otherwise, I would just Uber all around the city.
+How did we become so unhealthy?
+Before coming here, I never realized how much we Europeans under-invest in our health. California gave me the slap in the face I needed. I came here expecting to gain 10 pounds of fat; I’m actually leaving with 8 pounds of muscle gained.
+
+Doing sport isn’t “special” here, it’s just the basic. Not taking care of yourself is frowned upon, smoking is seen as something for the poor, and drinking is less systemic than in Paris.
+
+I don’t know if it’s from the weather, the education, the hiking spots, or something else, but we should learn from this healthy culture and bring the same to France/Europe.
+
+They call it fake, I call it not being a douche
+When telling people I was going to SF, they warned me saying something like “oh, you will see, Americans are so fake.”
+
+It’s true that culture is quite different; what we see as weirdly friendly behavior in the EU is seen as normal in the US, and being straightforward is less common in the US than in the EU.
+
+But come on! I 100% prefer being smiled at for no reason rather than someone being grumpy for the sake of honesty. Paris can be so depressing for the mere reason that Parisians look depressed. I feel the same warmth that some small cities of France can have, the kind where people take the time to say “Hello,” ask how your day is going, or what the news is. I’ll miss that from CA.
+
+Cars, More Cars, Cars everywhere!
+This country really has an issue with cars; it’s everywhere, omnipresent, and everything is designed for cars.
+
+You’ll find beautiful walking spots in front of the ocean ruined by two or three lanes of cars. And drivers aren’t doing anything to help; honking is a national sport (seriously, why are you guys honking so much?), waiting for the red light at the crosswalk is “normal,” and I’ve been sworn at more than once for daring to cross in front of a car.
+
+Work
+Before we begin: To any U.S. immigration officials who may read this post, please note that I use the term “work” solely as a convenience. My travel to the United States was strictly for business-visitor purposes; I performed no productive employment on U.S. soil.
+
+Obsession is systemic (in start-ups)
+One thing you need to understand about SF: being obsessed with your work is not only accepted, it’s encouraged. In 4 months in SF, I’ve met more obsessed people in SF than in 24 years in France.
+
+For the first time in my entire life, I felt like I’m at the right place. I no longer feel an outlier working at 10PM on a feature I really want to release, or a bug I really want to fix, it’s just normal. Here, you’re not judged for being willing to sacrifice everything to succeed; people respect that, encourage it.
+
+That’s something we miss in Europe. We should stop schooling people about potential future regrets of over-prioritizing your work over your “life.” “Work” shouldn’t be defined as the opposite of “life”; it should be one, and this “one” is called a purpose, a mission.
+
+Velocity is your life fuel
+I don’t know if I should be amazed at how everything goes faster here, or terrified at how everything is slower in Europe. Whether it’s about clients, hiring, VCs, or the day-to-day work, the difference in velocity between the US and the EU is terrifying. Let’s go over an example.
+
+Signing a client in the US:
+
+First meeting on a Monday morning
+Contract forwarded in the next hour
+Contract signed in the following 24h
+Kicking-off within the week
+Signing a client in the EU:
+
+First meeting in February
+Client says “now it’s a bit the rush you know, let’s recontact in April”
+April comes, client postpones to May
+Demo in May
+The client is satisfied and wants to move forward: “Let’s have a kick off in June”
+I’m not kidding nor making the story worse for any wow-effect, this is exactly my average experience in US vs EU.
+
+And same goes with VCs: in the US you can know in a week if they’re in or out, in the EU a week is the average time between the first and second meeting.
+
+Now extend that to every single field of work, and you start to understand why we, the Europeans, are falling behind.
+
+Work and success is all about velocity, and if the system is against you, you’re starting with huge penalties that will just accumulate over time.
+
+My advice: Unless you have to go over the European market, aim for the US.
+
+They’re not smarter, just braver
+
+I don’t feel like people living in SF were especially smarter than the ones in France. Actually, the smartest people I know are based in Paris.
+
+Smart people are everywhere, in every place on earth. What’s unique is bravery, self-confidence, and the right dose of denial. What I’ll call simply: optimism.
+
+It’s probably a mix of cultural effect and survivorship bias, but the optimism in SF is incomparable to any other place on earth. No matter where they came from, what company they’re building, the people I’ve met here, in SF, are convinced of the success of their venture. And you should be too. You don’t lack any intelligence, you lack optimism. Stop thinking about the consequences, and just jump in this goddamn pool, you’ll figure out the rest later.
+
+I have a friend who lives in Paris (👋 if you recognise youself) who’s often complaining about the life in Paris. He often dreams about the life in the elsewhere in the US or in Switzerland.
+
+So as I arrived in SF, I invited him to come by, visite and see how’s the life in there. He decided to come for a week, a full week where he seen the good, the bad, and the ugly of SF. He even took the time to visit LA by himself.
+
+At the end of his 10 days in California, I asked him “so, what’s next? You’re staying?"
+He started to smile, telling about how better life is here compared to France. You could see happiness in his eyes, dreaming at the idea of living here, not for mere holidays, but for years.
+
+And then he replied: “It’s hard with VISAs, but one day I’ll apply for the H-1B and see”.
+A friend over-heard the conversation and asked him “Great! when? for what company?"
+To which he simply answered “I don’t know, I’ll see when the time come.”
+
+I can tell you, the time will never come, and this friend will die in France before he ever move to California. He is going to spend his life dreaming about elsewhere, envying people who decided to jump in, and will always find good explanations about why now is not the time.
+
+The truth is, now is ONLY the time. You will always have excuses, like everyone else on earth, and that’s the exact reason why you have no excuses. Jump into the goddamn pool, and thank yourself later.
+
+They don’t work harder, actually less
+When I first heard the expression “9 to 5”, I didn’t understand what it meant; it never crossed my mind that people could have a tech job working only from 9AM to 5PM.
+
+But the average tech-guy in SF does his 9 to 5, and let me be clear, it’s 5 SHARP.
+
+Every day at 5:05PM I can see a horde of tech workers leaving their offices. Salesforce, LinkedIn, Whatever.Inc, you name it, they just do a 9AM-5PM. Nothing more. If you’re working in Europe, don’t be ashamed. Don’t let the American dream make you think they’re working harder than you do, they do not. At least in tech.
+
+Unless you’re working in start-up!
+If you’re working in a start-up in Europe, especially in France, this one is for you: Move your fucking ass and stop leaving your office at 6PM!
+
+You want to win? You can’t win by leaving your office at 6PM! There is no secret: you just have to grind every fucking day until success arrives. That’s something they’ve figured out, and we in Europe haven’t: No pain, no gain. And when success arrives, you have to keep working even more.
+
+Does that sound awful? That’s not what you want? Then don’t work in start-up! Create your little chill company, call it FriendsAndInc, and wait for failure to come.
+
+Until Next Time
+Four months isn’t long enough to fully understand a place as wild and mixed-up as San Francisco. My feelings will keep changing, and this city will never stay the same. I’m heading back to France for now, legs stronger, wallet thinner, but most importantly, energized as ever. If you want to know more about my experience, feel free to shoot me a DM.
+
+And for the fun of it, here is a top-10 most annoying things in SF:
+
+Hills that feel like stair machines
+People on drugs popping up anywhere
+Car horns blaring for no good reason
+Drivers stopping right on the crosswalk
+Prices that look like jokes
+Streets made for cars, not people
+June fog that feels like winter
+Giant burritos that still taste bland
+Folks talking at full volume
+Bars blasting music so loud you have to yell to hear yourself

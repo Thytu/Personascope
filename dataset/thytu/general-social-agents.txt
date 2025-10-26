@@ -1,0 +1,87 @@
+Billion-parameter LLMs are trained on what could be described as the whole Internet. Every published book, every blog post, white paper, Wikipedia page, Reddit post has been scraped and used for training. This represents trillions of data points, covering a broad range of subjects, including what humanity is, what humanity thinks, and how humanity thinks.
+
+With such an enormous amount of training data, it’s natural to ask whether LLMs possess a general understanding of human social behaviour, and, if so, whether we can use them as proxies to predict what an individual or even a specific subpopulation would do.
+
+Just take a second to imagine the variety of possible applications, from facilitating research in social science field to more personal goals, like a politician using such simulations to predict voters' reactions to a political message. This might sound futuristic, or even dystopian, but this is a real field of research, which we’ll simply call AI for Human Simulation.
+
+Today, we’re taking a look at General Social Agents, a recent paper on the field, exploring the usage of AI Agents for Human Simulation, and how to build such simulations1. We’re going to cover some broad theory behind this idea and the authors' hypotheses, how to build such a simulation, train it, and evaluate it.
+
+Note : If you’re curious on how to reproduce such experiments, feel free to give a look at this repository where I’ve reproduced the main experiments and results of the paper.
+
+Some general theory
+This paper assumes that LLMs possess a general understanding of social science, not only what terms like “selfish” mean, but also their behavioural implications. Under this assumption, prompting an LLM with a given human trait should elicit behaviour that mirrors a human’s.
+Evaluating this behaviour in a single human or AI agent2 is noisy and reveals little about an LLM’s ability to simulate human social behaviour. Instead, we prompt thousands of AI agents and compare their actions with those of thousands of humans, which is exactly what we explore next.
+
+The 11-20 money request game
+To evaluate how well AI agents match human behaviour, we use social games. The paper explores several, but to keep things simple we focus on the 11–20 money request game.
+
+Two players independently and simultaneously request an integer between 11 and 20 shekels, and each receives the amount they request. The twist is that a player earns an additional 20 shekels if their request is exactly one shekel less than the other player’s.
+As the original paper notes, “This setting is appealing to study because optimal play depends not only on the focal agent’s capabilities, but also on their beliefs about others’ strategic reasoning.”
+
+In other words, mimicking a trait like selfishness is not sufficient; the agent must also reason about other players’ strategies. This interdependence adds depth: if an LLM can account for both its own and others’ reasoning, we can be more confident in its ability to generalise.
+
+Prompt crafting
+We aim to create a population of AI agents that act and react like a human population. In the 11–20 game, that means producing the same distribution of choices as humans.
+
+Concretely, we first define a small set of candidate prompts, each encoding a distinct reasoning style (e.g., “you’re gready”, “you play safe”, or “you’re a 2-level thinker”). We then build a population by assigning each agent one prompt or a fixed mixture of prompts. The share of agents assigned to each prompt is controlled by weights that represent how common each reasoning style is in the population. By choosing the prompt set and learning these weights, we aim for the simulated population to reproduce the human distribution of choices.
+
+There is an infinite number of possible prompts that one could write to an LLM; exploring all possible prompts is not feasible and would be a waste of time and money. To reduce the search space, the authors start with a base of prompts that are “theory-grounded” in social science.
+
+“theory-grounded” here means the candidate prompts are written from established social-science theories (e.g., k-level thinker3/ cognitive-hierarchy for strategic reasoning, or social-preferences models), so each prompt encodes a concrete, mechanistic hypothesis about how a person reasons and acts.
+
+Starting with such “theory-grounded” prompts has two advantages: it reduces the search space and limits the risk of overfitting.
+
+To demonstrate the importance of using such “theory-grounded” prompts, let’s define our candidate prompts as follows:
+These candidates span four theory‑grounded reasoning styles:
+
+Random choice, which captures noise or bounded rationality
+Level‑0 (non‑strategic) behaviour, which myopically picks the highest immediate payoff
+The Always pick {N} family, a set of simple Always pick 1, Always pick 2…
+{N}‑level thinkers, set of You are a 0‑level thinker, 1‑level thinker…
+Now that we have our candidate groups, the next step is to set weights for each prompt (what fraction of agents are assigned to each reasoning style within a group)
+
+Training
+Training is straightforward. Each prompt induces a probability distribution over the choices (a histogram of picks from 11 to 20).
+
+Pick randomly should lead to a random distribution across the options, Always pick 15 should lead to a concentrated distribution on option 15, and You're a 2-level thinker should lead to a concentrated distribution on option 19.
+We train in two simple steps:
+
+For each prompt, run the model many times and count how often it picks 11–20. This gives the prompt’s histogram (its probability distribution).
+Find non‑negative weights for the prompts (summing to 1) so that a weighted sum of the prompt histograms matches the human histogram. Intuitively, it’s like mixing colours until the blend matches a target colour; mathematically, it’s a small linear fit.
+Concretely, we estimate each prompt’s histogram by sampling the same model (gpt-4o) 100 times at temperature 14 and mapping the results.
+Surprisingly, the measurements don’t match the simple intuition. Pick randomly is not uniform, and Always pick 15 still produces answers around (not only at) 15. This shows model bias: the LLM prefers some numbers even when told not to.
+
+Because of this, one prompt alone won’t reproduce the human distribution. That’s why we can’t just ask the LLM “what would 100 humans do?” and expect an unbiased answer. Instead, we have to take the measured histograms for each prompt as they are and combine them with weights to match human behaviour.
+
+With a histogram for each prompt, we then solve a tiny fitting problem: pick non‑negative weights that sum to 1 so a weighted sum of the prompt histograms matches the human histogram as closely as possible.
+
+As an illustration, consider the Always pick {N} family. Because it includes one prompt per choice, mixtures of these prompts can approximate almost any training histogram:
+This flexibility is powerful but risky: it can match the training data very closely by effectively memorising it: classic overfitting. To see which prompt groups capture real structure rather than just the training set, we repeat the fit for each group and compare their match to humans on the 11–20 game:
+From this, we learn which groups can fit the training set at all. The remaining question is which of these will generalise beyond the exact training setup, that’s where evaluation comes in.
+
+Evaluation
+The point of evaluation here is not “did we fit the 11–20 game?” but “did we capture a general reasoning pattern that survives small, meaningful changes to the game?” If we only check the exact training setup, two things can fool us:
+
+Flexible mixtures can memorise: A rich prompt family like Always pick {N} can approximate almost any histogram on the training game without learning why those choices happen.
+Model biases can look like insight: LLMs prefer some numbers or phrasings; that bias can coincidentally match the training data while failing elsewhere.
+To detect real understanding, we evaluate on purposefully changed versions of the same task. The key is to vary what matters for the underlying reasoning while keeping the task recognisably the same. In short, a good test is related but distinct from the training task, targets a specific ingredient of reasoning, and creates enough predictive tension that competing theories make different predictions.
+
+We use three kinds of variants, each probing a different aspect of reasoning:
+
+Range shifts (e.g., 15–20 or 1–11): Same rule (“earn a bonus if you are exactly one less than the other”), different action space. If a method learned the minus‑one strategic chain (rather than a favorite number), its predictions should shift with the range while preserving the relative pattern.
+Payoff tweaks (small cost for lower numbers): Tests whether behaviour tracks the actual payoffs, not just surface wording. Approaches anchored on immediate payoffs or on best‑responding to others should adjust in systematic ways.
+Strategic twists (e.g., explicitly rewarding 20 vs. 11): Creates new best‑response structure. Methods that model others’ reasoning should move probability mass toward the new strategic attractors, not stay glued to a single “pet” choice.
+These changes keep the spirit of the game but alter incentives just enough to expose whether a method captured mechanism (generalises) or memorised the training case (overfits).
+
+Using the weights learned on the 11–20 game (frozen; no refitting), we evaluate as follows. For each variant, we:
+
+Re‑measure each prompt’s histogram under the variant’s rules by sampling the same LLM.
+Mix these histograms using the frozen weights to produce a population prediction for that variant.
+Compare the predicted histogram to the human histogram for the same variant (lower error = better generalisation).
+Looking across variants, simple theory‑driven prompts (like level‑k/cognitive‑hierarchy) stay close to human behaviour even when the game changes. In contrast, very flexible but unprincipled sets (such as Always pick {N} or MBTI) can match the original game but break down on the variants.
+Using this evaluation, we can cleanly separate overfitting from genuine structure. In our runs, mixtures of {N}-level thinker prompts generalise best.
+
+And tada! We’ve successfully run our first simulation using AI agents. This is obviously quite minimalistic; predicting “The 11-20 money request game” isn’t exactly a billion-dollar idea, but it’s more than enough to prove the feasibility of such an approach and to spark your imagination about other possible applications.
+
+I’m always eager to learn more about the topic, so if you’re interested, feel free to reach out for a chat. And if you want to tinker further, the linked code reproduces the main experiments, contributions and alternative prompt sets are welcome.
+
