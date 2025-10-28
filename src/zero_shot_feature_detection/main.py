@@ -4,7 +4,6 @@ import asyncio
 
 from tqdm import tqdm
 from typing import List, Any
-from dataset_loader.huberman_lab import load_dataset
 from model import Feature, StatsFeatureEvaluation
 from constants import MODELS_TO_ANALYZE, NUM_RUBRICS_PER_MODEL, NUM_EVALUATIONS_PER_MODEL, MAX_STD_DEVIATION
 
@@ -35,16 +34,21 @@ def _print_stats_features_evaluation(stats: List[StatsFeatureEvaluation]) -> Non
 
 async def main():
 
-    train_set, test_set, validation_set = load_dataset("dataset/huberman_lab")
+    import sys, os
+    sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+
+    from dataset_loader.dara import load_dataset
+
+    train_set, test_set, validation_set = load_dataset("dataset/dara")
 
     features_bank: List[Feature] = [] # candidate features
 
     # ####################################################################################################################################
     # # TODO: remove this (for debugging purposes)
-    keep_ratio = 0.25
-    train_set = train_set[:int(len(train_set) * keep_ratio)]
-    test_set = test_set[:int(len(test_set) * keep_ratio)]
-    validation_set = validation_set[:int(len(validation_set) * keep_ratio)]
+    # keep_ratio = 0.25
+    # train_set = train_set[:int(len(train_set) * keep_ratio)]
+    # test_set = test_set[:int(len(test_set) * keep_ratio)]
+    # validation_set = validation_set[:int(len(validation_set) * keep_ratio)]
     # ####################################################################################################################################
 
     # TODO: use multiprocessing to speed up the process

@@ -1,4 +1,3 @@
-import json
 import csv
 import model
 import asyncio
@@ -228,40 +227,58 @@ async def main():
     MAX_SAMPLES_PER_DATASET = 5 # Arbitrary number, just to limit the number of samples to evaluate (otherwise it costs a LOT)
 
     # Two different sets of features to evaluate, pick one or the other
-    # features_bank = feature_set_1
-    features_bank = feature_set_2
+    features_bank = feature_set_1
+    # features_bank = feature_set_2
 
+    import sys, os
+    sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
-    from dataset_loader.thytu import load_dataset
-    train_set, test_set, validation_set = load_dataset("dataset/thytu/", max_words_per_batch=2000)
-
-    validation_set.extend(train_set)
-    validation_set.extend(test_set)
-    validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
-
-    thytu_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
-
-
-    from dataset_loader.huberman_lab import load_dataset
-    train_set, test_set, validation_set = load_dataset("dataset/huberman_lab/", max_words_per_batch=2000)
+    from dataset_loader.jess_lee import load_dataset
+    train_set, test_set, validation_set = load_dataset("dataset/jess_lee/", max_words_per_batch=2000)
 
     validation_set.extend(train_set)
     validation_set.extend(test_set)
     validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+    jess_lee_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
 
-    huberman_lab_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
-
-
-    from dataset_loader.crucible_moments import load_dataset
-    train_set, test_set, validation_set = load_dataset("dataset/crucible_moments/", max_words_per_batch=2000)
+    from dataset_loader.dara import load_dataset
+    train_set, test_set, validation_set = load_dataset("dataset/dara/", max_words_per_batch=2000)
 
     validation_set.extend(train_set)
     validation_set.extend(test_set)
     validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+    dara_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
 
-    crucible_moments_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+    # from dataset_loader.thytu import load_dataset
+    # train_set, test_set, validation_set = load_dataset("dataset/thytu/", max_words_per_batch=2000)
 
-    # group metrics per feature across datasets, print, and store to JSON
+    # validation_set.extend(train_set)
+    # validation_set.extend(test_set)
+    # validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+
+    # thytu_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+
+
+    # from dataset_loader.huberman_lab import load_dataset
+    # train_set, test_set, validation_set = load_dataset("dataset/huberman_lab/", max_words_per_batch=2000)
+
+    # validation_set.extend(train_set)
+    # validation_set.extend(test_set)
+    # validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+
+    # huberman_lab_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+
+
+    # from dataset_loader.crucible_moments import load_dataset
+    # train_set, test_set, validation_set = load_dataset("dataset/crucible_moments/", max_words_per_batch=2000)
+
+    # validation_set.extend(train_set)
+    # validation_set.extend(test_set)
+    # validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+
+    # crucible_moments_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+
+    # group metrics per feature across datasets
     def _stats_to_metrics_map(stats: list[model.StatsFeatureEvaluation]) -> dict[str, dict]:
         return {
             s.evaluations[0].feature.name: {
@@ -273,9 +290,11 @@ async def main():
         }
 
     dataset_to_metrics = {
-        "thytu": _stats_to_metrics_map(thytu_stats),
-        "huberman_lab": _stats_to_metrics_map(huberman_lab_stats),
-        "crucible_moments": _stats_to_metrics_map(crucible_moments_stats),
+        # "thytu": _stats_to_metrics_map(thytu_stats),
+        # "huberman_lab": _stats_to_metrics_map(huberman_lab_stats),
+        # "crucible_moments": _stats_to_metrics_map(crucible_moments_stats),
+        "jess_lee": _stats_to_metrics_map(jess_lee_stats),
+        "dara": _stats_to_metrics_map(dara_stats),
     }
 
     feature_names = [f.name for f in features_bank]
@@ -300,12 +319,16 @@ async def main():
     csv_path = "output/features_stats_by_dataset.csv"
     headers = [
         "Feature",
-        "Thytu's score",
-        "Thytu's std",
-        "Huberman's score",
-        "Huberman's std",
-        "Crucible's score",
-        "Crucible's std",
+        # "Thytu's score",
+        # "Thytu's std",
+        # "Huberman's score",
+        # "Huberman's std",
+        # "Crucible's score",
+        # "Crucible's std",
+        "Jess's score",
+        "Jess's std",
+        "Dara's score",
+        "Dara's std",
     ]
 
     def _get(dataset: str, feature: str, key: str):
@@ -318,12 +341,16 @@ async def main():
         for feature_name in feature_names:
             row = [
                 feature_name,
-                _get("thytu", feature_name, "average_score"),
-                _get("thytu", feature_name, "standard_deviation"),
-                _get("huberman_lab", feature_name, "average_score"),
-                _get("huberman_lab", feature_name, "standard_deviation"),
-                _get("crucible_moments", feature_name, "average_score"),
-                _get("crucible_moments", feature_name, "standard_deviation"),
+                # _get("thytu", feature_name, "average_score"),
+                # _get("thytu", feature_name, "standard_deviation"),
+                # _get("huberman_lab", feature_name, "average_score"),
+                # _get("huberman_lab", feature_name, "standard_deviation"),
+                # _get("crucible_moments", feature_name, "average_score"),
+                # _get("crucible_moments", feature_name, "standard_deviation"),
+                _get("jess_lee", feature_name, "average_score"),
+                _get("jess_lee", feature_name, "standard_deviation"),
+                _get("dara", feature_name, "average_score"),
+                _get("dara", feature_name, "standard_deviation"),
             ]
             writer.writerow(row)
 

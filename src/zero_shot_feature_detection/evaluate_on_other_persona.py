@@ -2,7 +2,6 @@ import json
 import model
 import asyncio
 
-from dataset_loader.crucible_moments import load_dataset
 from model import Feature, StatsFeatureEvaluation
 from constants import MODELS_TO_ANALYZE, NUM_EVALUATIONS_PER_MODEL
 
@@ -24,13 +23,17 @@ def _print_stats_features_evaluation(stats: list[StatsFeatureEvaluation]) -> Non
 
 async def main():
 
-    train_set, test_set, validation_set = load_dataset("dataset/crucible_moments", max_words_per_batch=2000)
+    import sys, os
+    sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+
+    from dataset_loader.jess_lee import load_dataset
+    train_set, test_set, validation_set = load_dataset("dataset/jess_lee", max_words_per_batch=2000)
 
     validation_set.extend(train_set)
     validation_set.extend(test_set)
     print(f"Number of words in dataset: {sum(len(segment.split()) for batch in validation_set for segment in batch)}")
 
-    features_bank = json.load(open("output/features_bank.json"))
+    features_bank = json.load(open("output/features_bank_huberman.json")) # NOTE: it loads "features_bank_huberman.json" by default, change it to "features_bank.json" to evaluate on latest features bank
     features_bank = [Feature.model_validate(_feature) for _feature in features_bank]
 
     # ####################################################################################################################################
