@@ -1,0 +1,521 @@
+How's everyone doing? So I was telling Brendan that the first time I ever did a talk was at a Brendan conference.
+And I've done other talks since, but no one has the Brendan energy.
+You guys are just something different, so I appreciate you guys.
+That's what I'll say up front.
+So, raise your hand if you are afraid of AI.
+Or a little bit afraid of AI.
+I'm raising my hand.
+It's very normal.
+And it makes sense.
+Media has been training us to fear AI.
+Hollywood has been training us to fear AI.
+The Terminator.
+iRobot.
+And Black Mirror.
+Anyone seen Black Mirror? Yeah, so today I'm talking about White Mirror because those of you who are fans of Joe Dispenza, you know that your thoughts affect your reality.
+And if you can come into the future with the right thoughts and the right intentions, then you can create this optimistic AI future that I see and I think you guys will see by the end of this.
+So my goal...
+With this presentation is for all of you to walk away feeling hyped about AI with the right mental models and frameworks for understanding how to leverage it now and in the future.
+So let me tell you first, what is AI? And I'm sure a lot of you know, and so I won't spend too much time on this.
+AI is just a system that can replicate human intelligence.
+How does it do this? Pattern recognition.
+Let's say you have a newborn child and you show them a hundred pictures of a cat.
+And then you show them a hundred pictures of a dog.
+And then you show them another picture that's either a cat or a dog.
+They're probably going to know if it's a cat or a dog.
+That is how AI works.
+And when I got into AI in 2014, the coolest thing it could do was say whether a picture was a cat or a dog.
+Or classify whether one of Trump's tweets were negative or positive.
+Or, the first project I ever did was, given the room someone booked in the Titanic, did they survive or not? That was mind-blowing at the time.
+But obviously, a lot has changed.
+And I would say it has changed in a massive way.
+But this is still the same technology.
+Pattern recognition.
+LLMs are AI models trained on human text.
+And it recognizes patterns in those texts to predict the next thing it's going to say.
+And so I like to say they are calculators for languages.
+The same as a calculator helps you combine numbers, large language models helps you combine language.
+And this is the same for images and videos.
+Pattern recognition with images allows it to produce more images.
+Pattern recognition for videos allows it to produce more videos.
+So we're going to play a little game.
+We're going to play guess the next word.
+So feel free to scream out loud what you think the next word is.
+What's the next word now? Alright.
+A.
+Yeah.
+And farm.
+So what you guys just did is leverage everything you've ever read in your life and everything you've ever heard to predict what the next word is going to be.
+That's how large language models work.
+And so right now we are experiencing exponential growth.
+And the difference in exponential growth is, you know, take 30 linear steps, you move 30 yards, take 30 exponential steps.
+you move 1 billion yards.
+And this is what's happening with AI progress right now.
+Just three years ago, GPT-3 had the intelligence of a fourth grader.
+And now, GPT-01 has the intelligence of a PhD.
+Things are moving.
+Very fast.
+And a lot of money is being poured into this.
+The Apollo project, $20 billion per year.
+The Manhattan project, $6 billion per year.
+Anyone want to guess what they're spending on AI? $500 billion.
+That's a lot of money.
+So the stage has been set, you understand where we are, how much money we're spending into it, and the question is, what does our role as humans, how does that change with this new technology that is as consequential as the printing press? First, let me tell you a little bit about myself and how I got here.
+So, my parents immigrated from Iran in 1979.
+They're actually right there.
+Everyone say hi.
+And they wanted me to be self-reliant because when you come to a new country and you figure things out on your own, you want the same things for your kids.
+And I think I'm very grateful for that, but it also caused me to never really seek out a mentor because I wanted to do things on my own.
+When I was working on my first startup in 2021, which was an AI startup where you could buy anything with a text.
+Yes, I was too lazy to go through Uber Eats.
+I just wanted to text a number and get what I wanted.
+I was a solo founder, and many people here are business owners.
+You know what it's like the first time you start a company.
+It's very lonely.
+You don't really know what you're doing.
+You wish you had a mentor.
+before.
+And my dad had been working for a long time.
+And he pushing me to read my grandfather's book for quite a while.
+And so I finally picked it up, and I read it, and my grandfather was this legendary entrepreneur in Iran before the revolution.
+And I really wanted to be able to ask him for advice.
+What would you do in my situation? He had had a stroke a couple years prior, so I couldn't really talk to him.
+But around this time, I remembered a book, the book that actually got me into AI in the first place in 2014.
+How to Create a Mind by Ray Kurzweil.
+Anyone know Ray Kurzweil? Yeah, he's a legend.
+He's a legend.
+And in this book, he talks about the mind being a combination of building blocks.
+And complex intelligence actually is a result of those different parts working together.
+You have the cerebellum, you have the visual cortex, and there's actually another guy, Marvin Minsky, who said the same thing in 1986.
+My mouth gets really dry up here, so excuse the water.
+And so let's see what Ray Kurzweil said.
+Everyone think of their favorite song and sing it.
+Not out loud, but I appreciate that.
+I think she said, don't you want me, baby? Is that what you said? Okay, well you'll notice when you sing that song in your head You're usually starting from the beginning or at a chorus and this is because our memories are segmented in chunks and then Everyone say out loud their social security number No, no, okay.
+Well now try to say it backwards It's a bit harder.
+That's because our memories are stored sequentially in order And last thing is think of all the steps you take to brush your teeth.
+You pick up your toothbrush, you put toothpaste, and you brush your teeth.
+But even in those steps, there are individual steps inside.
+When you pick up your toothbrush, you're activating a muscle, and this indicates that our memories are nested.
+So what are the actual parts of these organizations? Ray Kurzweil says they are pattern recognizers.
+And in the mind, the lowest level, you have pattern recognizers that can recognize shapes, and that passes up to higher level pattern recognizers that can recognize sentences, and at the very top you have consciousness.
+What else is a pattern recognizer? Anyone? LLMs, maybe? LLMs are pattern recognizers on language.
+So it was this insight that led me to creating a clone of my grandpa, based on his mind, that I could talk to for advice.
+And it kind of got me down the rabbit hole of how we learn, and how the current ways of learning are passive.
+You read a book, you watch a YouTube video, you listen to a podcast, but these things don't grow with you.
+They don't change with your circumstances.
+And the problem is time.
+The most unique thing that every single one of us has is our mind.
+And up until now, the way you express that mind has a cap.
+You live and you die, and that's it.
+And there are ways we have tried to scale ourselves.
+We write books to scale our thoughts.
+We hire teams and train those teams in our way of thinking to scale our thoughts through them.
+But nothing can scale one-on-one authentically.
+And so since the beginning of time, from cave drawings to the printing press to the radio, we've constantly tried to think of new ways to scale ourselves.
+And the trade-off was always personalization and scale.
+But what if you could combine the personalization of bidirectional conversation with the scalability of broadcast media? And that's what led to the founding of Delphi, which we allow people to create a digital version of their mind.
+Many of you guys may have seen Brendan AI.
+Yeah, I speak to Brendan AI a lot.
+And it combines the personalization and the scalability.
+So that's a bit about Delphi.
+Let's get back to AI.
+The why now is, I think, pretty obvious.
+On the technical side, every new technology has led to a new form factor in communication.
+Flash led to YouTube.
+Smartphones led to WhatsApp and Instagram.
+We got Zoom and video.
+So we're always thinking of new ways to communicate.
+But I think more interestingly are the market shifts.
+I think TikTok and Reels are destroying some people's attention spans, not all of them.
+And the solopreneur economy, the creator economy is on the rise.
+So there are more, there's a higher need for things that help people do more because they're not, they're joining big companies less and they want to start their businesses, which I think is great.
+I think entrepreneurship is great and people should be in charge of their lives.
+And AI, I mean, last in 2023, Will Smith eating spaghetti, 2024, Will Smith eating spaghetti.
+That's insane.
+And this is exponential growth.
+When I created the clone of my grandfather, it was very expensive, like 10,000 times more expensive than it is now.
+And the only reason I'm allowed to make a company out of this is because these costs are going down to zero.
+You can't think of the limitations of today, but rather think with the end in mind.
+What is the end? Probably near free instantaneous AI at all of our fingertips.
+And I say near free because deep seek came out I think a month ago and they kind of released an open source model that's very high quality at a very low cost.
+And when competition comes in the market and releases lower cost, they're all going to go down to zero because they just want more people.
+And attention spans.
+I put temporary there, which I'll get back to later, because I don't think this is a long-term phenomenon, but our attention spans have gone down to less than a goldfish.
+It's not great.
+People are not reading books as much, they're not finishing courses, and with the infinite array of things that appear on the Internet, everyone is competing for your attention.
+And people are just going to want really easy things.
+They're not going to want to work for the things that come to them.
+At least right now.
+So these are the common fears you hear people say about AI.
+AI is going to take away all our jobs.
+AI is going to make everything fake and meaningless.
+Younger generations are not going to appreciate life.
+People are going to get married to AI instead of humans.
+That has actually happened a couple of times, but I don't think that is going to be the norm.
+The thing is we've been here before and I'm going to walk you through all of the similar past technological revolutions that share similar patterns.
+The printing press.
+It allowed people to scale their thoughts.
+It wasn't limited to the people that they were in the same room of.
+And by the way, all the cartoons that you see in the next ten slides are all AI generated, and some of them are good, some of them are not so good.
+So just, it's going to improve.
+So right now, everyone's saying AI is going to make everyone a software engineer.
+But if you look at this, it's not crazy to think that, oh, the printing press being available means everyone's going to be a monk.
+That didn't really happen.
+And I think the learning we can learn from the printing press is that to not be limited by the circumstances of today, to think bigger than today, because the future is likely going to look a little bit different than what we can predict.
+The discovery that the Earth was not the center of the universe, that caused a lot of people to question their meaning.
+Humans are not the center.
+...over the universe.
+But we found new meaning.
+And I think humans are actually very, very, very good at finding meaning in new things.
+So just because one framework of thinking about meaning goes away, doesn't mean there isn't something new there to replace it with.
+The first industrial revolution, the steam engine allowed people to not have to work dangerous jobs in the factories.
+And it was actually a very good thing because then they got to focus on new kinds of innovations like the airplane.
+And, you know, some people were worried that, oh, the Industrial Revolution is going to make people lazy.
+But I think another thing about humans is that we constantly try to do hard things.
+Does anyone here do ice baths? Exactly.
+There we go.
+We like to do hard things.
+No matter what.
+Even if we've done all the hard things available, I imagine there's going to be an even more extreme version of ice baths.
+The second industrial revolution, you had the tractor.
+People didn't have to plow in the fields as much.
+And again, you see the same trends.
+People finding new ways to work, new ways to learn.
+And the radio.
+People were worried that you're going to be talking to some voice coming out of a box and you're not going to be social.
+But on the contrary, you can now call people across the world.
+People are starting podcasts.
+And listening to the radio actually made people curious to read even more.
+And of course, the internet.
+The knowledge economy, the knowledge work economy, which I would assume the majority of the people in this room are in, is only a phenomenon of the last 30 years.
+The internet happened and we adapted pretty, pretty fast.
+We have jobs that may no longer be relevant, like a milkman or a postman, but every job that was replaced was replaced with multitude new jobs.
+And we learned those things.
+And on top of that, pre-internet, who you worked with in life, who you befriended, who you married, it's kind of limited to the hometown you grew up in.
+That's pretty much all you had.
+But the promise of the internet is that you don't have to settle.
+You can now connect with someone across the world to start a business with.
+You can find a partner in a city in another country.
+And new jobs and not settling.
+That's the promise of technology, specifically the internet.
+And now we have the AI revolution.
+And it is easier than ever to learn a skill.
+You can become a programmer, you can become a designer, and there are probably going to be new jobs that we can't even picture today.
+But I think the promise of AI is that you don't have to settle specifically for a job.
+You can become whatever you want to be, and it's not roadblocked by education requirements or time.
+You can learn something in a very, very small amount of time.
+So AI is here to stay.
+And what does that end state of AI look like? I think it's really important to think with the end in mind.
+And an example for why that's important is because maybe right now you're thinking of hiring a developer to build your website.
+And it costs $100,000.
+And it's likely in six months you're just going to be able to do it on your own by describing what you want.
+So maybe the timing, think about how these things go down to zero.
+And you don't agree? We can chat after.
+So thinking about how fast these things are accelerating and how that changes your business, what's possible with the work that you do.
+So the end state of AI is instantaneous, free, hyper-intelligent, the smartest person in the world who can solve all of the mysteries of physics and biology and chemistry, and it knows you very well.
+It knows what you react to, and it can act upon every single interface on the internet.
+And if you think about the knowledge economy, this thing that has come out in the past 20 to 30 years, it is really a result of pre-AI limitations.
+We needed to create these jobs to manage these interfaces, and did anyone really want to do those jobs? I don't know.
+I don't think so.
+But the thing is, you may see all this and say, so does that mean AI is going to replace relationships if it can do anything a human can do? And my answer is no, and because it's computation competing against 300,000 years of human evolution.
+There will never be anything as convincing, as motivating, as compelling as another human being.
+It's hard code into us from the moment we are born and we look at our parents.
+Now AI will replace some routine tasks.
+For those of you who love creating spreadsheets in Excel or writing emails, you can still do that if you want, but like the steam engine, AI replacing the tasks that we don't necessarily want to do, it allows us to think bigger.
+The steam engine led to airplanes and automation of Excel, I don't know what that leads to, but probably something better.
+And it will enhance the tasks you like to do.
+Creativity.
+I created this logo of our company in this Greek style because Delphi is based on the Oracle of Delphi, for those who are familiar.
+So what remains in a post-AI world? I think one is human connection.
+I think...
+When AI is abundant, the scarce resource becomes humans.
+And that's really what's left.
+Another is the physical world.
+Experiences, I think energy, sharing with other humans, that's going to be there.
+Creativity, exploration of space, entertainment, you know, the Colosseum in the Roman days, you know, we want to be entertained.
+It's innate in us.
+And I think just as we will explore the stars, We're going to explore ourselves.
+I really believe that there is much more to be learned about the human condition, and we will look inwards just as much as we look outwards.
+So it's not the end of work.
+It's the end of boring work.
+Yeah, I'm excited about that.
+And the beginning of a lot of very, very exciting things.
+The first, which is more of a prediction on my end, is the return of the community.
+Hunter-gatherer societies, a lot of people's purpose came around supporting the people around them, loving them, caring for them.
+And in a world where there is infinite AI content, humans become the scarce resource, and the scarcity that people desire is human energy.
+Think about Brendan.
+I love just sitting in the same room as Brendan.
+He just has emanating energy.
+You can't get that from a screen.
+That comes from in person.
+So you can imagine jobs of the future being around how we can support people in our communities.
+And this is hot take, not everyone will agree, but I think given the things that we've seen, is where I think we're going to go.
+The return of the attention span.
+So once upon a time...
+We used to smoke cigarettes on airplanes, and in a lot of places.
+I don't think we do that anymore, at least in the airplanes I've been in.
+And I think it's very easy to see TikTok and Reels and think, okay, our attention spans are going to go to zero, and we're not going to be able to pay attention to anything.
+But I think we see the impact that this kind of stuff is having on younger generations.
+And I think we're going to work against it.
+We're going to work to create a world where people are not addicted to their phones.
+And especially as you have all of these AIs.
+Posting content on social media is going to overwhelm people.
+There's not going to be any signal in the noise, and people are going to crave real-world experiences.
+The decimation of disease.
+So at a certain point, our predicted age range, you know, 30 was a great milestone to hit.
+And then as modern medicine came about, now we make it to 80 to 100, but that's only because we have not created cures for things like cancer and Alzheimer's.
+But the cool thing about AI is it can simulate a million permutations of chemical compounds and test it and come up with a cure.
+And this is already in the process of happening.
+And I think we're going to be in a world where every disease we know today is going to be cured.
+Potentially even mental health.
+And it's going to be personalized to you.
+And you're going to be feeling the greatest version of yourself pretty much every day.
+And if that's not exciting, I don't know what it is.
+I mean, everyone probably knows someone who has been sick.
+And in a world where age is no longer a limitation and fear of disease is no longer there, think about the ways you would think about your life differently.
+You have more time.
+You're no longer acting on scarcity mindset.
+And as a former comic book nerd and Comic-Con cosplayer, this is awesome.
+Real-life superheroes, and not based on magic, but actually based on science and technology.
+So a couple years ago, I created this brain device and hooked it up to my Uber Eats, and whenever I thought of the...
+Sentiment of being hungry, it would find the nearest pizza place and order it.
+And that was a little scrappy at the time, but now people are using their mind to control robots.
+And you can imagine AI simulating a million chemical compounds to create a renewable energy resource that allows us all to have jetpacks and fly around.
+The things that we will see over the next 10 to 20 years are things that we would have only thought are possible in the Marvel Cinematic Universe.
+And it's going to be available to everyone.
+Maslow's Hierarchy.
+So for those who are not familiar with Maslow's Hierarchy, it is a pyramid that shows the order of human needs and their importance.
+And I think if you're in this room, you're probably on level three and above.
+Some of us are fully on self-actualization.
+It's very much a privilege to not have to think about the first two layers.
+But on the first layer, again, chemical compounds, we'll find some material science that can enable vertical farming in every single city.
+And drones can deliver that food to your house.
+And probably extract water from the air, so that's layer one.
+Layer two, drones that can prevent crime.
+Curing disease.
+And probably coming up with a renewable energy source, maybe nuclear energy, that prevents the...
+Upcoming global warming.
+Connection.
+AI can find the person in the world that is most similar to you.
+Finding your soul tribe.
+This is kind of why we use social media in the first place.
+Facebook, Tinder, LinkedIn.
+We are trying to find people who think similarly to us.
+Whether to hire, or to marry, or to befriend.
+And a lot of those reasons we choose people online are kind of for shallow signals.
+How they look, where they've worked at.
+The promise of AI is that it can find people based on the similarity of your mind.
+So speaking of simulations, imagine you have a digital clone, and it simulates conversations with every person in the world, and tells you, this person, and this person, and this person, this is your soul tribe.
+This is who you're going to be the happiest with.
+Then we really have no reason for social media, which is another reason why I think people are going to use social media less.
+The feed is a bug.
+The feed is worth searching for people.
+But the promise of AI is that you don't have to search, you're just going to get.
+And then self-esteem, we got Brendan AI for that.
+He's going to help us all out with self-esteem.
+And then we have self-actualization.
+The promise of AI is that everyone is going to be lifted up and be able to focus on self-actualization.
+And just as I said that I think we're going to have time to really focus on what it means to be a human, I imagine there are more layers above this.
+This is just what we know now, but I imagine there are more things to achieve in being a human.
+So.
+There's a lot of chaos right now, and we've talked about the promises of AI and thinking with the end in mind, but here are some mental models that might help you live with the chaos.
+So right now we're in an abundance era.
+We're in the honeymoon phase of AI.
+You know, we chat GPT, Clyde, Gemini.
+It's super cool.
+It's shiny objects.
+But as we've seen in the past, whenever there is an era of abundance, the pendulum usually swings to a desired era for curation and trust.
+The dot-com era led to blogs and newspaper publications online.
+Social media led to the creator economy.
+because everyone is posting all these things on Twitter and LinkedIn.
+We want to trust people.
+And I think it's very inherent in the fact that you could pretty much learn anything on Wikipedia.
+Does anyone actually do that? Honestly, that's great.
+It's probably more efficient.
+But I would say most people read books, they watch YouTube videos, they follow people on Twitter, and it's because we inherently have this trust that something that someone real says has more value than some generalization of the Internet.
+And I think that we're going to see that same trend with chat CBT right now to trusted sources, the individual.
+And that's why I think in this world, And uh...
+Corporations don't necessarily win, I think the individual wins.
+You see this leaked email from Mark Zuckerberg to Peter Thiel where he talks about how his reputation with millennials and Gen Z is very important.
+And then he got a perm and a chain and everyone thought all of a sudden he's super cool.
+That was not by accident.
+He's a very, very calculating guy.
+He knows that people connect with people, not faceless entities or brands.
+And you see this with companies hiring chief influencing officers or the Washington Post placing more emphasis on their individual writers.
+And with this, now the matter is trust.
+On an internet where you can't really trust that what you're looking at is real or not, you have deep fakes.
+You have people calling, I don't know if this has happened to anyone here, but people calling you and getting you to talk for a little bit, cloning your voice, and then calling your grandmother in your voice to get her to transfer money to you.
+That is happening.
+And so, in a world where no one can really trust what they see online, authenticity is the currency.
+People are just going to be numb to things that they see online because they're just talking, this is a fake video.
+But if you can build yourself as someone who is very transparent about when they use AI, as someone who places quality content, then they're going to be like, okay, this guy I can trust.
+And I think reputation in the post-AI world is very important because, I don't know about you guys, my Twitter feed is full of bots.
+I don't know what to trust anymore.
+So, with this, the AI agents having full autonomy to post things on the internet, and anyone being able to create a book, or a logo, or a video, within five minutes, mediocrity is abundant.
+AI makes mediocrity abundant.
+And what this means is you should be very cautious of what you consume, and be aware of what...
+People call AI slop.
+And AI slop is just people who use AI with bare minimum work.
+Not even any thought of themselves.
+They just say, hey, create this, and they post it.
+And that's one that's a waste of your time.
+Because shiny object syndrome is going to divert you from your path.
+You've got to focus on one thing, and when you evaluate AI tools, or books, or things in this post-AI world, you should keep in mind, what is the intention of the person that is creating this? What is the intention of the person that is creating this? They're not trying to get rich quick.
+They actually care about the thing that they are producing.
+And this is not just for what you consume, but also for what you create.
+I think it's very convincing to say, AI can generate everything, so I'm going to use it to generate a million SEO optimized blog posts.
+So that my brand appears on the Google search results.
+If everyone is doing that, think about it.
+If everyone is doing that, SEO is dead.
+SEO is gone.
+Think about AI outbound calls too.
+I have so many people who are like, I want to use Delphi for AI outbound calls.
+And I'm like, if everyone is using AI to send emails to people or call people, no one's going to check their phone anymore.
+No one's going to look at their email.
+So I think thinking with the end in mind, And really coming from a place of, yes, I'm going to use AI to automate the menial things that I don't like, but the things that really involve human connection and communication, AI is a tool for augmentation.
+And AI can really only scale the work that you've done on yourself.
+So, if AI can do everything, why work at all? I think we went over some of those reasons.
+But they say AI won't replace you, but someone using AI will.
+And you're no longer competing against just the people in Texas or just the people in the US.
+Now you have some guy in Malaysia who has some AI tool that can translate anything he wants to do in real time.
+I think the people who should be most afraid, to be honest, are the big enterprises.
+Because they have built moats around resources.
+They have a lot of money, they have distribution.
+Distribution is easier than ever.
+You can reach as many people in the world.
+Like I said...
+AI can only scale the work that you've done on yourself.
+So if you've done nothing, you're going to get here, and everyone else is going to get there.
+But if you've read, you've created interesting thoughts, you have a mission, that's really where you can turn what you've done into infinite leverage.
+But it only starts with you.
+So I would actually argue that AI makes the bar for working a lot higher.
+Because everyone has the same tools to become mediocre.
+But becoming the best requires thought and quality and care.
+So how do you think about building a moat in this AI world? One is documenting your thoughts.
+I, every Sunday, I have a weekly review where I write down everything I've learned and all the things I did wrong.
+And those...
+Those are things that could translate into products, into pieces of content.
+Obviously you want to make sure that you're not writing these things into some of these big AI companies that are raising crazy rounds on the promise that they're going to train models on your data.
+Be very careful about who you give your data to.
+But you want to document your thoughts, as that is what's going to lead to this infinite leverage with AI.
+So I talked about mental models for AI, and now I want to give some frameworks for personal success.
+One month before ChatGPT, we started Delphi.
+At the time, it was called Helix.
+And these were all the comments that people would say to me, from all the experts, all the AI PhD research engineers, all the VCs, this is not going to work, this is a horrible idea, and...
+Now those same people have AI newsletters where they post blogs about the inevitability of Delphi and clones.
+I think the important lesson there is that no one knows.
+I'm here trying to talk about the mental models and frameworks and less about the facts because I also, this space is changing so fast.
+I think I know.
+But having the beginner's mindset is how you can pretty much ensure success.
+Asking why.
+Being curious.
+Being like a kid.
+not being embarrassed about it, and trusting your intuition.
+And if you make a mistake, that intuition gets better.
+Your intuition is really all you have.
+I love this Steve Jobs quote, everything around you that you call life was made up by people that were no smarter than you, and you can change it, and you can influence it.
+You can build your own things that other people can use.
+And I think now, AI kind of breaks the rules of the last 30 years.
+The knowledge economy, the internet was built on...
+UX and functions and jobs that were created as a result of not having AI.
+So I think take a step back and build up your own opinions from first principles.
+What does work, the future of work, look like in an age of AI? I think when Steve Jobs first announced the iPhone, before that I think the idea of having a phone and the internet and a music player in your pocket was overwhelming.
+It's just like, what? How could that all be in one thing? But he made it very simple with this really nice interface, this really nice device.
+And I think as this AI revolution continues, you're going to be confronted with things that feel complex and scary and uncertain.
+But I think you should look at it like this is something new.
+I'm going to have the beginner's mindset to understand what it is.
+And complexity is usually just a lack of similarity, lack of familiarity.
+The rise of the polymath.
+So a polymath is someone who can learn multiple different things.
+And usually it took a very special kind of person to be a polymath.
+But it is easier than ever to be a polymath now.
+You don't need to go to...
+I mean, I'm not going to say don't go to college, because my parents are right there.
+But you don't need four years to learn something.
+You can learn something in a week.
+There's really no excuse that you should just be specialized in one thing.
+I think specializing in something is good, but you want to be a specialist who can generalize.
+And personally, you know, creating a song or creating a movie is usually something limited to those who have the talent to...
+Act on the tools that allow you to do that or people have a lot of money But now anyone here with the right idea can create Eventually probably in like two years can create a Christopher Nolan style movie and you don't need the studios To give you millions of dollars to distribute and get the fancy effects.
+You can do it on your own It's a great time to be an ideas guy anyone here an ideas guy.
+There we go.
+We love the ideas guys.
+It's a great time Find what you love, become the best, and automate everything else.
+For those of you not familiar with Ikigai, it is finding the thing that you love, what the world needs, what you can be paid for, and what you are good at.
+And we talked about this earlier, AI handles all the menial tasks, the things that no one wants to do.
+But I think it's really great because then you can just focus on being the best at the one or the combination of things that you like to do.
+That is how you stand out.
+Not by getting distracted by all the shiny objects, trying to do everything, but really, again, looking inwards to see what that thing is.
+The best paths are non-linear.
+So the second law of thermodynamics is that entropy increases in systems.
+Entropy is disorder.
+And I think, as humans, we want to run away from the uncertainty.
+We want to make things certain.
+We want to create...
+...boxes around things.
+That's just not really how life, literally in terms of physics, works.
+And that's probably what the next 10 years is going to look like.
+It's going to be a lot of chaos.
+You've got to embrace the chaos.
+Going back to Joe Dispenza, what did he say? Have the end in mind, but you have to be okay with how you get there.
+Embrace the marathon.
+So an analogy that I like to use with my team, and they all roll their eyes because I say it so many times.
+In the first year of its life, bamboo is just one foot.
+And then the year after that, it grows super tall.
+Because it has built a strong foundation to grow that tall.
+And I think there are probably a lot of perfectionists in this room.
+I'm a perfectionist.
+It's very easy to be hard on yourself when you don't necessarily do your best.
+But I love this philosophy of Kaizen, which is this Japanese business philosophy of being 1% better every day.
+Because if you do that, 1% better every day is crazy upside over the long term.
+And I think starting with the end in mind, there's a lot of people trying to profit off of short-term AI advancements like these SEO-optimized blog posts.
+I think it's great for the short term, but being someone who has a long-term view of where AI is going, what humanity's role in it, the importance of connection and trust, those people are going to have a huge competitive advantage over the people who can't necessarily sit down and focus on one thing and become the best at it for a long period of time.
+And lastly, prior to things like Delphi, you live your life with the expectation that Only the people that you are around today are the people that are going to be able to benefit from the life that you live.
+Now, we are living in a time where the lessons you learn today have the ability to impact generations from now.
+You're great, great, great grandkids.
+And how does that change the way that you think about your life? Are you going to experience more? Are you going to be more intentional about things? Are you going to take more risks? Usually risks are where you get the best learnings, even if they're sometimes hard.
+So I know today is about role models.
+And the cool thing about right now is you can be role models with people across time.
+I know if this was around 100 years ago, I'd be talking to Einstein and like a bunch of people.
+And so maybe that doesn't resonate with as many people, but For those of you who care about legacy, the only way to scale yourself across time is to build something worth scaling.
+Alright, let me just get some last words of wisdom from a friend that I think some of you have spoken to.
+In English, yes.
+Hey, Brendan.
+There is a lot of uncertainty in the world of AI right now.
+It is a bit chaotic.
+I'm unsure about what the future of my job is and where work is going.
+What is the one piece of advice that you would give someone to make them very confident in the path forward? Thanks, Brendan.
+And that is the presentation.
+I don't know if we have time for questions, do we? Thank you.
+Do you want to just go for it? Yep.
+Well, I don't think the tool is there right now that will know you really well.
+I mean, if you go on ChatGPT, if you're a daily ChatGPT user and you type in, given everything you know about our chats, tell me my flaws.
+My weaknesses and where I can improve.
+You're going to be shocked.
+It is wild.
+It knows you super well.
+My friend here did it.
+He passed all his journals in the chat GBT and it actually helped him overcome some things that he was really trying to overcome.
+And so I think it's really powerful.
+You can understand yourself in ways that you didn't even know were possible.
+Thank you.
+There's always going to be snake oil salesmen.
+It's just a part of humanity.
+Unfortunately, you have the good and you have the evil.
+I think evil is a dramatic word for those kind of people.
+But that's why I think it's important to really know the people that you work with.
+with, the people that are producing the products that you are consuming.
+Do the additional effort because you don't want to be, it's kind of like there's this thing in technology where if you're not paying for the product, you are the product.
+And you want to make sure that you are not the product.
+You want to make sure that the thing you're using isn't some AI slop that someone built overnight because that's a waste of your time.
+Our time is limited.
+So, yeah, all I can really say is there are people who think the world is going to end.
+And they, so they're trying to optimize their life right now.
+They're trying to make as much money right now.
+But, as you've seen before, there are many times people thought the world was going to end.
+You don't want to be that person who is screaming about the world ending and everyone's like, bro, everyone's fine.
+Like, let's chill.
+a there's a good book in technology called crossing the chasm and it talks about early adopters of technology who can see the optimistic vision and then the late majority who are like usually afraid and For our company Delphi, we're kind of in the chasm right now.
+There's a lot of people who are like, this company is satanic.
+You are the anti...

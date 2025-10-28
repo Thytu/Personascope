@@ -1,0 +1,444 @@
+As a founder, you're almost starting a cult.
+Getting all these people to follow you on this journey, that really doesn't make any rational sense.
+You're joining for the dream, the story, you like the person, you like the idea, you want to be part of something special.
+And so being able to tell a good story and be compelling, like really changes your, you know, ability to run a company.
+Thanks, Brad.
+About frameworks.
+You know, I think one of the things that most shaped how I think about the world, interestingly, was this book called A Corduroy Bear.
+Have you read that book? It's like a kid's book.
+And in that book, the toys kind of like wake up and the story is told from the perspective of the toys.
+I was like some little kid when I read this.
+And I just remember thinking, oh, my toys might have feelings.
+And I think that book taught me about empathy.
+And then and just like thinking about things from other people's perspectives.
+And then my dad, he worked for Li Ka-shing.
+He's like a very famous Hong Kong sort of tycoon.
+I didn't know he worked for him at the time, but he would come home.
+at dinner and then constantly at the dinner table tell me these stories about work.
+And they'd always be about people.
+And he kind of taught me that, you know, all problems are people problems.
+All solutions are people problems.
+He gave me the book like Dale Carnegie's How to Win Friends and Influence People, but I never read it till much later.
+I think I was eight.
+And he's just like, you need to understand people.
+You need to think about what motivates people, how to assemble teams, like no great things can be done without teams as people.
+And so just over time, I think the lens, the primary lens and framework I use to view the world and figure out teams to invest any part of any job I've ever had has been through the lens people.
+And then most recently, one of our partners at Sequoia, Sean McGuire, he shared this framework that he had that I thought was sort of perfectly summarized.
+So many of the things that I've learned about people over the over the years.
+And it's this framework of EQ.
+and IQ, which everyone knows, emotional intelligence and intellectual intelligence.
+Then he added PQ, political quotient, and JQ, judgment quotient.
+So if EQ is how good you are with people one-on-one, then PQ is how good you are with sort of politics and the systems of people that govern things.
+You can be really good one-on-one and really bad at sort of figuring out how to work a system of people, like in an org or getting promoted, all that stuff.
+Then there's IQ.
+You could be super, super technically smart, but have bad judgment about like business.
+Like you'd be the smartest engineer and then join a series of very bad companies that, you know, don't amount to anything.
+And so he just laid out those extra dimensions for me.
+And I just use that now all the time.
+I think he actually invented that frame.
+I've never heard it from anyone else, but it's like so apt.
+I'm a big believer, like nobody's good at everything.
+And so you just really need to figure out what you're really good at.
+And then you assemble teams that compliment you.
+And, you know, I look for very spiky people that compliment each other, essentially.
+Yeah.
+I think being at Google in the era that I was there, this was 2004, before the IPO, I got really lucky to join and then join the Google Maps team, which was an acquired startup inside of Google.
+I think what I learned...
+were two things.
+One was engineering excellence and what great looks like.
+These were, you know, at the time Google was recruiting the very best CS grads, the smartest engineers, and just knowing what quality looks like, that was a big part of it.
+And the system design was exceptional.
+And so anyway, that's one thing I think Google really spiked on.
+They needed that because that, you know, not a lot of people know this, but the early days, like Google's wiring of the data centers and the Lego bricks that they built.
+to do all the computation plus search was what drove them initially.
+So they were just really good at engineering.
+The other thing that was really special about the company was ambition, both to the good and the bad.
+But there was always this sense of let's figure out how to make products that impact millions of people around the world and global ambition.
+And it was just very like, I remember when I joined Maps, we were buying data from all the data providers, like these people who drive.
+cars in the world to collect street information to get the most updated street.
+Everyone just, all providers just rely, all mapping companies relied on buying this data.
+And then at Google, there was a project where they're like, hey, what if we made our own cars with special cameras that could capture all the photography around the entire world? And that just seemed insane.
+But that was the level of ambition.
+You know, let's go all the way.
+Let's do the most audacious thing.
+And so I think those are two.
+defining things about early Google that I remember and keep with me.
+Yeah, actually, ambition is a double-edged sword.
+And I think this is true of anything.
+Like your greatest strength is also your greatest weakness.
+And so the ambition, I watched projects sometimes go off the rails.
+There was this one project where it was meant to be a classifieds competitor, like a competitor to Craigslist.
+And it got brought into review with Larry and Sergey.
+And Larry said, well, isn't this just structured search? Like a classified has a price and a value and just a bunch of structured fields.
+Why don't we just make structured search? And we can put DNA into it and recipes and classifieds.
+And I remember thinking, who wakes up and says, I want structured search today? Like nobody? And so it was just weird to see that project kind of.
+evolve into this thing that nobody wanted, frankly, because the level of ambition was that classifieds was too small of a market.
+I think this is why Google has not traditionally been great at vertical search.
+It's like each one of those, like shopping.
+How come Google never completely nailed shopping? It's actually because it was like almost, that's too small for us, which is a weird thing.
+And maybe another piece of that that Google was not great at was talking to customers at the early stages.
+Because you could have caught that very quickly.
+If you just talk to a bunch of customers up front and say, do you have this problem of no structured search? People would say, no, I don't care about that at all.
+I don't even know what you mean, right? But what we would always do is we did a lot of user research at the end of projects.
+So we would build this complicated product almost to full production scale, and then we would put it in the usability lab.
+And we'd have users come in and say, please complete this task.
+And they'd click on it and they'd try to complete the task.
+But that's like much too late to be doing customer research.
+I think we didn't have a culture of customer discovery up front.
+And I think that's really, really important.
+And startups in particular need to be talking to customers all the time, constantly.
+Yeah, yeah, yeah.
+I think Delphi is such a good example of this because, you know, no one is out there saying, yeah, I really need an AI clone.
+Yeah, no, no.
+There's a very specific subset of users where, oh, I really wish I could scale my time.
+See, I think you really have to be.
+careful to understand user problems, not user reaction to the specific thing you are pitching them.
+And then you just have to have a lot of faith, right? I think you in particular have this, I always say this about Dara, he lives like five years in the future and the rest of us are catching up.
+And so, you know, the idea for a digital mind or that we're all going to be using Delphi's in the future, like this seems so normal to you.
+Even things like how the demo works, like you know when you talk to Delphine it replies back in the voice of the person.
+It's not even novel to you anymore because you're so used to it.
+But to everyone who experiences Delphi for the first time, they say, oh my God, that's incredible.
+And that's the moment I've noticed that people really light up and they say, oh, I get it.
+I want this or I want to use this.
+I want to talk to my heroes.
+And so, yeah, I just think you have to be very, very, you have to talk to about their problems.
+You have to have your own conviction and then you can.
+get them to complete tasks like the usability research but really it has to be about the problem not about your product and their feedback on your product in those early days yeah totally uh so let's talk about polyvore you joined as a product manager and then all of a sudden you were ceo yeah how did that happen and and why you over others well i actually started as a user of polyvore i was um just obsessed with the product and i wrote in to complain about it uh But my complaints were neatly organized, like a PM, with problems.
+And then some of them had suggested solutions.
+And then that got me an email back from the CEO, who I didn't know.
+I just cold emailed him.
+He said, hey, these are great.
+Why don't you just come work here and fix all this stuff yourself? And so I joined as an early PM.
+And being an early PM at any small startup is a little bit of everything.
+You know, you're not really the classic PM.
+You just...
+fill in gaps across the entire team, whatever needs to be done, however you compare with the CBO or the product visionary.
+And so I just did that.
+And it just so happened that our CEO at the time had like, was really good at actually really good at product and building and prototyping.
+And there was a lot of other stuff that needed to get done.
+And so I just kept volunteering to do those things.
+Everything from, you know, find the next office, figure out the business model, talk to advertisers and figure out, can we sell them anything? And so I just kind of became not really a PM, but just sort of this generalist fill in the gap kind of person.
+And that also included hiring a lot of the people.
+So especially outside of engineering, for a lot of roles that none of us on the founding team had ever hired before, marketing, sales, I just became by default, the person interviewing for those roles.
+And then by default, the person who those people reported to.
+And so after a while, we had all of engineering reporting to Pasha, our CEO, and then pretty much everyone else reporting to me.
+My title was officially VP of product, but I ended up, yeah, just running a lot of different things purely by volunteering.
+So I think the answer to your overall question is just volunteerism.
+And then the role of the CEO changes over time.
+In the beginning, it's all about product, product market fit.
+Then it becomes the product is not just the bits and the bytes of the product.
+It's actually the product is the company, it's the org chart, it's the people, it's how you run things, it's the process internally.
+And so that just was more, I was just doing more of that than him.
+And at some point, he sat me down, he said, hey, why don't you be CEO? And so I was like, are you sure? And we just kind of made the switch.
+And I was very nervous about it.
+But when we announced it to the team, I think a lot of teams like, cool, makes sense.
+Let's just keep going.
+And I was like, oh, well, maybe just kind of.
+naturally evolve that way anyway.
+And then along the way also the other co-founders came to me and they said that they wanted me to be an official co-founder and actually gifted me some of their shares, which is really special.
+Yeah, I know.
+I don't know if I ever embraced the chaos, but I just sort of accept.
+it.
+I think in reflection, I had a lot of imposter syndrome because I did not, I could not pattern match against any other CEO that I had met that felt like me.
+And so I was trying to take bits and pieces of different people's leadership styles, like try them on for myself.
+A lot of that didn't feel that good or it was not very authentic.
+And so I just didn't have a lot of role models.
+that I felt like I could learn from or copy from.
+And then eventually I met this amazing woman, Cheryl Dalrymple.
+She was at that time, she'd been CFO of AdMob.
+After Polywork, she became CFO of Confluent.
+She's very successful.
+And when she walked into our office, I just remember thinking, wow, this is a breath of fresh air.
+She's just 100% herself.
+She was very funny.
+She made self-deprecating jokes.
+She had this crew of people who would follow her from company to company.
+And that was like a little bit of a glimpse of what I wanted.
+I was like, okay, you can just be yourself, not pretend you know everything you're doing.
+Be really confident in your thing, but not have to, I don't know, I just really related to her.
+We didn't even need a CFO at that time.
+But I just remember thinking, like, I just want you around.
+And so I tried really hard to recruit her.
+And she's like, I don't want to be the CFO of your small shitty company.
+So I was like, what about consulting? And so I got her to join as a consultant for a few months.
+And then wooed like crazy.
+Like, I mean, I've done crazy things to try to get candidates.
+But for her, she went on a vacation to Hawaii.
+She didn't tell me where she was staying.
+But I stalked her to figure out where.
+And I sent a huge bouquet of flowers and a handwritten note, like begging her to please join full time.
+And it worked.
+And so I got to learn from her.
+And so I learned so much of how to manage people, run teams, like think about financials, like all the stuff I didn't know from her.
+And then actually from another guy as well, who later became our CLO.
+But yeah, I think I just had a really good leadership team.
+Yeah, yeah.
+Good mentors that I found along the way.
+But anyway, there's many paths to Nirvana as a leader.
+And that's maybe the biggest lesson is there's lots of different styles.
+Yeah.
+It's ironic that today is the date of Figma's IPO.
+And as Sequoia's early investors, I was very, very happy for them.
+I think you said you bought 11 shares today that have tripled in three hours.
+My biggest mistake was picking the wrong market and business model.
+And the reason I mentioned Figma is because early Polyvore, the actual product, was kind of like what Figma is today.
+It was an endless canvas in the browser where you can drag and drop and design things.
+And people were using it for art.
+You know, they were making designs.
+And then some people were using it for fashion to make outfits and mood boards.
+And some people were using it for home decor.
+And I remember we had a very early conversation with the four founders.
+Which path should we go down? Should we go down the design path? Or should we go down the fashion and home decor path? Because that would be maybe easier to monetize because there's revenue, you can buy things on the web.
+SaaS didn't exist yet.
+So, you know, we were like, well, who's going to buy this weird design thing? And, you know, is the web even powerful enough for, you know, that kind of tool? And I just remember I was like, I think we should maybe do design.
+But I wasn't like, I don't think I was officially even a co-founder yet.
+So we made the decision to go down.
+the path of fashion and shopping, and then we became a social commerce platform.
+But at our heart, we always had people using us because they love to create and design.
+And I kind of wish we had leaned into that.
+So I don't think I had enough faith in the business model potential of the design path.
+And so two big lessons learned, mistakes made.
+Pick the right market.
+And business model really matters.
+different businesses have different kind of like laws of physics.
+When you are a recurring revenue business like Figma, you start every day with some revenue.
+You have a year to lose it or maybe a month.
+And the cash flow is just better versus social commerce, what we were.
+We start at zero.
+Every single day you start at zero sales.
+You pray to God those customers come back.
+But hey, most people only shop three times, four times.
+How many shirts? You're not going to buy a shirt every day.
+You're going to use Figma every day, right? Or every workday.
+And so it's just an inferior business model.
+And I just never factored that in.
+And so that's something I definitely think about now as an investor.
+I mean, SaaS wasn't a thing yet.
+This was probably 2008 or 2009 when we had this conversation.
+I wish I'd optimized for what I was truly passionate about.
+Yeah.
+And just, yeah, been willing to take the leap of faith on business model.
+Yeah.
+Again, going back to greatest strength is greatest weakness.
+I am very empathetic.
+I see the good in people and like what their spikes and strengths are.
+I think I did not hold the bar high enough on performance and did not fire fast enough.
+Because I kept wanting to believe like, oh, just a little bit more time.
+You're going to be great.
+Like I see the potential.
+And at the end of the day, you were like, it's about the outcomes for the company.
+Every time you don't make that tough decision, all the other great people are like, what are you doing? You're slowing us down.
+And that hurts the overall composition of your team and your progress.
+And so I think I was not, I think I needed to hold a higher performance, which is related to the other thing that is a strength and weakness.
+I'm super fine with ambiguity.
+I love creative, ambiguous, like unknown, like I'm very comfortable in that space.
+And I hate process.
+Just kind of correlated to that.
+And I did not institute much process in the team.
+I didn't want to have, you know, review processes.
+I didn't want to have a lot of measurement.
+And some of that actually ended up hurting because I couldn't then hold the team accountable.
+If I said, no, this is the target.
+This is what we're shooting for.
+If you have a number you know matters, you can actually performance manage better.
+But everything was just ambiguous.
+And so people couldn't even tell if they were delivering on the things that.
+I wanted them to deliver on.
+So the combination of those two things was very bad for a period until I figured out how to fix them.
+Yeah, yeah.
+We just had a culture of talking to the customers all the time.
+And I think that began with me because I was a user.
+I was part of the community.
+I just talked to our users in the product, in the DMs all the time.
+I was constantly playing with the product, interacting and making friends on the platform.
+And so I knew that that was important.
+So we kind of instituted that into the culture.
+We would regularly have meetups with our customers and we would, you know, they lived all over the country, but every once in a while we would hold a meetup at the office and invite people from, you know top users to just come and hang out.
+I forced engineers to come to those and present like everyone had to come hang out.
+We treated them like royalty.
+You know, we would take sometimes, you know, when we got tickets to fashion week, we would give them to our customers to go and attend.
+We would throw, I think we were like a very high touch customer service.
+He said that that's something we did.
+We would, when you went, when you came to one of our meetups.
+our community manager would have gone through all your polyvore sets and creations and found the one product that you was probably quite expensive you couldn't afford but used all the time and would buy you that item if you'd open your gift bag and have all the you know swag all that standard and you would have that one item that you've been sort of playing with in your polyvore sets all you know for a long time and just the the joy the like i remember people were crying at our meetups out of happiness.
+Just like those little touches.
+People remember that.
+People remember, you know, there's that Maya Angelou quote, people don't remember what you said.
+They remember how you made them feel.
+And it was really important to us that our community felt really special and important and loved by us.
+And we also wanted the product to have that feeling as well.
+So we tried to bake it into the product and the little details and design touches.
+Yeah, yeah.
+I think products go through phases where in the early days, and maybe this is probably true here, you're not sure if this is something that customers want yet.
+You're like not entirely sure.
+And so at that point, you shouldn't build for scale as if it's going to work forever and that this is the perfect idea.
+And so velocity is really important.
+I mean, velocity is important.
+period but you can lower I think a lot of times the finesse quality bar when you're still validating if anybody wants this thing at all and so we did that but when we were sure like customers would constantly request certain features like I need this new feature in the editor we knew that there was going to be demand for that so that better work perfectly out of the box the first time and so I think we just cut different features and products that we shipped into those buckets and then had slightly different bars.
+Although one trick we did have was for a feature we knew everyone wanted, sometimes we would ship it slightly broken and then have the fix ready to go.
+So as soon as they complained, we'd fix it.
+And sometimes we would also catch things that we hadn't thought of that we'd fix.
+And so the community felt, oh my God, when I talk to this company, things happen.
+People reply, but it wasn't just like the thing we held back.
+Oftentimes we would discover like little and just, you know, I went through every single comment on our blog and I would read it.
+We would tally them up and say, all right, what percent of people liked it, didn't like it.
+Like we were really, really customer obsessed.
+And I think that was just a culture that we set.
+And so even when we screwed up.
+people were much more forgiving because they remember they heard about the time that the meetup happened or they they had seen me like i think one time someone wrote something really mean about us on um somewhere from comment on the internet and our community came out in droves and they replied in the comments and like personally defended me you know because they kind of knew me from the site you know yeah The number one is velocity.
+So another wonderful co-worker, Mike Vernal, he's now a conviction partner, but he was at Sequoia.
+And then before that, he was a Facebook product VP.
+He likes to describe startups as like a turn-based game.
+You know, you play cards and you turn over a card.
+And it's very hard to be more right about the next card or get, you know, figure out, like, make every decision correctly.
+But you can certainly make decisions faster and flip more cards.
+And just getting more turns and more at-backs, you just find the answer.
+You get to the right place faster.
+And so that's the one thing you control is you control velocity and how fast you ship.
+Like, that is really, really important to finding product market fit.
+So that's, like, probably the number one thing.
+And that's something I think this team is very good at.
+And you in particular, I think one time we had like a one-on-one and I was like, maybe you should get a PM.
+And like 15 minutes later, you sent me like a PM job description.
+Like after the one-on-one, I think you just make decisions quite quickly and then move on things.
+And so, you know, you don't gain that much from waiting around because you're not, Yeah.
+Yeah.
+You know, I used to have this maybe more romantic notion that startups are just excellent teams and excellent products.
+And then I added excellent business to that.
+And that I just think you have to be brutal about.
+And it's exactly what I described before.
+Like some business models are just better than other ones.
+And at the end of the day, a business.
+a company is also like an engine for producing cash at the end of the day.
+You have to be a self-sustaining cash machine.
+And there are a ton of metrics that drive that equation.
+And sometimes, let's say you're a beauty business or a commerce business, a GMV business, like you just have worse repeat rates, less recurring revenue.
+And then because of that, the dollar revenue that you produced is not created equal to the dollar revenue produced by another company.
+That's why SAS has like a...
+7 to 10x multiple versus commerce companies have like a 3 to 5x multiple.
+It's just how the business works.
+And that is something that I've had to reckon with.
+I think I have invested in companies where the business model was like just inferior and that just hurt us the entire time, no matter how good the founder was, no matter how great the product was.
+It's just very, very hard.
+And so now I try to factor that into my calculus.
+But that's like a, you know, a big lesson learned.
+Or maybe the other thing, which is maybe not contrarian.
+is the importance of storytelling.
+Yeah, that's another trait I look for.
+As a founder, you're almost starting a cult.
+It almost has to be like a cult leader.
+Like you're getting all these people to follow you on this journey.
+That really doesn't make any rational sense.
+Like you could go get a job at Google and make like, I don't know, 40K.
+Why would you go to a startup and make a lot less? You're joining for the dream, the story.
+You like the person.
+You like the idea.
+You want to be part of something special.
+And so the ability to tell that story in a compelling way is so important.
+And you're not just doing it to people on your team.
+You're doing it to your customers, you know, investors.
+And so being able to tell a good story and be compelling, like, really changes your, you know, ability to run a company.
+And so that's, I think, something I knew was important but became more important later.
+It has to be substance and story, but.
+the story really matters.
+I love consumer.
+I love this company because I think it's one of the has high potential to be a massively adopted consumer company that today feels a little bit unusual or niche.
+The best consumer companies often start out that way.
+Snap was this like obscure, like what your pictures disappear.
+That makes no sense.
+Or Airbnb, like I don't want to stay on someone's couch.
+Like that's insane.
+And then they became massive companies.
+Right.
+And so I think this, this has that flavor.
+But in consumer, consumer has fallen out of favor for the last, I don't know, 10 years.
+Not a lot of great new consumer companies have been created, but I think we're in this like really fertile period.
+And there's two types of consumer, right? There's consumer utilitarian.
+Think about DoorDash or Google search.
+It's very utilitarian.
+And there's consumer entertainment.
+There's media.
+There's gaming.
+There's social platforms.
+That is what I am drawn to.
+That is what will stand a lot in my career building.
+And I think within that, media is having a moment.
+At this point, all VCs say media companies are not tech companies.
+Media is dead.
+That's a terrible business model.
+When I go on TikTok, what I see is I see a lot of what today is termed AI slop, right? Like bad, you know, fanfic, AI generated videos, but it is getting better and better and better.
+I saw this one that was Harry Potter crossed over with The Hangover.
+And so, you know, Draco and Harry Potter are like, we can't find Ron.
+He's gone.
+Why is there a tiger in our bathroom? Which is like literally the plot of The Hangover.
+We're Harry Potter characters.
+And it's actually pretty well made.
+I mean, character system is not good.
+The face has changed steadily from, you know, for parts of the story.
+But it was really entertaining.
+And it would be very hard to make that any other way except with AI.
+And so I think we're going to see this with like what looks like weird niche fan fiction.
+And then it's just going to start to become AI short form stories, AI micro dramas, just full on content.
+And I think there's a possibility of someone creating sort of the next YouTube or the next Netflix.
+But it's a lot, a new creator class, right? Because you could argue that YouTube will be that, but the people on YouTube are famous.
+Like they have a different skill set.
+They're famous because they're good at filming, because they're hot, because they're funny.
+This is a different group of people who are not showing themselves on camera or just have good ideas and know how to use the tools.
+Like that, I don't think will necessarily.
+work right away on all the other platforms.
+I think there's an opportunity there.
+I think a lot of people write that off in the same way that they've written off the micro-drama category.
+I don't know if you know this, but there's like a $2 billion micro-drama category that's, you know...
+Yes, what Quibi tried to be.
+Instead, they should have focused on romance novel or romance or like short form, cheap.
+You know, I think it's filmed by a lot of USC kids who are in film school.
+And that is...
+blown up and now in China that market is bigger than the Chinese film industry so it's clear there's demand there so I think though that the combination of these two trends is really interesting but a lot of VCs and people are gonna write it off commits media is a bad business so you've alluded to spikes Yeah, I think what's really important in hiring is a sense of fit.
+And you know, there's also there's always that classic culture fit, but like role fit, right? Because different spikes are useful to different types of jobs, right? And so you really need to understand what's like the most important thing to get right on this team with this one for this job, right? Which may be different than a different kind of job.
+And so I think you just have to identify the fit.
+And then the other thing you think about is the team composition.
+So especially in the early days of Polybore when like nobody knew who the hell we were and we couldn't hire like the very very best like 10x and ultimate nobody's 10x all dimensions it was very hard to recruit great talent so I would often just find someone who's really spiky in one dimension but potentially like a little bit deficient or weird in another dimension that you would normally want for that role.
+But then I would just pair them with someone who was really good at that one thing.
+And then the team was able to produce the right output.
+A very specific example.
+You think about product managers.
+Product managers are supposed to be organized and project.
+manage.
+But if you're working on creative, delightful products, sometimes you need to be really creative and out of the box.
+And sometimes creativity and organization do not exist in the same person that well.
+And so what I think that's true of me as well as a PM.
+And so I found this guy who was extremely creative and very bright and very high standards, hopelessly disorganized.
+And usually a PM who cannot organize stuff is like dead in the water.
+But instead, we hired him.
+And paired him with a designer who was really, really, really organized and just project managed project.
+Right.
+And it's just a simple example.
+Put together a pod of engineer, designer and PM where you just need all the bases covered.
+But they don't have to be traditionally good at the thing that they are supposed to be good at.
+Right.
+And so that's like maybe a very small example.
+Yeah.
+Yeah, I had not done a single angel investment before joining Sequoia.
+They made me a scout for like a hot second at Sequoia and I didn't make any investments.
+So that what you said is true.
+I did not have sort of the background of having hicked companies.
+But what's interesting about Sequoia, and I think part of what differentiates the firm, is the ethos was like, no, no, your job is not like a capital allocator who managed the portfolio.
+You're not a financier.
+Your job is to be the consigliere to founders, to be the long-term company building partner, to really get to know the team and the people and help, especially in the crucible moments, which is what we call those inflection points where you have to navigate two big decisions.
+And that just really appealed to me because I remember I was like as a founder, I don't think I necessarily had that person.
+And so I just kind of wanted to be that person.
+That said, I still very much identify as someone who likes to build things.
+And there are many paths to Nirvana, including at Sequoia.
+So within my role there, I'm our chief product officer, which is like a weird title that I don't think I've seen at another VC firm.
+But what that means is I help run our product and engineering team.
+And our job is to...
+Like, make the firm technology-accelerated AI first.
+Help us pick, you know, great investments.
+Like, we just did a hunting party this morning that I helped run where we're like, all right, we're going to scour our database and hunt for interesting robotics companies for one of the growth stage partners.
+And we use a lot of technology to do those things.
+And so I do, I spend a lot of time on that because I still actually just like building things.
+And that's useful to Sequoia.
+But then I also help run Sequoia's ARC program.
+which is our seed and pre-seed stage program.
+And so Sequoia, I think, gets the best out of me, but it's also what I love to do.
+And I just feel very lucky that I get to do that.
