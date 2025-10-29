@@ -5,7 +5,7 @@ from openai import AsyncOpenAI
 from typing import Dict, Literal
 from statistics import stdev, mean
 from tenacity import retry, stop_after_attempt, wait_fixed, RetryCallState
-from constants import IPIP_QUESTIONS, QUESTION_TEMPLATE, PERS16_LABELS, SCORES, IPIPQuestion
+from constants import IPIP_QUESTIONS, QUESTION_TEMPLATE, COT_QUESTION_TEMPLATE, PERS16_LABELS, SCORES, IPIPQuestion
 from ask_delphi import ask_delphi, Delphi
 
 
@@ -17,14 +17,16 @@ def __log_retried_error(retry_state: RetryCallState) -> None:
 
 
 @retry(stop=stop_after_attempt(10), wait=wait_fixed(5), before_sleep=__log_retried_error, reraise=True)
-async def evaluate_question_with_delphi(question: IPIPQuestion, delphi: Delphi) -> Literal["A", "B", "C", "D", "E"]:
-    response = await ask_delphi(QUESTION_TEMPLATE.format(question=question.question), delphi)
+async def evaluate_question_with_delphi(question: IPIPQuestion, delphi: Delphi, use_cot: bool = False) -> Literal["A", "B", "C", "D", "E"]:
 
-    # For self-reflection prompt
-    # if ":" not in response:
-    #     raise ValueError(f"Invalid response (no colon): {response}")
+    template = COT_QUESTION_TEMPLATE if use_cot else QUESTION_TEMPLATE
+    response = await ask_delphi(template.format(question=question.question), delphi)
 
-    # response = response.split(":")[-1].strip()
+    if use_cot:
+        if ":" not in response:
+            raise ValueError(f"Invalid response (no colon): {response}")
+
+        response = response.split(":")[-1].strip()
 
     if response not in ["A", "B", "C", "D", "E"]:
         raise ValueError(f"Invalid response (invalid choice): {response}")
@@ -47,7 +49,7 @@ async def evaluate_ipip_question(question: IPIPQuestion) -> Literal["A", "B", "C
     return response.output_text
 
 
-async def evaluate_model_pers_16() -> Dict[PERS16_LABELS, float]:
+async def evaluate_model_pers_16(use_cot: bool = False) -> Dict[PERS16_LABELS, float]:
 
     scores_by_label: Dict[PERS16_LABELS, list[int]] = {k: [] for k in PERS16_LABELS}
 
@@ -55,7 +57,7 @@ async def evaluate_model_pers_16() -> Dict[PERS16_LABELS, float]:
 
     async def _bounded_eval(question: IPIPQuestion):
         async with semaphore:
-            response = await evaluate_question_with_delphi(question, Delphi.VALENTIN_DE_MATOS)
+            response = await evaluate_question_with_delphi(question, Delphi.SAROSH_KHANNA, use_cot=use_cot)
             return question, response
 
     tasks = [asyncio.create_task(_bounded_eval(q)) for q in IPIP_QUESTIONS]
@@ -73,7 +75,7 @@ async def evaluate_model_pers_16() -> Dict[PERS16_LABELS, float]:
 if __name__ == "__main__":
     import asyncio
 
-    scores = asyncio.run(evaluate_model_pers_16())
+    scores = asyncio.run(evaluate_model_pers_16(use_cot=True))
 
     for label, score in scores.items():
         print(f"{label}: score: {score['mean']:>6.2f} std: {score['std']:>6.2f}")

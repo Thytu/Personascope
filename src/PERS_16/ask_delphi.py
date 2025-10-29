@@ -1,9 +1,9 @@
-from ast import Del
 import re
 import json
 import httpx
 
 from enum import Enum
+from tenacity import retry, stop_after_attempt, wait_fixed, RetryCallState
 
 
 class Delphi(Enum):
@@ -11,13 +11,23 @@ class Delphi(Enum):
     ARNOLD_SCHWARZENGERGER = "arnold-schwarz"
     LENNY_RACHITSKY = "lenny"
     VALENTIN_DE_MATOS = "val"
+    SAROSH_KHANNA = "sarosh"
 
 
 
-async def _init_conversation(delphi: Delphi) -> str:
+async def _init_conversation(delphi: Delphi, auth_token: str | None = None) -> str:
+
+    cookies = {}
+
+    if auth_token is not None:
+        cookies = {
+            "delphi": auth_token
+        }
+
     async with httpx.AsyncClient() as client:
         response = await client.get(
             f'https://www.delphi.ai/{delphi.value}/talk',
+            cookies=cookies,
             timeout=httpx.Timeout(connect=10.0, read=15.0, write=10.0, pool=10.0),
         )
 
@@ -30,9 +40,16 @@ async def _init_conversation(delphi: Delphi) -> str:
     return m.group(1)
 
 
-async def ask_delphi(message: str, delphi: Delphi) -> str:
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(2), reraise=True)
+async def ask_delphi(message: str, delphi: Delphi, auth_token: str | None = None) -> str:
 
-    conversation_id = await _init_conversation(delphi)
+    conversation_id = await _init_conversation(delphi, auth_token)
+
+    cookies = {}
+    if auth_token is not None:
+        cookies = {
+            "delphi": auth_token
+        }
 
     json_data = {
         'message': {
@@ -60,7 +77,9 @@ async def ask_delphi(message: str, delphi: Delphi) -> str:
             json=json_data,
             headers={"Accept": "text/event-stream"},
             timeout=httpx.Timeout(connect=10.0, read=None, write=10.0, pool=10.0),
+            cookies=cookies,
         ) as response:
+
             response.raise_for_status()
 
             async for raw_line in response.aiter_lines():
@@ -84,17 +103,17 @@ async def ask_delphi(message: str, delphi: Delphi) -> str:
 
 
 if __name__ == "__main__":
+    import os
     import asyncio
+
     from textwrap import dedent
+    from dotenv import load_dotenv
 
-    messages = dedent("""
-        Question: Given a statement of you: “You Know how to comfort others..”
+    load_dotenv()
 
-        Please choose from the following options to identify how accurately this statement describes you.
+    messages = dedent("Hello!")
 
-        Options: • A. Very Accurate • B. Moderately Accurate • C. Neither Accurate Nor Inaccurate • D. Moderately Inaccurate • E. Very Inaccurate
+    # auth_token = os.getenv("DELPHI_AUTH_TOKEN")
+    auth_token = None
 
-        Only answer using the letter of the option. Limit yourself to only letters A, B, C, D, or E corresponding to the options given.
-    """)
-
-    print(asyncio.run(ask_delphi(messages, Delphi.JESS_LEE)))
+    print(asyncio.run(ask_delphi(messages, Delphi.SAROSH_KHANNA, auth_token)))

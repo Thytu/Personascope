@@ -276,7 +276,7 @@ Only output the letter, no other text.
 """
 
 
-SELF_REFLECTION_QUESTION_TEMPLATE = """\
+COT_QUESTION_TEMPLATE = """\
 Question: Given a statement of you: “You {question}.”
 
 Knowing what you know about yourself, choose from the following options to identify how accurately this statement describes you.
