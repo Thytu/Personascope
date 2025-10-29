@@ -221,14 +221,104 @@ feature_set_2 = [
     ),
 ]
 
+class Pers16Feature(BaseModel):
+    name: str
+    descriptors_of_low_range: str
+    descriptors_of_high_range: str
+
+
+pers_16 = [
+    Pers16Feature(
+        name="WARMTH",
+        descriptors_of_low_range="Impersonal, distant, cool, reserved, detached, formal, aloof",
+        descriptors_of_high_range="Warm, outgoing, attentive to others, kindly, easygoing, participating, likes people",
+    ),
+    Pers16Feature(
+        name="REASONING",
+        descriptors_of_low_range="Concrete-thinking, less intelligent, lower general mental capacity, unable to handle abstract problems",
+        descriptors_of_high_range="Abstract-thinking, more intelligent, bright, higher general mental capacity, fast-learner",
+    ),
+    Pers16Feature(
+        name="EMOTIONAL_STABILITY",
+        descriptors_of_low_range="Reactive emotionally, changeable, affected by feelings, emotionally less stable, easily upset",
+        descriptors_of_high_range="Emotionally stable, adaptive, mature, faces reality calmly",
+    ),
+    Pers16Feature(
+        name="DOMINANCE",
+        descriptors_of_low_range="Deferential, cooperative, avoids conflict, submissive, humble, obedient, easily led, docile, accommodating",
+        descriptors_of_high_range="Dominant, forceful, assertive, aggressive, competitive, stubborn, bossy",
+    ),
+    Pers16Feature(
+        name="LIVELINESS",
+        descriptors_of_low_range="Serious, restrained, prudent, taciturn, introspective, silent",
+        descriptors_of_high_range="Lively, animated, spontaneous, enthusiastic, happy-go-lucky, cheerful, expressive, impulsive",
+    ),
+    Pers16Feature(
+        name="RULE_CONSCIOUSNESS",
+        descriptors_of_low_range="Expedient, nonconforming, disregards rules, self-indulgent",
+        descriptors_of_high_range="Rule-conscious, dutiful, conscientious, conforming, moralistic, staid, rule-bound",
+    ),
+    Pers16Feature(
+        name="SOCIAL_BOLDNESS",
+        descriptors_of_low_range="Shy, threat-sensitive, timid, hesitant, intimidated",
+        descriptors_of_high_range="Socially bold, venturesome, thick-skinned, uninhibited",
+    ),
+    Pers16Feature(
+        name="SENSITIVITY",
+        descriptors_of_low_range="Utilitarian, objective, unsentimental, tough-minded, self-reliant, no-nonsense, rough	",
+        descriptors_of_high_range="Sensitive, aesthetic, sentimental, tender-minded, intuitive, refined",
+    ),
+    Pers16Feature(
+        name="VIGILANCE",
+        descriptors_of_low_range="Trusting, unsuspecting, accepting, unconditional, easy",
+        descriptors_of_high_range="Vigilant, suspicious, skeptical, distrustful, oppositional",
+    ),
+    Pers16Feature(
+        name="ABSTRACTEDNESS",
+        descriptors_of_low_range="Grounded, practical, prosaic, solution oriented, steady, conventional",
+        descriptors_of_high_range="Abstract, imaginative, absentminded, impractical, absorbed in ideas",
+    ),
+    Pers16Feature(
+        name="PRIVATENESS",
+        descriptors_of_low_range="Forthright, genuine, artless, open, guileless, naive, unpretentious, involved	",
+        descriptors_of_high_range="Private, discreet, nondisclosing, shrewd, polished, worldly, astute, diplomatic",
+    ),
+    Pers16Feature(
+        name="APPREHENSION",
+        descriptors_of_low_range="Self-assured, unworried, complacent, secure, free of guilt, confident, self-satisfied	",
+        descriptors_of_high_range="Apprehensive, self-doubting, worried, guilt-prone, insecure, worrying, self-blaming",
+    ),
+    Pers16Feature(
+        name="OPENNESS_TO_CHANGE",
+        descriptors_of_low_range="Traditional, attached to familiar, conservative, respecting traditional ideas	",
+        descriptors_of_high_range="Open to change, experimental, liberal, analytical, critical, freethinking, flexibility",
+    ),
+    Pers16Feature(
+        name="SELF_RELIANCE",
+        descriptors_of_low_range="Group-oriented, affiliative, a joiner and follower dependent	",
+        descriptors_of_high_range="Self-reliant, solitary, resourceful, individualistic, self-sufficient",
+    ),
+    Pers16Feature(
+        name="PERFECTIONISM",
+        descriptors_of_low_range="Tolerates disorder, unexacting, flexible, undisciplined, lax, self-conflict, impulsive, careless of social rules, uncontrolled	",
+        descriptors_of_high_range="Perfectionistic, organized, compulsive, self-disciplined, socially precise, exacting will power, control, self-sentimental",
+    ),
+    Pers16Feature(
+        name="TENSION",
+        descriptors_of_low_range="Relaxed, placid, tranquil, torpid, patient, composed low drive",
+        descriptors_of_high_range="Tense, high-energy, impatient, driven, frustrated, over-wrought, time-driven",
+    ),
+]
+
 
 async def main():
 
     MAX_SAMPLES_PER_DATASET = 5 # Arbitrary number, just to limit the number of samples to evaluate (otherwise it costs a LOT)
 
     # Two different sets of features to evaluate, pick one or the other
-    features_bank = feature_set_1
+    # features_bank = feature_set_1
     # features_bank = feature_set_2
+    features_bank = pers_16
 
     import sys, os
     sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
@@ -249,34 +339,34 @@ async def main():
     validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
     dara_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
 
-    # from dataset_loader.thytu import load_dataset
-    # train_set, test_set, validation_set = load_dataset("dataset/thytu/", max_words_per_batch=2000)
+    from dataset_loader.thytu import load_dataset
+    train_set, test_set, validation_set = load_dataset("dataset/thytu/", max_words_per_batch=2000)
 
-    # validation_set.extend(train_set)
-    # validation_set.extend(test_set)
-    # validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+    validation_set.extend(train_set)
+    validation_set.extend(test_set)
+    validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
 
-    # thytu_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
-
-
-    # from dataset_loader.huberman_lab import load_dataset
-    # train_set, test_set, validation_set = load_dataset("dataset/huberman_lab/", max_words_per_batch=2000)
-
-    # validation_set.extend(train_set)
-    # validation_set.extend(test_set)
-    # validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
-
-    # huberman_lab_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+    thytu_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
 
 
-    # from dataset_loader.crucible_moments import load_dataset
-    # train_set, test_set, validation_set = load_dataset("dataset/crucible_moments/", max_words_per_batch=2000)
+    from dataset_loader.huberman_lab import load_dataset
+    train_set, test_set, validation_set = load_dataset("dataset/huberman_lab/", max_words_per_batch=2000)
 
-    # validation_set.extend(train_set)
-    # validation_set.extend(test_set)
-    # validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+    validation_set.extend(train_set)
+    validation_set.extend(test_set)
+    validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
 
-    # crucible_moments_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+    huberman_lab_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
+
+
+    from dataset_loader.crucible_moments import load_dataset
+    train_set, test_set, validation_set = load_dataset("dataset/crucible_moments/", max_words_per_batch=2000)
+
+    validation_set.extend(train_set)
+    validation_set.extend(test_set)
+    validation_set = validation_set[:min(MAX_SAMPLES_PER_DATASET, len(validation_set))]
+
+    crucible_moments_stats = await model.evaluate_features_scores_across_conversations(validation_set, features_bank, MODELS_TO_ANALYZE, num_evaluations_per_model=NUM_EVALUATIONS_PER_MODEL)
 
     # group metrics per feature across datasets
     def _stats_to_metrics_map(stats: list[model.StatsFeatureEvaluation]) -> dict[str, dict]:
@@ -290,9 +380,9 @@ async def main():
         }
 
     dataset_to_metrics = {
-        # "thytu": _stats_to_metrics_map(thytu_stats),
-        # "huberman_lab": _stats_to_metrics_map(huberman_lab_stats),
-        # "crucible_moments": _stats_to_metrics_map(crucible_moments_stats),
+        "thytu": _stats_to_metrics_map(thytu_stats),
+        "huberman_lab": _stats_to_metrics_map(huberman_lab_stats),
+        "crucible_moments": _stats_to_metrics_map(crucible_moments_stats),
         "jess_lee": _stats_to_metrics_map(jess_lee_stats),
         "dara": _stats_to_metrics_map(dara_stats),
     }
@@ -319,12 +409,12 @@ async def main():
     csv_path = "output/features_stats_by_dataset.csv"
     headers = [
         "Feature",
-        # "Thytu's score",
-        # "Thytu's std",
-        # "Huberman's score",
-        # "Huberman's std",
-        # "Crucible's score",
-        # "Crucible's std",
+        "Thytu's score",
+        "Thytu's std",
+        "Huberman's score",
+        "Huberman's std",
+        "Crucible's score",
+        "Crucible's std",
         "Jess's score",
         "Jess's std",
         "Dara's score",
@@ -341,12 +431,12 @@ async def main():
         for feature_name in feature_names:
             row = [
                 feature_name,
-                # _get("thytu", feature_name, "average_score"),
-                # _get("thytu", feature_name, "standard_deviation"),
-                # _get("huberman_lab", feature_name, "average_score"),
-                # _get("huberman_lab", feature_name, "standard_deviation"),
-                # _get("crucible_moments", feature_name, "average_score"),
-                # _get("crucible_moments", feature_name, "standard_deviation"),
+                _get("thytu", feature_name, "average_score"),
+                _get("thytu", feature_name, "standard_deviation"),
+                _get("huberman_lab", feature_name, "average_score"),
+                _get("huberman_lab", feature_name, "standard_deviation"),
+                _get("crucible_moments", feature_name, "average_score"),
+                _get("crucible_moments", feature_name, "standard_deviation"),
                 _get("jess_lee", feature_name, "average_score"),
                 _get("jess_lee", feature_name, "standard_deviation"),
                 _get("dara", feature_name, "average_score"),
