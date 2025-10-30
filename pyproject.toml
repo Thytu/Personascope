@@ -12,4 +12,8 @@ dependencies = [
     "httpx>=0.27.0",
     "faststylometry>=1.0.15",
     "matplotlib>=3.10.7",
+    "sentence-transformers>=5.1.2",
+    "accelerate>=1.11.0",
+    "torch>=2.9.0",
+    "umap-learn>=0.5.9.post2",
 ]
