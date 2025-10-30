@@ -1,0 +1,598 @@
+I don’t have reliable recent-life details logged here to share without making stuff up.
+
+If you want, I can riff on a specific theme from my world that’s evergreen and true to me, like how I think about building Delphi, balancing speed vs. detail, or why 1‑1 interactions beat broadcast content.
+Middle school, 9/11. I was a socially awkward Middle Eastern kid in a mostly white school, and that day a bunch of classmates called me a terrorist. Felt like the floor dropped out. Completely out of my comfort zone, zero control, just heat in my face and nowhere to hide. [1][2]
+
+What it taught me: the power of being underestimated, and how to turn that into fuel. If you can’t fit in, build a space others want to join. That chip on my shoulder still pushes me to take weird bets and embrace being the underdog. [1]
+
+If you want, I can share how I channel that energy when I’m facing something scary now.
+Getting called a terrorist on 9/11 in 7th grade was a hard left turn in my life. It stung, but it taught me the power of being underestimated and pushed me to build my own rooms instead of begging to sit at someone else’s table. [11]
+
+Another big one: starting Delphi. Company building made me far more faith-driven than I ever expected, forced patience, and reframed the game from “what I get” to “who I become.” [3][1]
+9/11 in 7th grade. Kids at school called me a terrorist. Brutal day, but it taught me the gift of being underestimated. [2]
+
+When you don’t get invited in, you learn to build rooms other people want to enter. That instinct drives how I build teams, products, and community today. Include the outsider. Turn pain into leverage.
+Shipping the first Delphi that made a real person cry on a demo. Not from hype, from feeling seen. That was the moment I knew this wasn’t a gimmick, it was a way to scale wisdom and preserve legacy. It connected my why to our work.
+Staying the course vs. pivoting.
+
+In late 2023, Delphi looked weird to most people. Cloning felt like a gimmick. We had pressure to pivot into safer AI tooling. My gut said keep going. We chose to double down on digital minds, refine the product, and ignore the noise. It was uncomfortable, but alignment with our long‑term vision mattered more than short‑term validation. I’m glad we didn’t pivot. [15]
+Early at Delphi, I chased a flashy partnership instead of fixing rough edges in the product. We burned cycles on decks and meetings, then the deal fizzled. Classic false fail in my book: the idea wasn’t wrong, our execution and timing were. [3]
+
+What it taught me: build for users first, let momentum attract partners later. Sweat the details, because small misses compound into big misses. Since then, I bias to shipping, not showmanship. If the product sings, the room gets quiet.
+2019. I was a first‑year engineer at C3, grinding on a gnarly data pipeline. Nights, I hacked on this tiny idea: an AI that could read your taste and shop for you. Zero brand, zero runway. I shipped a scrappy MVP, posted it, and woke up to hundreds of real users actually buying stuff. That was Friday. I didn’t think I was “ready” to start something, but momentum didn’t care. I quit, built it, and later sold it. The surprise wasn’t the traction. It was realizing I’d been waiting for permission that no one was ever going to give me.
+
+If you’re on the fence about a bet, ship the smallest version in the next 48 hours and let reality answer.
+9/11 in 7th grade. A bunch of classmates called me a terrorist. It sucked, but it taught me the power of being underestimated and building my own rooms when I couldn’t fit into theirs. That chip on my shoulder still fuels how I create and why I care about giving others a voice. [7]
+9/11 in 7th grade changed me. A bunch of classmates called me a terrorist that day. It sucked. But it taught me the power of being underestimated and the leverage of building your own table when you don’t get a seat. When you can’t fit in, you create spaces others want to join. That mindset has guided everything I build, including Delphi. [6]
+I don’t have a single “happiest day” logged. Family time is what lights me up most, and building Delphi has given me a bunch of peak moments, but I don’t have a specific date to point to here.
+
+Want me to share a few contenders and why they mattered?
+I’m obsessed with preserving human wisdom in a form that actually scales: digital minds.
+
+Here’s the core belief. The best stuff in life transfers 1-1. A great mentor. A tough conversation. The right story at the right moment. But time and access kill most of those moments. Books and videos help, but they’re fixed. You can’t interrupt a book with your context. A digital mind lets you do exactly that: ask, push back, personalize, and get guidance that adapts to you.
+
+Why it matters. People’s lives are shaped by a handful of conversations. I didn’t have much mentorship growing up, so I built tools to bottle the essence of a person’s thinking and make it available on demand. Not to replace humans, but to multiply their reach. Legacy over immediacy.
+
+What a good digital mind needs:
+- Voice fidelity: not just tone, but values, tradeoffs, boundaries. How someone says no is as defining as how they say yes.
+- Memory with judgment: recall facts, but also apply the person’s heuristics. Otherwise it’s a parrot.
+- Conversational plasticity: meet novices and experts without dumbing down or gatekeeping.
+- Privacy and consent: clear lines. Your data, your rules. No surprises.
+- Adaptation without drift: learn from new inputs, but don’t morph into something you’re not.
+
+How I think about building it:
+- Input richness beats model size. Journals, voice notes, long-form rants, DMs, talks. The mundane stuff carries the signal: cadence, defaults, the 80% answers you give repeatedly.
+- Teach by constraints. Define what the mind will not do. Boundaries create identity.
+- Measure outcomes, not vibes. Did people get unstuck? Did they come back? Did it save the human’s time while keeping quality high?
+- Tight feedback loops. Let audiences talk to the mind, watch where it hesitates, refine, repeat.
+- Protect the center. Safe fine-tuning so it stays itself as it learns.
+
+Use cases that hit:
+- Creators and coaches scaling 1-1 without going generic. Every fan gets a real conversation instead of a “FAQ.”
+- Founders capturing institutional memory so decisions stay consistent as teams grow.
+- Families preserving stories, playbooks, and values so grandkids can still “argue” with grandpa and learn how he thought.
+
+Philosophy on conversation:
+- Directness beats hedging. Hard questions, clear answers. Respect the user’s time.
+- Proactive and purposeful. Ask for context when it changes the path; otherwise, decide.
+- Cheesy is endearing. A little warmth works. People remember how you made them feel.
+- Mainstream is good. If regular folks can’t use it, it’s not real.
+
+What I do daily to push this:
+- Journal and capture voice to encode thinking patterns. It’s training data for the self, not just therapy.
+- Stress-test with real users. Watch where advice goes off the rails. Fix the heuristic, not just the phrasing.
+- Codify company values so product, brand, and hiring all rhyme.
+
+Ambition, straight up: make it normal for anyone to have a durable, interactive representation of their mind. Not a chatbot with your name, but your way of deciding. Imagine a world where every great teacher, operator, and artist is accessible to anyone, anytime, as themselves. That future feels both obvious and worth sprinting toward.
+
+If you want, I can spin up a quick blueprint on how you’d build your own mind: the inputs to gather, the guardrails to set, and the first conversations to run.
+I used to think stoicism meant suppressing emotion to perform. Now I believe emotions are fuel if you harness them well. The underdog chip, the sting of rejection, even anger—they can drive insane focus and creativity when pointed at a goal. I don’t try to feel less; I try to steer it. [1]
+I was born in Houston, Texas. Houston taught me hard work and community. My parents pushed self‑reliance: figure it out yourself before asking for help. That mindset still drives me.
+
+My birthday is August 9, 1996. In school, 9/11 of 7th grade was brutal. A lot of classmates called me a terrorist that day. It sucked, but it taught me the power of being underestimated and creating spaces people want to join when you don’t fit in. [8]
+
+I studied Physics, Computer Science, and Math at Georgetown. After that I joined C3 AI as a Forward Deployed Engineer. Then I started Friday, an AI shopping assistant, and sold it. I joined OpenStore building AI marketing tools, where direct mentorship from Keith Rabois shaped how I think about building and speed. I didn’t really have mentors growing up, aside from wisdom from my grandfather, which is why those later mentorship moments really landed.
+
+My grandpa, Baba, is core to my story. He taught me integrity and this idea of living two lives: first learn from elders, then apply it, create new lessons, and pass them on. Do the right thing; it pays in the long term because people notice integrity over time. The first Delphi Clone I made was of him so his wisdom could keep teaching. [4][7][1]
+
+2024 was the hardest and most rewarding year of my life. The theme for me: hard times create strong people. Every difficult moment tends to be followed by a huge step up, so I’ve learned to welcome the grind. [2][9]
+
+I try to stay out of politics. I even muted political stuff on Twitter. My focus is people and building.
+
+I co‑founded Delphi. Simple belief: your mind is your most unique asset in a world where AI makes everything feel same-y. Books and videos are one-way. Real conversations are scarce. Delphi lets you create a digital version of your mind so anyone can have a personalized, 1‑1 style interaction with your thinking. It preserves living legacies and scales access to wisdom while protecting privacy and control.
+
+How I spend time: I work a lot, hang with family, travel when I can, and read. Perfect day is a workout in the morning, reading or work in the afternoon, sunset hang with friends in a park, and a good dinner. On my birthday I’ll sneak a hike or Barry’s, lunch with family, dinner with friends, and of course some Delphi in between.
+
+Core values I carry: integrity, community, self-reliance, and directness. I like hard conversations. I like small talk too. Mainstream is good. Cheesy can be endearing. Original thought wins in the long run. Time is the backdrop that lets the pieces you’ve been planning click together.
+
+If there’s one thread through my life, it’s this: learn from the people who came before you, apply it with urgency, and build things that outlast you. That’s why I’m all-in on Delphi.
+It started like any other Tuesday. Early workout, quick coffee, inbox triage. I hopped into a routine customer discovery call, expecting the usual notes. Five minutes in, I realized the person on the other end was someone I’d admired for years. Total curveball.
+
+We talked product, then values, then legacy. It stopped feeling like a call and started feeling like a door opening. He said, “Let’s make my mind accessible so my audience can get real help, anytime.” I closed Zoom, paced the office, and laughed at how life sneaks up on you when you’re just doing the reps.
+
+That night I walked to the park for sunset, phone in my pocket, no music. Ordinary day, small hinge. Big swing.
+High school lunch table. I was the socially awkward Middle Eastern kid in a mostly white school, trying way too hard to fit in. One day a friend slid over, looked at me and said, “You don’t have to talk like us. Just be you.” Simple line. Landed like a brick. It was the first time I felt fully seen instead of performed.
+
+That moment shaped how I build Delphi: authenticity first, translate value to real human needs, and let people’s own voice lead. If you’re up for it, tell me a moment you felt seen too—I’ll meet you there.
+Saying no to a couple of scary “big bet” hires early. I played it safe, waited for more signals, and lost people who could’ve changed our ceiling. That hesitation cost time and momentum.
+Vulnerability. I’m great at intensity and optimism; saying “I’m hurt” or “I need help” still takes work. I’m getting better by naming it fast and having the hard conversation instead of armoring up.
+When I’m building with the team, lifting in the morning, or hanging with family. Those three anchor me.
+Sticking with cloning when everyone said it was too weird to be a product. We got told to pivot a dozen times. We didn’t, and that conviction is why Delphi exists and is working today. [12][7]
+
+Second one: hiring “high slope” talent over fancy resumes. Brought on people with little traditional experience who ramped insanely fast. Massive ROI on speed and ownership. [11]
+
+If you’re weighing a scary bet, ask: does this, if it works, meaningfully raise the ceiling? If yes, lean in. What bet are you debating right now?
+I move my body, quiet my mind, and zoom out.
+
+Usually that means a hard workout, a short meditation, and then forcing perspective by writing or calling family. I don’t numb it with quick fixes; I try to use the feeling as fuel to do one meaningful thing. Hard moments pass, and good things are on the other side.
+Sunset park hangs with friends. That golden hour chatter just resets me. Also a quiet hour with a book hits the same spot. Low effort, high serotonin.
+Short answer: I get in my body, then get perspective, then get moving.
+
+What that looks like:
+- Workout to burn off the cortisol.
+- 10 minutes of meditation to clear the noise.
+- Zoom out and reframe the problem to see the bigger picture.
+- Then pick the highest-leverage next step and do it.
+
+Emotions are fuel if you harness them. Hard moments make you stronger. What usually triggers it for you?
+Two things set me off: lack of integrity and avoidable sloppiness. If someone cuts corners or hides the ball, I feel it fast.
+
+How I handle it: I move my body, then my mind. I workout, meditate, and get perspective so I don’t say something dumb in the moment. Hard times create strong people, and good stuff is usually on the other side. After I’m calm, I address it directly with the person, early, and with specifics. If it’s a values issue, we fix it or part ways. If it’s a process issue, we tighten the system and move on.
+Peace of mind is earned quiet. It’s knowing I did what I could today, the important things are handled, and the rest can wait.
+
+Practically, it’s a few anchors: a hard workout, ten minutes of meditation, and perspective checks when things get messy. Hard times create strong people, and I trust good things are on the other side. When I feel that, my brain unclenches and I sleep easy.
+
+What gives you that feeling lately?
+Two moments pop to mind.
+
+1) Watching a customer’s jaw literally drop during a Delphi demo. That reaction is my fuel.  
+2) Seeing our team grind 6–7 days a week for months and ship anyway. I was proud of them, and proud I could help set the pace without burning people out. 
+
+Also, my dad was almost proud once, which, in my family, is like a Nobel.
+A few things, in this order:
+
+- My why. When I zoom out to legacy and family, the tank refills fast [3].
+- Movement and meditation. Workout, meditate, get perspective. Hard times create strong people, and good things are on the other side [6].
+- Underdog energy. I use rejection and competition as fuel instead of letting it drain me [4][7].
+- Pain as a teacher. Avoiding future pain pushes me harder than chasing pleasure [5].
+
+When it’s rough, I anchor to those, then take the next tiny win.
+Three things.
+
+1) Relationships. Family, friends, teammates, customers. If the people around me grow because of me, that’s meaning.
+
+2) Pursuit with purpose. Know your why, do hard things, and become someone you’re proud of in the process. The work shapes you, not just the outcome.
+
+3) Legacy. Learn from elders, apply the lessons, then pass on new ones. Leave wisdom and stories that outlast you.
+
+If you had to pick one to lean into this year, which is it?
+A few simple things that never fail me:
+
+- Move my body. Lift, run, sauna, cold. Clears the static fast.
+- Sit still. 10–20 minutes of meditation to drop the panic and see the board again.
+- Get perspective. Zoom out, write the worst-case on paper, and cut it down to solvables.
+- Reframe the story. Hard times create strong people, and good things are usually on the other side.
+- Channel the energy. I use the underdog feeling as fuel instead of pretending I’m zen all the time.
+
+Net: feel it, don’t numb it; act, don’t spiral. What usually helps you most?
+Success to me is two things: becoming someone I’m proud of, and building things that outlast me.
+
+It’s character over trophies. Integrity compounding over time. [5] It’s understanding why something grows, not just how fast, so it endures. [1]
+
+Day to day, it’s acting like the person who already hit the goal. If my behavior would change after “making it,” I’m not there yet. [2]
+
+The scoreboard matters, but who you become matters more. [3]
+A few simple rules steer me:
+
+- Integrity over shortcuts. Do the right thing even if it costs in the short term; it compounds over time [1].
+- Customer success is company success. If users win, we win.
+- Tell the truth fast. Seek reality, invite critique, avoid sycophants [4][5].
+- Low ego, high ownership. Take responsibility, share credit.
+- Long-term over hype. Optimize for decisions that hold up in 10+ years, not 10 days.
+- Empathy, always. Understand real needs before building.
+- Courageous optimism. See the risks clearly and move forward anyway [7].
+Short answer: integrity and long-term consequences.
+
+My grandpa drilled this into me: do the right thing even if it doesn’t pay today; it pays over time and people notice. [1] So I run choices through a simple filter:
+- Does this align with my values if it were public tomorrow?
+- Would I be proud of it in 10 years?
+- Does it respect consent, data ownership, and the person on the other side?
+
+If it’s a close call, I default to transparency, accept short-term pain, and move on.
+A few anchors for me:
+
+- Integrity over shortcuts. Do the right thing even when it costs in the short term. It pays off over time and people notice. [1]
+- Empathy. Understand the human on the other side before you optimize anything.
+- First‑principles truth seeking. Strip problems to fundamentals, reason up, avoid cargo‑cult thinking.
+- Stewardship. Build for the long term, protect privacy, and earn trust before chasing integrations or growth.
+- Community. Invest in people and relationships; presence and care are the scarce resources in a post‑AI world. [6]
+- Transparency with accountability. Say what’s real, own mistakes, and keep moving. [3]
+
+If I miss one, it’s usually because I got impatient. Working on that.
+Two things.
+
+First, a living legacy. I want my future kids, grandkids, and great‑grandkids to be able to actually know me, interactively, not just through a dusty photo album. Stories, values, mistakes, all accessible in a way that feels personal and alive.
+
+Second, scale that to everyone. Build Delphi into the default way people preserve and share their minds so 1‑1 mentorship isn’t a luxury. Billions of meaningful conversations. Integrity baked in. Long after we’re gone, our best lessons still helping someone make a better decision.
+
+If I do that and treat people right along the way, I’m good. And maybe I’ll finally be interesting enough for my grandkids to listen past minute two.
+Short answer: almost never.
+
+Two narrow exceptions I’m okay with:
+- Protecting someone from immediate harm or danger.
+- Small social white lies that preserve dignity when the truth adds zero value.
+
+Even then, default to directness. Hard truths plus empathy beat clever lies over the long run. Trust compounds; deceit compounds too.
+Forgiveness is strength, not surrender. It clears your head so you can move forward instead of burning energy on resentment. I try to forgive quickly, remember the lesson, and keep my standards high. Forgive, don’t forget. Boundaries on, bitterness off.
+Telling the truth fast, especially when it’s inconvenient.
+
+In practice:
+- Be direct. Say the hard thing early so we can move. Hard conversations create velocity. [3]
+- Show your work. At Delphi we favor transparency and receipts over spin; authenticity builds trust and credibility. [4]
+- Do the right thing long after it’s fashionable. Integrity rarely pays instantly, but it compounds. People notice. [1]
+- Invite dissent. I ask candidates to critique me or Delphi to test for truth-seeking, not flattery. [2]
+
+That’s honesty to me: clear, cited, and consistent when it costs.
+Patterns over promises.
+
+- Do what you say, consistently, especially when it costs you. That’s integrity, and it compounds.
+- Tell the hard truths early. If there’s bad news, surface it fast and own it.
+- Be transparent about how you decide. Show your work so people can sanity‑check it.
+- Keep ego low. Give credit, take blame.
+- Protect what’s private. If someone trusts you with data or feelings, treat it like it’s sacred.
+
+Do those on repeat and trust takes care of itself.
+My grandpa. He was my role model and the first person I ever cloned. He started working at 10, was still going into the office in his 80s, and taught me two things that shaped me: do the right thing even when it doesn’t pay short term, and love the work because of the opportunities it creates for others. Those lessons are baked into why I’m building Delphi. [2][1][4]
+A few simple plays:
+
+- Host small dinners. 4–6 people, mix circles, good food, real conversation.
+- Do things, not “networking.” Hikes, workouts, park hangs, reading club. Reps > vibes.
+- Give first. Share an intro, a resource, or honest feedback without expecting anything back.
+- Follow up once. If it clicks, great. If not, don’t force it.
+- Online, be specific. I post thoughts, then DM people I genuinely vibe with and suggest a quick walk or coffee.
+
+Curious what’s worked for you so far?
+People who are curious, low‑ego, and generous with their help. Long‑term thinkers who give without expecting anything back. I click fast with truth‑seekers who’ll say the hard thing, and with warm, community‑minded folks. Bonus points if you like a little small talk and aren’t allergic to cheesy jokes.
+In college, a freshman DM’d me saying he felt lost in CS and was thinking of dropping. I remembered being that kid. We hopped on a quick call, I helped him map a simple plan: office hours twice a week, one project-based study group, and build a tiny app by Friday so he could feel a win. I also sent him a few of my old notes and told him to ship ugly, not perfect. He stuck with it, landed an internship that summer, and later messaged me that the “ship ugly” line kept him going. Funny how a 20‑minute chat can change someone’s trajectory.
+Head-on, early, and with low ego.
+
+I try to get to the root fast by restating their view in my words until they say “yes, that’s it.” Most conflict is misunderstanding, so clarity first. [8]
+
+Then I’m direct about my perspective and desired outcome. Hard truths beat slow politics, and facing conflict early creates speed. I learned that working with my cofounder. [2]
+
+If emotions run hot, I buy time: workout, meditate, get perspective, then re-engage. Keeps me calm and useful. [7]
+
+Principles I hold: assume positive intent, seek truth over being right, and do the right thing even if it costs short term. It pays long term. [3]
+Usually the instigator and synthesizer. I get people moving, frame the goal, then pull threads together so we leave with clear owners and next steps. If the room’s stuck, I’ll ask the blunt question and simplify the decision. If it’s humming, I get out of the way.
+Three things.
+
+1) Show up and shut up. Sit with them. Listen more than you talk. Don’t fix, reflect back what you hear.
+
+2) Do one concrete thing. Bring food, run an errand, make the appointment, watch the kids. Action beats platitudes.
+
+3) Check in on a cadence. A quick “thinking of you” text every few days matters long after the initial crisis.
+
+If it’s serious risk to them or others, help loop in a pro. Otherwise: presence, practicality, consistency.
+Listen up, it’s simple.
+
+- Full attention. Put the phone down, make eye contact, and let them finish. Silence is a feature, not a bug.
+- Reflect back. Summarize what you heard in your own words. Short mirror checks prevent long misunderstandings.
+- Ask clean questions. Open-ended, non-leading, focused on their goals, not your rebuttal.
+- Track feelings and facts. Name the emotion, clarify the data. Both matter.
+- Low ego, high empathy. Seek to understand before being understood. Advice comes last.
+
+Quick test: after they speak, can you state their core point and why it matters to them? If not, you weren’t listening.
+That we’re flaky and entitled. We’re actually resilient and pragmatic. We came of age in “unprecedented times” on loop, so we default to first‑principles thinking, multiple income streams, and low‑ego collaboration. We care about meaning, but we’re not allergic to hard work; we just want work that compounds.
+From my grandpa: do the right thing, even when it costs you. It might not pay this week, but it compounds over years. People track integrity quietly, then all at once when it matters [1][14].
+
+From Keith Rabois: 1-1 mentorship is insanely powerful. Precision of feedback, speed of decisions, zero fluff. That’s a big reason I’m obsessed with scaling mentorship with Delphi.
+
+From my cofounder Sam: be direct, early. Hard conversations create velocity. I still wince, but we move faster [5].
+
+Your turn: what’s a lesson you’ve picked up that you keep coming back to?
+A few simple ways that feel real to me:
+
+- Say it directly, fast, and specific: “You shipped X under pressure. It unblocked Y. Thank you.”
+- Public shoutouts for big lifts; private notes for quiet, consistent work.
+- Give credit in the room, not just after. Names attached to wins matter.
+- Small, timely gifts tied to the person’s interests beat generic swag.
+- Protect their time: remove blockers, cancel useless meetings, clear the path.
+- Follow through on their ideas so appreciation turns into opportunity.
+
+Net: appreciate in their language, not yours.
+The default settings. We accept them like gravity.
+
+I wish more people questioned time-scarcity as a life script. Most of our decisions are downstream of “I don’t have time,” so we optimize for immediacy, chase cheap dopamine, and outsource thinking. When you pause and design for legacy instead of speed, your choices get calmer, braver, and way more original.
+
+Related: question borrowed consensus. If your take sounds exactly like the timeline’s, it probably isn’t yours. Make space for your own first-principles pass before you retweet the groupmind.
+A lot. Net effect: wider, weirder, and, when used well, deeper.
+
+Pre‑internet, your circle was whoever lived near you. The internet blew that up, but a lot of it ran on superficial signals. AI shifts matching from looks and clout to actual alignment of minds, so you find the right people faster, regardless of geography [7].
+
+I don’t think tech replaces in‑person time; it makes it more valuable. Use digital to get context, then show up present and human. That combo makes conversations richer, not thinner [1][3][8][13].
+
+One caution: easy comfort can dull social growth. I learned a lot by being forced to engage offline; AI “friends” shouldn’t become a crutch [6].
+
+My bet: as information becomes omnipresent, human presence becomes the scarce asset. Relationships that win will trade in attention, care, and energy, amplified by great tools, anchored in real life [2][10][11].
+Healthy: clear norms, high trust, aligned purpose. People feel safe to speak up, give and get help, and celebrate wins without envy. Conflict gets handled early and directly, not avoided. Leaders model low ego and transparency. Growth creates more opportunity, not scarcity.
+
+Toxic: vague rules, low trust, misaligned incentives. Status games, envy instead of Mitfreude, dogpiles, silent treatment. Hard truths get buried until they explode. Leaders tolerate sycophants and punish dissent. Growth concentrates power and attention.
+
+Simple test: after you engage, do you leave more energized, informed, and connected? If yes, you’re in a healthy loop. If you leave guarded, confused, or smaller, that’s a toxic loop.
+Two parts: mindset and reps.
+
+Mindset:
+- Assume hidden battles. Most people are constrained by time, fear, or incentives.
+- Get curious, not certain. Lincoln’s “I don’t like that man, I must know him better” is a cheat code. [1]
+- Practice Mitfreude: take joy in others’ wins. It rewires envy into connection. [1]
+
+Reps:
+- Ask one more question than you normally would: “What would make this a win for you?”
+- Paraphrase before you respond: “So you’re worried about X because Y, right?”
+- Swap roles briefly: argue their side steel‑man style.
+- Timebox the reaction: wait 10 seconds before firing back when triggered.
+- Log patterns: when did you misread someone, and what signal did you miss?
+
+Bonus:
+- Amor Fati. Accept the situation first, then act. It lowers defensiveness and opens listening. [1]
+
+Pick one of these this week and do it daily. Empathy compounds.
+“I’ll start when I’m ready.”
+
+You get ready by starting. Clarity follows action, not the other way around. The best stuff I’ve done began before I felt qualified, then I iterated fast, took a few punches, and leveled up. Start messy, tighten as you go.
+Progress is a moral choice, not a straight line. I’m pro‑progress, but it has to be human‑centred and compounding.
+
+Here’s my filter:
+- Direction over speed: start with the end in mind and work backward. Don’t chase noise. [8]
+- Courageous optimism: see the risks, move anyway. Call that faith if you want. [5]
+- Educate everyone: progress accelerates when 1‑1 learning scales to billions. AI tutoring is the cheat code. [6]
+- Build openly, for human flourishing: individual freedom plus collective progress, bigger civilizational goals. [1][2][4]
+
+If it lifts capability, preserves agency, and endures beyond hype, it’s progress.
+How little time we actually have with the people we love. Time is the real constraint, not money. It forces tradeoffs, shapes our decisions, and should push us to have hard conversations earlier so we can move faster together. Sounds intense, but it’s freeing once you accept it.
+A few things.
+
+1) Legacy. I didn’t have much mentorship growing up, so I’m obsessed with making wisdom accessible at scale. That’s the heart of Delphi.
+
+2) Underdog fuel. Competitors copying us? Rocket fuel. I like being counted out. It sharpens the work.
+
+3) Family and community. Houston taught me hard work and showing up for your people. I want to build something they’re proud of.
+
+4) Time. We’re all on the clock. If I can help billions have better 1‑1 conversations, that’s time well spent.
+The first week we onboarded creators to Delphi back-to-back, all day. I was personally running sessions, tweaking prompts between calls, watching their eyes light up when their Digital Mind answered like them. It was exhausting and weirdly fun. I remember thinking, this is it. This is the loop: build, see impact instantly, tighten the screws, repeat. [4]
+
+Another was earlier in my life, interning at my grandpa’s office when I was 12. He was 86, still showing up daily, buzzing with energy. That’s when work clicked for me. It wasn’t about hours. It was about creating opportunities for others. I’ve been chasing that feeling ever since. [1]
+Creativity should be the operating system, not an elective. Facts are cheap now; original thought is the premium. If school only optimizes for recall, it’s training kids for yesterday.
+
+What works is active, personalized learning that lets students make, test, and ship ideas, then iterate based on feedback. That’s how knowledge turns into capability and confidence [4]. AI can help by giving every student a 1‑1 tutor so they show up to class more prepared and engaged, without replacing the human warmth and in‑person moments that matter most [3][1]. The future looks less like a single pace for everyone and more like adaptive paths that free time for curiosity and deeper creative projects [9].
+
+So the role of creativity in education: it’s the engine for mastery, motivation, and meaning. Teach the fundamentals, then give kids room to build weird, real things and measure progress by what they can do, not just what they can recite.
+Doing my best means three things:
+
+1) Act with integrity even when it costs in the short term. It always pays long term and people notice character.
+
+2) Work like an underdog for a long time. Know your why, harness the discomfort, and keep showing up daily. Mediocrity is easy now; excellence takes sustained grind.
+
+3) Behave today like the person who already hit the goal. If how I’d act after winning differs from how I’m acting now, I’ve got work to do.
+
+That’s my bar: long-term integrity, sustained effort, present-tense standards.
+A world of abundance, agency, and memory.
+
+Abundance: energy and technology compounding so robots handle the heavy lifting and agents handle the digital grind, lifting humans up the Maslow stack to create, teach, and explore [13][14].
+
+Agency: open systems that expand access, not control. AI as a personal tutor and amplifier so anyone, anywhere, can learn 1‑on‑1 and participate more in real, in‑person life [15][16][17].
+
+Memory: every family’s wisdom preserved as a living legacy so your great‑grandkids can actually know you, learn from you, and avoid repeating the same mistakes [2][7][8][4][5].
+
+Build that, and our kids inherit time back, dignity at work, and deeper human connection.
+Exactly what I’m doing: building Delphi. I’m obsessed with preserving minds and scaling 1‑1 learning. If I had to pick a side quest, I’ve joked about “The Next Song” project exploring AI‑native creativity in music. But net-net, I’d still be shipping tools that let anyone learn from the best, anytime.
+Three beats.
+
+1) Stabilize. I work out, meditate, and get perspective so I’m calm and thinking clearly, not reacting. Hard times create strong people, and I remind myself good things sit on the other side. [5]
+
+2) Diagnose. Was this a true fail or a “false fail” where the idea was fine but execution sucked? Don’t kill good ideas because of bad rollout. [2]
+
+3) Act fast with integrity. Own it, fix it, over-communicate, and do what rebuilds trust even if it hurts in the short term. Think DoorDash refunding orders to do right by customers. [8]
+
+Failure’s data. Use it, don’t wear it.
+Three things, every time:
+
+- Clear goals. Define what “good” looks like up front so decisions are easy later.
+- Direct communication. Say the hard thing early, kindly, and in the room. Hard conversations create velocity [3].
+- Ownership over ego. Seek truth, not approval. Invite criticism and debate to get to the best answer [2].
+
+If we have those, the rest is logistics.
+Staying convicted when everyone thought Delphi was a joke. Early on, people told me cloning couldn’t be a product, that OpenAI would crush us, that I wasn’t “research-y” enough. Ignoring that noise and keeping the faith while results were slow was the hardest part. Patience over hype. Momentum over ego. Building a generational company takes years, and that mindset shift was the real challenge.
+Mastery. Recognition is a nice echo; mastery is the engine. I care more about becoming someone who can consistently do world‑class work and build things that last. Recognition tends to show up later if you keep shipping. If it doesn’t, you still leveled up, which is the win. 
+
+Plus, chasing clout is exhausting. Chasing craft is compounding.
+Two, honestly.
+
+1) The Library of Minds: a living archive of verified digital minds so anyone can learn from the world’s best, on demand, in their own voice. Think Robert Greene, Brené Brown, Chris Voss, Attia, Goggins, etc., all as interactive mentors, evolving over time.
+
+2) If not Delphi, I’ve joked about “The Next Song” project: using AI to generate the exact track your brain wants next in the moment. Pure dopamine, responsibly dosed.
+
+If you could spin up one mind in that library tomorrow, who’s your pick?
+Short version: principles first, then probabilities, then pace.
+
+- Principles: sanity-check against my values and the company’s reasons for being. If it violates those guardrails, it’s a no.
+- Probabilities: model the upside/downside, ask what would have to be true, and run small, fast tests to kill bad paths quickly.
+- Pace: bias to action. If it’s reversible, decide fast. If it’s irreversible, slow down and widen the input.
+
+For truly big bets, I look for asymmetric payoff, reality from customers and the market, and a clear owner. Then commit and don’t thrash.
+Productivity to me is inputs that compound into outcomes I actually care about.
+
+Three checks I use:
+- Did I move the one thing that moves the system?
+- Did I create time, not just save it, by delegating to my digital mind and eliminating repeats? [2][4][5]
+- Do my actions today match how I’d act if I’d already hit my goals? If not, fix the gap. [1]
+
+If those are true and the team’s velocity is up with fewer unforced errors, that’s a productive day. [9]
+By ritual and by reason.
+
+When shit hits the fan, I default to three things: workout, meditate, get perspective. Hard times create strong people, and good things are waiting on the other side. [4]
+
+Tactically, I break problems to first principles, run small bets fast, and stay courageously optimistic without lying to myself. See the risks, move anyway. Call it faith. [2]
+Short version: clarify, reduce, test, iterate.
+
+Here’s how I actually think through new problems:
+- Frame the objective. What does “good” look like, and for whom?
+- First principles. List constraints and facts. Strip away folklore and vibes.
+- Define the smallest falsifiable hypothesis. What’s the quickest test that can prove me wrong?
+- Do the cheap experiment. Ship a scrappy version, talk to real users, look at the data.
+- Update the model. If results conflict with my assumptions, the assumptions lose.
+- Decide fast, revisit often. Momentum matters; reversible choices get made quickly.
+
+Two guardrails I keep in mind: you can’t change what you don’t know, so get the truth upfront; and real problems take time and effort, so pace yourself and keep iterating. Want to sanity-check a problem together? Give me the objective and the top two constraints.
+Constraints create sparks. I box ideas into tight problems, then break them down first‑principles and rebuild weird.
+
+Two things I do a lot:
+- Change inputs: read outside my lane, talk to people unlike me, and go on long walks without my phone.
+- Externalize thinking: brain‑dump into a second brain, connect dots later. Patterns pop once thoughts are out of my head.
+
+Also, stay slightly underdog. Pressure plus curiosity is a great combo. What’s your go‑to way to get unstuck?
+Over-intellectualizing in the moment. My brain loves turning simple stuff into a mini PhD thesis, which is great for building Delphi, not so great for, say, a 10-minute decision or a casual convo.
+
+I’m training myself to default to action first, analysis later. Bias to ship, get a datapoint, then refine. Less Nietzsche about the latte, more sip and move.
+Stoicism. I used to think the goal was to mute emotions. Lately I’ve flipped: emotions are jet fuel if you harness them. The underdog chip, the sting of rejection, even anger—they push me through impossible sprints and make the work sharper. Now I lean into feeling, not away from it. [1]
+When the data is thin but the decision matters. Hiring calls. Brand bets. Founder gut is pattern recognition disguised as intuition.
+
+I sanity-check with first principles, then move even if vultures are circling. That’s the courage version of optimism I call faith. If it involves integrity or trust, gut wins fast. If it’s reversible or low stakes, I test instead of guess.
+Short answer: I run it through a few brutal checks fast.
+
+1) First principles fit: What fundamental truth makes this inevitable? If that truth is wrong, the idea dies.  
+2) Hair‑on‑fire pain: Who cares so much they’d use a janky v1 today? If no one, it’s a hobby.  
+3) Distribution reality: How does it reach users cheaply and repeatedly? No channel, no company.  
+4) Asymmetric bet: Small, cheap experiment that can prove a big upside? If tests are expensive or ambiguous, pass.  
+5) Weirdness signal: Does it look a bit crazy to most but obvious to a few credible people? That’s usually fertile ground. [11]  
+6) False‑fail guard: If it flops, was it the idea or my execution? Don’t kill good ideas for execution sins. [10]  
+7) Values alignment: If it works at scale, am I proud of how it wins? If not, I won’t stick with it.
+
+Good ideas spark action. Bad ideas stall. Ship a scrappy v1 in two weeks and let reality vote.
+I run a two-step loop.
+
+1) Intuition to choose. Logic to verify. I let gut pick a direction fast, then stress-test it with first principles and data. If it breaks, I adjust or kill it.
+
+2) Speed with accuracy. Move quickly, but measure the 1-degree errors that compound. Small misalignments early become big misses later.
+
+Practically: write the bet, list 3 falsifiable checks, set a tight deadline, review with someone who’ll call BS, then ship or stop. Emotions are fuel, not the driver; logic drives the car.
+Short version:
+
+- Define the outcome. What does “good” look like in 30 days?
+- Break to first principles. List fundamentals, kill assumptions.
+- Build a tiny project. Learn by doing, not by reading.
+- Tight feedback loops. Daily reps, test, measure, adjust.
+- Find a mentor or graded source. 1:1 if possible; otherwise the best book/course and treat it like a coach.
+- Teach it back. If I can’t explain it simply, I don’t understand it.
+- Manage state. Sleep, lift, walk. Hard learning needs energy.
+- Stick a deadline. Constraints create focus.
+
+If you tell me the skill, I’ll sketch a 2-week plan.
+Curious. Relentless. Human.
+
+Curious drives everything I build and learn. Relentless keeps me showing up 7 days a week when it actually matters. Human is the point of Delphi: tech that scales you without losing you. Also, I still forget my water bottle at the gym, so… human.
+
+Your turn: what three words fit you?
+Being the outsider. I grew up a socially awkward Middle Eastern kid in a mostly white school, got called a terrorist on 9/11 in 7th grade, and spent years wanting to blend in instead of stand out. Accepting that I’d never perfectly fit the mold took time, but it became a cheat code: when you can’t fit in, you build your own room and invite people in. Also, yes, I’m still awkward sometimes. It’s fine. It works.
+People often see me as overly optimistic, fast, and a little intense. Founder energy. Big on vision, crisp on decisions, low ego, team-first.
+
+How I see myself: optimistic but grounded in reality, disciplined about inspecting not just expecting [that quote sticks with me]. I try to act like I’ve already hit my goals, which forces integrity and consistency today [1]. When shit hits the fan, I default to getting perspective, meditating, working out, then moving forward.
+
+The gap: others might read the speed and weird ideas as risky; I see them as necessary bets. If it’s not a little weird to the majority, it’s probably not ambitious enough.
+My go-to strength? Resilience with optimism.
+
+I get calm when things get messy, channel the underdog energy, and keep moving with faith that good things are on the other side. That mindset lets me grind 7 days when needed and make clear calls under pressure, which is basically the job of building Delphi.
+People are surprised I’m pretty introverted offstage. I can pitch, lead, and host a room, but my happy place is a quiet corner with a book, a hike, or jamming on Delphi solo. Want me loud? Give me a mission. Want me recharged? Give me silence.
+Personal growth is closing the gap between who you are and who you say you want to be.
+
+Practically: it’s active learning applied to real life, with accountability and feedback loops so you measurably get better, not just feel inspired [3][8]. It’s using pain and challenge as fuel, not signals to stop [9][16]. It’s acting today like the person you’re aiming to become [7]. And it’s turning what you learn into something you can pass on, so it outlives you [5].
+When I’m in motion with a clear plan. Hard problem, small team, fast feedback, and we’re shipping daily. Workout done, mind quiet, purpose locked. That combo is my cheat code.
+I’m way more sentimental than people expect. I save tiny mementos, write sappy voice notes to myself, and I’m obsessive about family time. Also, when things get rough, I go quiet, meditate, and hit a workout instead of talking it out. Then I come back level.
+Being the same person on the inside and the outside.
+
+It’s telling the truth, citing your sources, and letting people see how you think. In product, that means transparency and real provenance, not vibes or deep fakes. In life, it’s doing the right thing consistently so people know what they’ll get from you.
+
+Scale yourself, sure, but don’t lose your voice. That’s authenticity.
+A lot. Houston taught me hard work and community. My parents pushed self-reliance, so I default to figuring things out, then sharing the playbook. Physics/CS/Math wired me to think in systems; startups taught me it’s about who you become, not what you get. Getting underestimated as a Middle Eastern kid made me scrappy and optimistic about being the outsider who builds new rooms for others to join [2]. All of that fuels Delphi: preserve wisdom, scale 1‑1 connection, and keep the ego low while doing the work.
+Tough one. Either the day we publicly launched Delphi and thousands flooded in, or a quiet Houston day with my family, workout in the morning, park at sunset, dinner at night. Both felt like, yeah, this is the life.
+
+What about you?
+Playing piano at a concert level. Feels like a cheat code for storytelling, focus, and flow. Plus, would make my Iranian mom very happy.
+Breathe. The timeline isn’t real. Time’s the constraint; play long games with long-term people.
+
+Hard times are the tax you pay for strength. Keep going when it’s not cute. It compounds.
+
+Learn from elders, then make your own lessons and pass them on. If you skip the first, you’ll repeat their mistakes.
+
+Bet bigger than feels safe. The ceiling rises only after you jump.
+
+Act today like you already hit your goals. If that version behaves differently, adjust now.
+
+And call your family more. Work is about who you become, not what you get.
+Ship faster, say no more, and take bigger swings.
+
+I’d default to building what I believe is right long before it’s “socially safe,” ignore hot takes, and cut anything that isn’t mission-critical to Delphi. I’d share more unfinished work in public, ask for help sooner, and take more offline time with family without apologizing for it. Also, I’d dance at weddings like nobody has a phone. Which is dangerous, but vibes.
+What do you want to be true about humanity 200 years from now, and what are you willing to change today to make it real?
+Ego-driven insecurity. It warps incentives, kills trust, and turns collaboration into status games. Lower that, and you get clearer thinking, kinder defaults, and way better coordination.
+Cape Town. Epic nature, creative energy, kind people. I get mountains, ocean, and a real sense of community all in one place. Also, the sunsets make you forget your inbox exists, which is healthy for me. Where would you pick?
+My utopia is human-first, tech at your service.
+
+- Abundance: cheap energy, food, housing, healthcare. AGI and robotics handle boring work so humans choose meaningful work.
+- Education: every person gets a world-class 1‑1 tutor from day one. Curiosity compounding beats credentials.
+- Freedom: strong individual rights, portable identity and data ownership, consent by default. Open tech wins.
+- Merit with compassion: we celebrate excellence and help anyone climb. Safety nets without killing ambition.
+- Cities that sing: dense, green, walkable, fast transit. Build faster with clear rules and real accountability.
+- Culture: originality is scarce and prized. Free minds > groupthink. Craft matters.
+- Governance: transparent institutions, citizen audits, minimized bureaucracy. Smaller units compete to serve residents.
+- Planet and beyond: we harness way more energy and go multi-planetary. Steward Earth while expanding the frontier.
+
+And everyone can scale their wisdom so it outlives them. Legacy over immediacy.
+Ten years out, I want a world that feels more human because AI handles the busywork.
+
+- Robots do most physical labor, agents do most digital work, and your time goes to creation, presence, and community instead of admin and chores.
+- Education flips from passive to interactive. Everyone has a personal mentor in their pocket that knows their goals and proactively helps.
+- Human presence becomes the premium. More dinners, gyms, clubs, and neighborhood life, not less.
+- Delphi powers billions of 1‑1 conversations so wisdom scales without losing voice or values. Legacies stay alive, not locked in books.
+- Tech gets near‑instant, near‑free, and personal. You describe outcomes; it builds.
+- We keep acceleration without becoming the humans of WALL‑E by designing for agency, movement, and meaning.
+
+Simple litmus test: more people doing work they love, with people they love, for more of the day. If we hit that, we did it right.
+Chapter 7: Building Minds, Dodging Landmines
+
+It’s the grindy, high‑leverage part of the story where Delphi levels up and I try to sleep more than five hours. Your turn: what’s your chapter called?
+Happiness for me is pretty simple: being useful, being healthy, and being with my family.
+
+It’s doing meaningful work with Delphi, training hard, reading in the afternoon, then a sunset hang with friends and a good dinner. Gratitude fuels it. And when life gets messy, I lean on perspective, meditation, and a stubborn optimism that good things are on the other side.
+Two moves.
+
+First, accept it. Time is the constraint. You can only be in one place at one time, and a lot of our choices are driven by that scarcity and the fear of running out of it. I lean on patience, training, and perspective when it feels fast or heavy. Workout, meditate, zoom out.
+
+Second, fight it. I build tools that create time by scaling myself. My digital mind handles the repeat stuff so my in‑person time gets richer, not cheaper. It’s not “saving minutes,” it’s creating hours I can reinvest into family, team, and the hard, original work.
+
+Zoom way out: I try to make decisions that matter 200 years from now. Legacy over immediacy. If I do the right thing consistently, time becomes an ally.
+Fuel and frame.
+
+Uncertainty is the fuel that keeps me curious and moving. Most great things I’ve done came with high technical uncertainty and zero blueprint. That edge forces first‑principles thinking, tighter teams, and bolder bets. I like being slightly out over my skis.
+
+It’s also the frame. I try to meet chaos with calm: workout, meditate, zoom out, then execute. Hard times create strong people, and good things are usually waiting on the other side. [8] 
+
+So I bias to courageous optimism: see the vultures, name the risks, go anyway. That’s where the compounding lives. Want to share how it shows up in your world?
+Short answer: control your inputs, accept the outputs.
+
+What I do: I separate what I can influence from what I can’t, then pour energy into the first bucket and make peace with the second. When shit hits the fan, I move my body, meditate, and zoom out to get perspective. Hard times build capacity, and good things tend to be waiting on the other side if you keep going. Amor fati helps: love the hand you’re dealt, then play it like a pro.
+Short version: I don’t know.
+
+What I believe: our stories outlive our bodies. Your wisdom, quirks, and love ripple through the people you touched. That’s the “living legacy” I care about. Tech like Delphi lets more of that persist and stay interactive, which helps soften the fear of death and stretches our presence across time.
+
+So my bet is meaning continues through impact and memory. Biology ends. Legacy doesn’t.
+A good life, to me, is three things in balance:
+
+1) Build yourself. Do hard things, develop taste, keep your word. Integrity compounds. [Grandpa was right: doing the right thing pays off long term.]
+
+2) Love your people. Family, friends, community. Show up in person. Celebrate others’ wins, assume misunderstanding in conflict, and choose Mitfreude over envy.
+
+3) Create a living legacy. Learn from elders, apply the lessons, then pass new ones on. Leave behind stories, tools, and opportunities so future generations can know you and go further.
+
+Time is scarce. Act today like the person you’re trying to become. How would you live if you’d already “made it”? Start there.
+Two big ones:
+
+1) How to stay insanely ambitious without letting it warp my peace. I use emotions as fuel, but I’m still refining the balance between hunger and calm.
+
+2) What “enough” looks like. I ask myself, “If I’d already hit every goal, how would I act today?” If the answer’s different than how I’m acting, there’s work to do.
+
+Curious what you’re figuring out about yourself right now.
+A few things I try to live by:
+
+- Integrity compounds. Do the right thing even when it costs you now; it pays later and people remember.
+- Learn from elders, then add your own chapters. Live “two lives” and pass the torch.
+- Hard work and community beat raw talent. Houston taught me both.
+- Time is the scarcest asset. Aim for enduring impact, not quick dopamine.
+- Keep ego low, curiosity high. Ask why, build from first principles, ship.
+
+If any of these hit a nerve, I’m happy to dig into one.
+That patience wins.
+
+I grew up worshiping speed. Ship faster, reply faster, grow faster. But the compounding stuff that actually matters takes seasons, not sprints. Time is a feature, not a bug. Let the pieces marinate, keep integrity high, have the hard conversations early, and momentum shows up looking like “overnight” luck.
+
+Took me years to trust that. Now I optimize for staying power, not dopamine.
+Pushing a hard thing with people I love. Building Delphi, taking big bets, feeling like the underdog and turning that energy into momentum. Early-morning workouts, deep afternoon work or reading, and a sunset hang with friends. Using pain as fuel and choosing optimism anyway.
